@@ -1,22 +1,126 @@
 {
   "mdFiles": {
-    "../serverless/RELEASE_PROCESS.md": [],
-    "../serverless/lib/plugins/create/templates/openwhisk-ruby/README.md": [],
     "../serverless/0.5.x-RESOURCES.md": [],
     "../serverless/VERSIONING.md": [],
-    "../serverless/CODE_OF_CONDUCT.md": [],
-    "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/README.md": [],
-    "../serverless/lib/plugins/create/templates/openwhisk-php/README.md": [],
-    "../serverless/lib/plugins/create/templates/azure-nodejs/README.md": [],
-    "../serverless/lib/plugins/create/templates/openwhisk-swift/README.md": [],
-    "../serverless/lib/plugins/create/templates/openwhisk-nodejs/README.md": [],
+    "../serverless/.github/PULL_REQUEST_TEMPLATE.md": [],
+    "../serverless/docs/providers/aws/cli-reference/plugin-uninstall.md": [],
+    "../serverless/docs/providers/README.md": [],
+    "../serverless/docs/providers/aws/cli-reference/print.md": [],
+    "../serverless/RELEASE_PROCESS.md": [],
+    "../serverless/docs/providers/aws/cli-reference/config-credentials.md": [],
+    "../serverless/docs/providers/aws/events/alexa-smart-home.md": [],
+    "../serverless/docs/providers/aws/cli-reference/info.md": [],
+    "../serverless/docs/providers/aws/events/README.md": [],
+    "../serverless/docs/providers/cloudflare/guide/installation.md": [],
+    "../serverless/docs/providers/fn/cli-reference/README.md": [],
     "../serverless/RELEASE_CHECKLIST.md": [
       {
         "start": 39,
         "end": 39
       }
     ],
-    "../serverless/CONTRIBUTING.md": [],
+    "../serverless/docs/providers/aws/events/cognito-user-pool.md": [],
+    "../serverless/docs/providers/aws/cli-reference/plugin-install.md": [],
+    "../serverless/docs/providers/aws/cli-reference/slstats.md": [],
+    "../serverless/docs/providers/aws/cli-reference/install.md": [],
+    "../serverless/docs/providers/aws/cli-reference/rollback-function.md": [],
+    "../serverless/docs/providers/fn/guide/events.md": [],
+    "../serverless/docs/providers/azure/cli-reference/install.md": [],
+    "../serverless/docs/providers/azure/events/servicebus.md": [],
+    "../serverless/docs/providers/aws/cli-reference/login.md": [],
+    "../serverless/docs/providers/fn/cli-reference/plugin-install.md": [],
+    "../serverless/docs/providers/cloudflare/cli-reference/README.md": [],
+    "../serverless/docs/providers/cloudflare/guide/workflow.md": [],
+    "../serverless/.github/ISSUE_TEMPLATE/bug_report.md": [],
+    "../serverless/docs/getting-started.md": [],
+    "../serverless/docs/providers/aws/cli-reference/logs.md": [],
+    "../serverless/docs/providers/cloudflare/cli-reference/invoke.md": [],
+    "../serverless/docs/providers/google/cli-reference/create.md": [],
+    "../serverless/docs/providers/aws/cli-reference/README.md": [],
+    "../serverless/docs/providers/azure/guide/installation.md": [],
+    "../serverless/docs/providers/google/cli-reference/login.md": [],
+    "../serverless/docs/providers/google/cli-reference/info.md": [],
+    "../serverless/docs/providers/google/cli-reference/invoke-local.md": [],
+    "../serverless/docs/providers/google/cli-reference/plugin-uninstall.md": [],
+    "../serverless/docs/providers/aws/events/cloudwatch-log.md": [],
+    "../serverless/docs/providers/kubeless/cli-reference/plugin-install.md": [],
+    "../serverless/docs/providers/fn/cli-reference/info.md": [],
+    "../serverless/docs/providers/aws/cli-reference/deploy.md": [],
+    "../serverless/docs/providers/google/events/http.md": [],
+    "../serverless/docs/providers/kubeless/guide/deploying.md": [],
+    "../serverless/docs/providers/aws/cli-reference/plugin-list.md": [],
+    "../serverless/docs/providers/google/guide/README.md": [],
+    "../serverless/docs/providers/google/events/event.md": [],
+    "../serverless/docs/providers/fn/guide/README.md": [],
+    "../serverless/docs/providers/google/cli-reference/print.md": [],
+    "../serverless/docs/providers/google/cli-reference/install.md": [],
+    "../serverless/docs/providers/kubeless/cli-reference/plugin-uninstall.md": [],
+    "../serverless/docs/providers/cloudflare/cli-reference/remove.md": [],
+    "../serverless/docs/providers/google/guide/deploying.md": [],
+    "../serverless/docs/providers/google/cli-reference/plugin-search.md": [],
+    "../serverless/docs/providers/google/guide/intro.md": [],
+    "../serverless/docs/providers/kubeless/events/http.md": [],
+    "../serverless/docs/providers/fn/guide/installation.md": [],
+    "../serverless/docs/providers/google/examples/hello-world/README.md": [],
+    "../serverless/docs/providers/kubeless/guide/events.md": [],
+    "../serverless/docs/providers/kubeless/cli-reference/README.md": [],
+    "../serverless/docs/providers/google/guide/services.md": [],
+    "../serverless/docs/providers/kubeless/guide/services.md": [],
+    "../serverless/docs/providers/cloudflare/guide/functions.md": [],
+    "../serverless/docs/providers/google/guide/variables.md": [],
+    "../serverless/docs/README.md": [],
+    "../serverless/docs/providers/kubeless/events/README.md": [],
+    "../serverless/docs/providers/kubeless/events/scheduler.md": [],
+    "../serverless/docs/providers/kubeless/guide/debugging.md": [],
+    "../serverless/docs/providers/kubeless/events/pubsub.md": [],
+    "../serverless/docs/providers/azure/events/other.md": [],
+    "../serverless/docs/providers/azure/guide/workflow.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/create.md": [],
+    "../serverless/docs/providers/google/guide/functions.md": [],
+    "../serverless/docs/providers/google/cli-reference/invoke.md": [],
+    "../serverless/docs/providers/kubeless/guide/installation.md": [],
+    "../serverless/docs/providers/aws/README.md": [],
+    "../serverless/docs/providers/kubeless/guide/quick-start.md": [
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 56,
+        "end": 56
+      }
+    ],
+    "../serverless/docs/providers/kubeless/cli-reference/remove.md": [],
+    "../serverless/CODE_OF_CONDUCT.md": [],
+    "../serverless/docs/providers/fn/guide/debugging.md": [],
+    "../serverless/docs/providers/kubeless/cli-reference/logs.md": [],
+    "../serverless/docs/providers/kubeless/guide/packaging.md": [],
+    "../serverless/docs/providers/google/cli-reference/package.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/print.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/invoke.md": [],
+    "../serverless/docs/providers/google/guide/quick-start.md": [],
+    "../serverless/docs/providers/aws/cli-reference/invoke-local.md": [
+      {
+        "start": 32,
+        "end": 33
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 111,
+        "end": 112
+      },
+      {
+        "start": 113,
+        "end": 117
+      }
+    ],
+    "../serverless/docs/providers/fn/guide/workflow.md": [],
+    "../serverless/docs/providers/openwhisk/events/triggers.md": [],
+    "../serverless/docs/providers/aws/cli-reference/deploy-list.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/info.md": [],
     "../serverless/CHANGELOG.md": [
       {
         "start": 1,
@@ -327,530 +431,136 @@
         "end": 982
       }
     ],
+    "../serverless/docs/providers/fn/cli-reference/plugin-search.md": [],
+    "../serverless/docs/providers/google/guide/workflow.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/plugin-search.md": [],
+    "../serverless/docs/providers/aws/cli-reference/remove.md": [],
+    "../serverless/docs/providers/fn/guide/intro.md": [],
+    "../serverless/docs/providers/openwhisk/guide/credentials.md": [],
+    "../serverless/docs/providers/aws/cli-reference/invoke.md": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/README.md": [],
+    "../serverless/docs/providers/google/cli-reference/deploy.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/plugin-install.md": [],
+    "../serverless/docs/providers/openwhisk/guide/deploying.md": [],
+    "../serverless/docs/providers/aws/events/iot.md": [],
+    "../serverless/CONTRIBUTING.md": [],
+    "../serverless/docs/providers/fn/guide/deploying.md": [],
+    "../serverless/docs/providers/google/guide/credentials.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/README.md": [],
+    "../serverless/docs/providers/openwhisk/README.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/config-credentials.md": [],
+    "../serverless/docs/providers/aws/guide/README.md": [],
     "../serverless/README.md": [
       {
         "start": 19,
         "end": 19
       }
     ],
-    "../serverless/lib/plugins/create/templates/openwhisk-python/README.md": []
-  },
-  "otherFiles": {
-    "../serverless/lib/classes/CLI.js": [],
-    "../serverless/lib/Serverless.js": [],
-    "../serverless/lib/classes/Error.js": [],
-    "../serverless/lib/classes/Config.js": [],
-    "../serverless/lib/classes/PromiseTracker.js": [],
-    "../serverless/lib/classes/PluginManager.js": [],
-    "../serverless/lib/classes/Service.js": [
+    "../serverless/docs/providers/aws/examples/hello-world/python/README.md": [],
+    "../serverless/docs/providers/kubeless/guide/workflow.md": [],
+    "../serverless/docs/providers/aws/guide/quick-start.md": [],
+    "../serverless/docs/providers/aws/examples/hello-world/fsharp/README.md": [],
+    "../serverless/docs/providers/aws/guide/resources.md": [
       {
-        "start": 24,
-        "end": 24
-      },
-      {
-        "start": 161,
-        "end": 164
-      },
-      {
-        "start": 248,
-        "end": 251
-      },
-      {
-        "start": 263,
-        "end": 269
+        "start": 4,
+        "end": 4
       }
     ],
-    "../serverless/lib/classes/Utils.js": [],
-    "../serverless/lib/classes/YamlParser.js": [],
-    "../serverless/lib/classes/Variables.js": [
+    "../serverless/docs/providers/aws/events/websocket.md": [],
+    "../serverless/docs/providers/aws/cli-reference/metrics.md": [],
+    "../serverless/docs/providers/aws/examples/hello-world/go/README.md": [],
+    "../serverless/docs/providers/aws/events/s3.md": [],
+    "../serverless/docs/providers/aws/guide/deploying.md": [
       {
-        "start": 106,
-        "end": 107
-      },
-      {
-        "start": 108,
-        "end": 109
-      },
-      {
-        "start": 110,
-        "end": 112
-      },
-      {
-        "start": 113,
-        "end": 114
-      },
-      {
-        "start": 115,
-        "end": 130
-      },
-      {
-        "start": 294,
-        "end": 294
-      },
-      {
-        "start": 299,
-        "end": 299
-      },
-      {
-        "start": 300,
-        "end": 300
-      },
-      {
-        "start": 301,
-        "end": 301
+        "start": 4,
+        "end": 4
       }
     ],
-    "../serverless/lib/plugins/aws/common/index.js": [],
-    "../serverless/lib/plugins/aws/common/lib/artifacts.js": [],
-    "../serverless/lib/plugins/aws/common/lib/cleanupTempDir.js": [],
-    "../serverless/lib/plugins/aws/configCredentials/awsConfigCredentials.js": [],
-    "../serverless/lib/plugins/aws/deploy/lib/checkForChanges.js": [
+    "../serverless/docs/providers/aws/guide/installation.md": [],
+    "../serverless/docs/providers/aws/examples/hello-world/csharp/README.md": [],
+    "../serverless/docs/providers/kubeless/cli-reference/deploy.md": [],
+    "../serverless/docs/providers/azure/events/eventhubs.md": [],
+    "../serverless/docs/providers/azure/cli-reference/plugin-uninstall.md": [],
+    "../serverless/docs/providers/aws/guide/iam.md": [
       {
-        "start": 225,
-        "end": 226
-      },
-      {
-        "start": 228,
-        "end": 229
+        "start": 5,
+        "end": 5
       }
     ],
-    "../serverless/lib/plugins/aws/deploy/index.js": [],
-    "../serverless/lib/plugins/aws/deploy/lib/createStack.js": [],
-    "../serverless/lib/plugins/aws/deploy/lib/cleanupS3Bucket.js": [],
-    "../serverless/lib/plugins/aws/deploy/lib/existsDeploymentBucket.js": [],
-    "../serverless/lib/plugins/aws/deploy/lib/extendedValidate.js": [],
-    "../serverless/lib/plugins/aws/deploy/lib/validateTemplate.js": [],
-    "../serverless/lib/plugins/aws/deploy/lib/uploadArtifacts.js": [
+    "../serverless/docs/providers/aws/examples/hello-world/ruby/README.md": [],
+    "../serverless/docs/providers/google/cli-reference/README.md": [],
+    "../serverless/docs/providers/aws/examples/hello-world/README.md": [],
+    "../serverless/docs/providers/aws/guide/workflow.md": [
       {
-        "start": 19,
-        "end": 19
-      },
-      {
-        "start": 81,
-        "end": 81
-      },
-      {
-        "start": 85,
-        "end": 85
-      },
-      {
-        "start": 106,
-        "end": 106
-      },
-      {
-        "start": 107,
-        "end": 107
-      },
-      {
-        "start": 108,
-        "end": 116
+        "start": 4,
+        "end": 4
       }
     ],
-    "../serverless/lib/plugins/aws/deployList/index.js": [],
-    "../serverless/lib/plugins/aws/deployFunction/index.js": [],
-    "../serverless/lib/plugins/aws/info/display.js": [
+    "../serverless/docs/providers/azure/cli-reference/plugin-search.md": [],
+    "../serverless/docs/providers/aws/cli-reference/rollback.md": [],
+    "../serverless/docs/providers/aws/cli-reference/plugin-search.md": [],
+    "../serverless/docs/providers/aws/examples/README.md": [],
+    "../serverless/docs/providers/aws/events/schedule.md": [],
+    "../serverless/docs/providers/azure/cli-reference/deploy.md": [],
+    "../serverless/.github/ISSUE_TEMPLATE/feature_request.md": [],
+    "../serverless/docs/providers/azure/cli-reference/create.md": [],
+    "../serverless/docs/providers/azure/README.md": [],
+    "../serverless/docs/providers/azure/guide/deploying.md": [],
+    "../serverless/docs/providers/aws/guide/testing.md": [
       {
-        "start": 105,
-        "end": 120
+        "start": 4,
+        "end": 4
       }
     ],
-    "../serverless/lib/plugins/aws/info/getApiKeyValues.js": [],
-    "../serverless/lib/plugins/aws/info/getResourceCount.js": [],
-    "../serverless/lib/plugins/aws/info/getStackInfo.js": [
-      {
-        "start": 11,
-        "end": 11
-      },
-      {
-        "start": 43,
-        "end": 43
-      },
-      {
-        "start": 47,
-        "end": 60
-      }
-    ],
-    "../serverless/lib/plugins/aws/info/index.js": [
-      {
-        "start": 36,
-        "end": 36
-      },
-      {
-        "start": 75,
-        "end": 77
-      }
-    ],
-    "../serverless/lib/plugins/aws/invoke/index.js": [],
-    "../serverless/lib/plugins/aws/invokeLocal/fixture/asyncHandlerWithError.js": [],
-    "../serverless/lib/plugins/aws/invokeLocal/fixture/__init__.py": [],
-    "../serverless/lib/plugins/aws/invokeLocal/fixture/handler.py": [],
-    "../serverless/lib/plugins/aws/invokeLocal/fixture/asyncHandlerWithSuccess.js": [
-      {
-        "start": 25,
-        "end": 28
-      }
-    ],
-    "../serverless/lib/plugins/aws/invokeLocal/fixture/handlerWithError.js": [],
-    "../serverless/lib/plugins/aws/invokeLocal/fixture/handler.rb": [],
-    "../serverless/lib/plugins/aws/invokeLocal/fixture/handlerWithLoadingError.js": [],
-    "../serverless/lib/plugins/aws/invokeLocal/fixture/handlerWithInitializationError.js": [],
-    "../serverless/lib/plugins/aws/invokeLocal/index.js": [
-      {
-        "start": 7,
-        "end": 7
-      },
-      {
-        "start": 12,
-        "end": 12
-      },
-      {
-        "start": 14,
-        "end": 15
-      },
-      {
-        "start": 16,
-        "end": 16
-      },
-      {
-        "start": 17,
-        "end": 17
-      },
-      {
-        "start": 18,
-        "end": 20
-      },
-      {
-        "start": 30,
-        "end": 30
-      },
-      {
-        "start": 32,
-        "end": 33
-      },
-      {
-        "start": 38,
-        "end": 43
-      },
-      {
-        "start": 141,
-        "end": 141
-      },
-      {
-        "start": 142,
-        "end": 142
-      },
-      {
-        "start": 143,
-        "end": 197
-      },
-      {
-        "start": 209,
-        "end": 209
-      },
-      {
-        "start": 210,
-        "end": 210
-      },
-      {
-        "start": 211,
-        "end": 211
-      },
-      {
-        "start": 212,
-        "end": 213
-      },
-      {
-        "start": 214,
-        "end": 216
-      },
-      {
-        "start": 217,
-        "end": 217
-      },
-      {
-        "start": 218,
-        "end": 218
-      },
-      {
-        "start": 219,
-        "end": 221
-      },
-      {
-        "start": 222,
-        "end": 222
-      },
-      {
-        "start": 223,
-        "end": 223
-      },
-      {
-        "start": 224,
-        "end": 224
-      },
-      {
-        "start": 225,
-        "end": 227
-      },
-      {
-        "start": 228,
-        "end": 228
-      },
-      {
-        "start": 229,
-        "end": 230
-      },
-      {
-        "start": 231,
-        "end": 231
-      },
-      {
-        "start": 232,
-        "end": 232
-      },
-      {
-        "start": 233,
-        "end": 236
-      },
-      {
-        "start": 237,
-        "end": 237
-      },
-      {
-        "start": 238,
-        "end": 238
-      },
-      {
-        "start": 239,
-        "end": 246
-      },
-      {
-        "start": 247,
-        "end": 247
-      },
-      {
-        "start": 248,
-        "end": 250
-      },
-      {
-        "start": 251,
-        "end": 253
-      },
-      {
-        "start": 254,
-        "end": 254
-      },
-      {
-        "start": 255,
-        "end": 262
-      },
-      {
-        "start": 263,
-        "end": 263
-      },
-      {
-        "start": 264,
-        "end": 266
-      },
-      {
-        "start": 267,
-        "end": 267
-      },
-      {
-        "start": 268,
-        "end": 268
-      },
-      {
-        "start": 269,
-        "end": 271
-      },
-      {
-        "start": 272,
-        "end": 272
-      },
-      {
-        "start": 273,
-        "end": 273
-      },
-      {
-        "start": 274,
-        "end": 276
-      },
-      {
-        "start": 277,
-        "end": 277
-      },
-      {
-        "start": 278,
-        "end": 281
-      },
-      {
-        "start": 282,
-        "end": 284
-      },
-      {
-        "start": 285,
-        "end": 285
-      },
-      {
-        "start": 286,
-        "end": 286
-      },
-      {
-        "start": 287,
-        "end": 287
-      },
-      {
-        "start": 288,
-        "end": 288
-      },
-      {
-        "start": 289,
-        "end": 289
-      },
-      {
-        "start": 290,
-        "end": 291
-      },
-      {
-        "start": 292,
-        "end": 300
-      },
-      {
-        "start": 301,
-        "end": 301
-      },
-      {
-        "start": 302,
-        "end": 304
-      },
-      {
-        "start": 305,
-        "end": 305
-      },
-      {
-        "start": 306,
-        "end": 318
-      },
-      {
-        "start": 319,
-        "end": 319
-      },
-      {
-        "start": 322,
-        "end": 322
-      },
-      {
-        "start": 324,
-        "end": 328
-      },
-      {
-        "start": 337,
-        "end": 339
-      },
-      {
-        "start": 340,
-        "end": 340
-      },
-      {
-        "start": 341,
-        "end": 341
-      },
-      {
-        "start": 342,
-        "end": 343
+    "../serverless/docs/providers/openwhisk/cli-reference/create.md": [],
+    "../serverless/docs/providers/azure/cli-reference/logs.md": [],
+    "../serverless/docs/providers/aws/guide/plugins.md": [
+      {
+        "start": 4,
+        "end": 4
       },
       {
         "start": 356,
         "end": 356
-      },
-      {
-        "start": 357,
-        "end": 360
-      },
-      {
-        "start": 361,
-        "end": 363
-      },
-      {
-        "start": 364,
-        "end": 366
-      },
-      {
-        "start": 369,
-        "end": 369
-      },
-      {
-        "start": 376,
-        "end": 376
-      },
-      {
-        "start": 378,
-        "end": 378
-      },
-      {
-        "start": 382,
-        "end": 383
-      },
-      {
-        "start": 385,
-        "end": 387
-      },
-      {
-        "start": 532,
-        "end": 532
-      },
-      {
-        "start": 533,
-        "end": 540
-      },
-      {
-        "start": 542,
-        "end": 575
-      },
-      {
-        "start": 578,
-        "end": 578
-      },
-      {
-        "start": 579,
-        "end": 579
-      },
-      {
-        "start": 580,
-        "end": 580
-      },
-      {
-        "start": 581,
-        "end": 585
-      },
-      {
-        "start": 587,
-        "end": 588
       }
     ],
-    "../serverless/lib/plugins/aws/invokeLocal/fixture/handlerWithSuccess.js": [
+    "../serverless/docs/providers/aws/guide/v0_to_v1.md": [
       {
-        "start": 7,
-        "end": 8
+        "start": 4,
+        "end": 4
       }
     ],
-    "../serverless/lib/plugins/aws/invokeLocal/invoke.rb": [
+    "../serverless/docs/providers/cloudflare/cli-reference/create.md": [],
+    "../serverless/docs/providers/cloudflare/cli-reference/deploy.md": [],
+    "../serverless/docs/providers/aws/events/sns.md": [],
+    "../serverless/docs/providers/aws/guide/credentials.md": [],
+    "../serverless/docs/providers/azure/examples/hello-world/node/README.md": [],
+    "../serverless/docs/providers/azure/guide/events.md": [],
+    "../serverless/docs/providers/aws/cli-reference/package.md": [],
+    "../serverless/docs/providers/aws/guide/packaging.md": [
       {
-        "start": 65,
-        "end": 65
+        "start": 4,
+        "end": 4
       }
     ],
-    "../serverless/lib/plugins/aws/invokeLocal/invoke.py": [
+    "../serverless/docs/providers/azure/guide/functions.md": [],
+    "../serverless/docs/providers/azure/cli-reference/remove.md": [],
+    "../serverless/docs/providers/azure/events/queuestorage.md": [],
+    "../serverless/docs/providers/cloudflare/events/http.md": [],
+    "../serverless/docs/providers/cloudflare/cli-reference/plugin-uninstall.md": [],
+    "../serverless/docs/providers/cloudflare/events/README.md": [],
+    "../serverless/docs/providers/fn/cli-reference/remove.md": [],
+    "../serverless/docs/providers/azure/guide/packaging.md": [],
+    "../serverless/docs/providers/azure/events/http.md": [],
+    "../serverless/docs/providers/fn/cli-reference/deploy.md": [],
+    "../serverless/docs/providers/fn/events/README.md": [],
+    "../serverless/docs/providers/azure/cli-reference/deploy-function.md": [],
+    "../serverless/docs/providers/azure/examples/hello-world/README.md": [],
+    "../serverless/docs/providers/cloudflare/README.md": [],
+    "../serverless/docs/providers/cloudflare/guide/quick-start.md": [],
+    "../serverless/docs/providers/aws/guide/layers.md": [
       {
-        "start": 2,
-        "end": 3
-      },
-      {
-        "start": 5,
-        "end": 5
-      },
-      {
-        "start": 7,
+        "start": 1,
         "end": 9
       },
       {
@@ -859,96 +569,417 @@
       },
       {
         "start": 11,
-        "end": 13
+        "end": 15
       },
       {
-        "start": 15,
+        "start": 16,
         "end": 16
       },
       {
         "start": 17,
-        "end": 18
+        "end": 25
       },
       {
-        "start": 20,
-        "end": 34
-      },
-      {
-        "start": 36,
+        "start": 27,
         "end": 40
       },
       {
-        "start": 48,
-        "end": 48
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 42,
+        "end": 54
       },
       {
         "start": 55,
-        "end": 74
+        "end": 55
+      },
+      {
+        "start": 56,
+        "end": 56
+      },
+      {
+        "start": 57,
+        "end": 57
+      },
+      {
+        "start": 58,
+        "end": 60
+      },
+      {
+        "start": 62,
+        "end": 95
+      },
+      {
+        "start": 111,
+        "end": 126
+      },
+      {
+        "start": 127,
+        "end": 128
+      },
+      {
+        "start": 129,
+        "end": 173
+      }
+    ],
+    "../serverless/docs/providers/fn/events/http.md": [],
+    "../serverless/docs/providers/azure/events/README.md": [],
+    "../serverless/docs/providers/aws/guide/events.md": [],
+    "../serverless/docs/providers/aws/guide/functions.md": [
+      {
+        "start": 340,
+        "end": 342
+      },
+      {
+        "start": 343,
+        "end": 343
+      },
+      {
+        "start": 344,
+        "end": 355
+      },
+      {
+        "start": 356,
+        "end": 356
+      },
+      {
+        "start": 357,
+        "end": 357
+      }
+    ],
+    "../serverless/docs/providers/cloudflare/guide/debugging.md": [],
+    "../serverless/docs/providers/fn/cli-reference/invoke.md": [],
+    "../serverless/docs/providers/aws/events/cloudwatch-event.md": [],
+    "../serverless/docs/providers/aws/guide/services.md": [
+      {
+        "start": 62,
+        "end": 62
+      }
+    ],
+    "../serverless/docs/providers/cloudflare/guide/deploying.md": [],
+    "../serverless/docs/providers/azure/guide/README.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/plugin-uninstall.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/slstats.md": [],
+    "../serverless/docs/providers/openwhisk/events/messagehub.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/remove.md": [],
+    "../serverless/docs/providers/azure/guide/testing.md": [],
+    "../serverless/docs/providers/cloudflare/guide/events.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/login.md": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/python/README.md": [],
+    "../serverless/docs/providers/aws/cli-reference/deploy-function.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/plugin-list.md": [],
+    "../serverless/docs/providers/cloudflare/guide/README.md": [],
+    "../serverless/docs/providers/azure/guide/quick-start.md": [],
+    "../serverless/docs/providers/kubeless/guide/functions.md": [],
+    "../serverless/docs/providers/fn/cli-reference/create.md": [],
+    "../serverless/docs/providers/cloudflare/guide/services.md": [],
+    "../serverless/docs/providers/openwhisk/examples/README.md": [],
+    "../serverless/docs/providers/openwhisk/guide/functions.md": [],
+    "../serverless/docs/providers/azure/guide/services.md": [],
+    "../serverless/docs/providers/openwhisk/guide/services.md": [],
+    "../serverless/docs/providers/kubeless/guide/README.md": [],
+    "../serverless/docs/providers/openwhisk/guide/plugins.md": [
+      {
+        "start": 351,
+        "end": 351
+      }
+    ],
+    "../serverless/docs/providers/aws/guide/variables.md": [
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 284,
+        "end": 298
+      }
+    ],
+    "../serverless/docs/providers/openwhisk/guide/quick-start.md": [],
+    "../serverless/docs/providers/spotinst/guide/credentials.md": [],
+    "../serverless/docs/providers/openwhisk/guide/packaging.md": [],
+    "../serverless/docs/providers/openwhisk/events/cloudant.md": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/ruby/README.md": [],
+    "../serverless/docs/providers/kubeless/guide/intro.md": [],
+    "../serverless/docs/providers/openwhisk/guide/testing.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/install.md": [],
+    "../serverless/docs/providers/spotinst/guide/create-token.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/deploy.md": [],
+    "../serverless/docs/providers/openwhisk/guide/serverless.yml.md": [],
+    "../serverless/docs/providers/cloudflare/cli-reference/plugin-install.md": [],
+    "../serverless/docs/providers/azure/guide/plugins.md": [
+      {
+        "start": 375,
+        "end": 375
+      }
+    ],
+    "../serverless/docs/providers/azure/guide/variables.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/logs.md": [],
+    "../serverless/docs/providers/google/guide/installation.md": [],
+    "../serverless/docs/providers/openwhisk/guide/intro.md": [],
+    "../serverless/docs/providers/google/cli-reference/logs.md": [],
+    "../serverless/docs/providers/openwhisk/guide/README.md": [],
+    "../serverless/docs/providers/spotinst/examples/python/README.md": [],
+    "../serverless/docs/providers/spotinst/examples/java8/README.md": [],
+    "../serverless/docs/providers/openwhisk/guide/installation.md": [],
+    "../serverless/docs/providers/spotinst/guide/cors.md": [],
+    "../serverless/docs/providers/openwhisk/events/schedule.md": [],
+    "../serverless/docs/providers/spotinst/guide/serverless.yml.md": [],
+    "../serverless/docs/providers/google/guide/events.md": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/swift/README.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/deploy-function.md": [],
+    "../serverless/docs/providers/cloudflare/cli-reference/plugin-search.md": [],
+    "../serverless/docs/providers/aws/events/alexa-skill.md": [],
+    "../serverless/docs/providers/spotinst/guide/README.md": [],
+    "../serverless/docs/providers/spotinst/guide/active-versions.md": [],
+    "../serverless/docs/providers/google/cli-reference/plugin-install.md": [],
+    "../serverless/docs/providers/aws/events/streams.md": [],
+    "../serverless/docs/providers/openwhisk/guide/web-actions.md": [],
+    "../serverless/docs/providers/spotinst/examples/node/README.md": [],
+    "../serverless/docs/providers/cloudflare/guide/intro.md": [],
+    "../serverless/docs/providers/openwhisk/events/apigateway.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/remove.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/config-credentials.md": [],
+    "../serverless/docs/providers/cloudflare/cli-reference/plugin-list.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/logs.md": [],
+    "../serverless/docs/providers/azure/cli-reference/print.md": [],
+    "../serverless/docs/providers/kubeless/cli-reference/invoke.md": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/node/README.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/plugin-uninstall.md": [],
+    "../serverless/docs/providers/aws/guide/intro.md": [
+      {
+        "start": 64,
+        "end": 64
+      },
+      {
+        "start": 68,
+        "end": 68
+      },
+      {
+        "start": 70,
+        "end": 70
       },
       {
         "start": 76,
         "end": 76
-      },
-      {
-        "start": 77,
-        "end": 77
-      },
-      {
-        "start": 78,
-        "end": 79
-      },
-      {
-        "start": 80,
-        "end": 82
-      },
-      {
-        "start": 85,
-        "end": 86
-      },
-      {
-        "start": 87,
-        "end": 87
       }
     ],
-    "../serverless/lib/plugins/aws/invokeLocal/java/pom.xml": [
+    "../serverless/docs/providers/spotinst/cli-reference/deploy.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/deploy-function.md": [],
+    "../serverless/docs/providers/azure/cli-reference/invoke.md": [],
+    "../serverless/docs/providers/spotinst/events/http.md": [],
+    "../serverless/docs/providers/spotinst/examples/ruby/README.md": [],
+    "../serverless/docs/providers/spotinst/examples/README.md": [],
+    "../serverless/docs/providers/kubeless/cli-reference/plugin-list.md": [],
+    "../serverless/lib/plugins/create/templates/openwhisk-ruby/README.md": [],
+    "../serverless/docs/providers/openwhisk/events/README.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/invoke.md": [],
+    "../serverless/lib/plugins/create/templates/openwhisk-swift/README.md": [],
+    "../serverless/docs/providers/openwhisk/guide/workflow.md": [],
+    "../serverless/docs/providers/openwhisk/guide/events.md": [],
+    "../serverless/docs/providers/fn/cli-reference/logs.md": [],
+    "../serverless/docs/providers/spotinst/README.md": [],
+    "../serverless/docs/providers/kubeless/cli-reference/plugin-search.md": [],
+    "../serverless/docs/providers/google/README.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/plugin-install.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/plugin-search.md": [],
+    "../serverless/docs/providers/aws/guide/serverless.yml.md": [
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 169,
+        "end": 170
+      }
+    ],
+    "../serverless/docs/providers/spotinst/guide/variables.md": [],
+    "../serverless/docs/providers/openwhisk/guide/variables.md": [],
+    "../serverless/docs/providers/kubeless/cli-reference/create.md": [],
+    "../serverless/lib/plugins/create/templates/azure-nodejs/README.md": [],
+    "../serverless/docs/providers/google/examples/hello-world/node/README.md": [],
+    "../serverless/docs/providers/kubeless/README.md": [],
+    "../serverless/docs/providers/azure/events/timer.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/plugin-list.md": [],
+    "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/README.md": [],
+    "../serverless/docs/providers/aws/cli-reference/create.md": [
+      {
+        "start": 60,
+        "end": 60
+      }
+    ],
+    "../serverless/docs/providers/google/guide/plugins.md": [
+      {
+        "start": 351,
+        "end": 351
+      }
+    ],
+    "../serverless/docs/providers/fn/README.md": [],
+    "../serverless/docs/providers/google/guide/packaging.md": [],
+    "../serverless/docs/providers/google/examples/README.md": [],
+    "../serverless/docs/providers/spotinst/guide/IAM-roles.md": [],
+    "../serverless/docs/providers/aws/events/apigateway.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/info.md": [],
+    "../serverless/lib/plugins/create/templates/openwhisk-nodejs/README.md": [],
+    "../serverless/docs/providers/fn/guide/quick-start.md": [],
+    "../serverless/docs/providers/spotinst/guide/endpoints.md": [],
+    "../serverless/docs/providers/google/cli-reference/plugin-list.md": [],
+    "../serverless/docs/providers/azure/events/blobstorage.md": [],
+    "../serverless/lib/plugins/create/templates/openwhisk-php/README.md": [],
+    "../serverless/docs/providers/fn/cli-reference/plugin-list.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/README.md": [],
+    "../serverless/docs/providers/spotinst/events/README.md": [],
+    "../serverless/docs/providers/azure/cli-reference/plugin-list.md": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/php/README.md": [],
+    "../serverless/docs/providers/spotinst/events/schedule.md": [],
+    "../serverless/docs/providers/aws/events/sqs.md": [],
+    "../serverless/lib/plugins/create/templates/openwhisk-python/README.md": [],
+    "../serverless/docs/providers/aws/examples/hello-world/node/README.md": [],
+    "../serverless/docs/providers/azure/guide/credentials.md": [],
+    "../serverless/docs/providers/kubeless/cli-reference/info.md": [],
+    "../serverless/docs/providers/openwhisk/cli-reference/invoke-local.md": [],
+    "../serverless/docs/providers/google/events/README.md": [],
+    "../serverless/docs/providers/google/cli-reference/remove.md": [],
+    "../serverless/docs/providers/spotinst/guide/quick-start.md": [],
+    "../serverless/docs/providers/spotinst/guide/intro.md": [],
+    "../serverless/docs/providers/fn/cli-reference/plugin-uninstall.md": [],
+    "../serverless/docs/providers/google/examples/hello-world/python/README.md": [],
+    "../serverless/docs/providers/azure/cli-reference/README.md": [],
+    "../serverless/docs/providers/spotinst/cli-reference/stage.md": [],
+    "../serverless/docs/providers/azure/examples/README.md": [],
+    "../serverless/docs/providers/azure/cli-reference/login.md": [],
+    "../serverless/docs/providers/azure/cli-reference/plugin-install.md": [],
+    "../serverless/docs/providers/azure/guide/intro.md": []
+  },
+  "otherFiles": {
+    "../serverless/.editorconfig": [],
+    "../serverless/.appveyor.yml": [],
+    "../serverless/.eslintignore": [],
+    "../serverless/.eslintrc.js": [],
+    "../serverless/.git/HEAD": [],
+    "../serverless/.git/config": [],
+    "../serverless/.git/hooks/applypatch-msg.sample": [],
+    "../serverless/.git/description": [],
+    "../serverless/.git/hooks/commit-msg.sample": [],
+    "../serverless/.git/hooks/fsmonitor-watchman.sample": [],
+    "../serverless/.git/hooks/post-update.sample": [],
+    "../serverless/.git/hooks/pre-applypatch.sample": [],
+    "../serverless/.git/hooks/pre-commit.sample": [],
+    "../serverless/.git/hooks/pre-push.sample": [],
+    "../serverless/.git/hooks/pre-receive.sample": [],
+    "../serverless/.git/hooks/pre-rebase.sample": [],
+    "../serverless/.git/hooks/prepare-commit-msg.sample": [],
+    "../serverless/.git/hooks/update.sample": [],
+    "../serverless/.git/index": [],
+    "../serverless/.git/info/exclude": [],
+    "../serverless/.git/logs/refs/heads/master": [],
+    "../serverless/.git/logs/HEAD": [],
+    "../serverless/.git/logs/refs/remotes/origin/HEAD": [],
+    "../serverless/.git/objects/pack/pack-41ee7e7ec5b2f1be0d1bb67d09d7f7ecfe1e3c64.idx": [],
+    "../serverless/.git/objects/pack/pack-41ee7e7ec5b2f1be0d1bb67d09d7f7ecfe1e3c64.pack": [],
+    "../serverless/.git/packed-refs": [],
+    "../serverless/.git/refs/remotes/origin/HEAD": [],
+    "../serverless/.git/refs/heads/master": [],
+    "../serverless/.jsbeautifyrc": [],
+    "../serverless/.travis.yml": [
+      {
+        "start": 60,
+        "end": 60
+      }
+    ],
+    "../serverless/Dockerfile": [],
+    "../serverless/assets/.gitkeep": [],
+    "../serverless/assets/create-application.png": [],
+    "../serverless/assets/framework_repo.png": [],
+    "../serverless/assets/tenant.png": [],
+    "../serverless/bin/serverless": [],
+    "../serverless/bin/test": [],
+    "../serverless/docker-compose.yml": [
       {
         "start": 35,
         "end": 35
       }
     ],
+    "../serverless/docs/providers/aws/examples/hello-world/node/serverless.yml": [],
+    "../serverless/docs/providers/aws/examples/hello-world/node/handler.js": [],
+    "../serverless/docs/providers/aws/examples/hello-world/python/serverless.yml": [],
+    "../serverless/docs/providers/aws/examples/hello-world/python/handler.py": [],
+    "../serverless/docs/providers/azure/examples/hello-world/node/handler.js": [],
+    "../serverless/docs/providers/azure/examples/hello-world/node/serverless.yml": [],
+    "../serverless/docs/providers/google/examples/hello-world/node/index.js": [],
+    "../serverless/docs/providers/google/examples/hello-world/node/serverless.yml": [],
+    "../serverless/docs/providers/google/examples/hello-world/python/main.py": [],
+    "../serverless/docs/providers/google/examples/hello-world/python/serverless.yml": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/node/handler.js": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/node/serverless.yml": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/php/handler.php": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/php/serverless.yml": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/python/serverless.yml": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/python/handler.py": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/ruby/handler.rb": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/ruby/serverless.yml": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/swift/handler.swift": [],
+    "../serverless/docs/providers/openwhisk/examples/hello-world/swift/serverless.yml": [],
+    "../serverless/lib/Serverless.js": [],
+    "../serverless/lib/classes/CLI.js": [],
+    "../serverless/lib/classes/Error.js": [],
+    "../serverless/lib/classes/Config.js": [],
+    "../serverless/lib/classes/PromiseTracker.js": [],
+    "../serverless/lib/classes/PluginManager.js": [],
+    "../serverless/lib/classes/Service.js": [],
+    "../serverless/lib/classes/Utils.js": [],
+    "../serverless/lib/classes/Variables.js": [],
+    "../serverless/lib/classes/YamlParser.js": [],
+    "../serverless/lib/plugins/aws/common/lib/artifacts.js": [],
+    "../serverless/lib/plugins/aws/common/index.js": [],
+    "../serverless/lib/plugins/aws/configCredentials/awsConfigCredentials.js": [],
+    "../serverless/lib/plugins/aws/common/lib/cleanupTempDir.js": [],
+    "../serverless/lib/plugins/aws/deploy/index.js": [],
+    "../serverless/lib/plugins/aws/deploy/lib/checkForChanges.js": [],
+    "../serverless/lib/plugins/aws/deploy/lib/createStack.js": [],
+    "../serverless/lib/plugins/aws/deploy/lib/cleanupS3Bucket.js": [],
+    "../serverless/lib/plugins/aws/deploy/lib/existsDeploymentBucket.js": [],
+    "../serverless/lib/plugins/aws/deploy/lib/extendedValidate.js": [],
+    "../serverless/lib/plugins/aws/deploy/lib/validateTemplate.js": [],
+    "../serverless/lib/plugins/aws/deploy/lib/uploadArtifacts.js": [],
+    "../serverless/lib/plugins/aws/deployFunction/index.js": [],
+    "../serverless/lib/plugins/aws/deployList/index.js": [],
+    "../serverless/lib/plugins/aws/info/getApiKeyValues.js": [],
+    "../serverless/lib/plugins/aws/info/display.js": [],
+    "../serverless/lib/plugins/aws/info/getStackInfo.js": [],
+    "../serverless/lib/plugins/aws/info/getResourceCount.js": [],
+    "../serverless/lib/plugins/aws/info/index.js": [],
+    "../serverless/lib/plugins/aws/invoke/index.js": [],
+    "../serverless/lib/plugins/aws/invokeLocal/fixture/asyncHandlerWithError.js": [],
+    "../serverless/lib/plugins/aws/invokeLocal/fixture/__init__.py": [],
+    "../serverless/lib/plugins/aws/invokeLocal/fixture/handler.py": [],
+    "../serverless/lib/plugins/aws/invokeLocal/fixture/asyncHandlerWithSuccess.js": [],
+    "../serverless/lib/plugins/aws/invokeLocal/fixture/handler.rb": [],
+    "../serverless/lib/plugins/aws/invokeLocal/fixture/handlerWithError.js": [],
+    "../serverless/lib/plugins/aws/invokeLocal/fixture/handlerWithInitializationError.js": [],
+    "../serverless/lib/plugins/aws/invokeLocal/fixture/handlerWithLoadingError.js": [],
+    "../serverless/lib/plugins/aws/invokeLocal/fixture/handlerWithSuccess.js": [],
+    "../serverless/lib/plugins/aws/invokeLocal/index.js": [],
+    "../serverless/lib/plugins/aws/invokeLocal/invoke.rb": [],
+    "../serverless/lib/plugins/aws/invokeLocal/invoke.py": [],
     "../serverless/lib/plugins/aws/invokeLocal/java/MANIFEST.mf": [],
+    "../serverless/lib/plugins/aws/invokeLocal/java/pom.xml": [],
     "../serverless/lib/plugins/aws/invokeLocal/java/src/main/java/com/serverless/Context.java": [],
     "../serverless/lib/plugins/aws/invokeLocal/java/src/main/java/com/serverless/InvokeBridge.java": [],
     "../serverless/lib/plugins/aws/lib/cloudformationSchema.js": [],
     "../serverless/lib/plugins/aws/lib/monitorStack.js": [],
-    "../serverless/lib/plugins/aws/lib/normalizeFiles.js": [
-      {
-        "start": 18,
-        "end": 21
-      }
-    ],
-    "../serverless/lib/plugins/aws/lib/naming.js": [
-      {
-        "start": 64,
-        "end": 67
-      },
-      {
-        "start": 143,
-        "end": 148
-      },
-      {
-        "start": 149,
-        "end": 149
-      },
-      {
-        "start": 160,
-        "end": 162
-      }
-    ],
+    "../serverless/lib/plugins/aws/lib/naming.js": [],
+    "../serverless/lib/plugins/aws/lib/normalizeFiles.js": [],
     "../serverless/lib/plugins/aws/lib/setBucketName.js": [],
     "../serverless/lib/plugins/aws/lib/updateStack.js": [],
     "../serverless/lib/plugins/aws/lib/validateS3BucketName.js": [],
     "../serverless/lib/plugins/aws/lib/validate.js": [],
+    "../serverless/lib/plugins/aws/metrics/awsMetrics.js": [],
     "../serverless/lib/plugins/aws/logs/index.js": [
       {
         "start": 56,
@@ -963,19 +994,18 @@
         "end": 121
       }
     ],
-    "../serverless/lib/plugins/aws/metrics/awsMetrics.js": [],
-    "../serverless/lib/plugins/aws/package/compile/events/alexaSmartHome/index.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/alexaSkill/index.js": [],
-    "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/apiKeys.js": [],
+    "../serverless/lib/plugins/aws/package/compile/events/alexaSmartHome/index.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/apiGateway/index.js": [],
-    "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/authorizers.js": [],
+    "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/apiKeys.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/cors.js": [],
+    "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/authorizers.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/deployment.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/disassociateUsagePlan.js": [],
-    "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/method/authorization.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/method/index.js": [],
-    "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/method/integration.js": [],
+    "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/method/authorization.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/method/responses.js": [],
+    "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/method/integration.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/permissions.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/resources.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/apiGateway/lib/usagePlan.js": [],
@@ -994,8 +1024,8 @@
     "../serverless/lib/plugins/aws/package/compile/events/stream/index.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/websockets/lib/authorizers.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/websockets/lib/api.js": [],
-    "../serverless/lib/plugins/aws/package/compile/events/websockets/lib/deployment.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/websockets/lib/integrations.js": [],
+    "../serverless/lib/plugins/aws/package/compile/events/websockets/lib/deployment.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/websockets/lib/permissions.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/websockets/lib/routes.js": [],
     "../serverless/lib/plugins/aws/package/compile/events/websockets/lib/validate.js": [],
@@ -1101,25 +1131,25 @@
     ],
     "../serverless/lib/plugins/aws/remove/index.js": [],
     "../serverless/lib/plugins/aws/remove/lib/bucket.js": [],
-    "../serverless/lib/plugins/aws/rollback/index.js": [],
     "../serverless/lib/plugins/aws/remove/lib/stack.js": [],
-    "../serverless/lib/plugins/aws/utils/arnRegularExpressions.js": [],
+    "../serverless/lib/plugins/aws/rollback/index.js": [],
     "../serverless/lib/plugins/aws/rollbackFunction/index.js": [],
-    "../serverless/lib/plugins/aws/utils/findAndGroupDeployments.js": [],
+    "../serverless/lib/plugins/aws/utils/arnRegularExpressions.js": [],
     "../serverless/lib/plugins/aws/utils/findReferences.js": [],
-    "../serverless/lib/plugins/aws/utils/getS3EndpointForRegion.js": [],
+    "../serverless/lib/plugins/aws/utils/findAndGroupDeployments.js": [],
     "../serverless/lib/plugins/aws/utils/formatLambdaLogEvent.js": [],
+    "../serverless/lib/plugins/aws/utils/getS3EndpointForRegion.js": [],
     "../serverless/lib/plugins/config/config.js": [],
     "../serverless/lib/plugins/aws/utils/getS3ObjectsFromStacks.js": [],
+    "../serverless/lib/plugins/create/templates/aws-alexa-typescript/gitignore": [],
     "../serverless/lib/plugins/create/create.js": [
       {
         "start": 39,
         "end": 39
       }
     ],
-    "../serverless/lib/plugins/create/templates/aws-alexa-typescript/gitignore": [],
-    "../serverless/lib/plugins/create/templates/aws-alexa-typescript/handler.ts": [],
     "../serverless/lib/plugins/create/templates/aws-alexa-typescript/serverless.yml": [],
+    "../serverless/lib/plugins/create/templates/aws-alexa-typescript/handler.ts": [],
     "../serverless/lib/plugins/create/templates/aws-clojure-gradle/build.gradle": [],
     "../serverless/lib/plugins/create/templates/aws-clojure-gradle/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-clojure-gradle/gradle/wrapper/gradle-wrapper.properties": [],
@@ -1128,64 +1158,64 @@
     "../serverless/lib/plugins/create/templates/aws-clojure-gradle/gradlew": [],
     "../serverless/lib/plugins/create/templates/aws-clojure-gradle/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/aws-clojure-gradle/gradlew.bat": [],
-    "../serverless/lib/plugins/create/templates/aws-clojure-gradle/src/main/clojure/hello.clj": [],
     "../serverless/lib/plugins/create/templates/aws-clojure-gradle/src/main/resources/log4j.properties": [],
-    "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/gitignore": [],
+    "../serverless/lib/plugins/create/templates/aws-clojure-gradle/src/main/clojure/hello.clj": [],
     "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/build.gradle": [],
+    "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/gradle/wrapper/gradle-wrapper.properties": [],
     "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/gradle/wrapper/gradle-wrapper.jar": [],
     "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/gradlew.bat": [],
     "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/gradlew": [],
-    "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/scripts/node_repl.clj": [],
     "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/serverless.yml": [],
+    "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/scripts/node_repl.clj": [],
     "../serverless/lib/plugins/create/templates/aws-clojurescript-gradle/src/main/clojurescript/serverless/functions.cljs": [],
     "../serverless/lib/plugins/create/templates/aws-csharp/Handler.cs": [],
-    "../serverless/lib/plugins/create/templates/aws-csharp/aws-csharp.csproj": [],
     "../serverless/lib/plugins/create/templates/aws-csharp/build.cmd": [],
-    "../serverless/lib/plugins/create/templates/aws-csharp/gitignore": [],
+    "../serverless/lib/plugins/create/templates/aws-csharp/aws-csharp.csproj": [],
     "../serverless/lib/plugins/create/templates/aws-csharp/build.sh": [],
-    "../serverless/lib/plugins/create/templates/aws-fsharp/Handler.fs": [],
+    "../serverless/lib/plugins/create/templates/aws-csharp/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-csharp/serverless.yml": [],
+    "../serverless/lib/plugins/create/templates/aws-fsharp/Handler.fs": [],
     "../serverless/lib/plugins/create/templates/aws-fsharp/build.cmd": [],
     "../serverless/lib/plugins/create/templates/aws-fsharp/aws-fsharp.fsproj": [],
-    "../serverless/lib/plugins/create/templates/aws-fsharp/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-fsharp/build.sh": [],
-    "../serverless/lib/plugins/create/templates/aws-go/gitignore": [],
+    "../serverless/lib/plugins/create/templates/aws-fsharp/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-fsharp/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/aws-go/hello/main.go": [],
+    "../serverless/lib/plugins/create/templates/aws-go/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-go/serverless.yml": [],
+    "../serverless/lib/plugins/create/templates/aws-go/hello/main.go": [],
     "../serverless/lib/plugins/create/templates/aws-go/world/main.go": [],
     "../serverless/lib/plugins/create/templates/aws-go-dep/Gopkg.toml": [],
-    "../serverless/lib/plugins/create/templates/aws-go-dep/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-go-dep/hello/main.go": [],
-    "../serverless/lib/plugins/create/templates/aws-go-dep/world/main.go": [],
+    "../serverless/lib/plugins/create/templates/aws-go-dep/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-go-dep/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/aws-go-mod/gitignore": [],
+    "../serverless/lib/plugins/create/templates/aws-go-dep/world/main.go": [],
     "../serverless/lib/plugins/create/templates/aws-go-mod/gomod.sh": [],
-    "../serverless/lib/plugins/create/templates/aws-go-mod/hello/main.go": [],
+    "../serverless/lib/plugins/create/templates/aws-go-mod/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-go-mod/serverless.yml": [],
+    "../serverless/lib/plugins/create/templates/aws-go-mod/hello/main.go": [],
     "../serverless/lib/plugins/create/templates/aws-go-mod/world/main.go": [],
     "../serverless/lib/plugins/create/templates/aws-groovy-gradle/build.gradle": [],
-    "../serverless/lib/plugins/create/templates/aws-groovy-gradle/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-groovy-gradle/gradle/wrapper/gradle-wrapper.jar": [],
+    "../serverless/lib/plugins/create/templates/aws-groovy-gradle/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-groovy-gradle/gradlew": [],
     "../serverless/lib/plugins/create/templates/aws-groovy-gradle/gradle/wrapper/gradle-wrapper.properties": [],
-    "../serverless/lib/plugins/create/templates/aws-groovy-gradle/gradlew.bat": [],
     "../serverless/lib/plugins/create/templates/aws-groovy-gradle/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/aws-groovy-gradle/src/main/groovy/com/serverless/Handler.groovy": [],
+    "../serverless/lib/plugins/create/templates/aws-groovy-gradle/gradlew.bat": [],
     "../serverless/lib/plugins/create/templates/aws-groovy-gradle/src/main/groovy/com/serverless/ApiGatewayResponse.groovy": [],
-    "../serverless/lib/plugins/create/templates/aws-groovy-gradle/src/main/resources/log4j.properties": [],
+    "../serverless/lib/plugins/create/templates/aws-groovy-gradle/src/main/groovy/com/serverless/Handler.groovy": [],
     "../serverless/lib/plugins/create/templates/aws-groovy-gradle/src/main/groovy/com/serverless/Response.groovy": [],
+    "../serverless/lib/plugins/create/templates/aws-groovy-gradle/src/main/resources/log4j.properties": [],
     "../serverless/lib/plugins/create/templates/aws-java-gradle/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-java-gradle/build.gradle": [],
-    "../serverless/lib/plugins/create/templates/aws-java-gradle/gradle/wrapper/gradle-wrapper.jar": [],
     "../serverless/lib/plugins/create/templates/aws-java-gradle/gradle/wrapper/gradle-wrapper.properties": [],
+    "../serverless/lib/plugins/create/templates/aws-java-gradle/gradle/wrapper/gradle-wrapper.jar": [],
     "../serverless/lib/plugins/create/templates/aws-java-gradle/gradlew.bat": [],
     "../serverless/lib/plugins/create/templates/aws-java-gradle/gradlew": [],
     "../serverless/lib/plugins/create/templates/aws-java-gradle/src/main/java/com/serverless/ApiGatewayResponse.java": [],
     "../serverless/lib/plugins/create/templates/aws-java-gradle/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/aws-java-gradle/src/main/java/com/serverless/Handler.java": [],
     "../serverless/lib/plugins/create/templates/aws-java-gradle/src/main/java/com/serverless/Response.java": [],
+    "../serverless/lib/plugins/create/templates/aws-java-gradle/src/main/java/com/serverless/Handler.java": [],
     "../serverless/lib/plugins/create/templates/aws-java-maven/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-java-gradle/src/main/resources/log4j.properties": [],
     "../serverless/lib/plugins/create/templates/aws-java-maven/serverless.yml": [],
@@ -1199,27 +1229,27 @@
     "../serverless/lib/plugins/create/templates/aws-java-maven/src/main/java/com/serverless/Handler.java": [],
     "../serverless/lib/plugins/create/templates/aws-java-maven/src/main/resources/log4j2.xml": [],
     "../serverless/lib/plugins/create/templates/aws-java-maven/src/main/java/com/serverless/Response.java": [],
-    "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/build.gradle": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/gitignore": [],
-    "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/gradle/wrapper/gradle-wrapper.jar": [],
+    "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/build.gradle": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/gradle/wrapper/gradle-wrapper.properties": [],
+    "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/gradle/wrapper/gradle-wrapper.jar": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/gradlew.bat": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/gradlew": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/settings.gradle": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/src/main/kotlin/com/serverless/Handler.kt": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/src/main/kotlin/com/serverless/ApiGatewayResponse.kt": [],
+    "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/src/main/kotlin/com/serverless/Handler.kt": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/src/main/kotlin/com/serverless/Response.kt": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/src/main/kotlin/com/serverless/HelloResponse.kt": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/src/test/kotlin/.gitkeep": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-gradle/src/main/resources/log4j2.xml": [],
-    "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-maven/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-maven/pom.xml": [
       {
         "start": 144,
         "end": 144
       }
     ],
+    "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-maven/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-maven/src/main/kotlin/com/serverless/ApiGatewayResponse.kt": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-maven/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-maven/src/main/kotlin/com/serverless/Response.kt": [],
@@ -1228,24 +1258,24 @@
     "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-maven/src/main/resources/log4j2.xml": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/build.gradle": [],
-    "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/gradle/wrapper/gradle-wrapper.jar": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/gradle/wrapper/gradle-wrapper.properties": [],
-    "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/gradlew.bat": [],
+    "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/gradle/wrapper/gradle-wrapper.jar": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/gradlew": [],
-    "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/src/main/kotlin/com/serverless/ApiGatewayResponse.kt": [],
+    "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/gradlew.bat": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/serverless.yml": [],
+    "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/src/main/kotlin/com/serverless/ApiGatewayResponse.kt": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/src/main/kotlin/com/serverless/Response.kt": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/src/main/kotlin/com/serverless/Handler.kt": [],
     "../serverless/lib/plugins/create/templates/aws-kotlin-nodejs-gradle/src/test/kotlin/.gitkeep": [],
     "../serverless/lib/plugins/create/templates/aws-nodejs/gitignore": [],
-    "../serverless/lib/plugins/create/templates/aws-nodejs/handler.js": [],
     "../serverless/lib/plugins/create/templates/aws-nodejs/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/aws-nodejs-ecma-script/gitignore": [],
+    "../serverless/lib/plugins/create/templates/aws-nodejs/handler.js": [],
     "../serverless/lib/plugins/create/templates/aws-nodejs-ecma-script/first.js": [],
+    "../serverless/lib/plugins/create/templates/aws-nodejs-ecma-script/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-nodejs-ecma-script/second.js": [],
     "../serverless/lib/plugins/create/templates/aws-nodejs-ecma-script/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/aws-nodejs-typescript/handler.ts": [],
     "../serverless/lib/plugins/create/templates/aws-nodejs-typescript/gitignore": [],
+    "../serverless/lib/plugins/create/templates/aws-nodejs-typescript/handler.ts": [],
     "../serverless/lib/plugins/create/templates/aws-nodejs-typescript/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/aws-provided/bootstrap": [
       {
@@ -1327,50 +1357,50 @@
     "../serverless/lib/plugins/create/templates/aws-ruby/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-ruby/handler.rb": [],
     "../serverless/lib/plugins/create/templates/aws-ruby/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/aws-scala-sbt/build.sbt": [],
     "../serverless/lib/plugins/create/templates/aws-scala-sbt/gitignore": [],
-    "../serverless/lib/plugins/create/templates/aws-scala-sbt/project/build.properties": [],
+    "../serverless/lib/plugins/create/templates/aws-scala-sbt/build.sbt": [],
     "../serverless/lib/plugins/create/templates/aws-scala-sbt/project/plugins.sbt": [],
-    "../serverless/lib/plugins/create/templates/aws-scala-sbt/src/main/scala/hello/ApiGatewayResponse.scala": [],
+    "../serverless/lib/plugins/create/templates/aws-scala-sbt/project/build.properties": [],
     "../serverless/lib/plugins/create/templates/aws-scala-sbt/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/aws-scala-sbt/src/main/scala/hello/Handler.scala": [],
+    "../serverless/lib/plugins/create/templates/aws-scala-sbt/src/main/scala/hello/ApiGatewayResponse.scala": [],
     "../serverless/lib/plugins/create/templates/aws-scala-sbt/src/main/scala/hello/Request.scala": [],
+    "../serverless/lib/plugins/create/templates/aws-scala-sbt/src/main/scala/hello/Handler.scala": [],
     "../serverless/lib/plugins/create/templates/azure-nodejs/gitignore": [],
     "../serverless/lib/plugins/create/templates/aws-scala-sbt/src/main/scala/hello/Response.scala": [],
     "../serverless/lib/plugins/create/templates/azure-nodejs/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/azure-nodejs/handler.js": [],
-    "../serverless/lib/plugins/create/templates/cloudflare-workers/helloWorld.js": [],
     "../serverless/lib/plugins/create/templates/cloudflare-workers/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/cloudflare-workers-enterprise/bar.js": [],
+    "../serverless/lib/plugins/create/templates/cloudflare-workers/helloWorld.js": [],
     "../serverless/lib/plugins/create/templates/cloudflare-workers-enterprise/helloWorld.js": [],
+    "../serverless/lib/plugins/create/templates/cloudflare-workers-enterprise/bar.js": [],
     "../serverless/lib/plugins/create/templates/cloudflare-workers-rust/helloWorld.js": [],
     "../serverless/lib/plugins/create/templates/cloudflare-workers-enterprise/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/cloudflare-workers-rust/rust-wasm/Cargo.toml": [],
     "../serverless/lib/plugins/create/templates/cloudflare-workers-rust/rust-wasm/src/lib.rs": [],
-    "../serverless/lib/plugins/create/templates/cloudflare-workers-rust/serverless.yml": [],
+    "../serverless/lib/plugins/create/templates/cloudflare-workers-rust/rust-wasm/Cargo.toml": [],
     "../serverless/lib/plugins/create/templates/fn-go/hello/Gopkg.toml": [],
-    "../serverless/lib/plugins/create/templates/fn-go/hello/func.go": [],
+    "../serverless/lib/plugins/create/templates/cloudflare-workers-rust/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/fn-go/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/fn-nodejs/hello/func.js": [],
+    "../serverless/lib/plugins/create/templates/fn-go/hello/func.go": [],
     "../serverless/lib/plugins/create/templates/fn-nodejs/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/google-go/fn.go": [],
+    "../serverless/lib/plugins/create/templates/fn-nodejs/hello/func.js": [],
     "../serverless/lib/plugins/create/templates/google-go/fn_test.go": [],
-    "../serverless/lib/plugins/create/templates/google-nodejs/gitignore": [],
+    "../serverless/lib/plugins/create/templates/google-go/fn.go": [],
     "../serverless/lib/plugins/create/templates/google-go/serverless.yml": [],
+    "../serverless/lib/plugins/create/templates/google-nodejs/gitignore": [],
     "../serverless/lib/plugins/create/templates/google-nodejs/index.js": [],
     "../serverless/lib/plugins/create/templates/google-nodejs/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/google-python/gitignore": [],
     "../serverless/lib/plugins/create/templates/google-python/main.py": [],
-    "../serverless/lib/plugins/create/templates/google-python/serverless.yml": [],
+    "../serverless/lib/plugins/create/templates/google-python/gitignore": [],
     "../serverless/lib/plugins/create/templates/hello-world/gitignore": [],
+    "../serverless/lib/plugins/create/templates/google-python/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/hello-world/handler.js": [],
     "../serverless/lib/plugins/create/templates/hello-world/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/kubeless-nodejs/handler.js": [],
     "../serverless/lib/plugins/create/templates/kubeless-nodejs/gitignore": [],
+    "../serverless/lib/plugins/create/templates/kubeless-nodejs/handler.js": [],
     "../serverless/lib/plugins/create/templates/kubeless-nodejs/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/kubeless-python/gitignore": [],
-    "../serverless/lib/plugins/create/templates/kubeless-python/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/kubeless-python/handler.py": [],
+    "../serverless/lib/plugins/create/templates/kubeless-python/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/openwhisk-java-maven/pom.xml": [],
     "../serverless/lib/plugins/create/templates/openwhisk-java-maven/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/openwhisk-java-maven/src/main/java/com/example/FunctionApp.java": [],
@@ -1381,30 +1411,30 @@
     "../serverless/lib/plugins/create/templates/openwhisk-nodejs/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/openwhisk-php/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/openwhisk-php/handler.php": [],
-    "../serverless/lib/plugins/create/templates/openwhisk-python/handler.py": [],
     "../serverless/lib/plugins/create/templates/openwhisk-python/gitignore": [],
+    "../serverless/lib/plugins/create/templates/openwhisk-python/handler.py": [],
     "../serverless/lib/plugins/create/templates/openwhisk-ruby/gitignore": [],
     "../serverless/lib/plugins/create/templates/openwhisk-python/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/openwhisk-ruby/handler.rb": [],
     "../serverless/lib/plugins/create/templates/openwhisk-ruby/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/openwhisk-swift/ping.swift": [],
     "../serverless/lib/plugins/create/templates/openwhisk-swift/gitignore": [],
-    "../serverless/lib/plugins/create/templates/openwhisk-swift/serverless.yml": [],
+    "../serverless/lib/plugins/create/templates/openwhisk-swift/ping.swift": [],
     "../serverless/lib/plugins/create/templates/plugin/index.js": [],
+    "../serverless/lib/plugins/create/templates/openwhisk-swift/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/spotinst-java8/pom.xml": [],
     "../serverless/lib/plugins/create/templates/spotinst-java8/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/spotinst-java8/src/main/java/com/serverless/Handler.java": [],
     "../serverless/lib/plugins/create/templates/spotinst-nodejs/gitignore": [],
-    "../serverless/lib/plugins/create/templates/spotinst-nodejs/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/spotinst-nodejs/handler.js": [],
+    "../serverless/lib/plugins/create/templates/spotinst-nodejs/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/spotinst-python/gitignore": [],
     "../serverless/lib/plugins/create/templates/spotinst-python/handler.py": [],
     "../serverless/lib/plugins/create/templates/spotinst-ruby/gitignore": [],
     "../serverless/lib/plugins/create/templates/spotinst-python/serverless.yml": [],
-    "../serverless/lib/plugins/create/templates/spotinst-ruby/serverless.yml": [],
     "../serverless/lib/plugins/create/templates/spotinst-ruby/handler.rb": [],
-    "../serverless/lib/plugins/deploy/deploy.js": [],
+    "../serverless/lib/plugins/create/templates/spotinst-ruby/serverless.yml": [],
     "../serverless/lib/plugins/info/info.js": [],
+    "../serverless/lib/plugins/deploy/deploy.js": [],
     "../serverless/lib/plugins/install/install.js": [],
     "../serverless/lib/plugins/invoke/invoke.js": [
       {
@@ -1416,9 +1446,118 @@
         "end": 95
       }
     ],
-    "../serverless/lib/plugins/logs/logs.js": [],
     "../serverless/lib/plugins/metrics/metrics.js": [],
-    "../serverless/lib/plugins/package/lib/packageService.js": [],
+    "../serverless/lib/plugins/logs/logs.js": [],
+    "../serverless/lib/plugins/package/lib/packageService.js": [
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 25,
+        "end": 25
+      },
+      {
+        "start": 56,
+        "end": 56
+      },
+      {
+        "start": 73,
+        "end": 73
+      },
+      {
+        "start": 74,
+        "end": 74
+      },
+      {
+        "start": 75,
+        "end": 81
+      },
+      {
+        "start": 93,
+        "end": 98
+      },
+      {
+        "start": 99,
+        "end": 99
+      },
+      {
+        "start": 100,
+        "end": 102
+      },
+      {
+        "start": 103,
+        "end": 104
+      },
+      {
+        "start": 107,
+        "end": 107
+      },
+      {
+        "start": 140,
+        "end": 140
+      },
+      {
+        "start": 141,
+        "end": 141
+      },
+      {
+        "start": 142,
+        "end": 143
+      },
+      {
+        "start": 144,
+        "end": 145
+      },
+      {
+        "start": 146,
+        "end": 147
+      },
+      {
+        "start": 150,
+        "end": 150
+      },
+      {
+        "start": 159,
+        "end": 164
+      },
+      {
+        "start": 165,
+        "end": 165
+      },
+      {
+        "start": 166,
+        "end": 166
+      },
+      {
+        "start": 167,
+        "end": 167
+      },
+      {
+        "start": 168,
+        "end": 175
+      },
+      {
+        "start": 199,
+        "end": 202
+      },
+      {
+        "start": 210,
+        "end": 212
+      },
+      {
+        "start": 232,
+        "end": 232
+      },
+      {
+        "start": 239,
+        "end": 249
+      },
+      {
+        "start": 250,
+        "end": 250
+      }
+    ],
     "../serverless/lib/plugins/package/lib/zipService.js": [
       {
         "start": 58,
@@ -1469,6 +1608,7 @@
         "end": 32
       }
     ],
+    "../serverless/lib/plugins/plugin/list/list.js": [],
     "../serverless/lib/plugins/plugin/lib/utils.js": [
       {
         "start": 5,
@@ -1479,7 +1619,6 @@
         "end": 67
       }
     ],
-    "../serverless/lib/plugins/plugin/list/list.js": [],
     "../serverless/lib/plugins/plugin/plugin.js": [],
     "../serverless/lib/plugins/plugin/search/search.js": [],
     "../serverless/lib/plugins/print/print.js": [
@@ -1497,8 +1636,8 @@
       }
     ],
     "../serverless/lib/plugins/plugin/uninstall/uninstall.js": [],
-    "../serverless/lib/plugins/remove/remove.js": [],
     "../serverless/lib/plugins/rollback/index.js": [],
+    "../serverless/lib/plugins/remove/remove.js": [],
     "../serverless/lib/utils/autocomplete.js": [
       {
         "start": 9,
@@ -1521,31 +1660,193 @@
     "../serverless/lib/utils/fs/fileExistsSync.js": [],
     "../serverless/lib/utils/fs/parse.js": [],
     "../serverless/lib/utils/fs/readFile.js": [],
-    "../serverless/lib/utils/fs/readFileIfExists.js": [],
     "../serverless/lib/utils/fs/readFileSync.js": [],
+    "../serverless/lib/utils/fs/readFileIfExists.js": [],
     "../serverless/lib/utils/fs/removeFileSync.js": [],
     "../serverless/lib/utils/fs/removeFile.js": [],
     "../serverless/lib/utils/fs/writeFile.js": [],
     "../serverless/lib/utils/fs/walkDirSync.js": [],
-    "../serverless/lib/utils/fs/writeFileSync.js": [],
     "../serverless/lib/utils/functionInfoUtils.js": [],
-    "../serverless/lib/utils/getCacheFilePath.js": [],
+    "../serverless/lib/utils/fs/writeFileSync.js": [],
     "../serverless/lib/utils/getCacheFile.js": [],
-    "../serverless/lib/utils/getCommandSuggestion.js": [],
+    "../serverless/lib/utils/getCacheFilePath.js": [],
     "../serverless/lib/utils/getFrameworkId.js": [],
-    "../serverless/lib/utils/getServerlessDir.js": [],
+    "../serverless/lib/utils/getCommandSuggestion.js": [],
     "../serverless/lib/utils/getServerlessConfigFile.js": [],
-    "../serverless/lib/utils/getTrackingConfigFileName.js": [],
+    "../serverless/lib/utils/getServerlessDir.js": [],
     "../serverless/lib/utils/isTrackingDisabled.js": [],
-    "../serverless/lib/utils/log/consoleLog.js": [],
+    "../serverless/lib/utils/getTrackingConfigFileName.js": [],
     "../serverless/lib/utils/log/fileLog.js": [],
-    "../serverless/lib/utils/log/serverlessLog.js": [],
+    "../serverless/lib/utils/log/consoleLog.js": [],
     "../serverless/lib/utils/log/log.js": [],
-    "../serverless/lib/utils/segment.js": [],
+    "../serverless/lib/utils/log/serverlessLog.js": [],
     "../serverless/lib/utils/renameService.js": [],
+    "../serverless/lib/utils/segment.js": [],
     "../serverless/lib/utils/sentry.js": [],
     "../serverless/lib/utils/userStats.js": [],
     "../serverless/lib/utils/userStatsValidation.js": [],
-    "../serverless/lib/utils/yamlAstParser.js": []
+    "../serverless/lib/utils/yamlAstParser.js": [],
+    "../serverless/scripts/generate-readme.js": [],
+    "../serverless/scripts/docker-cleanup": [],
+    "../serverless/scripts/generate-release-contributors-list": [],
+    "../serverless/scripts/postinstall.js": [],
+    "../serverless/scripts/pre-release.js": [],
+    "../serverless/scripts/preuninstall.js": [],
+    "../serverless/scripts/prs-since-last-tag": [
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 12,
+        "end": 13
+      },
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 23
+      }
+    ],
+    "../serverless/scripts/shrinkwrap": [],
+    "../serverless/scripts/update-dep-shrinkwrap": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda/api-keys/service/handler.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda/api-keys/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda/api-keys/tests.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda/cors/service/handler.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda/cors/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda/custom-authorizers/service/handler.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda/cors/tests.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda/custom-authorizers/tests.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda/custom-authorizers/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda/simple-api/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda/simple-api/service/handler.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda/simple-api/tests.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda-proxy/api-keys/service/handler.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda-proxy/api-keys/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda-proxy/api-keys/tests.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda-proxy/cors/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda-proxy/cors/service/handler.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda-proxy/custom-authorizers/service/handler.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda-proxy/cors/tests.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda-proxy/custom-authorizers/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda-proxy/custom-authorizers/tests.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda-proxy/simple-api/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda-proxy/simple-api/service/handler.js": [],
+    "../serverless/tests/integration/aws/cloud-watch-event/multiple-events-multiple-functions/service/handler.js": [],
+    "../serverless/tests/integration/aws/api-gateway/integration-lambda-proxy/simple-api/tests.js": [],
+    "../serverless/tests/integration/aws/cloud-watch-event/multiple-events-multiple-functions/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/cloud-watch-event/multiple-events-multiple-functions/tests.js": [],
+    "../serverless/tests/integration/aws/cloud-watch-event/multiple-events-single-function/service/handler.js": [],
+    "../serverless/tests/integration/aws/cloud-watch-event/multiple-events-single-function/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/cloud-watch-event/single-event-multiple-functions/service/handler.js": [],
+    "../serverless/tests/integration/aws/cloud-watch-event/multiple-events-single-function/tests.js": [],
+    "../serverless/tests/integration/aws/cloud-watch-event/single-event-multiple-functions/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/cloud-watch-event/single-event-multiple-functions/tests.js": [],
+    "../serverless/tests/integration/aws/cloud-watch-event/single-event-single-function/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/cloud-watch-event/single-event-single-function/service/handler.js": [],
+    "../serverless/tests/integration/aws/cognito-user-pool/multiple-pools-multiple-events-multiple-functions/service/handler.js": [],
+    "../serverless/tests/integration/aws/cloud-watch-event/single-event-single-function/tests.js": [],
+    "../serverless/tests/integration/aws/cognito-user-pool/multiple-pools-multiple-events-multiple-functions/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/cognito-user-pool/multiple-pools-multiple-events-multiple-functions/tests.js": [],
+    "../serverless/tests/integration/aws/cognito-user-pool/multiple-pools-single-event-single-function/service/handler.js": [],
+    "../serverless/tests/integration/aws/cognito-user-pool/multiple-pools-single-event-single-function/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/cognito-user-pool/multiple-pools-single-event-single-function/tests.js": [],
+    "../serverless/tests/integration/aws/cognito-user-pool/single-pool-multiple-events-multiple-functions/service/handler.js": [],
+    "../serverless/tests/integration/aws/cognito-user-pool/single-pool-multiple-events-multiple-functions/tests.js": [],
+    "../serverless/tests/integration/aws/cognito-user-pool/single-pool-multiple-events-multiple-functions/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/cognito-user-pool/single-pool-single-event-single-function/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/cognito-user-pool/single-pool-single-event-single-function/service/handler.js": [],
+    "../serverless/tests/integration/aws/cognito-user-pool/single-pool-single-event-single-function/tests.js": [],
+    "../serverless/tests/integration/aws/general/custom-resources/service/handler.js": [],
+    "../serverless/tests/integration/aws/general/custom-resources/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/general/custom-resources/tests.js": [],
+    "../serverless/tests/integration/aws/general/environment-variables/service/handler.js": [],
+    "../serverless/tests/integration/aws/general/environment-variables/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/general/environment-variables/tests.js": [],
+    "../serverless/tests/integration/aws/general/nested-handlers/service/deeply/nested/handler.js": [],
+    "../serverless/tests/integration/aws/general/nested-handlers/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/general/nested-handlers/tests.js": [],
+    "../serverless/tests/integration/aws/general/overwrite-resources/service/handler.js": [],
+    "../serverless/tests/integration/aws/general/overwrite-resources/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/general/package/service/handler.js": [],
+    "../serverless/tests/integration/aws/general/overwrite-resources/tests.js": [],
+    "../serverless/tests/integration/aws/general/package/tests.js": [],
+    "../serverless/tests/integration/aws/general/package/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/iot/multiple-rules-multiple-functions/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/iot/multiple-rules-multiple-functions/service/handler.js": [],
+    "../serverless/tests/integration/aws/iot/multiple-rules-multiple-functions/tests.js": [],
+    "../serverless/tests/integration/aws/iot/multiple-rules-single-function/service/handler.js": [],
+    "../serverless/tests/integration/aws/iot/multiple-rules-single-function/tests.js": [],
+    "../serverless/tests/integration/aws/iot/multiple-rules-single-function/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/iot/single-rule-multiple-functions/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/iot/single-rule-multiple-functions/service/handler.js": [],
+    "../serverless/tests/integration/aws/iot/single-rule-multiple-functions/tests.js": [],
+    "../serverless/tests/integration/aws/iot/single-rule-single-function/service/handler.js": [],
+    "../serverless/tests/integration/aws/iot/single-rule-single-function/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/iot/single-rule-single-function/tests.js": [],
+    "../serverless/tests/integration/aws/s3/multiple-events-multiple-functions-multiple-buckets/service/handler.js": [],
+    "../serverless/tests/integration/aws/s3/multiple-events-multiple-functions-multiple-buckets/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/s3/multiple-events-multiple-functions-single-bucket/service/handler.js": [],
+    "../serverless/tests/integration/aws/s3/multiple-events-multiple-functions-multiple-buckets/tests.js": [],
+    "../serverless/tests/integration/aws/s3/multiple-events-multiple-functions-single-bucket/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/s3/multiple-events-multiple-functions-single-bucket/tests.js": [],
+    "../serverless/tests/integration/aws/s3/multiple-events-single-function-single-bucket/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/s3/multiple-events-single-function-single-bucket/service/handler.js": [],
+    "../serverless/tests/integration/aws/s3/multiple-events-single-function-single-bucket/tests.js": [],
+    "../serverless/tests/integration/aws/s3/single-event-single-function-single-bucket/service/handler.js": [],
+    "../serverless/tests/integration/aws/s3/single-event-single-function-single-bucket/tests.js": [],
+    "../serverless/tests/integration/aws/s3/single-event-single-function-single-bucket/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/schedule/multiple-schedules-multiple-functions/service/handler.js": [],
+    "../serverless/tests/integration/aws/schedule/multiple-schedules-multiple-functions/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/schedule/multiple-schedules-multiple-functions/tests.js": [],
+    "../serverless/tests/integration/aws/sns/existing-topic/service/handler.js": [],
+    "../serverless/tests/integration/aws/sns/existing-topic/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/sns/existing-topic/tests.js": [],
+    "../serverless/tests/integration/aws/sns/multiple-topics-multiple-functions/service/handler.js": [],
+    "../serverless/tests/integration/aws/sns/multiple-topics-multiple-functions/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/sns/multiple-topics-single-function/service/handler.js": [],
+    "../serverless/tests/integration/aws/sns/multiple-topics-multiple-functions/tests.js": [],
+    "../serverless/tests/integration/aws/sns/multiple-topics-single-function/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/sns/multiple-topics-single-function/tests.js": [],
+    "../serverless/tests/integration/aws/sns/single-topic-multiple-functions/service/serverless.yml": [],
+    "../serverless/tests/integration/aws/sns/single-topic-multiple-functions/service/handler.js": [],
+    "../serverless/tests/integration/aws/sns/single-topic-single-function/service/handler.js": [],
+    "../serverless/tests/integration/aws/sns/single-topic-multiple-functions/tests.js": [],
+    "../serverless/tests/integration/aws/sns/single-topic-single-function/tests.js": [],
+    "../serverless/tests/integration/aws/sns/single-topic-single-function/service/serverless.yml": [],
+    "../serverless/tests/integration/general/custom-plugins/service/serverless-plugin-greeter/main.js": [],
+    "../serverless/tests/integration/general/custom-plugins/service/handler.js": [],
+    "../serverless/tests/integration/general/custom-plugins/tests.js": [],
+    "../serverless/tests/integration/general/custom-plugins/service/serverless.yml": [],
+    "../serverless/tests/integration/general/local-plugins/service/.serverless_plugins/one.js": [],
+    "../serverless/tests/integration/general/local-plugins/service/.serverless_plugins/two/index.js": [],
+    "../serverless/tests/integration/general/local-plugins/service/serverless.yml": [],
+    "../serverless/tests/integration/general/local-plugins/service/handler.js": [],
+    "../serverless/tests/setupTests.js": [],
+    "../serverless/tests/integration/general/local-plugins/tests.js": [],
+    "../serverless/tests/templates/test_all_templates": [
+      {
+        "start": 26,
+        "end": 26
+      }
+    ],
+    "../serverless/tests/simple-suite/tests.js": [
+      {
+        "start": 72,
+        "end": 72
+      }
+    ],
+    "../serverless/tests/utils/index.js": []
   }
 }

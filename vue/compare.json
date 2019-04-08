@@ -7,9 +7,369 @@
     "../vue/README.md": {
       "userLines": 227,
       "total": 237
+    },
+    "../vue/.github/CODE_OF_CONDUCT.md": {
+      "userLines": 13,
+      "total": 14
+    },
+    "../vue/.github/COMMIT_CONVENTION.md": {
+      "userLines": 83,
+      "total": 84
+    },
+    "../vue/.github/CONTRIBUTING.md": {
+      "userLines": 138,
+      "total": 147
+    },
+    "../vue/.github/ISSUE_TEMPLATE.md": {
+      "userLines": 16,
+      "total": 17
+    },
+    "../vue/.github/PULL_REQUEST_TEMPLATE.md": {
+      "userLines": 4,
+      "total": 36
+    },
+    "../vue/benchmarks/ssr/README.md": {
+      "userLines": 1,
+      "total": 14
+    },
+    "../vue/dist/README.md": {
+      "userLines": 124,
+      "total": 125
+    },
+    "../vue/examples/todomvc/readme.md": {
+      "userLines": 22,
+      "total": 28
+    },
+    "../vue/packages/vue-server-renderer/README.md": {
+      "userLines": 6,
+      "total": 9
+    },
+    "../vue/packages/vue-template-compiler/README.md": {
+      "userLines": 98,
+      "total": 113
+    },
+    "../vue/packages/weex-template-compiler/README.md": {
+      "userLines": 2,
+      "total": 4
     }
   },
   "otherFiles": {
+    "../vue/.babelrc": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/.circleci/config.yml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/.eslintignore": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/.eslintrc": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/.flowconfig": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/LICENSE": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/benchmarks/big-table/demo.css": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/benchmarks/big-table/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/benchmarks/big-table/style.css": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../vue/benchmarks/dbmon/ENV.js": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../vue/benchmarks/dbmon/app.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/benchmarks/dbmon/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/benchmarks/dbmon/lib/memory-stats.js": {
+      "userLines": 10,
+      "total": 11
+    },
+    "../vue/benchmarks/dbmon/lib/monitor.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/benchmarks/dbmon/lib/styles.css": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/benchmarks/reorder-list/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/benchmarks/ssr/common.js": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../vue/benchmarks/ssr/renderToStream.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../vue/benchmarks/ssr/renderToString.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../vue/benchmarks/svg/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/benchmarks/uptime/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/build/alias.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/build/build.js": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../vue/build/config.js": {
+      "userLines": 16,
+      "total": 16
+    },
+    "../vue/build/gen-release-note.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/build/get-weex-version.js": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../vue/build/git-hooks/commit-msg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/build/git-hooks/pre-commit": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/build/install-hooks.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/build/release-weex.sh": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../vue/build/release.sh": {
+      "userLines": 10,
+      "total": 10
+    },
+    "../vue/dist/vue.common.js": {
+      "userLines": 1352,
+      "total": 1352
+    },
+    "../vue/dist/vue.esm.js": {
+      "userLines": 1352,
+      "total": 1352
+    },
+    "../vue/dist/vue.js": {
+      "userLines": 1352,
+      "total": 1352
+    },
+    "../vue/dist/vue.runtime.common.js": {
+      "userLines": 1098,
+      "total": 1098
+    },
+    "../vue/dist/vue.runtime.esm.js": {
+      "userLines": 1098,
+      "total": 1098
+    },
+    "../vue/dist/vue.runtime.js": {
+      "userLines": 1098,
+      "total": 1098
+    },
+    "../vue/examples/commits/app.js": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../vue/examples/commits/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/elastic-header/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/elastic-header/style.css": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/firebase/app.js": {
+      "userLines": 9,
+      "total": 9
+    },
+    "../vue/examples/firebase/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/firebase/style.css": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/grid/grid.js": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../vue/examples/grid/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/grid/style.css": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/markdown/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/markdown/style.css": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/modal/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/modal/style.css": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../vue/examples/move-animations/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/select2/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/svg/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/svg/style.css": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/svg/svg.js": {
+      "userLines": 5,
+      "total": 6
+    },
+    "../vue/examples/todomvc/app.js": {
+      "userLines": 14,
+      "total": 16
+    },
+    "../vue/examples/todomvc/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/tree/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/examples/tree/tree.js": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../vue/flow/compiler.js": {
+      "userLines": 25,
+      "total": 27
+    },
+    "../vue/flow/component.js": {
+      "userLines": 31,
+      "total": 32
+    },
+    "../vue/flow/global-api.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../vue/flow/modules.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/flow/options.js": {
+      "userLines": 8,
+      "total": 8
+    },
+    "../vue/flow/ssr.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/flow/vnode.js": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../vue/packages/vue-server-renderer/basic.js": {
+      "userLines": 1039,
+      "total": 1039
+    },
+    "../vue/packages/vue-server-renderer/build.js": {
+      "userLines": 1041,
+      "total": 1041
+    },
+    "../vue/packages/vue-server-renderer/client-plugin.js": {
+      "userLines": 9,
+      "total": 9
+    },
+    "../vue/packages/vue-server-renderer/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/packages/vue-server-renderer/server-plugin.js": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../vue/packages/vue-template-compiler/browser.js": {
+      "userLines": 727,
+      "total": 727
+    },
+    "../vue/packages/vue-template-compiler/build.js": {
+      "userLines": 657,
+      "total": 657
+    },
+    "../vue/packages/vue-template-compiler/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/packages/weex-template-compiler/build.js": {
+      "userLines": 378,
+      "total": 560
+    },
+    "../vue/packages/weex-template-compiler/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/packages/weex-vue-framework/factory.js": {
+      "userLines": 934,
+      "total": 983
+    },
+    "../vue/packages/weex-vue-framework/index.js": {
+      "userLines": 85,
+      "total": 128
+    },
     "../vue/src/compiler/codegen/events.js": {
       "userLines": 8,
       "total": 9
@@ -693,6 +1053,150 @@
     "../vue/src/shared/util.js": {
       "userLines": 82,
       "total": 92
+    },
+    "../vue/test/e2e/.eslintrc": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/e2e/runner.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/e2e/specs/async-edge-cases.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/e2e/specs/async-edge-cases.js": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../vue/test/e2e/specs/basic-ssr.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/e2e/specs/basic-ssr.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../vue/test/e2e/specs/commits.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../vue/test/e2e/specs/grid.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../vue/test/e2e/specs/markdown.js": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../vue/test/e2e/specs/modal.js": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../vue/test/e2e/specs/select2.js": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../vue/test/e2e/specs/svg.js": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../vue/test/e2e/specs/todomvc.js": {
+      "userLines": 19,
+      "total": 20
+    },
+    "../vue/test/e2e/specs/tree.js": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../vue/test/helpers/classlist.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../vue/test/helpers/test-object-option.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/helpers/to-equal.js": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../vue/test/helpers/to-have-been-warned.js": {
+      "userLines": 1,
+      "total": 2
+    },
+    "../vue/test/helpers/trigger-event.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/helpers/wait-for-update.js": {
+      "userLines": 2,
+      "total": 13
+    },
+    "../vue/test/ssr/.eslintrc": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/ssr/async-loader.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../vue/test/ssr/compile-with-webpack.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/ssr/fixtures/app.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/ssr/fixtures/async-bar.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/ssr/fixtures/async-foo.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../vue/test/ssr/fixtures/cache.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/ssr/fixtures/error.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/ssr/fixtures/nested-cache.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/ssr/fixtures/promise-rejection.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/ssr/fixtures/split.js": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../vue/test/unit/.eslintrc": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/unit/features/transition/inject-styles.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/unit/index.js": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../vue/test/weex/.eslintrc": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../vue/test/weex/helpers/index.js": {
+      "userLines": 0,
+      "total": 2
     }
   }
 }

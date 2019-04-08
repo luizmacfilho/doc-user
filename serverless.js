@@ -12,7 +12,7 @@ async function start() {
     owner: 'serverless',
     username: 'dschep',
   };
-  const directories = ['../serverless/lib'];
+  const directories = ['../serverless'];
 
   directories.forEach((dir) => {
     ownFs.findFiles(dir, content);

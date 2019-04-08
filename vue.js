@@ -12,7 +12,7 @@ async function start() {
     owner: 'vuejs',
     username: 'yyx990803',
   };
-  const directories = ['../vue/src'];
+  const directories = ['../vue'];
 
   directories.forEach((dir) => {
     ownFs.findFiles(dir, content);

@@ -11,66 +11,94 @@
     "../serverless/RELEASE_CHECKLIST.md": {
       "userLines": 1,
       "total": 48
+    },
+    "../serverless/docs/providers/aws/cli-reference/create.md": {
+      "userLines": 1,
+      "total": 117
+    },
+    "../serverless/docs/providers/aws/cli-reference/invoke-local.md": {
+      "userLines": 10,
+      "total": 134
+    },
+    "../serverless/docs/providers/aws/guide/deploying.md": {
+      "userLines": 1,
+      "total": 121
+    },
+    "../serverless/docs/providers/aws/guide/functions.md": {
+      "userLines": 18,
+      "total": 462
+    },
+    "../serverless/docs/providers/aws/guide/iam.md": {
+      "userLines": 1,
+      "total": 336
+    },
+    "../serverless/docs/providers/aws/guide/intro.md": {
+      "userLines": 4,
+      "total": 91
+    },
+    "../serverless/docs/providers/aws/guide/layers.md": {
+      "userLines": 156,
+      "total": 174
+    },
+    "../serverless/docs/providers/aws/guide/packaging.md": {
+      "userLines": 1,
+      "total": 152
+    },
+    "../serverless/docs/providers/aws/guide/plugins.md": {
+      "userLines": 2,
+      "total": 381
+    },
+    "../serverless/docs/providers/aws/guide/resources.md": {
+      "userLines": 1,
+      "total": 121
+    },
+    "../serverless/docs/providers/aws/guide/serverless.yml.md": {
+      "userLines": 3,
+      "total": 290
+    },
+    "../serverless/docs/providers/aws/guide/services.md": {
+      "userLines": 1,
+      "total": 274
+    },
+    "../serverless/docs/providers/aws/guide/testing.md": {
+      "userLines": 1,
+      "total": 111
+    },
+    "../serverless/docs/providers/aws/guide/v0_to_v1.md": {
+      "userLines": 1,
+      "total": 50
+    },
+    "../serverless/docs/providers/aws/guide/variables.md": {
+      "userLines": 17,
+      "total": 603
+    },
+    "../serverless/docs/providers/aws/guide/workflow.md": {
+      "userLines": 1,
+      "total": 74
+    },
+    "../serverless/docs/providers/azure/guide/plugins.md": {
+      "userLines": 1,
+      "total": 409
+    },
+    "../serverless/docs/providers/google/guide/plugins.md": {
+      "userLines": 1,
+      "total": 376
+    },
+    "../serverless/docs/providers/kubeless/guide/quick-start.md": {
+      "userLines": 2,
+      "total": 73
+    },
+    "../serverless/docs/providers/openwhisk/guide/plugins.md": {
+      "userLines": 1,
+      "total": 376
     }
   },
   "otherFiles": {
-    "../serverless/lib/classes/Service.js": {
-      "userLines": 0,
-      "total": 25
-    },
-    "../serverless/lib/classes/Variables.js": {
-      "userLines": 0,
-      "total": 236
-    },
-    "../serverless/lib/plugins/aws/deploy/lib/checkForChanges.js": {
-      "userLines": 0,
-      "total": 23
-    },
-    "../serverless/lib/plugins/aws/deploy/lib/uploadArtifacts.js": {
-      "userLines": 0,
-      "total": 2
-    },
-    "../serverless/lib/plugins/aws/info/display.js": {
-      "userLines": 0,
-      "total": 4
-    },
-    "../serverless/lib/plugins/aws/info/getStackInfo.js": {
-      "userLines": 1,
-      "total": 7
-    },
-    "../serverless/lib/plugins/aws/info/index.js": {
+    "../serverless/.travis.yml": {
       "userLines": 0,
       "total": 0
     },
-    "../serverless/lib/plugins/aws/invokeLocal/fixture/asyncHandlerWithSuccess.js": {
-      "userLines": 0,
-      "total": 1
-    },
-    "../serverless/lib/plugins/aws/invokeLocal/fixture/handlerWithSuccess.js": {
-      "userLines": 0,
-      "total": 0
-    },
-    "../serverless/lib/plugins/aws/invokeLocal/index.js": {
-      "userLines": 0,
-      "total": 13
-    },
-    "../serverless/lib/plugins/aws/invokeLocal/invoke.py": {
-      "userLines": 1,
-      "total": 1
-    },
-    "../serverless/lib/plugins/aws/invokeLocal/invoke.rb": {
-      "userLines": 0,
-      "total": 0
-    },
-    "../serverless/lib/plugins/aws/invokeLocal/java/pom.xml": {
-      "userLines": 0,
-      "total": 0
-    },
-    "../serverless/lib/plugins/aws/lib/naming.js": {
-      "userLines": 0,
-      "total": 43
-    },
-    "../serverless/lib/plugins/aws/lib/normalizeFiles.js": {
+    "../serverless/docker-compose.yml": {
       "userLines": 0,
       "total": 0
     },
@@ -142,6 +170,10 @@
       "userLines": 0,
       "total": 5
     },
+    "../serverless/lib/plugins/package/lib/packageService.js": {
+      "userLines": 6,
+      "total": 23
+    },
     "../serverless/lib/plugins/package/lib/zipService.js": {
       "userLines": 8,
       "total": 29
@@ -169,6 +201,18 @@
     "../serverless/lib/utils/downloadTemplateFromRepo.js": {
       "userLines": 1,
       "total": 50
+    },
+    "../serverless/scripts/prs-since-last-tag": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/tests/simple-suite/tests.js": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../serverless/tests/templates/test_all_templates": {
+      "userLines": 0,
+      "total": 0
     }
   }
 }

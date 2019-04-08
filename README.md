@@ -24,3 +24,5 @@ Durante a execução do script será criado quatro arquivos:
 Para espeficiar qual tipo de comentário deve ser avaliado em cada arquivo, vá até o arquivo `files.js` e configure no objeto `extensions`.
 
 Para ignorar arquivos, vá até o arquivo `files.js` e configure no array `ignoreFileNames`.
+
+É necessário configurar o token para a API do Github no arquivo `range.js`
