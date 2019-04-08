@@ -12,7 +12,7 @@ async function start() {
     owner: 'electron',
     username: 'nornagon',
   };
-  const directories = ['../electron/lib', '../electron/atom', '../electron/tools'];
+  const directories = ['../electron'];
 
   directories.forEach((dir) => {
     ownFs.findFiles(dir, content);

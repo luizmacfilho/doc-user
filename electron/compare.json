@@ -1,41 +1,142 @@
 {
-  "mdFiles": {},
-  "otherFiles": {
-    "../electron/lib/browser/api/web-contents.js": {
-      "userLines": 0,
-      "total": 33
+  "mdFiles": {
+    "../electron/.github/ISSUE_TEMPLATE/Bug_report.md": {
+      "userLines": 15,
+      "total": 55
     },
-    "../electron/lib/browser/guest-window-manager.js": {
-      "userLines": 0,
-      "total": 41
+    "../electron/docs/api/app.md": {
+      "userLines": 9,
+      "total": 1370
     },
-    "../electron/lib/browser/navigation-controller.js": {
-      "userLines": 12,
-      "total": 24
+    "../electron/docs/api/breaking-changes.md": {
+      "userLines": 8,
+      "total": 445
     },
-    "../electron/lib/browser/rpc-server.js": {
-      "userLines": 0,
-      "total": 29
+    "../electron/docs/api/browser-window.md": {
+      "userLines": 33,
+      "total": 1673
     },
-    "../electron/lib/common/parse-features-string.js": {
-      "userLines": 0,
-      "total": 8
+    "../electron/docs/api/crash-reporter.md": {
+      "userLines": 4,
+      "total": 159
     },
-    "../electron/lib/renderer/api/ipc-renderer.js": {
-      "userLines": 0,
-      "total": 1
+    "../electron/docs/api/debugger.md": {
+      "userLines": 2,
+      "total": 98
     },
-    "../electron/lib/renderer/init.ts": {
-      "userLines": 0,
-      "total": 29
+    "../electron/docs/api/environment-variables.md": {
+      "userLines": 1,
+      "total": 126
     },
-    "../electron/lib/renderer/ipc-renderer-internal.ts": {
-      "userLines": 0,
-      "total": 1
+    "../electron/docs/api/protocol.md": {
+      "userLines": 10,
+      "total": 407
     },
-    "../electron/lib/sandboxed_renderer/init.js": {
+    "../electron/docs/api/structures/referrer.md": {
+      "userLines": 8,
+      "total": 11
+    },
+    "../electron/docs/api/web-contents.md": {
+      "userLines": 19,
+      "total": 1735
+    },
+    "../electron/docs/api/web-frame.md": {
+      "userLines": 6,
+      "total": 307
+    },
+    "../electron/docs/development/build-instructions-gn.md": {
+      "userLines": 160,
+      "total": 270
+    },
+    "../electron/docs/development/build-instructions-linux.md": {
+      "userLines": 8,
+      "total": 123
+    },
+    "../electron/docs/development/build-instructions-macos.md": {
+      "userLines": 2,
+      "total": 44
+    },
+    "../electron/docs/development/build-instructions-windows.md": {
+      "userLines": 22,
+      "total": 116
+    },
+    "../electron/docs/development/build-system-overview.md": {
+      "userLines": 14,
+      "total": 81
+    },
+    "../electron/docs/development/debug-instructions-windows.md": {
       "userLines": 3,
-      "total": 43
+      "total": 94
+    },
+    "../electron/docs/development/debugging-instructions-macos-xcode.md": {
+      "userLines": 5,
+      "total": 28
+    },
+    "../electron/docs/development/debugging-instructions-macos.md": {
+      "userLines": 4,
+      "total": 126
+    },
+    "../electron/docs/development/source-code-directory-structure.md": {
+      "userLines": 5,
+      "total": 108
+    },
+    "../electron/docs/development/testing.md": {
+      "userLines": 4,
+      "total": 45
+    },
+    "../electron/docs/development/upgrading-node.md": {
+      "userLines": 67,
+      "total": 122
+    },
+    "../electron/docs/tutorial/application-distribution.md": {
+      "userLines": 3,
+      "total": 163
+    },
+    "../electron/docs/tutorial/security.md": {
+      "userLines": 1,
+      "total": 845
+    },
+    "../electron/docs/tutorial/using-native-node-modules.md": {
+      "userLines": 41,
+      "total": 156
+    },
+    "../electron/patches/common/v8/README.md": {
+      "userLines": 27,
+      "total": 28
+    }
+  },
+  "otherFiles": {
+    "../electron/.circleci/config.yml": {
+      "userLines": 0,
+      "total": 71
+    },
+    "../electron/.dockerignore": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/.gitattributes": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/.github/CODEOWNERS": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/BUILD.gn": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/DEPS": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/Dockerfile": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/appveyor.yml": {
+      "userLines": 1,
+      "total": 25
     },
     "../electron/atom/app/atom_content_client.cc": {
       "userLines": 3,
@@ -436,10 +537,6 @@
     "../electron/atom/browser/mac/in_app_purchase_observer.h": {
       "userLines": 0,
       "total": 9
-    },
-    "../electron/atom/browser/mac/in_app_purchase_observer.mm": {
-      "userLines": 0,
-      "total": 0
     },
     "../electron/atom/browser/mac/in_app_purchase_product.h": {
       "userLines": 0,
@@ -1204,6 +1301,670 @@
     "../electron/atom/utility/atom_content_utility_client.h": {
       "userLines": 0,
       "total": 5
+    },
+    "../electron/build/args/all.gn": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/build/args/debug.gn": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/build/args/release.gn": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/build/asar.gni": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/build/config/BUILD.gn": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/build/electron.def": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/build/install-build-deps.sh": {
+      "userLines": 70,
+      "total": 70
+    },
+    "../electron/build/mac/make_locale_dirs.py": {
+      "userLines": 9,
+      "total": 9
+    },
+    "../electron/build/npm-run.py": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../electron/build/npm.gni": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/build/run-in-dir.py": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/build/zip.py": {
+      "userLines": 4,
+      "total": 13
+    },
+    "../electron/chromium_src/BUILD.gn": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/chromium_src/chrome/browser/process_singleton_posix.cc": {
+      "userLines": 0,
+      "total": 207
+    },
+    "../electron/electron_paks.gni": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/electron_resources.grd": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/electron_strings.grdp": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/filenames.gni": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/lib/browser/api/web-contents.js": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../electron/lib/browser/guest-window-manager.js": {
+      "userLines": 0,
+      "total": 41
+    },
+    "../electron/lib/browser/navigation-controller.js": {
+      "userLines": 12,
+      "total": 24
+    },
+    "../electron/lib/browser/rpc-server.js": {
+      "userLines": 0,
+      "total": 29
+    },
+    "../electron/lib/common/parse-features-string.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/lib/renderer/api/ipc-renderer.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../electron/lib/renderer/init.ts": {
+      "userLines": 0,
+      "total": 29
+    },
+    "../electron/lib/renderer/ipc-renderer-internal.ts": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../electron/lib/sandboxed_renderer/init.js": {
+      "userLines": 3,
+      "total": 43
+    },
+    "../electron/native_mate/BUILD.gn": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/native_mate/native_mate/constructor.h": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../electron/native_mate/native_mate/converter.h": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../electron/native_mate/native_mate/dictionary.cc": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../electron/native_mate/native_mate/dictionary.h": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../electron/native_mate/native_mate/persistent_dictionary.cc": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../electron/native_mate/native_mate/persistent_dictionary.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/native_mate/native_mate/wrappable.h": {
+      "userLines": 1,
+      "total": 15
+    },
+    "../electron/patches/common/boringssl/.patches": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/boringssl/expose_aes-cfb.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/boringssl/expose_ripemd160.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/.patches": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/accelerator.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/add_realloc.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/allow_nested_error_trackers.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/allow_webview_file_url.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/blink-worker-enable-csp-in-file-scheme.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/blink_file_path.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/blink_fix_prototype_assert.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/blink_initialization_order.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/blink_local_frame.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/blink_world_context.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/boringssl_build_gn.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/browser_compositor_mac.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/build_gn.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/can_create_window.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/chrome_key_systems.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/command-ismediakey.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/compositor_delegate.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/content_allow_embedder_to_prevent_locking_scheme_registry.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/content_browser_main_loop.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/cross_site_document_resource_handler.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/dcheck.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/desktop_media_list.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/disable-redraw-lock.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/disable_color_correct_rendering.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/disable_detach_webview_frame.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/disable_hidden.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/disable_time_ticks_dcheck.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/disable_user_gesture_requirement_for_beforeunload_dialogs.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/dom_storage_limits.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/dump_syms.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/enable_widevine.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/expose-net-observer-api.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/fix_disable_usage_of_pthread_fchdir_np_and_pthread_chdir_np_in_mas.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/fix_disable_usage_of_setapplicationisdaemon_and.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/frame_host_manager.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/gin_enable_disable_v8_platform.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/gritsettings_resource_ids.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/gtk_visibility.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/ignore_rc_check.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/isolate_holder.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/libgtkui_export.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/mas-audiodeviceduck.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/mas-cfisobjc.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/mas-cgdisplayusesforcetogray.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/mas-lssetapplicationlaunchservicesserverconnectionstatus.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/mas_blink_no_private_api.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/mas_no_private_api.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/no_cache_storage_check.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/notification_provenance.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/out_of_process_instance.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/pepper_flash.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/printing.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/proxy_config_monitor.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/render_widget_host_view_base.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/render_widget_host_view_mac.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/resource_file_conflict.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/scroll_bounce_flag.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/ssl_security_state_tab_helper.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/stream_resource_handler.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/support_mixed_sandbox_with_zygote.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/sysroot.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/thread_capabilities.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/tts.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/v8_context_snapshot_generator.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/verbose_generate_breakpad_symbols.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/web_contents.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/webview_cross_drag.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/chromium/worker_context_will_destroy.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/ffmpeg/.patches": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/ffmpeg/build_gn.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/v8/.patches": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/v8/add_realloc.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/v8/build_gn.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/v8/dcheck.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/v8/deps_backport_detailed_line_info_for_cpu_profiler.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/common/v8/expose_mksnapshot.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/chromium/.patches.yaml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/chromium/Add-mips64el-redhat-linux-to-gcc_toolchain-for-mips6.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/chromium/Add-support-for-using-seccomp_bpf-on-mips64el.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/chromium/Fix-error-about-relocation-truncated-to-fit-R_MIPS_C.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/chromium/Fix-mips-cross-toolchain-build-src-crypto-ec-p256-64.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/chromium/Set-kernal-page-size-to-16K-on-loongson-MIPS-archtec.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/chromium/backport-sqlite-3d8ec48.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/chromium/backport-sqlite-8a87f7e.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/chromium/backport-sqlite-9851f2e.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/chromium/support-old-nss.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/ffmpeg/.patches.yaml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/ffmpeg/Fix-build_ffmpeg-with-cross-prefix-mips64el-redhat-l.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/v8/.patches.yaml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/patches/mips64el/v8/Fix-v8-loongson-page-size.patch": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/script/apply_all_patches.py": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../electron/script/dbus_mock.py": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../electron/script/dump-symbols.py": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../electron/script/git-export-patches": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/script/git-import-patches": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/script/lib/git.py": {
+      "userLines": 3,
+      "total": 5
+    },
+    "../electron/script/lib/patches.py": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../electron/script/lib/util.py": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/script/lib/utils.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/script/lint.js": {
+      "userLines": 3,
+      "total": 10
+    },
+    "../electron/script/release-notes/notes.js": {
+      "userLines": 0,
+      "total": 93
+    },
+    "../electron/script/run-clang-format.py": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../electron/script/upload-symbols.py": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/script/upload.py": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/script/verify-ffmpeg.py": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../electron/spec/api-browser-window-affinity-spec.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/spec/api-browser-window-spec.js": {
+      "userLines": 10,
+      "total": 99
+    },
+    "../electron/spec/api-debugger-spec.js": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/spec/api-ipc-renderer-spec.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/spec/api-native-image-spec.js": {
+      "userLines": 0,
+      "total": 31
+    },
+    "../electron/spec/api-protocol-spec.js": {
+      "userLines": 1,
+      "total": 73
+    },
+    "../electron/spec/api-remote-spec.js": {
+      "userLines": 0,
+      "total": 2
+    },
+    "../electron/spec/api-session-spec.js": {
+      "userLines": 1,
+      "total": 46
+    },
+    "../electron/spec/api-web-contents-spec.js": {
+      "userLines": 18,
+      "total": 55
+    },
+    "../electron/spec/api-web-frame-spec.js": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/spec/chromium-spec.js": {
+      "userLines": 3,
+      "total": 51
+    },
+    "../electron/spec/fixtures/api/singleton/main.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../electron/spec/fixtures/no-proprietary-codecs.js": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../electron/spec/fixtures/pages/a.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/spec/fixtures/pages/webframe-spell-check.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/spec/internal-spec.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/spec/modules-spec.js": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../electron/spec/node-spec.js": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/spec/static/main.js": {
+      "userLines": 0,
+      "total": 24
+    },
+    "../electron/spec/webview-spec.js": {
+      "userLines": 0,
+      "total": 113
+    },
+    "../electron/spec-main/api-app-spec.ts": {
+      "userLines": 14,
+      "total": 81
+    },
+    "../electron/spec-main/api-web-contents-spec.ts": {
+      "userLines": 0,
+      "total": 0
     },
     "../electron/tools/js2c.py": {
       "userLines": 0,
