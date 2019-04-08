@@ -1,0 +1,1554 @@
+{
+  "mdFiles": {
+    "../bootstrap/CODE_OF_CONDUCT.md": {
+      "userLines": 3,
+      "total": 47
+    },
+    "../bootstrap/README.md": {
+      "userLines": 33,
+      "total": 210
+    },
+    "../bootstrap/.github/CONTRIBUTING.md": {
+      "userLines": 15,
+      "total": 239
+    },
+    "../bootstrap/js/tests/README.md": {
+      "userLines": 2,
+      "total": 70
+    },
+    "../bootstrap/site/content/404.md": {
+      "userLines": 5,
+      "total": 14
+    },
+    "../bootstrap/site/content/docs/4.3/about/brand.md": {
+      "userLines": 5,
+      "total": 79
+    },
+    "../bootstrap/site/content/docs/4.3/about/license.md": {
+      "userLines": 2,
+      "total": 35
+    },
+    "../bootstrap/site/content/docs/4.3/about/overview.md": {
+      "userLines": 6,
+      "total": 28
+    },
+    "../bootstrap/site/content/docs/4.3/about/team.md": {
+      "userLines": 23,
+      "total": 24
+    },
+    "../bootstrap/site/content/docs/4.3/about/translations.md": {
+      "userLines": 5,
+      "total": 21
+    },
+    "../bootstrap/site/content/docs/4.3/browser-bugs.md": {
+      "userLines": 7,
+      "total": 51
+    },
+    "../bootstrap/site/content/docs/4.3/components/alerts.md": {
+      "userLines": 37,
+      "total": 138
+    },
+    "../bootstrap/site/content/docs/4.3/components/badge.md": {
+      "userLines": 19,
+      "total": 66
+    },
+    "../bootstrap/site/content/docs/4.3/components/breadcrumb.md": {
+      "userLines": 7,
+      "total": 58
+    },
+    "../bootstrap/site/content/docs/4.3/components/button-group.md": {
+      "userLines": 16,
+      "total": 203
+    },
+    "../bootstrap/site/content/docs/4.3/components/buttons.md": {
+      "userLines": 43,
+      "total": 176
+    },
+    "../bootstrap/site/content/docs/4.3/components/card.md": {
+      "userLines": 108,
+      "total": 689
+    },
+    "../bootstrap/site/content/docs/4.3/components/carousel.md": {
+      "userLines": 45,
+      "total": 351
+    },
+    "../bootstrap/site/content/docs/4.3/components/collapse.md": {
+      "userLines": 22,
+      "total": 245
+    },
+    "../bootstrap/site/content/docs/4.3/components/dropdowns.md": {
+      "userLines": 66,
+      "total": 889
+    },
+    "../bootstrap/site/content/docs/4.3/components/forms.md": {
+      "userLines": 138,
+      "total": 1334
+    },
+    "../bootstrap/site/content/docs/4.3/components/input-group.md": {
+      "userLines": 22,
+      "total": 365
+    },
+    "../bootstrap/site/content/docs/4.3/components/jumbotron.md": {
+      "userLines": 4,
+      "total": 30
+    },
+    "../bootstrap/site/content/docs/4.3/components/list-group.md": {
+      "userLines": 63,
+      "total": 392
+    },
+    "../bootstrap/site/content/docs/4.3/components/media-object.md": {
+      "userLines": 33,
+      "total": 137
+    },
+    "../bootstrap/site/content/docs/4.3/components/modal.md": {
+      "userLines": 49,
+      "total": 851
+    },
+    "../bootstrap/site/content/docs/4.3/components/navbar.md": {
+      "userLines": 62,
+      "total": 561
+    },
+    "../bootstrap/site/content/docs/4.3/components/navs.md": {
+      "userLines": 62,
+      "total": 653
+    },
+    "../bootstrap/site/content/docs/4.3/components/pagination.md": {
+      "userLines": 17,
+      "total": 167
+    },
+    "../bootstrap/site/content/docs/4.3/components/popovers.md": {
+      "userLines": 47,
+      "total": 378
+    },
+    "../bootstrap/site/content/docs/4.3/components/progress.md": {
+      "userLines": 17,
+      "total": 140
+    },
+    "../bootstrap/site/content/docs/4.3/components/scrollspy.md": {
+      "userLines": 27,
+      "total": 344
+    },
+    "../bootstrap/site/content/docs/4.3/components/spinners.md": {
+      "userLines": 48,
+      "total": 178
+    },
+    "../bootstrap/site/content/docs/4.3/components/toasts.md": {
+      "userLines": 39,
+      "total": 326
+    },
+    "../bootstrap/site/content/docs/4.3/components/tooltips.md": {
+      "userLines": 45,
+      "total": 384
+    },
+    "../bootstrap/site/content/docs/4.3/content/code.md": {
+      "userLines": 10,
+      "total": 51
+    },
+    "../bootstrap/site/content/docs/4.3/content/figures.md": {
+      "userLines": 26,
+      "total": 27
+    },
+    "../bootstrap/site/content/docs/4.3/content/images.md": {
+      "userLines": 77,
+      "total": 78
+    },
+    "../bootstrap/site/content/docs/4.3/content/reboot.md": {
+      "userLines": 22,
+      "total": 366
+    },
+    "../bootstrap/site/content/docs/4.3/content/tables.md": {
+      "userLines": 129,
+      "total": 841
+    },
+    "../bootstrap/site/content/docs/4.3/content/typography.md": {
+      "userLines": 37,
+      "total": 290
+    },
+    "../bootstrap/site/content/docs/4.3/examples/_index.md": {
+      "userLines": 8,
+      "total": 9
+    },
+    "../bootstrap/site/content/docs/4.3/extend/approach.md": {
+      "userLines": 8,
+      "total": 79
+    },
+    "../bootstrap/site/content/docs/4.3/extend/icons.md": {
+      "userLines": 4,
+      "total": 30
+    },
+    "../bootstrap/site/content/docs/4.3/getting-started/accessibility.md": {
+      "userLines": 7,
+      "total": 58
+    },
+    "../bootstrap/site/content/docs/4.3/getting-started/best-practices.md": {
+      "userLines": 3,
+      "total": 21
+    },
+    "../bootstrap/site/content/docs/4.3/getting-started/browsers-devices.md": {
+      "userLines": 18,
+      "total": 181
+    },
+    "../bootstrap/site/content/docs/4.3/getting-started/build-tools.md": {
+      "userLines": 14,
+      "total": 53
+    },
+    "../bootstrap/site/content/docs/4.3/getting-started/contents.md": {
+      "userLines": 17,
+      "total": 143
+    },
+    "../bootstrap/site/content/docs/4.3/getting-started/download.md": {
+      "userLines": 37,
+      "total": 109
+    },
+    "../bootstrap/site/content/docs/4.3/getting-started/introduction.md": {
+      "userLines": 42,
+      "total": 129
+    },
+    "../bootstrap/site/content/docs/4.3/getting-started/javascript.md": {
+      "userLines": 52,
+      "total": 223
+    },
+    "../bootstrap/site/content/docs/4.3/getting-started/theming.md": {
+      "userLines": 70,
+      "total": 452
+    },
+    "../bootstrap/site/content/docs/4.3/getting-started/webpack.md": {
+      "userLines": 49,
+      "total": 92
+    },
+    "../bootstrap/site/content/docs/4.3/layout/grid.md": {
+      "userLines": 70,
+      "total": 804
+    },
+    "../bootstrap/site/content/docs/4.3/layout/overview.md": {
+      "userLines": 27,
+      "total": 192
+    },
+    "../bootstrap/site/content/docs/4.3/layout/utilities-for-layout.md": {
+      "userLines": 25,
+      "total": 26
+    },
+    "../bootstrap/site/content/docs/4.3/migration.md": {
+      "userLines": 21,
+      "total": 338
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/borders.md": {
+      "userLines": 26,
+      "total": 92
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/clearfix.md": {
+      "userLines": 6,
+      "total": 38
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/close-icon.md": {
+      "userLines": 2,
+      "total": 15
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/colors.md": {
+      "userLines": 35,
+      "total": 71
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/display.md": {
+      "userLines": 9,
+      "total": 99
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/embed.md": {
+      "userLines": 7,
+      "total": 61
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/flex.md": {
+      "userLines": 153,
+      "total": 613
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/float.md": {
+      "userLines": 16,
+      "total": 41
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/overflow.md": {
+      "userLines": 2,
+      "total": 25
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/position.md": {
+      "userLines": 8,
+      "total": 46
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/screen-readers.md": {
+      "userLines": 6,
+      "total": 21
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/shadows.md": {
+      "userLines": 3,
+      "total": 18
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/sizing.md": {
+      "userLines": 13,
+      "total": 53
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/spacing.md": {
+      "userLines": 9,
+      "total": 105
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/stretched-link.md": {
+      "userLines": 13,
+      "total": 77
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/text.md": {
+      "userLines": 27,
+      "total": 122
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/vertical-align.md": {
+      "userLines": 5,
+      "total": 39
+    },
+    "../bootstrap/site/content/docs/4.3/utilities/visibility.md": {
+      "userLines": 4,
+      "total": 26
+    },
+    "../bootstrap/site/content/docs/versions.md": {
+      "userLines": 6,
+      "total": 7
+    },
+    "../bootstrap/site/layouts/partials/callout-danger-async-methods.md": {
+      "userLines": 2,
+      "total": 6
+    },
+    "../bootstrap/site/layouts/partials/callout-info-prefersreducedmotion.md": {
+      "userLines": 1,
+      "total": 2
+    }
+  },
+  "otherFiles": {
+    "../bootstrap/.browserslistrc": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/.editorconfig": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/.eslintignore": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/.gitattributes": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/.stylelintignore": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/.stylelintrc": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/.travis.yml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/LICENSE": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/build/banner.js": {
+      "userLines": 1,
+      "total": 5
+    },
+    "../bootstrap/build/build-plugins.js": {
+      "userLines": 5,
+      "total": 9
+    },
+    "../bootstrap/build/change-version.js": {
+      "userLines": 2,
+      "total": 8
+    },
+    "../bootstrap/build/generate-sri.js": {
+      "userLines": 12,
+      "total": 12
+    },
+    "../bootstrap/build/ship.sh": {
+      "userLines": 1,
+      "total": 16
+    },
+    "../bootstrap/build/svgo.yml": {
+      "userLines": 7,
+      "total": 7
+    },
+    "../bootstrap/build/vnu-jar.js": {
+      "userLines": 13,
+      "total": 18
+    },
+    "../bootstrap/config.yml": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../bootstrap/dist/css/bootstrap-grid.css": {
+      "userLines": 1,
+      "total": 10
+    },
+    "../bootstrap/dist/css/bootstrap-grid.css.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/dist/css/bootstrap-reboot.css": {
+      "userLines": 1,
+      "total": 11
+    },
+    "../bootstrap/dist/css/bootstrap-reboot.css.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/dist/css/bootstrap.css": {
+      "userLines": 10,
+      "total": 25
+    },
+    "../bootstrap/dist/css/bootstrap.css.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/dist/js/bootstrap.bundle.js": {
+      "userLines": 392,
+      "total": 1498
+    },
+    "../bootstrap/dist/js/bootstrap.bundle.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/dist/js/bootstrap.esm.js": {
+      "userLines": 476,
+      "total": 476
+    },
+    "../bootstrap/dist/js/bootstrap.esm.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/dist/js/bootstrap.js": {
+      "userLines": 385,
+      "total": 469
+    },
+    "../bootstrap/dist/js/bootstrap.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/alert.js": {
+      "userLines": 34,
+      "total": 42
+    },
+    "../bootstrap/js/dist/alert.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/button.js": {
+      "userLines": 31,
+      "total": 38
+    },
+    "../bootstrap/js/dist/button.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/carousel.js": {
+      "userLines": 48,
+      "total": 58
+    },
+    "../bootstrap/js/dist/carousel.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/collapse.js": {
+      "userLines": 38,
+      "total": 46
+    },
+    "../bootstrap/js/dist/collapse.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/dom/data.js": {
+      "userLines": 17,
+      "total": 17
+    },
+    "../bootstrap/js/dist/dom/data.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/dom/eventhandler.js": {
+      "userLines": 35,
+      "total": 35
+    },
+    "../bootstrap/js/dist/dom/eventhandler.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/dom/manipulator.js": {
+      "userLines": 12,
+      "total": 12
+    },
+    "../bootstrap/js/dist/dom/manipulator.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/dom/polyfill.js": {
+      "userLines": 28,
+      "total": 28
+    },
+    "../bootstrap/js/dist/dom/polyfill.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/dom/selectorengine.js": {
+      "userLines": 24,
+      "total": 24
+    },
+    "../bootstrap/js/dist/dom/selectorengine.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/dropdown.js": {
+      "userLines": 64,
+      "total": 72
+    },
+    "../bootstrap/js/dist/dropdown.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/modal.js": {
+      "userLines": 53,
+      "total": 62
+    },
+    "../bootstrap/js/dist/modal.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/popover.js": {
+      "userLines": 26,
+      "total": 34
+    },
+    "../bootstrap/js/dist/popover.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/scrollspy.js": {
+      "userLines": 41,
+      "total": 49
+    },
+    "../bootstrap/js/dist/scrollspy.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/tab.js": {
+      "userLines": 34,
+      "total": 42
+    },
+    "../bootstrap/js/dist/tab.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/toast.js": {
+      "userLines": 34,
+      "total": 37
+    },
+    "../bootstrap/js/dist/toast.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/dist/tooltip.js": {
+      "userLines": 69,
+      "total": 80
+    },
+    "../bootstrap/js/dist/tooltip.js.map": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/src/alert.js": {
+      "userLines": 1,
+      "total": 31
+    },
+    "../bootstrap/js/src/button.js": {
+      "userLines": 2,
+      "total": 30
+    },
+    "../bootstrap/js/src/carousel.js": {
+      "userLines": 3,
+      "total": 47
+    },
+    "../bootstrap/js/src/collapse.js": {
+      "userLines": 1,
+      "total": 35
+    },
+    "../bootstrap/js/src/dom/data.js": {
+      "userLines": 1,
+      "total": 11
+    },
+    "../bootstrap/js/src/dom/eventHandler.js": {
+      "userLines": 2,
+      "total": 22
+    },
+    "../bootstrap/js/src/dom/manipulator.js": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../bootstrap/js/src/dom/polyfill.js": {
+      "userLines": 1,
+      "total": 8
+    },
+    "../bootstrap/js/src/dom/selectorEngine.js": {
+      "userLines": 1,
+      "total": 11
+    },
+    "../bootstrap/js/src/dropdown.js": {
+      "userLines": 6,
+      "total": 64
+    },
+    "../bootstrap/js/src/modal.js": {
+      "userLines": 2,
+      "total": 51
+    },
+    "../bootstrap/js/src/popover.js": {
+      "userLines": 1,
+      "total": 26
+    },
+    "../bootstrap/js/src/scrollspy.js": {
+      "userLines": 1,
+      "total": 34
+    },
+    "../bootstrap/js/src/tab.js": {
+      "userLines": 1,
+      "total": 31
+    },
+    "../bootstrap/js/src/toast.js": {
+      "userLines": 1,
+      "total": 26
+    },
+    "../bootstrap/js/src/tooltip.js": {
+      "userLines": 1,
+      "total": 41
+    },
+    "../bootstrap/js/src/util/index.js": {
+      "userLines": 0,
+      "total": 20
+    },
+    "../bootstrap/js/src/util/sanitizer.js": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../bootstrap/js/tests/browsers.js": {
+      "userLines": 0,
+      "total": 2
+    },
+    "../bootstrap/js/tests/integration/bundle.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/tests/integration/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/tests/karma.conf.js": {
+      "userLines": 1,
+      "total": 9
+    },
+    "../bootstrap/js/tests/unit/alert.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../bootstrap/js/tests/unit/button.js": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../bootstrap/js/tests/unit/carousel.js": {
+      "userLines": 1,
+      "total": 4
+    },
+    "../bootstrap/js/tests/unit/collapse.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../bootstrap/js/tests/unit/dropdown.js": {
+      "userLines": 8,
+      "total": 17
+    },
+    "../bootstrap/js/tests/unit/modal.js": {
+      "userLines": 4,
+      "total": 10
+    },
+    "../bootstrap/js/tests/unit/popover.js": {
+      "userLines": 2,
+      "total": 5
+    },
+    "../bootstrap/js/tests/unit/scrollspy.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../bootstrap/js/tests/unit/tab.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../bootstrap/js/tests/unit/toast.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../bootstrap/js/tests/unit/tooltip.js": {
+      "userLines": 1,
+      "total": 15
+    },
+    "../bootstrap/js/tests/unit/util/index.js": {
+      "userLines": 1,
+      "total": 3
+    },
+    "../bootstrap/js/tests/visual/alert.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/tests/visual/button.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/tests/visual/carousel.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/tests/visual/collapse.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/tests/visual/dropdown.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/tests/visual/modal.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/tests/visual/popover.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/tests/visual/scrollspy.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/tests/visual/tab.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/tests/visual/toast.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/js/tests/visual/tooltip.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/nuget/MyGet.ps1": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/nuget/bootstrap.nuspec": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/nuget/bootstrap.sass.nuspec": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/package.js": {
+      "userLines": 1,
+      "total": 3
+    },
+    "../bootstrap/scss/_breadcrumb.scss": {
+      "userLines": 7,
+      "total": 9
+    },
+    "../bootstrap/scss/_button-group.scss": {
+      "userLines": 1,
+      "total": 33
+    },
+    "../bootstrap/scss/_buttons.scss": {
+      "userLines": 2,
+      "total": 22
+    },
+    "../bootstrap/scss/_card.scss": {
+      "userLines": 2,
+      "total": 42
+    },
+    "../bootstrap/scss/_close.scss": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../bootstrap/scss/_custom-forms.scss": {
+      "userLines": 2,
+      "total": 58
+    },
+    "../bootstrap/scss/_dropdown.scss": {
+      "userLines": 3,
+      "total": 26
+    },
+    "../bootstrap/scss/_forms.scss": {
+      "userLines": 1,
+      "total": 80
+    },
+    "../bootstrap/scss/_input-group.scss": {
+      "userLines": 1,
+      "total": 36
+    },
+    "../bootstrap/scss/_modal.scss": {
+      "userLines": 2,
+      "total": 42
+    },
+    "../bootstrap/scss/_navbar.scss": {
+      "userLines": 1,
+      "total": 52
+    },
+    "../bootstrap/scss/_pagination.scss": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../bootstrap/scss/_print.scss": {
+      "userLines": 7,
+      "total": 37
+    },
+    "../bootstrap/scss/_reboot.scss": {
+      "userLines": 2,
+      "total": 182
+    },
+    "../bootstrap/scss/_spinners.scss": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../bootstrap/scss/_tables.scss": {
+      "userLines": 1,
+      "total": 29
+    },
+    "../bootstrap/scss/_tooltip.scss": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../bootstrap/scss/_type.scss": {
+      "userLines": 1,
+      "total": 21
+    },
+    "../bootstrap/scss/_variables.scss": {
+      "userLines": 4,
+      "total": 116
+    },
+    "../bootstrap/scss/bootstrap-grid.scss": {
+      "userLines": 3,
+      "total": 9
+    },
+    "../bootstrap/scss/bootstrap-reboot.scss": {
+      "userLines": 3,
+      "total": 7
+    },
+    "../bootstrap/scss/bootstrap.scss": {
+      "userLines": 3,
+      "total": 6
+    },
+    "../bootstrap/scss/mixins/_background-variant.scss": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../bootstrap/scss/mixins/_forms.scss": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../bootstrap/scss/mixins/_grid-framework.scss": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../bootstrap/scss/mixins/_grid.scss": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../bootstrap/scss/mixins/_reset-text.scss": {
+      "userLines": 0,
+      "total": 2
+    },
+    "../bootstrap/scss/mixins/_screen-reader.scss": {
+      "userLines": 2,
+      "total": 9
+    },
+    "../bootstrap/scss/mixins/_text-emphasis.scss": {
+      "userLines": 1,
+      "total": 2
+    },
+    "../bootstrap/scss/utilities/_align.scss": {
+      "userLines": 1,
+      "total": 2
+    },
+    "../bootstrap/scss/utilities/_background.scss": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../bootstrap/scss/utilities/_borders.scss": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../bootstrap/scss/utilities/_display.scss": {
+      "userLines": 1,
+      "total": 7
+    },
+    "../bootstrap/scss/utilities/_flex.scss": {
+      "userLines": 1,
+      "total": 4
+    },
+    "../bootstrap/scss/utilities/_position.scss": {
+      "userLines": 1,
+      "total": 3
+    },
+    "../bootstrap/scss/utilities/_sizing.scss": {
+      "userLines": 1,
+      "total": 3
+    },
+    "../bootstrap/scss/utilities/_spacing.scss": {
+      "userLines": 1,
+      "total": 4
+    },
+    "../bootstrap/scss/utilities/_text.scss": {
+      "userLines": 1,
+      "total": 12
+    },
+    "../bootstrap/site/content/docs/4.3/_index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/.stylelintrc": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/album/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/blog/blog.css": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../bootstrap/site/content/docs/4.3/examples/blog/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/carousel/carousel.css": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../bootstrap/site/content/docs/4.3/examples/carousel/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/checkout/form-validation.js": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../bootstrap/site/content/docs/4.3/examples/checkout/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/cover/cover.css": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../bootstrap/site/content/docs/4.3/examples/cover/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/dashboard/dashboard.js": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../bootstrap/site/content/docs/4.3/examples/dashboard/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/floating-labels/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/grid/grid.css": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/grid/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/jumbotron/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/navbar-bottom/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/navbar-fixed/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/navbar-static/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/navbars/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/offcanvas/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/offcanvas/offcanvas.css": {
+      "userLines": 0,
+      "total": 2
+    },
+    "../bootstrap/site/content/docs/4.3/examples/offcanvas/offcanvas.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/pricing/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/product/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/sign-in/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/sign-in/signin.css": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/starter-template/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/sticky-footer/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/sticky-footer-navbar/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/content/docs/4.3/examples/sticky-footer-navbar/sticky-footer-navbar.css": {
+      "userLines": 0,
+      "total": 2
+    },
+    "../bootstrap/site/content/docs/_index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/data/browser-bugs.yml": {
+      "userLines": 1,
+      "total": 84
+    },
+    "../bootstrap/site/data/browser-features.yml": {
+      "userLines": 3,
+      "total": 31
+    },
+    "../bootstrap/site/data/core-team.yml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/data/docs-versions.yml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/data/examples.yml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/data/nav.yml": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../bootstrap/site/data/translations.yml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/_default/404.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/_default/docs.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/_default/examples.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/_default/home.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/_default/redirect.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/_default/single.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/alias.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/analytics.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/bugify.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/docs-navbar.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/docs-sidebar.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/favicons.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/footer.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/getting-started/components-requiring-javascript.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/header.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/home/masthead-followup.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/home/masthead.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/icons/bootstrap-stack.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/icons/bootstrap.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/icons/download.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/icons/github.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/icons/import.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/icons/lightning.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/icons/menu.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/icons/opencollective.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/icons/slack.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/icons/twitter.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/scripts.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/social.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/partials/stylesheet.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/shortcodes/callout.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/shortcodes/docsref.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/shortcodes/example.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/shortcodes/list-examples.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/shortcodes/list-versions.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/shortcodes/markdown.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/shortcodes/partial.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/shortcodes/placeholder.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/shortcodes/year.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/layouts/sitemap.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/CNAME": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/brand/bootstrap-outline.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/brand/bootstrap-punchout.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/brand/bootstrap-social-logo.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/brand/bootstrap-social.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/brand/bootstrap-solid.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/bootstrap-themes.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/bootstrap-themes@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/album.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/album@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/blog.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/blog@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/carousel.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/carousel@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/checkout.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/checkout@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/cover.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/cover@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/dashboard.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/dashboard@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/floating-labels.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/floating-labels@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/grid.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/grid@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/jumbotron.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/jumbotron@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/navbar-bottom.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/navbar-bottom@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/navbar-fixed.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/navbar-fixed@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/navbar-static.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/navbar-static@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/navbars.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/navbars@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/offcanvas.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/offcanvas@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/pricing.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/pricing@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/product.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/product@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/sign-in.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/sign-in@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/starter-template.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/starter-template@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/sticky-footer-navbar.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/sticky-footer-navbar@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/sticky-footer.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/examples/sticky-footer@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/android-chrome-192x192.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/android-chrome-512x512.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/apple-touch-icon.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/browserconfig.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/favicon-16x16.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/favicon-32x32.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/favicon.ico": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/mstile-144x144.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/mstile-150x150.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/mstile-310x150.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/mstile-310x310.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/mstile-70x70.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/img/favicons/safari-pinned-tab.svg": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/js/src/application.js": {
+      "userLines": 19,
+      "total": 25
+    },
+    "../bootstrap/site/static/docs/4.3/assets/js/src/search.js": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_ads.scss": {
+      "userLines": 1,
+      "total": 4
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_algolia.scss": {
+      "userLines": 1,
+      "total": 8
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_anchor.scss": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_brand.scss": {
+      "userLines": 2,
+      "total": 11
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_buttons.scss": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_callouts.scss": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_clipboard-js.scss": {
+      "userLines": 2,
+      "total": 3
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_component-examples.scss": {
+      "userLines": 2,
+      "total": 28
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_content.scss": {
+      "userLines": 1,
+      "total": 10
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_footer.scss": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_masthead.scss": {
+      "userLines": 1,
+      "total": 2
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_nav.scss": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_placeholder-img.scss": {
+      "userLines": 1,
+      "total": 4
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_sidebar.scss": {
+      "userLines": 3,
+      "total": 13
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/_syntax.scss": {
+      "userLines": 71,
+      "total": 71
+    },
+    "../bootstrap/site/static/docs/4.3/assets/scss/docs.scss": {
+      "userLines": 5,
+      "total": 26
+    },
+    "../bootstrap/site/static/favicon.ico": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bootstrap/site/static/sw.js": {
+      "userLines": 4,
+      "total": 4
+    }
+  }
+}

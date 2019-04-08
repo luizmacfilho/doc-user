@@ -1,0 +1,1213 @@
+{
+  "mdFiles": {},
+  "otherFiles": {
+    "../electron/lib/browser/api/web-contents.js": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../electron/lib/browser/guest-window-manager.js": {
+      "userLines": 0,
+      "total": 41
+    },
+    "../electron/lib/browser/navigation-controller.js": {
+      "userLines": 12,
+      "total": 24
+    },
+    "../electron/lib/browser/rpc-server.js": {
+      "userLines": 0,
+      "total": 29
+    },
+    "../electron/lib/common/parse-features-string.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/lib/renderer/api/ipc-renderer.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../electron/lib/renderer/init.ts": {
+      "userLines": 0,
+      "total": 29
+    },
+    "../electron/lib/renderer/ipc-renderer-internal.ts": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../electron/lib/sandboxed_renderer/init.js": {
+      "userLines": 3,
+      "total": 43
+    },
+    "../electron/atom/app/atom_content_client.cc": {
+      "userLines": 3,
+      "total": 28
+    },
+    "../electron/atom/app/atom_content_client.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/app/atom_main.cc": {
+      "userLines": 1,
+      "total": 37
+    },
+    "../electron/atom/app/atom_main_delegate.cc": {
+      "userLines": 3,
+      "total": 35
+    },
+    "../electron/atom/app/atom_main_delegate.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/app/atom_main_delegate_mac.h": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../electron/atom/app/atom_main_delegate_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/app/command_line_args.cc": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/app/manifests.cc": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../electron/atom/app/node_main.cc": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../electron/atom/app/uv_task_runner.h": {
+      "userLines": 1,
+      "total": 8
+    },
+    "../electron/atom/browser/api/atom_api_app.cc": {
+      "userLines": 0,
+      "total": 56
+    },
+    "../electron/atom/browser/api/atom_api_app.h": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../electron/atom/browser/api/atom_api_auto_updater.cc": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../electron/atom/browser/api/atom_api_auto_updater.h": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/browser/api/atom_api_browser_view.cc": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../electron/atom/browser/api/atom_api_browser_window.cc": {
+      "userLines": 0,
+      "total": 60
+    },
+    "../electron/atom/browser/api/atom_api_browser_window_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/api/atom_api_cookies.cc": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../electron/atom/browser/api/atom_api_debugger.cc": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/browser/api/atom_api_desktop_capturer.cc": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../electron/atom/browser/api/atom_api_download_item.cc": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../electron/atom/browser/api/atom_api_download_item.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/api/atom_api_event.cc": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/atom/browser/api/atom_api_in_app_purchase.cc": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../electron/atom/browser/api/atom_api_menu.cc": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/api/atom_api_menu_mac.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/api/atom_api_menu_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/api/atom_api_menu_views.cc": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../electron/atom/browser/api/atom_api_menu_views.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/api/atom_api_net.cc": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/browser/api/atom_api_notification.cc": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../electron/atom/browser/api/atom_api_power_monitor.cc": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/api/atom_api_power_monitor_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/api/atom_api_power_save_blocker.cc": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../electron/atom/browser/api/atom_api_power_save_blocker.h": {
+      "userLines": 2,
+      "total": 9
+    },
+    "../electron/atom/browser/api/atom_api_protocol.h": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../electron/atom/browser/api/atom_api_screen.cc": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../electron/atom/browser/api/atom_api_session.cc": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../electron/atom/browser/api/atom_api_session.h": {
+      "userLines": 1,
+      "total": 14
+    },
+    "../electron/atom/browser/api/atom_api_system_preferences.cc": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/api/atom_api_top_level_window.cc": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../electron/atom/browser/api/atom_api_top_level_window.h": {
+      "userLines": 0,
+      "total": 20
+    },
+    "../electron/atom/browser/api/atom_api_tray.cc": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../electron/atom/browser/api/atom_api_url_request.cc": {
+      "userLines": 0,
+      "total": 43
+    },
+    "../electron/atom/browser/api/atom_api_view.cc": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/atom/browser/api/atom_api_web_contents.cc": {
+      "userLines": 14,
+      "total": 135
+    },
+    "../electron/atom/browser/api/atom_api_web_contents.h": {
+      "userLines": 3,
+      "total": 84
+    },
+    "../electron/atom/browser/api/atom_api_web_contents_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/api/atom_api_web_request.cc": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../electron/atom/browser/api/atom_api_web_view_manager.cc": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/atom/browser/api/event.cc": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/api/event.h": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/atom/browser/api/event_emitter.cc": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/api/event_emitter.h": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../electron/atom/browser/api/frame_subscriber.h": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/browser/api/gpu_info_enumerator.cc": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/api/gpu_info_enumerator.h": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/browser/api/gpuinfo_manager.cc": {
+      "userLines": 1,
+      "total": 13
+    },
+    "../electron/atom/browser/api/save_page_handler.cc": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../electron/atom/browser/api/save_page_handler.h": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/atom/browser/atom_browser_client.cc": {
+      "userLines": 4,
+      "total": 72
+    },
+    "../electron/atom/browser/atom_browser_client.h": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../electron/atom/browser/atom_browser_context.cc": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../electron/atom/browser/atom_browser_context.h": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../electron/atom/browser/atom_browser_main_parts.cc": {
+      "userLines": 1,
+      "total": 77
+    },
+    "../electron/atom/browser/atom_browser_main_parts.h": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../electron/atom/browser/atom_download_manager_delegate.cc": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../electron/atom/browser/atom_download_manager_delegate.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/atom_javascript_dialog_manager.cc": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/atom/browser/atom_javascript_dialog_manager.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/atom_permission_manager.cc": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/atom_permission_manager.h": {
+      "userLines": 2,
+      "total": 8
+    },
+    "../electron/atom/browser/atom_quota_permission_context.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/atom_speech_recognition_manager_delegate.cc": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/atom/browser/atom_speech_recognition_manager_delegate.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/atom_web_ui_controller_factory.cc": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/atom_web_ui_controller_factory.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/browser.cc": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../electron/atom/browser/browser.h": {
+      "userLines": 2,
+      "total": 68
+    },
+    "../electron/atom/browser/browser_linux.cc": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/browser/browser_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/browser_process_impl.cc": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../electron/atom/browser/browser_process_impl.h": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../electron/atom/browser/browser_win.cc": {
+      "userLines": 0,
+      "total": 48
+    },
+    "../electron/atom/browser/common_web_contents_delegate.cc": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../electron/atom/browser/common_web_contents_delegate.h": {
+      "userLines": 0,
+      "total": 28
+    },
+    "../electron/atom/browser/common_web_contents_delegate_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/common_web_contents_delegate_views.cc": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/fake_location_provider.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/font_defaults.cc": {
+      "userLines": 23,
+      "total": 23
+    },
+    "../electron/atom/browser/font_defaults.h": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../electron/atom/browser/javascript_environment.cc": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/javascript_environment.h": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/atom/browser/lib/power_observer_linux.cc": {
+      "userLines": 0,
+      "total": 20
+    },
+    "../electron/atom/browser/lib/power_observer_linux.h": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../electron/atom/browser/login_handler.h": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../electron/atom/browser/mac/atom_application.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/mac/atom_application_delegate.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/mac/in_app_purchase_observer.h": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/mac/in_app_purchase_observer.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/mac/in_app_purchase_product.h": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../electron/atom/browser/mac/in_app_purchase_product.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/media/media_capture_devices_dispatcher.h": {
+      "userLines": 0,
+      "total": 24
+    },
+    "../electron/atom/browser/media/media_stream_devices_controller.cc": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../electron/atom/browser/media/media_stream_devices_controller.h": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../electron/atom/browser/native_browser_view_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/native_browser_view_views.cc": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../electron/atom/browser/native_browser_view_views.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/native_window.cc": {
+      "userLines": 1,
+      "total": 24
+    },
+    "../electron/atom/browser/native_window.h": {
+      "userLines": 0,
+      "total": 43
+    },
+    "../electron/atom/browser/native_window_mac.h": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../electron/atom/browser/native_window_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/native_window_views.cc": {
+      "userLines": 0,
+      "total": 90
+    },
+    "../electron/atom/browser/native_window_views.h": {
+      "userLines": 0,
+      "total": 44
+    },
+    "../electron/atom/browser/native_window_views_win.cc": {
+      "userLines": 0,
+      "total": 61
+    },
+    "../electron/atom/browser/net/asar/asar_protocol_handler.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/net/asar/url_request_asar_job.cc": {
+      "userLines": 1,
+      "total": 32
+    },
+    "../electron/atom/browser/net/asar/url_request_asar_job.h": {
+      "userLines": 0,
+      "total": 24
+    },
+    "../electron/atom/browser/net/atom_cert_verifier.cc": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/net/atom_cert_verifier.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/net/atom_network_delegate.cc": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../electron/atom/browser/net/atom_network_delegate.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/net/atom_url_request.cc": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../electron/atom/browser/net/atom_url_request_job_factory.h": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../electron/atom/browser/net/js_asker.cc": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/net/url_request_buffer_job.cc": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/browser/net/url_request_buffer_job.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/net/url_request_context_getter.cc": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../electron/atom/browser/net/url_request_context_getter.h": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../electron/atom/browser/net/url_request_fetch_job.h": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/atom/browser/net/url_request_stream_job.cc": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../electron/atom/browser/net/url_request_stream_job.h": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/net/url_request_string_job.cc": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/browser/net/url_request_string_job.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/node_debugger.cc": {
+      "userLines": 1,
+      "total": 8
+    },
+    "../electron/atom/browser/notifications/linux/libnotify_notification.cc": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../electron/atom/browser/notifications/linux/libnotify_notification.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/notifications/linux/notification_presenter_linux.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/notifications/mac/cocoa_notification.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/notifications/mac/notification_center_delegate.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/notifications/mac/notification_presenter_mac.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/notifications/mac/notification_presenter_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/notifications/notification.cc": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/atom/browser/notifications/notification.h": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/atom/browser/notifications/platform_notification_service.cc": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../electron/atom/browser/notifications/platform_notification_service.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/notifications/win/notification_presenter_win.h": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../electron/atom/browser/notifications/win/notification_presenter_win7.cc": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/atom/browser/notifications/win/win32_desktop_notifications/common.h": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../electron/atom/browser/notifications/win/win32_desktop_notifications/desktop_notification_controller.cc": {
+      "userLines": 0,
+      "total": 32
+    },
+    "../electron/atom/browser/notifications/win/win32_desktop_notifications/desktop_notification_controller.h": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/notifications/win/win32_desktop_notifications/toast.cc": {
+      "userLines": 0,
+      "total": 53
+    },
+    "../electron/atom/browser/notifications/win/win32_desktop_notifications/toast.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/notifications/win/win32_notification.cc": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/atom/browser/notifications/win/windows_toast_notification.cc": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../electron/atom/browser/notifications/win/windows_toast_notification.h": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../electron/atom/browser/osr/osr_output_device.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/osr/osr_render_widget_host_view.cc": {
+      "userLines": 0,
+      "total": 45
+    },
+    "../electron/atom/browser/osr/osr_render_widget_host_view.h": {
+      "userLines": 0,
+      "total": 20
+    },
+    "../electron/atom/browser/osr/osr_web_contents_view.h": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/relauncher.cc": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../electron/atom/browser/render_process_preferences.h": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../electron/atom/browser/resources/win/disable_window_filtering.manifest": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/resources/win/dpi_aware.manifest": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/special_storage_policy.cc": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/atom/browser/special_storage_policy.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/ui/accelerator_util.cc": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/browser/ui/atom_menu_model.cc": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/atom/browser/ui/atom_menu_model.h": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../electron/atom/browser/ui/autofill_popup.h": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../electron/atom/browser/ui/certificate_trust_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/ui/certificate_trust_win.cc": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../electron/atom/browser/ui/cocoa/atom_inspectable_web_contents_view.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/ui/cocoa/atom_menu_controller.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/ui/cocoa/atom_native_widget_mac.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/ui/cocoa/atom_native_widget_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/ui/cocoa/atom_ns_window_delegate.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/ui/cocoa/atom_touch_bar.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/ui/cocoa/atom_touch_bar.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/ui/cocoa/touch_bar_forward_declarations.h": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/browser/ui/devtools_manager_delegate.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/ui/drag_util_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/ui/file_dialog.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/ui/file_dialog_gtk.cc": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../electron/atom/browser/ui/file_dialog_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/ui/file_dialog_win.cc": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../electron/atom/browser/ui/inspectable_web_contents_impl.cc": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../electron/atom/browser/ui/inspectable_web_contents_impl.h": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../electron/atom/browser/ui/inspectable_web_contents_view.h": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../electron/atom/browser/ui/inspectable_web_contents_view_mac.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/ui/message_box_gtk.cc": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../electron/atom/browser/ui/message_box_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/browser/ui/message_box_win.cc": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../electron/atom/browser/ui/tray_icon_cocoa.h": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/atom/browser/ui/tray_icon_gtk.cc": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../electron/atom/browser/ui/tray_icon_gtk.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/ui/views/atom_views_delegate.cc": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../electron/atom/browser/ui/views/atom_views_delegate.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/ui/views/autofill_popup_view.cc": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../electron/atom/browser/ui/views/autofill_popup_view.h": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../electron/atom/browser/ui/views/frameless_view.cc": {
+      "userLines": 1,
+      "total": 16
+    },
+    "../electron/atom/browser/ui/views/frameless_view.h": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/ui/views/global_menu_bar_x11.cc": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../electron/atom/browser/ui/views/inspectable_web_contents_view_views.cc": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/atom/browser/ui/views/inspectable_web_contents_view_views.h": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/ui/views/menu_bar.cc": {
+      "userLines": 0,
+      "total": 31
+    },
+    "../electron/atom/browser/ui/views/menu_bar.h": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../electron/atom/browser/ui/views/menu_delegate.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/ui/views/menu_model_adapter.h": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../electron/atom/browser/ui/views/native_frame_view.cc": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/atom/browser/ui/views/native_frame_view.h": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/browser/ui/views/submenu_button.cc": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/ui/views/submenu_button.h": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/browser/ui/views/win_frame_view.cc": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../electron/atom/browser/ui/views/win_frame_view.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/ui/win/jump_list.cc": {
+      "userLines": 0,
+      "total": 20
+    },
+    "../electron/atom/browser/ui/win/jump_list.h": {
+      "userLines": 0,
+      "total": 40
+    },
+    "../electron/atom/browser/ui/win/notify_icon.h": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../electron/atom/browser/ui/win/taskbar_host.cc": {
+      "userLines": 0,
+      "total": 27
+    },
+    "../electron/atom/browser/ui/win/taskbar_host.h": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../electron/atom/browser/ui/x/window_state_watcher.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/browser/web_contents_permission_helper.cc": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/atom/browser/web_contents_permission_helper.h": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/browser/web_contents_preferences.cc": {
+      "userLines": 3,
+      "total": 58
+    },
+    "../electron/atom/browser/web_dialog_helper.cc": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../electron/atom/browser/web_view_guest_delegate.cc": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../electron/atom/browser/web_view_manager.cc": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/browser/window_list.cc": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../electron/atom/common/api/BUILD.gn": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/common/api/api.mojom": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/common/api/atom_api_asar.cc": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../electron/atom/common/api/atom_api_clipboard.cc": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/common/api/atom_api_native_image.cc": {
+      "userLines": 0,
+      "total": 48
+    },
+    "../electron/atom/common/api/atom_api_native_image_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/common/api/constructor.h": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../electron/atom/common/api/electron_bindings.cc": {
+      "userLines": 0,
+      "total": 26
+    },
+    "../electron/atom/common/api/electron_bindings.h": {
+      "userLines": 1,
+      "total": 9
+    },
+    "../electron/atom/common/api/remote_callback_freer.cc": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../electron/atom/common/api/remote_object_freer.cc": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/common/application_info.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/common/application_info_win.cc": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/common/atom_command_line.cc": {
+      "userLines": 1,
+      "total": 11
+    },
+    "../electron/atom/common/atom_version.h": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../electron/atom/common/common_message_generator.cc": {
+      "userLines": 2,
+      "total": 12
+    },
+    "../electron/atom/common/crash_reporter/crash_reporter.cc": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/common/crash_reporter/crash_reporter_linux.cc": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../electron/atom/common/crash_reporter/crash_reporter_linux.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/common/crash_reporter/crash_reporter_mac.h": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../electron/atom/common/crash_reporter/crash_reporter_mac.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/common/crash_reporter/crash_reporter_win.cc": {
+      "userLines": 0,
+      "total": 36
+    },
+    "../electron/atom/common/crash_reporter/crash_reporter_win.h": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../electron/atom/common/crash_reporter/linux/crash_dump_handler.cc": {
+      "userLines": 0,
+      "total": 138
+    },
+    "../electron/atom/common/crash_reporter/linux/crash_dump_handler.h": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../electron/atom/common/crash_reporter/win/crash_service.cc": {
+      "userLines": 0,
+      "total": 43
+    },
+    "../electron/atom/common/keyboard_util.cc": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../electron/atom/common/mac/main_application_bundle.mm": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../electron/atom/common/native_mate_converters/blink_converter.cc": {
+      "userLines": 10,
+      "total": 51
+    },
+    "../electron/atom/common/native_mate_converters/blink_converter.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/common/native_mate_converters/callback.cc": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../electron/atom/common/native_mate_converters/callback.h": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../electron/atom/common/native_mate_converters/content_converter.cc": {
+      "userLines": 2,
+      "total": 21
+    },
+    "../electron/atom/common/native_mate_converters/content_converter.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/common/native_mate_converters/net_converter.cc": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../electron/atom/common/node_bindings.cc": {
+      "userLines": 0,
+      "total": 64
+    },
+    "../electron/atom/common/node_bindings.h": {
+      "userLines": 1,
+      "total": 27
+    },
+    "../electron/atom/common/node_bindings_linux.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/common/node_bindings_mac.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/common/node_bindings_win.h": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../electron/atom/common/node_includes.h": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../electron/atom/common/platform_util_win.cc": {
+      "userLines": 0,
+      "total": 39
+    },
+    "../electron/atom/common/promise_util.cc": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/common/promise_util.h": {
+      "userLines": 0,
+      "total": 26
+    },
+    "../electron/atom/renderer/api/atom_api_renderer_ipc.cc": {
+      "userLines": 9,
+      "total": 13
+    },
+    "../electron/atom/renderer/api/atom_api_spell_check_client.cc": {
+      "userLines": 0,
+      "total": 35
+    },
+    "../electron/atom/renderer/api/atom_api_spell_check_client.h": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../electron/atom/renderer/api/atom_api_web_frame.cc": {
+      "userLines": 0,
+      "total": 39
+    },
+    "../electron/atom/renderer/atom_autofill_agent.cc": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/renderer/atom_autofill_agent.h": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../electron/atom/renderer/atom_render_frame_observer.cc": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/atom/renderer/atom_render_view_observer.h": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../electron/atom/renderer/atom_renderer_client.cc": {
+      "userLines": 0,
+      "total": 32
+    },
+    "../electron/atom/renderer/atom_renderer_client.h": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../electron/atom/renderer/atom_sandboxed_renderer_client.cc": {
+      "userLines": 1,
+      "total": 17
+    },
+    "../electron/atom/renderer/atom_sandboxed_renderer_client.h": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../electron/atom/renderer/content_settings_observer.h": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../electron/atom/renderer/electron_api_service_impl.cc": {
+      "userLines": 13,
+      "total": 13
+    },
+    "../electron/atom/renderer/electron_api_service_impl.h": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../electron/atom/renderer/renderer_client_base.cc": {
+      "userLines": 8,
+      "total": 42
+    },
+    "../electron/atom/renderer/renderer_client_base.h": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../electron/atom/utility/atom_content_utility_client.cc": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../electron/atom/utility/atom_content_utility_client.h": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../electron/tools/js2c.py": {
+      "userLines": 0,
+      "total": 3
+    }
+  }
+}

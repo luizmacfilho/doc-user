@@ -1,0 +1,3905 @@
+{
+  "mdFiles": {
+    "../laravel/readme.md": [
+      {
+        "start": 1,
+        "end": 1
+      },
+      {
+        "start": 2,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 14,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 20
+      },
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 24,
+        "end": 25
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 30,
+        "end": 31
+      },
+      {
+        "start": 33,
+        "end": 33
+      },
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 48,
+        "end": 48
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 56,
+        "end": 56
+      },
+      {
+        "start": 57,
+        "end": 57
+      },
+      {
+        "start": 58,
+        "end": 58
+      },
+      {
+        "start": 61,
+        "end": 61
+      },
+      {
+        "start": 62,
+        "end": 62
+      },
+      {
+        "start": 63,
+        "end": 63
+      },
+      {
+        "start": 65,
+        "end": 65
+      },
+      {
+        "start": 71,
+        "end": 71
+      }
+    ],
+    "../laravel/CHANGELOG.md": []
+  },
+  "otherFiles": {
+    "../laravel/.editorconfig": [],
+    "../laravel/.env.example": [
+      {
+        "start": 2,
+        "end": 2
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 10
+      },
+      {
+        "start": 12,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 23,
+        "end": 25
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 28,
+        "end": 30
+      },
+      {
+        "start": 32,
+        "end": 32
+      },
+      {
+        "start": 33,
+        "end": 34
+      },
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 36,
+        "end": 36
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 42,
+        "end": 44
+      }
+    ],
+    "../laravel/.git/config": [],
+    "../laravel/.git/HEAD": [],
+    "../laravel/.git/hooks/applypatch-msg.sample": [],
+    "../laravel/.git/description": [],
+    "../laravel/.git/hooks/fsmonitor-watchman.sample": [],
+    "../laravel/.git/hooks/commit-msg.sample": [],
+    "../laravel/.git/hooks/pre-applypatch.sample": [],
+    "../laravel/.git/hooks/post-update.sample": [],
+    "../laravel/.git/hooks/pre-push.sample": [],
+    "../laravel/.git/hooks/pre-commit.sample": [],
+    "../laravel/.git/hooks/pre-receive.sample": [],
+    "../laravel/.git/hooks/pre-rebase.sample": [],
+    "../laravel/.git/hooks/prepare-commit-msg.sample": [],
+    "../laravel/.git/hooks/update.sample": [],
+    "../laravel/.git/index": [],
+    "../laravel/.git/info/exclude": [],
+    "../laravel/.git/logs/refs/heads/master": [],
+    "../laravel/.git/logs/HEAD": [],
+    "../laravel/.git/logs/refs/remotes/origin/HEAD": [],
+    "../laravel/.git/objects/pack/pack-9371340b430dc19a00fbe8743a53eaeacd2cd626.idx": [],
+    "../laravel/.git/objects/pack/pack-9371340b430dc19a00fbe8743a53eaeacd2cd626.pack": [],
+    "../laravel/.git/packed-refs": [],
+    "../laravel/.git/refs/remotes/origin/HEAD": [],
+    "../laravel/.git/refs/heads/master": [],
+    "../laravel/.gitattributes": [
+      {
+        "start": 2,
+        "end": 2
+      }
+    ],
+    "../laravel/app/Console/Kernel.php": [
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 26
+      },
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 30,
+        "end": 31
+      },
+      {
+        "start": 32,
+        "end": 32
+      },
+      {
+        "start": 33,
+        "end": 37
+      },
+      {
+        "start": 38,
+        "end": 39
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 42,
+        "end": 42
+      }
+    ],
+    "../laravel/app/Exceptions/Handler.php": [
+      {
+        "start": 4,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 28
+      },
+      {
+        "start": 29,
+        "end": 31
+      },
+      {
+        "start": 33,
+        "end": 34
+      },
+      {
+        "start": 36,
+        "end": 36
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 39,
+        "end": 39
+      },
+      {
+        "start": 40,
+        "end": 43
+      },
+      {
+        "start": 45,
+        "end": 46
+      },
+      {
+        "start": 48,
+        "end": 48
+      },
+      {
+        "start": 50,
+        "end": 50
+      },
+      {
+        "start": 51,
+        "end": 51
+      }
+    ],
+    "../laravel/app/Http/Controllers/Auth/ForgotPasswordController.php": [
+      {
+        "start": 1,
+        "end": 32
+      }
+    ],
+    "../laravel/app/Http/Controllers/Auth/RegisterController.php": [
+      {
+        "start": 1,
+        "end": 6
+      },
+      {
+        "start": 9,
+        "end": 26
+      },
+      {
+        "start": 28,
+        "end": 51
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 55,
+        "end": 61
+      },
+      {
+        "start": 63,
+        "end": 68
+      },
+      {
+        "start": 70,
+        "end": 72
+      }
+    ],
+    "../laravel/app/Http/Controllers/Auth/LoginController.php": [
+      {
+        "start": 1,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 23
+      },
+      {
+        "start": 25,
+        "end": 36
+      },
+      {
+        "start": 38,
+        "end": 39
+      }
+    ],
+    "../laravel/app/Http/Controllers/Auth/VerificationController.php": [
+      {
+        "start": 1,
+        "end": 4
+      },
+      {
+        "start": 6,
+        "end": 16
+      },
+      {
+        "start": 18,
+        "end": 41
+      }
+    ],
+    "../laravel/app/Http/Controllers/Auth/ResetPasswordController.php": [
+      {
+        "start": 1,
+        "end": 22
+      },
+      {
+        "start": 30,
+        "end": 39
+      }
+    ],
+    "../laravel/app/Http/Controllers/Controller.php": [
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 13,
+        "end": 13
+      }
+    ],
+    "../laravel/app/Http/Kernel.php": [
+      {
+        "start": 4,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 13
+      },
+      {
+        "start": 14,
+        "end": 16
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 20
+      },
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 22,
+        "end": 33
+      },
+      {
+        "start": 34,
+        "end": 34
+      },
+      {
+        "start": 35,
+        "end": 36
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 39,
+        "end": 40
+      },
+      {
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 48
+      },
+      {
+        "start": 49,
+        "end": 50
+      },
+      {
+        "start": 51,
+        "end": 53
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 56,
+        "end": 56
+      },
+      {
+        "start": 57,
+        "end": 57
+      },
+      {
+        "start": 60,
+        "end": 60
+      },
+      {
+        "start": 61,
+        "end": 61
+      },
+      {
+        "start": 62,
+        "end": 62
+      },
+      {
+        "start": 63,
+        "end": 63
+      },
+      {
+        "start": 80,
+        "end": 80
+      }
+    ],
+    "../laravel/app/Http/Middleware/CheckForMaintenanceMode.php": [],
+    "../laravel/app/Http/Middleware/Authenticate.php": [
+      {
+        "start": 1,
+        "end": 16
+      },
+      {
+        "start": 20,
+        "end": 21
+      }
+    ],
+    "../laravel/app/Http/Middleware/EncryptCookies.php": [
+      {
+        "start": 1,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 17
+      }
+    ],
+    "../laravel/app/Http/Middleware/RedirectIfAuthenticated.php": [
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 21
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 24,
+        "end": 25
+      }
+    ],
+    "../laravel/app/Http/Middleware/TrimStrings.php": [
+      {
+        "start": 1,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 18
+      }
+    ],
+    "../laravel/app/Http/Middleware/TrustProxies.php": [
+      {
+        "start": 1,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 23,
+        "end": 23
+      }
+    ],
+    "../laravel/app/Http/Middleware/VerifyCsrfToken.php": [
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 23
+      },
+      {
+        "start": 24,
+        "end": 24
+      }
+    ],
+    "../laravel/app/Providers/AppServiceProvider.php": [
+      {
+        "start": 4,
+        "end": 6
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 28,
+        "end": 28
+      }
+    ],
+    "../laravel/app/Providers/AuthServiceProvider.php": [
+      {
+        "start": 1,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 21,
+        "end": 23
+      },
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 25,
+        "end": 25
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 29,
+        "end": 30
+      }
+    ],
+    "../laravel/app/Providers/BroadcastServiceProvider.php": [
+      {
+        "start": 1,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 21
+      }
+    ],
+    "../laravel/app/Providers/EventServiceProvider.php": [
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 10,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 21
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 25,
+        "end": 27
+      },
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 31,
+        "end": 31
+      },
+      {
+        "start": 32,
+        "end": 33
+      },
+      {
+        "start": 34,
+        "end": 34
+      }
+    ],
+    "../laravel/app/Providers/RouteServiceProvider.php": [
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 23
+      },
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 25,
+        "end": 26
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 31,
+        "end": 35
+      },
+      {
+        "start": 36,
+        "end": 36
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 38,
+        "end": 39
+      },
+      {
+        "start": 42,
+        "end": 47
+      },
+      {
+        "start": 48,
+        "end": 49
+      },
+      {
+        "start": 50,
+        "end": 51
+      },
+      {
+        "start": 52,
+        "end": 52
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 57,
+        "end": 67
+      },
+      {
+        "start": 72,
+        "end": 72
+      }
+    ],
+    "../laravel/app/User.php": [
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 12
+      },
+      {
+        "start": 13,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 24,
+        "end": 26
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 29,
+        "end": 29
+      }
+    ],
+    "../laravel/artisan": [
+      {
+        "start": 1,
+        "end": 1
+      },
+      {
+        "start": 2,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 6,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 17
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 21,
+        "end": 32
+      },
+      {
+        "start": 34,
+        "end": 35
+      },
+      {
+        "start": 36,
+        "end": 37
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 39,
+        "end": 44
+      },
+      {
+        "start": 46,
+        "end": 50
+      },
+      {
+        "start": 51,
+        "end": 52
+      }
+    ],
+    "../laravel/bootstrap/app.php": [
+      {
+        "start": 1,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 21,
+        "end": 22
+      },
+      {
+        "start": 23,
+        "end": 25
+      },
+      {
+        "start": 26,
+        "end": 28
+      },
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 32,
+        "end": 33
+      },
+      {
+        "start": 34,
+        "end": 34
+      },
+      {
+        "start": 37,
+        "end": 38
+      },
+      {
+        "start": 39,
+        "end": 39
+      },
+      {
+        "start": 42,
+        "end": 43
+      },
+      {
+        "start": 44,
+        "end": 55
+      }
+    ],
+    "../laravel/config/app.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 12
+      },
+      {
+        "start": 14,
+        "end": 15
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 24
+      },
+      {
+        "start": 25,
+        "end": 25
+      },
+      {
+        "start": 26,
+        "end": 30
+      },
+      {
+        "start": 31,
+        "end": 41
+      },
+      {
+        "start": 43,
+        "end": 54
+      },
+      {
+        "start": 56,
+        "end": 56
+      },
+      {
+        "start": 57,
+        "end": 58
+      },
+      {
+        "start": 59,
+        "end": 96
+      },
+      {
+        "start": 100,
+        "end": 100
+      },
+      {
+        "start": 103,
+        "end": 105
+      },
+      {
+        "start": 110,
+        "end": 121
+      },
+      {
+        "start": 123,
+        "end": 123
+      },
+      {
+        "start": 124,
+        "end": 124
+      },
+      {
+        "start": 126,
+        "end": 141
+      },
+      {
+        "start": 154,
+        "end": 154
+      },
+      {
+        "start": 164,
+        "end": 164
+      },
+      {
+        "start": 168,
+        "end": 171
+      },
+      {
+        "start": 173,
+        "end": 173
+      },
+      {
+        "start": 177,
+        "end": 179
+      },
+      {
+        "start": 180,
+        "end": 193
+      },
+      {
+        "start": 195,
+        "end": 197
+      },
+      {
+        "start": 198,
+        "end": 198
+      },
+      {
+        "start": 199,
+        "end": 199
+      },
+      {
+        "start": 200,
+        "end": 212
+      },
+      {
+        "start": 213,
+        "end": 213
+      },
+      {
+        "start": 214,
+        "end": 223
+      },
+      {
+        "start": 225,
+        "end": 230
+      },
+      {
+        "start": 231,
+        "end": 231
+      }
+    ],
+    "../laravel/config/broadcasting.php": [
+      {
+        "start": 1,
+        "end": 13
+      },
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 16,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 34
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 42,
+        "end": 43
+      },
+      {
+        "start": 44,
+        "end": 47
+      },
+      {
+        "start": 52,
+        "end": 52
+      },
+      {
+        "start": 53,
+        "end": 56
+      },
+      {
+        "start": 57,
+        "end": 59
+      }
+    ],
+    "../laravel/config/auth.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 9
+      },
+      {
+        "start": 10,
+        "end": 12
+      },
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 14,
+        "end": 27
+      },
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 31,
+        "end": 32
+      },
+      {
+        "start": 33,
+        "end": 33
+      },
+      {
+        "start": 34,
+        "end": 34
+      },
+      {
+        "start": 35,
+        "end": 36
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 39,
+        "end": 39
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 44,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 48,
+        "end": 48
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 50,
+        "end": 50
+      },
+      {
+        "start": 51,
+        "end": 52
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 54,
+        "end": 55
+      },
+      {
+        "start": 56,
+        "end": 56
+      },
+      {
+        "start": 57,
+        "end": 58
+      },
+      {
+        "start": 59,
+        "end": 59
+      },
+      {
+        "start": 60,
+        "end": 63
+      },
+      {
+        "start": 64,
+        "end": 64
+      },
+      {
+        "start": 65,
+        "end": 66
+      },
+      {
+        "start": 67,
+        "end": 67
+      },
+      {
+        "start": 68,
+        "end": 68
+      },
+      {
+        "start": 69,
+        "end": 69
+      },
+      {
+        "start": 70,
+        "end": 73
+      },
+      {
+        "start": 74,
+        "end": 74
+      },
+      {
+        "start": 75,
+        "end": 77
+      },
+      {
+        "start": 78,
+        "end": 78
+      },
+      {
+        "start": 79,
+        "end": 79
+      },
+      {
+        "start": 80,
+        "end": 81
+      },
+      {
+        "start": 82,
+        "end": 82
+      },
+      {
+        "start": 83,
+        "end": 84
+      },
+      {
+        "start": 85,
+        "end": 86
+      },
+      {
+        "start": 88,
+        "end": 88
+      },
+      {
+        "start": 89,
+        "end": 93
+      },
+      {
+        "start": 94,
+        "end": 94
+      },
+      {
+        "start": 95,
+        "end": 96
+      },
+      {
+        "start": 97,
+        "end": 97
+      },
+      {
+        "start": 98,
+        "end": 100
+      },
+      {
+        "start": 101,
+        "end": 101
+      },
+      {
+        "start": 102,
+        "end": 102
+      },
+      {
+        "start": 103,
+        "end": 103
+      }
+    ],
+    "../laravel/config/cache.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 17
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 23,
+        "end": 32
+      },
+      {
+        "start": 33,
+        "end": 33
+      },
+      {
+        "start": 34,
+        "end": 34
+      },
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 36,
+        "end": 36
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 39,
+        "end": 39
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 44,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 47,
+        "end": 48
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 50,
+        "end": 51
+      },
+      {
+        "start": 52,
+        "end": 52
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 56,
+        "end": 56
+      },
+      {
+        "start": 65,
+        "end": 66
+      },
+      {
+        "start": 70,
+        "end": 72
+      },
+      {
+        "start": 73,
+        "end": 73
+      },
+      {
+        "start": 74,
+        "end": 75
+      },
+      {
+        "start": 77,
+        "end": 77
+      },
+      {
+        "start": 78,
+        "end": 78
+      },
+      {
+        "start": 79,
+        "end": 82
+      },
+      {
+        "start": 84,
+        "end": 86
+      },
+      {
+        "start": 87,
+        "end": 87
+      },
+      {
+        "start": 88,
+        "end": 88
+      },
+      {
+        "start": 89,
+        "end": 98
+      },
+      {
+        "start": 99,
+        "end": 99
+      },
+      {
+        "start": 101,
+        "end": 101
+      },
+      {
+        "start": 102,
+        "end": 102
+      }
+    ],
+    "../laravel/config/database.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 17
+      },
+      {
+        "start": 19,
+        "end": 38
+      },
+      {
+        "start": 39,
+        "end": 39
+      },
+      {
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 43,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 48,
+        "end": 48
+      },
+      {
+        "start": 49,
+        "end": 51
+      },
+      {
+        "start": 53,
+        "end": 54
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 58,
+        "end": 58
+      },
+      {
+        "start": 59,
+        "end": 61
+      },
+      {
+        "start": 62,
+        "end": 63
+      },
+      {
+        "start": 64,
+        "end": 65
+      },
+      {
+        "start": 67,
+        "end": 67
+      },
+      {
+        "start": 68,
+        "end": 70
+      },
+      {
+        "start": 71,
+        "end": 72
+      },
+      {
+        "start": 74,
+        "end": 74
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 89,
+        "end": 110
+      },
+      {
+        "start": 111,
+        "end": 111
+      },
+      {
+        "start": 112,
+        "end": 117
+      },
+      {
+        "start": 118,
+        "end": 118
+      },
+      {
+        "start": 120,
+        "end": 121
+      },
+      {
+        "start": 125,
+        "end": 136
+      },
+      {
+        "start": 137,
+        "end": 139
+      },
+      {
+        "start": 140,
+        "end": 140
+      },
+      {
+        "start": 141,
+        "end": 141
+      }
+    ],
+    "../laravel/config/hashing.php": [
+      {
+        "start": 1,
+        "end": 13
+      },
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 19
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 25,
+        "end": 27
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 40,
+        "end": 42
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 52,
+        "end": 52
+      }
+    ],
+    "../laravel/config/filesystems.php": [
+      {
+        "start": 1,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 12
+      },
+      {
+        "start": 13,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 27
+      },
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 31,
+        "end": 39
+      },
+      {
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 47
+      },
+      {
+        "start": 48,
+        "end": 48
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 50,
+        "end": 50
+      },
+      {
+        "start": 51,
+        "end": 53
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 58,
+        "end": 59
+      },
+      {
+        "start": 63,
+        "end": 63
+      },
+      {
+        "start": 64,
+        "end": 64
+      },
+      {
+        "start": 65,
+        "end": 65
+      },
+      {
+        "start": 66,
+        "end": 66
+      },
+      {
+        "start": 67,
+        "end": 67
+      },
+      {
+        "start": 68,
+        "end": 69
+      }
+    ],
+    "../laravel/config/logging.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 29
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 31,
+        "end": 32
+      },
+      {
+        "start": 33,
+        "end": 36
+      },
+      {
+        "start": 37,
+        "end": 38
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 41,
+        "end": 42
+      },
+      {
+        "start": 43,
+        "end": 52
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 54,
+        "end": 55
+      },
+      {
+        "start": 56,
+        "end": 57
+      },
+      {
+        "start": 58,
+        "end": 58
+      },
+      {
+        "start": 59,
+        "end": 63
+      },
+      {
+        "start": 64,
+        "end": 64
+      },
+      {
+        "start": 66,
+        "end": 66
+      },
+      {
+        "start": 67,
+        "end": 73
+      },
+      {
+        "start": 74,
+        "end": 76
+      },
+      {
+        "start": 77,
+        "end": 77
+      },
+      {
+        "start": 78,
+        "end": 82
+      },
+      {
+        "start": 83,
+        "end": 94
+      }
+    ],
+    "../laravel/config/mail.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 13
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 57
+      },
+      {
+        "start": 58,
+        "end": 58
+      },
+      {
+        "start": 59,
+        "end": 60
+      },
+      {
+        "start": 61,
+        "end": 61
+      },
+      {
+        "start": 62,
+        "end": 73
+      },
+      {
+        "start": 75,
+        "end": 89
+      },
+      {
+        "start": 103,
+        "end": 105
+      },
+      {
+        "start": 106,
+        "end": 106
+      },
+      {
+        "start": 107,
+        "end": 108
+      },
+      {
+        "start": 109,
+        "end": 111
+      },
+      {
+        "start": 112,
+        "end": 114
+      },
+      {
+        "start": 115,
+        "end": 121
+      },
+      {
+        "start": 122,
+        "end": 122
+      },
+      {
+        "start": 128,
+        "end": 129
+      },
+      {
+        "start": 136,
+        "end": 136
+      }
+    ],
+    "../laravel/config/services.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 19
+      },
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 23,
+        "end": 26
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 28,
+        "end": 29
+      },
+      {
+        "start": 31,
+        "end": 31
+      },
+      {
+        "start": 32,
+        "end": 32
+      },
+      {
+        "start": 33,
+        "end": 36
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 38,
+        "end": 39
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 47,
+        "end": 47
+      }
+    ],
+    "../laravel/config/queue.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 9
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 13,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 26
+      },
+      {
+        "start": 27,
+        "end": 28
+      },
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 31,
+        "end": 31
+      },
+      {
+        "start": 32,
+        "end": 32
+      },
+      {
+        "start": 33,
+        "end": 35
+      },
+      {
+        "start": 36,
+        "end": 36
+      },
+      {
+        "start": 37,
+        "end": 38
+      },
+      {
+        "start": 39,
+        "end": 40
+      },
+      {
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 44,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 47
+      },
+      {
+        "start": 48,
+        "end": 48
+      },
+      {
+        "start": 50,
+        "end": 50
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 52,
+        "end": 53
+      },
+      {
+        "start": 54,
+        "end": 55
+      },
+      {
+        "start": 57,
+        "end": 57
+      },
+      {
+        "start": 59,
+        "end": 59
+      },
+      {
+        "start": 60,
+        "end": 60
+      },
+      {
+        "start": 61,
+        "end": 61
+      },
+      {
+        "start": 62,
+        "end": 62
+      },
+      {
+        "start": 63,
+        "end": 63
+      },
+      {
+        "start": 65,
+        "end": 65
+      },
+      {
+        "start": 66,
+        "end": 66
+      },
+      {
+        "start": 67,
+        "end": 67
+      },
+      {
+        "start": 68,
+        "end": 68
+      },
+      {
+        "start": 69,
+        "end": 69
+      },
+      {
+        "start": 70,
+        "end": 70
+      },
+      {
+        "start": 71,
+        "end": 80
+      },
+      {
+        "start": 81,
+        "end": 81
+      },
+      {
+        "start": 82,
+        "end": 82
+      },
+      {
+        "start": 84,
+        "end": 84
+      },
+      {
+        "start": 85,
+        "end": 85
+      },
+      {
+        "start": 87,
+        "end": 87
+      }
+    ],
+    "../laravel/config/view.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 29
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 31,
+        "end": 34
+      },
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 36,
+        "end": 36
+      }
+    ],
+    "../laravel/config/session.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 33
+      },
+      {
+        "start": 35,
+        "end": 61
+      },
+      {
+        "start": 63,
+        "end": 74
+      },
+      {
+        "start": 76,
+        "end": 89
+      },
+      {
+        "start": 95,
+        "end": 97
+      },
+      {
+        "start": 103,
+        "end": 126
+      },
+      {
+        "start": 127,
+        "end": 128
+      },
+      {
+        "start": 129,
+        "end": 129
+      },
+      {
+        "start": 130,
+        "end": 130
+      },
+      {
+        "start": 131,
+        "end": 155
+      },
+      {
+        "start": 157,
+        "end": 168
+      },
+      {
+        "start": 170,
+        "end": 181
+      },
+      {
+        "start": 183,
+        "end": 183
+      },
+      {
+        "start": 186,
+        "end": 186
+      },
+      {
+        "start": 189,
+        "end": 191
+      },
+      {
+        "start": 199,
+        "end": 199
+      }
+    ],
+    "../laravel/database/factories/UserFactory.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 5,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 20
+      },
+      {
+        "start": 25,
+        "end": 25
+      },
+      {
+        "start": 26,
+        "end": 26
+      }
+    ],
+    "../laravel/database/migrations/2014_10_12_000000_create_users_table.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 16
+      },
+      {
+        "start": 18,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 22,
+        "end": 33
+      },
+      {
+        "start": 35,
+        "end": 36
+      }
+    ],
+    "../laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 17
+      },
+      {
+        "start": 20,
+        "end": 29
+      },
+      {
+        "start": 31,
+        "end": 32
+      }
+    ],
+    "../laravel/database/seeds/DatabaseSeeder.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 5,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 13
+      },
+      {
+        "start": 15,
+        "end": 15
+      }
+    ],
+    "../laravel/phpunit.xml": [
+      {
+        "start": 1,
+        "end": 3
+      },
+      {
+        "start": 5,
+        "end": 9
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 25,
+        "end": 25
+      },
+      {
+        "start": 32,
+        "end": 32
+      }
+    ],
+    "../laravel/public/.htaccess": [
+      {
+        "start": 1,
+        "end": 1
+      },
+      {
+        "start": 4,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 19,
+        "end": 20
+      }
+    ],
+    "../laravel/public/favicon.ico": [],
+    "../laravel/public/css/app.css": [
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      }
+    ],
+    "../laravel/public/js/app.js": [],
+    "../laravel/public/index.php": [
+      {
+        "start": 1,
+        "end": 1
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 6
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 12,
+        "end": 13
+      },
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 16
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 21,
+        "end": 23
+      },
+      {
+        "start": 25,
+        "end": 30
+      },
+      {
+        "start": 33,
+        "end": 33
+      },
+      {
+        "start": 35,
+        "end": 37
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 39,
+        "end": 44
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 49,
+        "end": 50
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 53,
+        "end": 54
+      },
+      {
+        "start": 56,
+        "end": 58
+      },
+      {
+        "start": 59,
+        "end": 60
+      }
+    ],
+    "../laravel/resources/js/app.js": [
+      {
+        "start": 1,
+        "end": 1
+      },
+      {
+        "start": 2,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 10,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 19
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 25,
+        "end": 25
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 27,
+        "end": 28
+      },
+      {
+        "start": 29,
+        "end": 30
+      },
+      {
+        "start": 33,
+        "end": 33
+      }
+    ],
+    "../laravel/resources/js/bootstrap.js": [
+      {
+        "start": 1,
+        "end": 1
+      },
+      {
+        "start": 2,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 9
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 20
+      },
+      {
+        "start": 21,
+        "end": 22
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 27,
+        "end": 40
+      },
+      {
+        "start": 41,
+        "end": 46
+      },
+      {
+        "start": 48,
+        "end": 48
+      },
+      {
+        "start": 49,
+        "end": 50
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 52,
+        "end": 52
+      },
+      {
+        "start": 53,
+        "end": 54
+      },
+      {
+        "start": 56,
+        "end": 56
+      }
+    ],
+    "../laravel/resources/lang/en/auth.php": [
+      {
+        "start": 1,
+        "end": 19
+      }
+    ],
+    "../laravel/resources/js/components/ExampleComponent.vue": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 4
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 9
+      },
+      {
+        "start": 10,
+        "end": 18
+      },
+      {
+        "start": 21,
+        "end": 23
+      }
+    ],
+    "../laravel/resources/lang/en/passwords.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 6
+      },
+      {
+        "start": 8,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 18,
+        "end": 20
+      }
+    ],
+    "../laravel/resources/lang/en/pagination.php": [
+      {
+        "start": 5,
+        "end": 14
+      }
+    ],
+    "../laravel/resources/sass/_variables.scss": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 20
+      }
+    ],
+    "../laravel/resources/lang/en/validation.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 31,
+        "end": 31
+      },
+      {
+        "start": 83,
+        "end": 83
+      },
+      {
+        "start": 91,
+        "end": 91
+      },
+      {
+        "start": 110,
+        "end": 110
+      },
+      {
+        "start": 118,
+        "end": 118
+      },
+      {
+        "start": 119,
+        "end": 128
+      },
+      {
+        "start": 129,
+        "end": 129
+      },
+      {
+        "start": 130,
+        "end": 134
+      },
+      {
+        "start": 135,
+        "end": 135
+      },
+      {
+        "start": 136,
+        "end": 140
+      },
+      {
+        "start": 144,
+        "end": 145
+      },
+      {
+        "start": 146,
+        "end": 146
+      },
+      {
+        "start": 147,
+        "end": 147
+      },
+      {
+        "start": 148,
+        "end": 148
+      }
+    ],
+    "../laravel/resources/views/welcome.blade.php": [
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 15,
+        "end": 16
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 23,
+        "end": 24
+      },
+      {
+        "start": 25,
+        "end": 25
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 27,
+        "end": 38
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 48,
+        "end": 50
+      },
+      {
+        "start": 51,
+        "end": 53
+      },
+      {
+        "start": 55,
+        "end": 56
+      },
+      {
+        "start": 57,
+        "end": 57
+      },
+      {
+        "start": 58,
+        "end": 59
+      },
+      {
+        "start": 60,
+        "end": 63
+      },
+      {
+        "start": 64,
+        "end": 66
+      },
+      {
+        "start": 67,
+        "end": 68
+      },
+      {
+        "start": 69,
+        "end": 69
+      },
+      {
+        "start": 74,
+        "end": 74
+      },
+      {
+        "start": 79,
+        "end": 81
+      },
+      {
+        "start": 82,
+        "end": 82
+      },
+      {
+        "start": 83,
+        "end": 83
+      },
+      {
+        "start": 84,
+        "end": 86
+      },
+      {
+        "start": 87,
+        "end": 87
+      },
+      {
+        "start": 88,
+        "end": 88
+      },
+      {
+        "start": 89,
+        "end": 89
+      },
+      {
+        "start": 90,
+        "end": 90
+      },
+      {
+        "start": 91,
+        "end": 91
+      },
+      {
+        "start": 92,
+        "end": 92
+      },
+      {
+        "start": 93,
+        "end": 93
+      },
+      {
+        "start": 94,
+        "end": 94
+      },
+      {
+        "start": 95,
+        "end": 95
+      },
+      {
+        "start": 96,
+        "end": 98
+      },
+      {
+        "start": 99,
+        "end": 99
+      }
+    ],
+    "../laravel/resources/sass/app.scss": [
+      {
+        "start": 1,
+        "end": 1
+      },
+      {
+        "start": 2,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 11,
+        "end": 11
+      }
+    ],
+    "../laravel/routes/api.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      }
+    ],
+    "../laravel/routes/channels.php": [
+      {
+        "start": 1,
+        "end": 16
+      }
+    ],
+    "../laravel/routes/console.php": [
+      {
+        "start": 1,
+        "end": 17
+      }
+    ],
+    "../laravel/routes/web.php": [
+      {
+        "start": 1,
+        "end": 4
+      },
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 7
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 13
+      },
+      {
+        "start": 14,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 16
+      }
+    ],
+    "../laravel/server.php": [
+      {
+        "start": 1,
+        "end": 1
+      },
+      {
+        "start": 3,
+        "end": 6
+      },
+      {
+        "start": 8,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 16
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 21
+      }
+    ],
+    "../laravel/tests/CreatesApplication.php": [
+      {
+        "start": 1,
+        "end": 18
+      },
+      {
+        "start": 20,
+        "end": 22
+      }
+    ],
+    "../laravel/tests/TestCase.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 9
+      }
+    ],
+    "../laravel/tests/Feature/ExampleTest.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 20
+      }
+    ],
+    "../laravel/webpack.mix.js": [
+      {
+        "start": 2,
+        "end": 9
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 13
+      },
+      {
+        "start": 14,
+        "end": 15
+      }
+    ],
+    "../laravel/tests/Unit/ExampleTest.php": [
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 3,
+        "end": 5
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 14
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      }
+    ]
+  }
+}

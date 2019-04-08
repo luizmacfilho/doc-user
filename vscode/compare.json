@@ -1,0 +1,954 @@
+{
+  "mdFiles": {
+    "../vscode/CONTRIBUTING.md": {
+      "userLines": 5,
+      "total": 105
+    }
+  },
+  "otherFiles": {
+    "../vscode/src/vs/platform/actions/browser/menuItemActionItem.ts": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../vscode/src/vs/platform/actions/common/actions.ts": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../vscode/src/vs/platform/actions/common/menuService.ts": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../vscode/src/vs/platform/backup/electron-main/backupMainService.ts": {
+      "userLines": 0,
+      "total": 39
+    },
+    "../vscode/src/vs/platform/browser/contextScopedHistoryWidget.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/commands/common/commands.ts": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../vscode/src/vs/platform/configuration/common/configuration.ts": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../vscode/src/vs/platform/configuration/common/configurationModels.ts": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../vscode/src/vs/platform/configuration/common/configurationRegistry.ts": {
+      "userLines": 0,
+      "total": 51
+    },
+    "../vscode/src/vs/platform/configuration/node/configuration.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/platform/configuration/node/configurationService.ts": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../vscode/src/vs/platform/configuration/test/common/testConfigurationService.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/contextkey/browser/contextKeyService.ts": {
+      "userLines": 1,
+      "total": 20
+    },
+    "../vscode/src/vs/platform/contextkey/common/contextkey.ts": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../vscode/src/vs/platform/contextview/browser/contextMenuHandler.ts": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../vscode/src/vs/platform/contextview/browser/contextMenuService.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/platform/contextview/browser/contextView.ts": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../vscode/src/vs/platform/dialogs/common/dialogs.ts": {
+      "userLines": 0,
+      "total": 104
+    },
+    "../vscode/src/vs/platform/dialogs/node/dialogIpc.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/download/node/downloadIpc.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/download/node/downloadService.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/driver/electron-browser/driver.ts": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../vscode/src/vs/platform/driver/electron-main/driver.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/driver/node/driver.ts": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../vscode/src/vs/platform/editor/common/editor.ts": {
+      "userLines": 0,
+      "total": 78
+    },
+    "../vscode/src/vs/platform/environment/common/environment.ts": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../vscode/src/vs/platform/environment/node/environmentService.ts": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../vscode/src/vs/platform/extensionManagement/common/extensionManagement.ts": {
+      "userLines": 0,
+      "total": 27
+    },
+    "../vscode/src/vs/platform/extensionManagement/common/extensionManagementUtil.ts": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../vscode/src/vs/platform/extensionManagement/common/extensionNls.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/extensionManagement/node/extensionGalleryService.ts": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../vscode/src/vs/platform/extensionManagement/node/extensionLifecycle.ts": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../vscode/src/vs/platform/extensionManagement/node/extensionManagementIpc.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/extensionManagement/node/extensionManagementService.ts": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../vscode/src/vs/platform/files/common/files.ts": {
+      "userLines": 0,
+      "total": 278
+    },
+    "../vscode/src/vs/platform/history/common/history.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/history/electron-main/historyMainService.ts": {
+      "userLines": 0,
+      "total": 31
+    },
+    "../vscode/src/vs/platform/instantiation/common/instantiation.ts": {
+      "userLines": 0,
+      "total": 26
+    },
+    "../vscode/src/vs/platform/instantiation/common/instantiationService.ts": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../vscode/src/vs/platform/instantiation/test/common/instantiationServiceMock.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/issue/common/issue.ts": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../vscode/src/vs/platform/issue/electron-main/issueService.ts": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../vscode/src/vs/platform/issue/node/issueIpc.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/jsonschemas/common/jsonContributionRegistry.ts": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../vscode/src/vs/platform/keybinding/common/abstractKeybindingService.ts": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../vscode/src/vs/platform/keybinding/common/keybinding.ts": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../vscode/src/vs/platform/keybinding/common/keybindingResolver.ts": {
+      "userLines": 0,
+      "total": 29
+    },
+    "../vscode/src/vs/platform/keybinding/common/keybindingsRegistry.ts": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../vscode/src/vs/platform/keybinding/common/resolvedKeybindingItem.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/platform/keybinding/test/common/mockKeybindingService.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/platform/launch/electron-main/launchService.ts": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../vscode/src/vs/platform/lifecycle/common/lifecycle.ts": {
+      "userLines": 0,
+      "total": 89
+    },
+    "../vscode/src/vs/platform/lifecycle/electron-browser/lifecycleService.ts": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../vscode/src/vs/platform/lifecycle/electron-main/lifecycleMain.ts": {
+      "userLines": 1,
+      "total": 111
+    },
+    "../vscode/src/vs/platform/list/browser/listService.ts": {
+      "userLines": 0,
+      "total": 37
+    },
+    "../vscode/src/vs/platform/localizations/common/localizations.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/localizations/node/localizations.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/platform/localizations/node/localizationsIpc.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/log/common/log.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/platform/log/node/logIpc.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/markers/common/markerService.ts": {
+      "userLines": 2,
+      "total": 19
+    },
+    "../vscode/src/vs/platform/markers/common/markers.ts": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../vscode/src/vs/platform/menubar/common/menubar.ts": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../vscode/src/vs/platform/menubar/electron-main/menubar.ts": {
+      "userLines": 1,
+      "total": 68
+    },
+    "../vscode/src/vs/platform/menubar/electron-main/menubarService.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/platform/menubar/node/menubarIpc.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/notification/common/notification.ts": {
+      "userLines": 0,
+      "total": 131
+    },
+    "../vscode/src/vs/platform/product/node/product.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/progress/common/progress.ts": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../vscode/src/vs/platform/quickOpen/common/quickOpen.ts": {
+      "userLines": 0,
+      "total": 29
+    },
+    "../vscode/src/vs/platform/quickinput/common/quickInput.ts": {
+      "userLines": 0,
+      "total": 60
+    },
+    "../vscode/src/vs/platform/registry/common/platform.ts": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../vscode/src/vs/platform/request/electron-browser/requestService.ts": {
+      "userLines": 1,
+      "total": 11
+    },
+    "../vscode/src/vs/platform/request/node/requestService.ts": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../vscode/src/vs/platform/state/common/state.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/state/node/stateService.ts": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../vscode/src/vs/platform/statusbar/common/statusbar.ts": {
+      "userLines": 0,
+      "total": 40
+    },
+    "../vscode/src/vs/platform/storage/common/storage.ts": {
+      "userLines": 0,
+      "total": 65
+    },
+    "../vscode/src/vs/platform/storage/node/storageIpc.ts": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../vscode/src/vs/platform/storage/node/storageMainService.ts": {
+      "userLines": 0,
+      "total": 37
+    },
+    "../vscode/src/vs/platform/storage/node/storageService.ts": {
+      "userLines": 0,
+      "total": 24
+    },
+    "../vscode/src/vs/platform/telemetry/browser/errorTelemetry.ts": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../vscode/src/vs/platform/telemetry/common/telemetryService.ts": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../vscode/src/vs/platform/telemetry/common/telemetryUtils.ts": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../vscode/src/vs/platform/telemetry/node/appInsightsAppender.ts": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../vscode/src/vs/platform/telemetry/node/commonProperties.ts": {
+      "userLines": 1,
+      "total": 18
+    },
+    "../vscode/src/vs/platform/telemetry/node/telemetryIpc.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/platform/telemetry/node/workbenchCommonProperties.ts": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../vscode/src/vs/platform/theme/common/colorRegistry.ts": {
+      "userLines": 0,
+      "total": 75
+    },
+    "../vscode/src/vs/platform/theme/common/styler.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/theme/common/themeService.ts": {
+      "userLines": 0,
+      "total": 20
+    },
+    "../vscode/src/vs/platform/theme/test/common/testThemeService.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/update/electron-main/abstractUpdateService.ts": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../vscode/src/vs/platform/update/electron-main/updateService.darwin.ts": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../vscode/src/vs/platform/update/electron-main/updateService.linux.ts": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../vscode/src/vs/platform/update/electron-main/updateService.win32.ts": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../vscode/src/vs/platform/update/node/updateIpc.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/url/electron-main/electronUrlListener.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/platform/url/node/urlIpc.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/windows/common/windows.ts": {
+      "userLines": 0,
+      "total": 38
+    },
+    "../vscode/src/vs/platform/windows/electron-main/windows.ts": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../vscode/src/vs/platform/windows/electron-main/windowsService.ts": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../vscode/src/vs/platform/windows/node/windowsIpc.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/platform/workspace/common/workspace.ts": {
+      "userLines": 0,
+      "total": 62
+    },
+    "../vscode/src/vs/platform/workspaces/common/workspaces.ts": {
+      "userLines": 0,
+      "total": 40
+    },
+    "../vscode/src/vs/platform/workspaces/electron-main/workspacesMainService.ts": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../vscode/src/vs/platform/workspaces/node/workspacesIpc.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/base/browser/browser.ts": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../vscode/src/vs/base/browser/contextmenu.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/browser/dnd.ts": {
+      "userLines": 1,
+      "total": 24
+    },
+    "../vscode/src/vs/base/browser/dom.ts": {
+      "userLines": 0,
+      "total": 101
+    },
+    "../vscode/src/vs/base/browser/globalMouseMoveMonitor.ts": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../vscode/src/vs/base/browser/htmlContentRenderer.ts": {
+      "userLines": 7,
+      "total": 20
+    },
+    "../vscode/src/vs/base/browser/iframe.ts": {
+      "userLines": 0,
+      "total": 26
+    },
+    "../vscode/src/vs/base/browser/touch.ts": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../vscode/src/vs/base/browser/ui/actionbar/actionbar.css": {
+      "userLines": 1,
+      "total": 9
+    },
+    "../vscode/src/vs/base/browser/ui/actionbar/actionbar.ts": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../vscode/src/vs/base/browser/ui/aria/aria.ts": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../vscode/src/vs/base/browser/ui/breadcrumbs/breadcrumbsWidget.ts": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../vscode/src/vs/base/browser/ui/button/button.ts": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../vscode/src/vs/base/browser/ui/centered/centeredViewLayout.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/base/browser/ui/checkbox/checkbox.ts": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../vscode/src/vs/base/browser/ui/contextview/contextview.ts": {
+      "userLines": 0,
+      "total": 28
+    },
+    "../vscode/src/vs/base/browser/ui/countBadge/countBadge.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/browser/ui/dropdown/dropdown.ts": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../vscode/src/vs/base/browser/ui/findinput/findInput.ts": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../vscode/src/vs/base/browser/ui/findinput/findInputCheckboxes.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/browser/ui/grid/gridview.ts": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../vscode/src/vs/base/browser/ui/highlightedlabel/highlightedLabel.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/base/browser/ui/iconLabel/iconLabel.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/base/browser/ui/inputbox/inputBox.ts": {
+      "userLines": 3,
+      "total": 10
+    },
+    "../vscode/src/vs/base/browser/ui/keybindingLabel/keybindingLabel.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/browser/ui/list/listPaging.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/browser/ui/list/listView.ts": {
+      "userLines": 0,
+      "total": 28
+    },
+    "../vscode/src/vs/base/browser/ui/list/listWidget.ts": {
+      "userLines": 0,
+      "total": 53
+    },
+    "../vscode/src/vs/base/browser/ui/list/rangeMap.ts": {
+      "userLines": 1,
+      "total": 38
+    },
+    "../vscode/src/vs/base/browser/ui/list/rowCache.ts": {
+      "userLines": 1,
+      "total": 13
+    },
+    "../vscode/src/vs/base/browser/ui/menu/menu.ts": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../vscode/src/vs/base/browser/ui/menu/menubar.ts": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../vscode/src/vs/base/browser/ui/octiconLabel/octiconLabel.mock.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/browser/ui/octiconLabel/octiconLabel.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/browser/ui/progressbar/progressbar.ts": {
+      "userLines": 0,
+      "total": 31
+    },
+    "../vscode/src/vs/base/browser/ui/sash/sash.ts": {
+      "userLines": 1,
+      "total": 8
+    },
+    "../vscode/src/vs/base/browser/ui/scrollbar/scrollableElement.ts": {
+      "userLines": 0,
+      "total": 55
+    },
+    "../vscode/src/vs/base/browser/ui/selectBox/selectBox.ts": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../vscode/src/vs/base/browser/ui/selectBox/selectBoxCustom.ts": {
+      "userLines": 0,
+      "total": 102
+    },
+    "../vscode/src/vs/base/browser/ui/selectBox/selectBoxNative.ts": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../vscode/src/vs/base/browser/ui/splitview/panelview.ts": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../vscode/src/vs/base/browser/ui/splitview/splitview.ts": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../vscode/src/vs/base/browser/ui/toolbar/toolbar.ts": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../vscode/src/vs/base/browser/ui/tree/abstractTree.ts": {
+      "userLines": 0,
+      "total": 29
+    },
+    "../vscode/src/vs/base/browser/ui/tree/asyncDataTree.ts": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../vscode/src/vs/base/browser/ui/tree/indexTreeModel.ts": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../vscode/src/vs/base/common/actions.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/base/common/arrays.ts": {
+      "userLines": 9,
+      "total": 99
+    },
+    "../vscode/src/vs/base/common/async.ts": {
+      "userLines": 0,
+      "total": 103
+    },
+    "../vscode/src/vs/base/common/cache.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/common/cancellation.ts": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../vscode/src/vs/base/common/collections.ts": {
+      "userLines": 0,
+      "total": 24
+    },
+    "../vscode/src/vs/base/common/color.ts": {
+      "userLines": 0,
+      "total": 95
+    },
+    "../vscode/src/vs/base/common/comparers.ts": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../vscode/src/vs/base/common/console.ts": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../vscode/src/vs/base/common/decorators.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/common/diff/diff.ts": {
+      "userLines": 0,
+      "total": 276
+    },
+    "../vscode/src/vs/base/common/errorMessage.ts": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../vscode/src/vs/base/common/errors.ts": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../vscode/src/vs/base/common/event.ts": {
+      "userLines": 0,
+      "total": 144
+    },
+    "../vscode/src/vs/base/common/extpath.ts": {
+      "userLines": 0,
+      "total": 56
+    },
+    "../vscode/src/vs/base/common/filters.ts": {
+      "userLines": 0,
+      "total": 86
+    },
+    "../vscode/src/vs/base/common/functional.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/common/glob.ts": {
+      "userLines": 0,
+      "total": 91
+    },
+    "../vscode/src/vs/base/common/history.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/common/htmlContent.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/base/common/iterator.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/base/common/json.ts": {
+      "userLines": 2,
+      "total": 175
+    },
+    "../vscode/src/vs/base/common/jsonEdit.ts": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../vscode/src/vs/base/common/jsonFormatter.ts": {
+      "userLines": 0,
+      "total": 37
+    },
+    "../vscode/src/vs/base/common/keyCodes.ts": {
+      "userLines": 0,
+      "total": 132
+    },
+    "../vscode/src/vs/base/common/keybindingLabels.ts": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../vscode/src/vs/base/common/keybindingParser.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/common/labels.ts": {
+      "userLines": 0,
+      "total": 90
+    },
+    "../vscode/src/vs/base/common/lifecycle.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/base/common/linkedList.ts": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../vscode/src/vs/base/common/map.ts": {
+      "userLines": 0,
+      "total": 49
+    },
+    "../vscode/src/vs/base/common/marked/marked.js": {
+      "userLines": 35,
+      "total": 230
+    },
+    "../vscode/src/vs/base/common/marshalling.ts": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../vscode/src/vs/base/common/mime.ts": {
+      "userLines": 2,
+      "total": 36
+    },
+    "../vscode/src/vs/base/common/objects.ts": {
+      "userLines": 0,
+      "total": 24
+    },
+    "../vscode/src/vs/base/common/octicon.ts": {
+      "userLines": 1,
+      "total": 26
+    },
+    "../vscode/src/vs/base/common/parsers.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/common/path.ts": {
+      "userLines": 0,
+      "total": 272
+    },
+    "../vscode/src/vs/base/common/platform.ts": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../vscode/src/vs/base/common/process.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/common/resources.ts": {
+      "userLines": 0,
+      "total": 67
+    },
+    "../vscode/src/vs/base/common/scrollable.ts": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../vscode/src/vs/base/common/sequence.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/common/severity.ts": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../vscode/src/vs/base/common/strings.ts": {
+      "userLines": 2,
+      "total": 161
+    },
+    "../vscode/src/vs/base/common/types.ts": {
+      "userLines": 6,
+      "total": 50
+    },
+    "../vscode/src/vs/base/common/uri.ts": {
+      "userLines": 0,
+      "total": 166
+    },
+    "../vscode/src/vs/base/common/uuid.ts": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../vscode/src/vs/base/common/worker/simpleWorker.ts": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../vscode/src/vs/base/node/config.ts": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../vscode/src/vs/base/node/crypto.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/node/decoder.ts": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../vscode/src/vs/base/node/encoding.ts": {
+      "userLines": 0,
+      "total": 65
+    },
+    "../vscode/src/vs/base/node/id.ts": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../vscode/src/vs/base/node/ports.ts": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../vscode/src/vs/base/node/processes.ts": {
+      "userLines": 0,
+      "total": 26
+    },
+    "../vscode/src/vs/base/node/proxy.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/node/ps.ts": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../vscode/src/vs/base/node/request.ts": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../vscode/src/vs/base/node/storage.ts": {
+      "userLines": 0,
+      "total": 100
+    },
+    "../vscode/src/vs/base/node/stream.ts": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../vscode/src/vs/base/node/zip.ts": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../vscode/src/vs/base/parts/contextmenu/electron-browser/contextmenu.ts": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../vscode/src/vs/base/parts/contextmenu/electron-main/contextmenu.ts": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../vscode/src/vs/base/parts/ipc/node/ipc.cp.ts": {
+      "userLines": 2,
+      "total": 40
+    },
+    "../vscode/src/vs/base/parts/ipc/node/ipc.net.ts": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../vscode/src/vs/base/parts/ipc/test/node/testService.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/parts/quickopen/browser/quickOpenModel.ts": {
+      "userLines": 2,
+      "total": 105
+    },
+    "../vscode/src/vs/base/parts/quickopen/browser/quickOpenViewer.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/parts/quickopen/browser/quickOpenWidget.ts": {
+      "userLines": 2,
+      "total": 80
+    },
+    "../vscode/src/vs/base/parts/quickopen/common/quickOpen.ts": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../vscode/src/vs/base/parts/quickopen/common/quickOpenScorer.ts": {
+      "userLines": 1,
+      "total": 162
+    },
+    "../vscode/src/vs/base/parts/tree/browser/tree.ts": {
+      "userLines": 0,
+      "total": 249
+    },
+    "../vscode/src/vs/base/parts/tree/browser/treeDefaults.ts": {
+      "userLines": 1,
+      "total": 24
+    },
+    "../vscode/src/vs/base/parts/tree/browser/treeDnd.ts": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../vscode/src/vs/base/parts/tree/browser/treeImpl.ts": {
+      "userLines": 2,
+      "total": 6
+    },
+    "../vscode/src/vs/base/parts/tree/browser/treeModel.ts": {
+      "userLines": 2,
+      "total": 19
+    },
+    "../vscode/src/vs/base/parts/tree/browser/treeView.ts": {
+      "userLines": 0,
+      "total": 57
+    },
+    "../vscode/src/vs/base/parts/tree/browser/treeViewModel.ts": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../vscode/src/vs/base/test/browser/ui/grid/util.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/test/common/utils.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/test/node/processes/fixtures/fork.ts": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../vscode/src/vs/base/test/node/processes/fixtures/fork_large.ts": {
+      "userLines": 0,
+      "total": 4
+    }
+  }
+}

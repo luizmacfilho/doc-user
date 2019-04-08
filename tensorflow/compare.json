@@ -1,0 +1,30 @@
+{
+  "mdFiles": {
+    "../tensorflow/CONTRIBUTING.md": {
+      "userLines": 2,
+      "total": 199
+    }
+  },
+  "otherFiles": {
+    "../tensorflow/tensorflow/core/lib/core/error_codes.proto": {
+      "userLines": 0,
+      "total": 103
+    },
+    "../tensorflow/tensorflow/core/lib/gif/gif_io.cc": {
+      "userLines": 3,
+      "total": 14
+    },
+    "../tensorflow/tensorflow/core/lib/io/random_inputstream.h": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../tensorflow/tensorflow/core/lib/io/snappy/snappy_outputbuffer.cc": {
+      "userLines": 0,
+      "total": 37
+    },
+    "../tensorflow/tensorflow/core/lib/jpeg/jpeg_mem.cc": {
+      "userLines": 0,
+      "total": 138
+    }
+  }
+}

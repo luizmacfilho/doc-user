@@ -1,0 +1,2974 @@
+{
+  "mdFiles": {
+    "../flutter/dev/integration_tests/codegen/README.md": {
+      "userLines": 3,
+      "total": 4
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../flutter/packages/flutter_tools/doc/daemon.md": {
+      "userLines": 1,
+      "total": 234
+    }
+  },
+  "otherFiles": {
+    "../flutter/bin/flutter": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/bin/flutter.bat": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/bin/internal/update_dart_sdk.sh": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../flutter/dev/automated_tests/flutter_run_test/flutter_run_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/dev/automated_tests/flutter_test/filtering_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/dev/automated_tests/flutter_test/trivial_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/dev/automated_tests/pubspec.yaml": {
+      "userLines": 34,
+      "total": 50
+    },
+    "../flutter/dev/benchmarks/complex_layout/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/benchmarks/complex_layout/pubspec.yaml": {
+      "userLines": 33,
+      "total": 56
+    },
+    "../flutter/dev/benchmarks/complex_layout/test_driver/scroll_perf_test.dart": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../flutter/dev/benchmarks/complex_layout/test_driver/semantics_perf_test.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/dev/benchmarks/macrobenchmarks/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/benchmarks/macrobenchmarks/pubspec.yaml": {
+      "userLines": 18,
+      "total": 56
+    },
+    "../flutter/dev/benchmarks/microbenchmarks/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/benchmarks/microbenchmarks/pubspec.yaml": {
+      "userLines": 30,
+      "total": 54
+    },
+    "../flutter/dev/bots/analyze.dart": {
+      "userLines": 0,
+      "total": 48
+    },
+    "../flutter/dev/bots/pubspec.yaml": {
+      "userLines": 19,
+      "total": 45
+    },
+    "../flutter/dev/bots/test/common.dart": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../flutter/dev/bots/test.dart": {
+      "userLines": 5,
+      "total": 52
+    },
+    "../flutter/dev/devicelab/bin/tasks/android_semantics_integration_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/dev/devicelab/bin/tasks/codegen_integration_linux.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/dev/devicelab/bin/tasks/codegen_integration_mac.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/dev/devicelab/bin/tasks/codegen_integration_win.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/dev/devicelab/bin/tasks/flutter_attach_test.dart": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../flutter/dev/devicelab/bin/tasks/flutter_run_test.dart": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../flutter/dev/devicelab/bin/tasks/flutter_test_performance.dart": {
+      "userLines": 2,
+      "total": 29
+    },
+    "../flutter/dev/devicelab/bin/tasks/technical_debt__cost.dart": {
+      "userLines": 1,
+      "total": 15
+    },
+    "../flutter/dev/devicelab/bin/tasks/uncaught_image_error_linux.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/dev/devicelab/lib/tasks/integration_tests.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/dev/devicelab/manifest.yaml": {
+      "userLines": 0,
+      "total": 85
+    },
+    "../flutter/dev/devicelab/pubspec.yaml": {
+      "userLines": 17,
+      "total": 48
+    },
+    "../flutter/dev/devicelab/test/common.dart": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/dev/docs/assets/api_survey.js": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../flutter/dev/docs/survey.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/android/app/build.gradle": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/android/app/src/main/java/com/yourcompany/platforminteraction/MainActivity.java": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/android/app/src/main/res/mipmap-hdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/android/app/src/main/res/mipmap-mdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/android/build.gradle": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/android/gradle/wrapper/gradle-wrapper.properties": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/android/gradle.properties": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/android/settings.gradle": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/lib/android_semantics_testing.dart": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/lib/main.dart": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/lib/src/common.dart": {
+      "userLines": 102,
+      "total": 102
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/lib/src/constants.dart": {
+      "userLines": 36,
+      "total": 36
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/lib/src/flutter_test_alternative.dart": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/lib/src/matcher.dart": {
+      "userLines": 10,
+      "total": 10
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/lib/src/tests/controls_constants.dart": {
+      "userLines": 12,
+      "total": 12
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/lib/src/tests/controls_page.dart": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/lib/src/tests/text_field_constants.dart": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/lib/src/tests/text_field_page.dart": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/lib/test_constants.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/pubspec.yaml": {
+      "userLines": 43,
+      "total": 50
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/test/android_semantics_testing_test.dart": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../flutter/dev/integration_tests/android_semantics_testing/test_driver/main_test.dart": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../flutter/dev/integration_tests/android_views/lib/main.dart": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../flutter/dev/integration_tests/android_views/pubspec.yaml": {
+      "userLines": 33,
+      "total": 50
+    },
+    "../flutter/dev/integration_tests/android_views/test_driver/main_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/dev/integration_tests/channels/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/channels/lib/src/method_calls.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/dev/integration_tests/channels/pubspec.yaml": {
+      "userLines": 34,
+      "total": 51
+    },
+    "../flutter/dev/integration_tests/channels/test_driver/main_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/dev/integration_tests/codegen/android/.project": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/.settings/org.eclipse.buildship.core.prefs": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/app/build.gradle": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/app/src/main/java/com/yourcompany/platforminteraction/MainActivity.java": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/app/src/main/res/mipmap-hdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/app/src/main/res/mipmap-mdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/build.gradle": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/gradle/wrapper/gradle-wrapper.properties": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/gradle.properties": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/android/settings.gradle": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Flutter/AppFrameworkInfo.plist": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Flutter/Debug.xcconfig": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Flutter/Release.xcconfig": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/AppDelegate.h": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/AppDelegate.m": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Base.lproj/Main.storyboard": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/Info.plist": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner/main.m": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner.xcodeproj/project.pbxproj": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner.xcworkspace/contents.xcworkspacedata": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/lib/main.dart": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../flutter/dev/integration_tests/codegen/pubspec.yaml": {
+      "userLines": 51,
+      "total": 52
+    },
+    "../flutter/dev/integration_tests/codegen/test/example_test.dart": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/codegen/test_driver/main_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/dev/integration_tests/external_ui/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/external_ui/lib/main.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/dev/integration_tests/external_ui/pubspec.yaml": {
+      "userLines": 34,
+      "total": 51
+    },
+    "../flutter/dev/integration_tests/external_ui/test_driver/main_test.dart": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../flutter/dev/integration_tests/flavors/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/flavors/lib/main.dart": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/flavors/pubspec.yaml": {
+      "userLines": 34,
+      "total": 51
+    },
+    "../flutter/dev/integration_tests/flavors/test_driver/main_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/dev/integration_tests/image_loading/android/.project": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/.project": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/bin/build.gradle": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/bin/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/bin/src/main/res/mipmap-hdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/bin/src/main/res/mipmap-mdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/bin/src/main/res/mipmap-xhdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/bin/src/main/res/mipmap-xxhdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/bin/src/main/res/mipmap-xxxhdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/build.gradle": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/src/main/java/com/yourcompany/platforminteraction/MainActivity.java": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/src/main/res/mipmap-hdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/src/main/res/mipmap-mdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/build.gradle": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/gradle/wrapper/gradle-wrapper.properties": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/gradle.properties": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/android/settings.gradle": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/image_loading/lib/main.dart": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../flutter/dev/integration_tests/image_loading/pubspec.yaml": {
+      "userLines": 50,
+      "total": 50
+    },
+    "../flutter/dev/integration_tests/ios_add2app/flutterapp/pubspec.yaml": {
+      "userLines": 7,
+      "total": 69
+    },
+    "../flutter/dev/integration_tests/named_isolates/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/platform_interaction/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/platform_interaction/pubspec.yaml": {
+      "userLines": 34,
+      "total": 51
+    },
+    "../flutter/dev/integration_tests/platform_interaction/test_driver/main_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/dev/integration_tests/simple_codegen/build.yaml": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../flutter/dev/integration_tests/simple_codegen/lib/builders.dart": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../flutter/dev/integration_tests/simple_codegen/pubspec.yaml": {
+      "userLines": 23,
+      "total": 23
+    },
+    "../flutter/dev/integration_tests/ui/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/integration_tests/ui/pubspec.yaml": {
+      "userLines": 41,
+      "total": 54
+    },
+    "../flutter/dev/integration_tests/ui/test_driver/commands_debug_paint_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/dev/integration_tests/ui/test_driver/commands_none_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/dev/integration_tests/ui/test_driver/commands_performance_overlay_test.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/dev/integration_tests/ui/test_driver/driver_test.dart": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../flutter/dev/integration_tests/ui/test_driver/keyboard_resize_test.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/dev/integration_tests/ui/test_driver/keyboard_textfield_test.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/dev/integration_tests/ui/test_driver/route_test.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/dev/integration_tests/ui/test_driver/screenshot_test.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/dev/integration_tests/web/lib/main.dart": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../flutter/dev/integration_tests/web/pubspec.yaml": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../flutter/dev/integration_tests/web/web/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/manual_tests/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/dev/manual_tests/pubspec.yaml": {
+      "userLines": 7,
+      "total": 19
+    },
+    "../flutter/dev/manual_tests/test/card_collection_test.dart": {
+      "userLines": 6,
+      "total": 9
+    },
+    "../flutter/dev/manual_tests/test/color_testing_demo_test.dart": {
+      "userLines": 5,
+      "total": 8
+    },
+    "../flutter/dev/manual_tests/test/mock_image_http.dart": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../flutter/dev/missing_dependency_tests/trivial_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/dev/snippets/pubspec.yaml": {
+      "userLines": 16,
+      "total": 72
+    },
+    "../flutter/dev/snippets/test/configuration_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/dev/tools/dartdoc.dart": {
+      "userLines": 0,
+      "total": 51
+    },
+    "../flutter/dev/tools/gen_keycodes/pubspec.yaml": {
+      "userLines": 3,
+      "total": 11
+    },
+    "../flutter/dev/tools/pubspec.yaml": {
+      "userLines": 5,
+      "total": 19
+    },
+    "../flutter/dev/tools/vitool/pubspec.yaml": {
+      "userLines": 7,
+      "total": 20
+    },
+    "../flutter/examples/catalog/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/examples/catalog/pubspec.yaml": {
+      "userLines": 33,
+      "total": 51
+    },
+    "../flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/contacts_demo.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/cupertino/cupertino_alert_demo.dart": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/cupertino/cupertino_navigation_demo.dart": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/backdrop_demo.dart": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/bottom_app_bar_demo.dart": {
+      "userLines": 0,
+      "total": 26
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/bottom_navigation_demo.dart": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/buttons_demo.dart": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/cards_demo.dart": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/chip_demo.dart": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/date_and_time_picker_demo.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/dialog_demo.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/drawer_demo.dart": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/full_screen_dialog_demo.dart": {
+      "userLines": 2,
+      "total": 7
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/leave_behind_demo.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/persistent_bottom_sheet_demo.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/progress_indicator_demo.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/reorderable_list_demo.dart": {
+      "userLines": 4,
+      "total": 13
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/slider_demo.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/tabs_fab_demo.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/material/text_form_field_demo.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/examples/flutter_gallery/lib/demo/pesto_demo.dart": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../flutter/examples/flutter_gallery/lib/gallery/demo.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/flutter_gallery/lib/gallery/home.dart": {
+      "userLines": 1,
+      "total": 14
+    },
+    "../flutter/examples/flutter_gallery/pubspec.yaml": {
+      "userLines": 33,
+      "total": 52
+    },
+    "../flutter/examples/flutter_gallery/test/accessibility_test.dart": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../flutter/examples/flutter_gallery/test/calculator/logic.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/flutter_gallery/test/demo/material/chip_demo_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/examples/flutter_gallery/test/live_smoketest.dart": {
+      "userLines": 0,
+      "total": 27
+    },
+    "../flutter/examples/flutter_gallery/test_driver/scroll_perf_test.dart": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../flutter/examples/flutter_gallery/test_driver/transitions_perf_test.dart": {
+      "userLines": 0,
+      "total": 44
+    },
+    "../flutter/examples/flutter_view/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/examples/flutter_view/pubspec.yaml": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/examples/hello_world/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/examples/hello_world/pubspec.yaml": {
+      "userLines": 7,
+      "total": 19
+    },
+    "../flutter/examples/layers/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/examples/layers/pubspec.yaml": {
+      "userLines": 7,
+      "total": 19
+    },
+    "../flutter/examples/layers/test/smoketests/raw/canvas_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/layers/test/smoketests/raw/hello_world_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/layers/test/smoketests/raw/spinning_square_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/layers/test/smoketests/raw/text_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/layers/test/smoketests/raw/touch_input_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/layers/test/smoketests/rendering/custom_coordinate_systems_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/layers/test/smoketests/rendering/flex_layout_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/layers/test/smoketests/rendering/hello_world_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/layers/test/smoketests/rendering/spinning_square_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/layers/test/smoketests/rendering/touch_input_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/platform_channel/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/examples/platform_channel/pubspec.yaml": {
+      "userLines": 33,
+      "total": 52
+    },
+    "../flutter/examples/platform_channel/test_driver/button_tap_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/platform_channel_swift/pubspec.yaml": {
+      "userLines": 11,
+      "total": 27
+    },
+    "../flutter/examples/platform_channel_swift/test_driver/button_tap_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/examples/platform_view/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/examples/platform_view/pubspec.yaml": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/examples/stocks/android/app/src/main/AndroidManifest.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/examples/stocks/lib/stock_settings.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/examples/stocks/pubspec.yaml": {
+      "userLines": 14,
+      "total": 37
+    },
+    "../flutter/examples/stocks/test/icon_color_test.dart": {
+      "userLines": 1,
+      "total": 20
+    },
+    "../flutter/examples/stocks/test_driver/scroll_perf_test.dart": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/packages/flutter/lib/foundation.dart": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../flutter/packages/flutter/lib/semantics.dart": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../flutter/packages/flutter/lib/src/animation/animation_controller.dart": {
+      "userLines": 28,
+      "total": 384
+    },
+    "../flutter/packages/flutter/lib/src/cupertino/localizations.dart": {
+      "userLines": 12,
+      "total": 169
+    },
+    "../flutter/packages/flutter/lib/src/cupertino/picker.dart": {
+      "userLines": 6,
+      "total": 107
+    },
+    "../flutter/packages/flutter/lib/src/cupertino/route.dart": {
+      "userLines": 0,
+      "total": 304
+    },
+    "../flutter/packages/flutter/lib/src/cupertino/slider.dart": {
+      "userLines": 0,
+      "total": 152
+    },
+    "../flutter/packages/flutter/lib/src/foundation/basic_types.dart": {
+      "userLines": 0,
+      "total": 110
+    },
+    "../flutter/packages/flutter/lib/src/foundation/bitfield.dart": {
+      "userLines": 33,
+      "total": 33
+    },
+    "../flutter/packages/flutter/lib/src/foundation/bitfield_unsupported.dart": {
+      "userLines": 14,
+      "total": 14
+    },
+    "../flutter/packages/flutter/lib/src/foundation/collections.dart": {
+      "userLines": 4,
+      "total": 26
+    },
+    "../flutter/packages/flutter/lib/src/foundation/consolidate_response.dart": {
+      "userLines": 5,
+      "total": 9
+    },
+    "../flutter/packages/flutter/lib/src/material/about.dart": {
+      "userLines": 0,
+      "total": 177
+    },
+    "../flutter/packages/flutter/lib/src/material/app_bar.dart": {
+      "userLines": 0,
+      "total": 557
+    },
+    "../flutter/packages/flutter/lib/src/material/back_button.dart": {
+      "userLines": 0,
+      "total": 66
+    },
+    "../flutter/packages/flutter/lib/src/material/bottom_navigation_bar.dart": {
+      "userLines": 0,
+      "total": 239
+    },
+    "../flutter/packages/flutter/lib/src/material/bottom_sheet.dart": {
+      "userLines": 2,
+      "total": 128
+    },
+    "../flutter/packages/flutter/lib/src/material/button.dart": {
+      "userLines": 8,
+      "total": 89
+    },
+    "../flutter/packages/flutter/lib/src/material/button_bar.dart": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../flutter/packages/flutter/lib/src/material/button_theme.dart": {
+      "userLines": 9,
+      "total": 332
+    },
+    "../flutter/packages/flutter/lib/src/material/card.dart": {
+      "userLines": 11,
+      "total": 143
+    },
+    "../flutter/packages/flutter/lib/src/material/checkbox.dart": {
+      "userLines": 7,
+      "total": 111
+    },
+    "../flutter/packages/flutter/lib/src/material/checkbox_list_tile.dart": {
+      "userLines": 0,
+      "total": 125
+    },
+    "../flutter/packages/flutter/lib/src/material/chip.dart": {
+      "userLines": 20,
+      "total": 720
+    },
+    "../flutter/packages/flutter/lib/src/material/colors.dart": {
+      "userLines": 11,
+      "total": 1282
+    },
+    "../flutter/packages/flutter/lib/src/material/data_table.dart": {
+      "userLines": 0,
+      "total": 225
+    },
+    "../flutter/packages/flutter/lib/src/material/debug.dart": {
+      "userLines": 14,
+      "total": 30
+    },
+    "../flutter/packages/flutter/lib/src/material/dialog.dart": {
+      "userLines": 39,
+      "total": 376
+    },
+    "../flutter/packages/flutter/lib/src/material/drawer.dart": {
+      "userLines": 6,
+      "total": 140
+    },
+    "../flutter/packages/flutter/lib/src/material/dropdown.dart": {
+      "userLines": 0,
+      "total": 224
+    },
+    "../flutter/packages/flutter/lib/src/material/expand_icon.dart": {
+      "userLines": 5,
+      "total": 31
+    },
+    "../flutter/packages/flutter/lib/src/material/expansion_panel.dart": {
+      "userLines": 0,
+      "total": 223
+    },
+    "../flutter/packages/flutter/lib/src/material/feedback.dart": {
+      "userLines": 0,
+      "total": 109
+    },
+    "../flutter/packages/flutter/lib/src/material/flat_button.dart": {
+      "userLines": 0,
+      "total": 95
+    },
+    "../flutter/packages/flutter/lib/src/material/flexible_space_bar.dart": {
+      "userLines": 0,
+      "total": 84
+    },
+    "../flutter/packages/flutter/lib/src/material/floating_action_button.dart": {
+      "userLines": 7,
+      "total": 190
+    },
+    "../flutter/packages/flutter/lib/src/material/ink_highlight.dart": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../flutter/packages/flutter/lib/src/material/ink_ripple.dart": {
+      "userLines": 0,
+      "total": 54
+    },
+    "../flutter/packages/flutter/lib/src/material/ink_splash.dart": {
+      "userLines": 0,
+      "total": 42
+    },
+    "../flutter/packages/flutter/lib/src/material/ink_well.dart": {
+      "userLines": 0,
+      "total": 312
+    },
+    "../flutter/packages/flutter/lib/src/material/input_decorator.dart": {
+      "userLines": 21,
+      "total": 857
+    },
+    "../flutter/packages/flutter/lib/src/material/material_localizations.dart": {
+      "userLines": 7,
+      "total": 237
+    },
+    "../flutter/packages/flutter/lib/src/material/outline_button.dart": {
+      "userLines": 0,
+      "total": 81
+    },
+    "../flutter/packages/flutter/lib/src/material/page.dart": {
+      "userLines": 1,
+      "total": 36
+    },
+    "../flutter/packages/flutter/lib/src/material/paginated_data_table.dart": {
+      "userLines": 2,
+      "total": 117
+    },
+    "../flutter/packages/flutter/lib/src/material/popup_menu.dart": {
+      "userLines": 3,
+      "total": 401
+    },
+    "../flutter/packages/flutter/lib/src/material/radio.dart": {
+      "userLines": 7,
+      "total": 78
+    },
+    "../flutter/packages/flutter/lib/src/material/radio_list_tile.dart": {
+      "userLines": 0,
+      "total": 145
+    },
+    "../flutter/packages/flutter/lib/src/material/raised_button.dart": {
+      "userLines": 0,
+      "total": 107
+    },
+    "../flutter/packages/flutter/lib/src/material/reorderable_list.dart": {
+      "userLines": 12,
+      "total": 151
+    },
+    "../flutter/packages/flutter/lib/src/material/scaffold.dart": {
+      "userLines": 5,
+      "total": 697
+    },
+    "../flutter/packages/flutter/lib/src/material/search.dart": {
+      "userLines": 0,
+      "total": 166
+    },
+    "../flutter/packages/flutter/lib/src/material/slider.dart": {
+      "userLines": 33,
+      "total": 316
+    },
+    "../flutter/packages/flutter/lib/src/material/snack_bar.dart": {
+      "userLines": 4,
+      "total": 103
+    },
+    "../flutter/packages/flutter/lib/src/material/switch.dart": {
+      "userLines": 8,
+      "total": 111
+    },
+    "../flutter/packages/flutter/lib/src/material/switch_list_tile.dart": {
+      "userLines": 0,
+      "total": 146
+    },
+    "../flutter/packages/flutter/lib/src/material/text_field.dart": {
+      "userLines": 5,
+      "total": 326
+    },
+    "../flutter/packages/flutter/lib/src/material/text_form_field.dart": {
+      "userLines": 0,
+      "total": 74
+    },
+    "../flutter/packages/flutter/lib/src/material/text_selection.dart": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../flutter/packages/flutter/lib/src/material/theme_data.dart": {
+      "userLines": 31,
+      "total": 352
+    },
+    "../flutter/packages/flutter/lib/src/material/time_picker.dart": {
+      "userLines": 0,
+      "total": 173
+    },
+    "../flutter/packages/flutter/lib/src/material/toggleable.dart": {
+      "userLines": 0,
+      "total": 84
+    },
+    "../flutter/packages/flutter/lib/src/material/tooltip.dart": {
+      "userLines": 0,
+      "total": 65
+    },
+    "../flutter/packages/flutter/lib/src/material/user_accounts_drawer_header.dart": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../flutter/packages/flutter/lib/src/painting/decoration_image.dart": {
+      "userLines": 5,
+      "total": 185
+    },
+    "../flutter/packages/flutter/lib/src/painting/image_cache.dart": {
+      "userLines": 40,
+      "total": 86
+    },
+    "../flutter/packages/flutter/lib/src/painting/image_provider.dart": {
+      "userLines": 44,
+      "total": 359
+    },
+    "../flutter/packages/flutter/lib/src/rendering/binding.dart": {
+      "userLines": 0,
+      "total": 156
+    },
+    "../flutter/packages/flutter/lib/src/rendering/custom_paint.dart": {
+      "userLines": 0,
+      "total": 402
+    },
+    "../flutter/packages/flutter/lib/src/rendering/editable.dart": {
+      "userLines": 32,
+      "total": 405
+    },
+    "../flutter/packages/flutter/lib/src/rendering/image.dart": {
+      "userLines": 5,
+      "total": 89
+    },
+    "../flutter/packages/flutter/lib/src/rendering/layer.dart": {
+      "userLines": 22,
+      "total": 607
+    },
+    "../flutter/packages/flutter/lib/src/rendering/object.dart": {
+      "userLines": 8,
+      "total": 1379
+    },
+    "../flutter/packages/flutter/lib/src/rendering/paragraph.dart": {
+      "userLines": 3,
+      "total": 117
+    },
+    "../flutter/packages/flutter/lib/src/rendering/proxy_box.dart": {
+      "userLines": 73,
+      "total": 1174
+    },
+    "../flutter/packages/flutter/lib/src/rendering/table.dart": {
+      "userLines": 2,
+      "total": 281
+    },
+    "../flutter/packages/flutter/lib/src/rendering/view.dart": {
+      "userLines": 19,
+      "total": 71
+    },
+    "../flutter/packages/flutter/lib/src/rendering/wrap.dart": {
+      "userLines": 0,
+      "total": 183
+    },
+    "../flutter/packages/flutter/lib/src/scheduler/binding.dart": {
+      "userLines": 0,
+      "total": 430
+    },
+    "../flutter/packages/flutter/lib/src/scheduler/ticker.dart": {
+      "userLines": 0,
+      "total": 192
+    },
+    "../flutter/packages/flutter/lib/src/semantics/binding.dart": {
+      "userLines": 19,
+      "total": 20
+    },
+    "../flutter/packages/flutter/lib/src/semantics/debug.dart": {
+      "userLines": 7,
+      "total": 7
+    },
+    "../flutter/packages/flutter/lib/src/semantics/semantics.dart": {
+      "userLines": 230,
+      "total": 1637
+    },
+    "../flutter/packages/flutter/lib/src/semantics/semantics_event.dart": {
+      "userLines": 25,
+      "total": 65
+    },
+    "../flutter/packages/flutter/lib/src/semantics/semantics_service.dart": {
+      "userLines": 3,
+      "total": 21
+    },
+    "../flutter/packages/flutter/lib/src/services/asset_bundle.dart": {
+      "userLines": 1,
+      "total": 131
+    },
+    "../flutter/packages/flutter/lib/src/services/clipboard.dart": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../flutter/packages/flutter/lib/src/services/haptic_feedback.dart": {
+      "userLines": 0,
+      "total": 42
+    },
+    "../flutter/packages/flutter/lib/src/services/platform_channel.dart": {
+      "userLines": 31,
+      "total": 332
+    },
+    "../flutter/packages/flutter/lib/src/services/platform_views.dart": {
+      "userLines": 0,
+      "total": 219
+    },
+    "../flutter/packages/flutter/lib/src/services/system_chrome.dart": {
+      "userLines": 38,
+      "total": 205
+    },
+    "../flutter/packages/flutter/lib/src/services/system_navigator.dart": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../flutter/packages/flutter/lib/src/services/system_sound.dart": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../flutter/packages/flutter/lib/src/services/text_input.dart": {
+      "userLines": 20,
+      "total": 339
+    },
+    "../flutter/packages/flutter/lib/src/widgets/animated_list.dart": {
+      "userLines": 0,
+      "total": 147
+    },
+    "../flutter/packages/flutter/lib/src/widgets/annotated_region.dart": {
+      "userLines": 21,
+      "total": 24
+    },
+    "../flutter/packages/flutter/lib/src/widgets/app.dart": {
+      "userLines": 2,
+      "total": 637
+    },
+    "../flutter/packages/flutter/lib/src/widgets/basic.dart": {
+      "userLines": 59,
+      "total": 3491
+    },
+    "../flutter/packages/flutter/lib/src/widgets/binding.dart": {
+      "userLines": 9,
+      "total": 486
+    },
+    "../flutter/packages/flutter/lib/src/widgets/bottom_navigation_bar_item.dart": {
+      "userLines": 20,
+      "total": 58
+    },
+    "../flutter/packages/flutter/lib/src/widgets/drag_target.dart": {
+      "userLines": 8,
+      "total": 245
+    },
+    "../flutter/packages/flutter/lib/src/widgets/editable_text.dart": {
+      "userLines": 9,
+      "total": 593
+    },
+    "../flutter/packages/flutter/lib/src/widgets/focus_manager.dart": {
+      "userLines": 0,
+      "total": 177
+    },
+    "../flutter/packages/flutter/lib/src/widgets/framework.dart": {
+      "userLines": 0,
+      "total": 2436
+    },
+    "../flutter/packages/flutter/lib/src/widgets/image.dart": {
+      "userLines": 17,
+      "total": 363
+    },
+    "../flutter/packages/flutter/lib/src/widgets/image_icon.dart": {
+      "userLines": 9,
+      "total": 41
+    },
+    "../flutter/packages/flutter/lib/src/widgets/list_wheel_scroll_view.dart": {
+      "userLines": 0,
+      "total": 282
+    },
+    "../flutter/packages/flutter/lib/src/widgets/media_query.dart": {
+      "userLines": 30,
+      "total": 268
+    },
+    "../flutter/packages/flutter/lib/src/widgets/raw_keyboard_listener.dart": {
+      "userLines": 0,
+      "total": 26
+    },
+    "../flutter/packages/flutter/lib/src/widgets/scroll_view.dart": {
+      "userLines": 56,
+      "total": 914
+    },
+    "../flutter/packages/flutter/lib/src/widgets/scrollable.dart": {
+      "userLines": 16,
+      "total": 223
+    },
+    "../flutter/packages/flutter/lib/src/widgets/sliver.dart": {
+      "userLines": 156,
+      "total": 659
+    },
+    "../flutter/packages/flutter/lib/src/widgets/text.dart": {
+      "userLines": 16,
+      "total": 205
+    },
+    "../flutter/packages/flutter/lib/src/widgets/ticker_provider.dart": {
+      "userLines": 0,
+      "total": 60
+    },
+    "../flutter/packages/flutter/lib/src/widgets/transitions.dart": {
+      "userLines": 8,
+      "total": 514
+    },
+    "../flutter/packages/flutter/lib/src/widgets/widget_inspector.dart": {
+      "userLines": 0,
+      "total": 592
+    },
+    "../flutter/packages/flutter/lib/widgets.dart": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../flutter/packages/flutter/pubspec.yaml": {
+      "userLines": 9,
+      "total": 20
+    },
+    "../flutter/packages/flutter/test/animation/animation_controller_test.dart": {
+      "userLines": 1,
+      "total": 11
+    },
+    "../flutter/packages/flutter/test/cupertino/action_sheet_test.dart": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../flutter/packages/flutter/test/cupertino/date_picker_test.dart": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../flutter/packages/flutter/test/cupertino/dialog_test.dart": {
+      "userLines": 0,
+      "total": 64
+    },
+    "../flutter/packages/flutter/test/cupertino/nav_bar_test.dart": {
+      "userLines": 0,
+      "total": 37
+    },
+    "../flutter/packages/flutter/test/cupertino/slider_test.dart": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../flutter/packages/flutter/test/engine/color_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/engine/dart_test.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/packages/flutter/test/engine/paragraph_builder_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/engine/rect_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/engine/rrect_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/engine/task_order_test.dart": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/packages/flutter/test/flutter_test_alternative.dart": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/packages/flutter/test/foundation/binary_search_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/foundation/consolidate_response_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/foundation/service_extensions_test.dart": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../flutter/packages/flutter/test/foundation/stack_trace_test.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/packages/flutter/test/material/app_bar_test.dart": {
+      "userLines": 0,
+      "total": 85
+    },
+    "../flutter/packages/flutter/test/material/app_builder_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/material/back_button_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/material/bottom_navigation_bar_test.dart": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../flutter/packages/flutter/test/material/button_bar_test.dart": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/packages/flutter/test/material/button_theme_test.dart": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../flutter/packages/flutter/test/material/buttons_test.dart": {
+      "userLines": 0,
+      "total": 43
+    },
+    "../flutter/packages/flutter/test/material/card_test.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/packages/flutter/test/material/checkbox_test.dart": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../flutter/packages/flutter/test/material/chip_test.dart": {
+      "userLines": 0,
+      "total": 54
+    },
+    "../flutter/packages/flutter/test/material/chip_theme_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/material/control_list_tile_test.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/packages/flutter/test/material/dialog_test.dart": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../flutter/packages/flutter/test/material/drawer_test.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/packages/flutter/test/material/dropdown_test.dart": {
+      "userLines": 2,
+      "total": 102
+    },
+    "../flutter/packages/flutter/test/material/expand_icon_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/material/expansion_panel_test.dart": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../flutter/packages/flutter/test/material/feedback_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/material/floating_action_button_location_test.dart": {
+      "userLines": 0,
+      "total": 34
+    },
+    "../flutter/packages/flutter/test/material/floating_action_button_test.dart": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../flutter/packages/flutter/test/material/ink_paint_test.dart": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../flutter/packages/flutter/test/material/ink_splash_test.dart": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../flutter/packages/flutter/test/material/ink_well_test.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/packages/flutter/test/material/input_decorator_test.dart": {
+      "userLines": 31,
+      "total": 418
+    },
+    "../flutter/packages/flutter/test/material/localizations_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/material/modal_bottom_sheet_test.dart": {
+      "userLines": 2,
+      "total": 32
+    },
+    "../flutter/packages/flutter/test/material/outline_button_test.dart": {
+      "userLines": 0,
+      "total": 42
+    },
+    "../flutter/packages/flutter/test/material/popup_menu_test.dart": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../flutter/packages/flutter/test/material/radio_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/material/raw_material_button_test.dart": {
+      "userLines": 6,
+      "total": 9
+    },
+    "../flutter/packages/flutter/test/material/reorderable_list_test.dart": {
+      "userLines": 0,
+      "total": 71
+    },
+    "../flutter/packages/flutter/test/material/scaffold_test.dart": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../flutter/packages/flutter/test/material/search_test.dart": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../flutter/packages/flutter/test/material/slider_test.dart": {
+      "userLines": 0,
+      "total": 65
+    },
+    "../flutter/packages/flutter/test/material/snack_bar_test.dart": {
+      "userLines": 10,
+      "total": 95
+    },
+    "../flutter/packages/flutter/test/material/switch_test.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/packages/flutter/test/material/tabs_test.dart": {
+      "userLines": 0,
+      "total": 114
+    },
+    "../flutter/packages/flutter/test/material/text_field_focus_test.dart": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../flutter/packages/flutter/test/material/text_field_splash_test.dart": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../flutter/packages/flutter/test/material/text_field_test.dart": {
+      "userLines": 0,
+      "total": 388
+    },
+    "../flutter/packages/flutter/test/material/theme_data_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/material/theme_test.dart": {
+      "userLines": 0,
+      "total": 28
+    },
+    "../flutter/packages/flutter/test/material/time_picker_test.dart": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../flutter/packages/flutter/test/material/tooltip_test.dart": {
+      "userLines": 0,
+      "total": 107
+    },
+    "../flutter/packages/flutter/test/material/user_accounts_drawer_header_test.dart": {
+      "userLines": 2,
+      "total": 23
+    },
+    "../flutter/packages/flutter/test/material/will_pop_test.dart": {
+      "userLines": 0,
+      "total": 40
+    },
+    "../flutter/packages/flutter/test/painting/image_cache_resize_test.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/packages/flutter/test/painting/image_cache_test.dart": {
+      "userLines": 11,
+      "total": 15
+    },
+    "../flutter/packages/flutter/test/painting/image_provider_test.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/packages/flutter/test/painting/mocks_for_image_cache.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/painting/text_painter_test.dart": {
+      "userLines": 0,
+      "total": 55
+    },
+    "../flutter/packages/flutter/test/rendering/annotated_region_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/rendering/image_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/rendering/proxy_box_test.dart": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../flutter/packages/flutter/test/rendering/recording_canvas.dart": {
+      "userLines": 0,
+      "total": 43
+    },
+    "../flutter/packages/flutter/test/rendering/rendering_tester.dart": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../flutter/packages/flutter/test/rendering/semantics_and_children_test.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/packages/flutter/test/scheduler/ticker_test.dart": {
+      "userLines": 2,
+      "total": 5
+    },
+    "../flutter/packages/flutter/test/semantics/custom_semantics_action_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/semantics/semantics_test.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/packages/flutter/test/semantics/traversal_order_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/services/platform_channel_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/services/text_input_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/widgets/absorb_pointer_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/widgets/annotated_region_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/widgets/async_lifecycle_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/widgets/automatic_keep_alive_test.dart": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../flutter/packages/flutter/test/widgets/custom_painter_test.dart": {
+      "userLines": 3,
+      "total": 21
+    },
+    "../flutter/packages/flutter/test/widgets/draggable_test.dart": {
+      "userLines": 1,
+      "total": 29
+    },
+    "../flutter/packages/flutter/test/widgets/drawer_test.dart": {
+      "userLines": 1,
+      "total": 35
+    },
+    "../flutter/packages/flutter/test/widgets/editable_text_test.dart": {
+      "userLines": 3,
+      "total": 73
+    },
+    "../flutter/packages/flutter/test/widgets/ensure_visible_test.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/packages/flutter/test/widgets/image_headers_test.dart": {
+      "userLines": 1,
+      "total": 4
+    },
+    "../flutter/packages/flutter/test/widgets/image_icon_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/widgets/image_resolution_test.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/packages/flutter/test/widgets/image_test.dart": {
+      "userLines": 0,
+      "total": 54
+    },
+    "../flutter/packages/flutter/test/widgets/inherited_dependencies_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/widgets/invert_colors_test.dart": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../flutter/packages/flutter/test/widgets/keep_alive_test.dart": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../flutter/packages/flutter/test/widgets/list_view_test.dart": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../flutter/packages/flutter/test/widgets/list_view_viewporting_test.dart": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../flutter/packages/flutter/test/widgets/list_wheel_scroll_view_test.dart": {
+      "userLines": 0,
+      "total": 77
+    },
+    "../flutter/packages/flutter/test/widgets/media_query_test.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/packages/flutter/test/widgets/navigator_test.dart": {
+      "userLines": 2,
+      "total": 62
+    },
+    "../flutter/packages/flutter/test/widgets/nested_scroll_view_test.dart": {
+      "userLines": 0,
+      "total": 106
+    },
+    "../flutter/packages/flutter/test/widgets/physical_model_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/widgets/run_app_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/widgets/scrollable_semantics_test.dart": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../flutter/packages/flutter/test/widgets/scrollable_semantics_traversal_order_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/widgets/semantics_debugger_test.dart": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../flutter/packages/flutter/test/widgets/semantics_test.dart": {
+      "userLines": 3,
+      "total": 24
+    },
+    "../flutter/packages/flutter/test/widgets/semantics_tester.dart": {
+      "userLines": 2,
+      "total": 181
+    },
+    "../flutter/packages/flutter/test/widgets/semantics_tester_generateTestSemanticsExpressionForCurrentSemanticsTree_test.dart": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../flutter/packages/flutter/test/widgets/set_state_5_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/widgets/simple_semantics_test.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/packages/flutter/test/widgets/single_child_scroll_view_test.dart": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../flutter/packages/flutter/test/widgets/sliver_fill_viewport_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter/test/widgets/sliver_semantics_test.dart": {
+      "userLines": 2,
+      "total": 12
+    },
+    "../flutter/packages/flutter/test/widgets/slivers_appbar_floating_pinned_test.dart": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../flutter/packages/flutter/test/widgets/table_test.dart": {
+      "userLines": 2,
+      "total": 6
+    },
+    "../flutter/packages/flutter/test/widgets/text_test.dart": {
+      "userLines": 8,
+      "total": 11
+    },
+    "../flutter/packages/flutter/test/widgets/transitions_test.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/packages/flutter/test/widgets/widget_inspector_test.dart": {
+      "userLines": 1,
+      "total": 191
+    },
+    "../flutter/packages/flutter/test/widgets/wrap_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_driver/lib/src/common/find.dart": {
+      "userLines": 17,
+      "total": 100
+    },
+    "../flutter/packages/flutter_driver/lib/src/driver/driver.dart": {
+      "userLines": 6,
+      "total": 366
+    },
+    "../flutter/packages/flutter_driver/lib/src/extension/extension.dart": {
+      "userLines": 4,
+      "total": 52
+    },
+    "../flutter/packages/flutter_driver/pubspec.yaml": {
+      "userLines": 8,
+      "total": 22
+    },
+    "../flutter/packages/flutter_driver/test/common.dart": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../flutter/packages/flutter_driver/test/src/extension_test.dart": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/packages/flutter_goldens/lib/flutter_goldens.dart": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../flutter/packages/flutter_goldens/pubspec.yaml": {
+      "userLines": 9,
+      "total": 19
+    },
+    "../flutter/packages/flutter_goldens_client/pubspec.yaml": {
+      "userLines": 2,
+      "total": 7
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/generated_material_localizations.dart": {
+      "userLines": 0,
+      "total": 493
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_ar.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_bg.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_bs.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_ca.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_cs.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_da.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_de.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_de_CH.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_el.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_en.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_en_AU.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_en_CA.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_en_GB.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_en_IE.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_en_IN.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_en_SG.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_en_ZA.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_419.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_AR.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_BO.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_CL.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_CO.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_CR.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_DO.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_EC.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_GT.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_HN.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_MX.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_NI.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_PA.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_PE.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_PR.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_PY.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_SV.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_US.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_UY.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_es_VE.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_et.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_fa.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_fi.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_fil.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_fr.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_gsw.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_he.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_hi.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_hr.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_hu.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_id.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_it.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_ja.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_ko.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_lt.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_ms.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_nb.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_nl.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_pl.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_ps.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_pt.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_pt_PT.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_ro.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_ru.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_sk.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_sl.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_sr.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_sr_Latn.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_sv.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_th.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_tl.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_tr.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_uk.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_ur.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_vi.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_zh.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_zh_HK.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/l10n/material_zh_TW.arb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_localizations/lib/src/material_localizations.dart": {
+      "userLines": 29,
+      "total": 301
+    },
+    "../flutter/packages/flutter_localizations/pubspec.yaml": {
+      "userLines": 7,
+      "total": 20
+    },
+    "../flutter/packages/flutter_localizations/test/translations_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_test/lib/flutter_test.dart": {
+      "userLines": 0,
+      "total": 43
+    },
+    "../flutter/packages/flutter_test/lib/src/accessibility.dart": {
+      "userLines": 97,
+      "total": 97
+    },
+    "../flutter/packages/flutter_test/lib/src/binding.dart": {
+      "userLines": 10,
+      "total": 454
+    },
+    "../flutter/packages/flutter_test/lib/src/finders.dart": {
+      "userLines": 0,
+      "total": 289
+    },
+    "../flutter/packages/flutter_test/lib/src/goldens.dart": {
+      "userLines": 0,
+      "total": 117
+    },
+    "../flutter/packages/flutter_test/lib/src/matchers.dart": {
+      "userLines": 49,
+      "total": 409
+    },
+    "../flutter/packages/flutter_test/lib/src/test_compat.dart": {
+      "userLines": 227,
+      "total": 227
+    },
+    "../flutter/packages/flutter_test/lib/src/test_exception_reporter.dart": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../flutter/packages/flutter_test/lib/src/test_vsync.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/packages/flutter_test/lib/src/widget_tester.dart": {
+      "userLines": 15,
+      "total": 290
+    },
+    "../flutter/packages/flutter_test/pubspec.yaml": {
+      "userLines": 6,
+      "total": 25
+    },
+    "../flutter/packages/flutter_test/test/accessibility_test.dart": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../flutter/packages/flutter_test/test/bindings_test.dart": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../flutter/packages/flutter_test/test/finders_test.dart": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../flutter/packages/flutter_test/test/matchers_test.dart": {
+      "userLines": 4,
+      "total": 21
+    },
+    "../flutter/packages/flutter_test/test/test_async_utils_test.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/packages/flutter_test/test/widget_tester_test.dart": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../flutter/packages/flutter_tools/BUILD.gn": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_tools/bin/fuchsia_attach.dart": {
+      "userLines": 14,
+      "total": 14
+    },
+    "../flutter/packages/flutter_tools/bin/fuchsia_tester.dart": {
+      "userLines": 2,
+      "total": 12
+    },
+    "../flutter/packages/flutter_tools/bin/xcode_backend.sh": {
+      "userLines": 0,
+      "total": 44
+    },
+    "../flutter/packages/flutter_tools/build.yaml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_tools/lib/executable.dart": {
+      "userLines": 5,
+      "total": 11
+    },
+    "../flutter/packages/flutter_tools/lib/runner.dart": {
+      "userLines": 0,
+      "total": 29
+    },
+    "../flutter/packages/flutter_tools/lib/src/android/android_device.dart": {
+      "userLines": 2,
+      "total": 73
+    },
+    "../flutter/packages/flutter_tools/lib/src/android/android_sdk.dart": {
+      "userLines": 0,
+      "total": 90
+    },
+    "../flutter/packages/flutter_tools/lib/src/android/android_workflow.dart": {
+      "userLines": 2,
+      "total": 26
+    },
+    "../flutter/packages/flutter_tools/lib/src/android/gradle.dart": {
+      "userLines": 0,
+      "total": 76
+    },
+    "../flutter/packages/flutter_tools/lib/src/application_package.dart": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../flutter/packages/flutter_tools/lib/src/artifacts.dart": {
+      "userLines": 6,
+      "total": 24
+    },
+    "../flutter/packages/flutter_tools/lib/src/asset.dart": {
+      "userLines": 6,
+      "total": 90
+    },
+    "../flutter/packages/flutter_tools/lib/src/base/build.dart": {
+      "userLines": 0,
+      "total": 71
+    },
+    "../flutter/packages/flutter_tools/lib/src/base/config.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/lib/src/base/fingerprint.dart": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../flutter/packages/flutter_tools/lib/src/base/logger.dart": {
+      "userLines": 11,
+      "total": 151
+    },
+    "../flutter/packages/flutter_tools/lib/src/base/net.dart": {
+      "userLines": 1,
+      "total": 9
+    },
+    "../flutter/packages/flutter_tools/lib/src/base/os.dart": {
+      "userLines": 1,
+      "total": 25
+    },
+    "../flutter/packages/flutter_tools/lib/src/base/process.dart": {
+      "userLines": 0,
+      "total": 57
+    },
+    "../flutter/packages/flutter_tools/lib/src/base/terminal.dart": {
+      "userLines": 0,
+      "total": 46
+    },
+    "../flutter/packages/flutter_tools/lib/src/base/time.dart": {
+      "userLines": 9,
+      "total": 9
+    },
+    "../flutter/packages/flutter_tools/lib/src/base/utils.dart": {
+      "userLines": 0,
+      "total": 125
+    },
+    "../flutter/packages/flutter_tools/lib/src/build_info.dart": {
+      "userLines": 1,
+      "total": 69
+    },
+    "../flutter/packages/flutter_tools/lib/src/build_runner/build_runner.dart": {
+      "userLines": 13,
+      "total": 13
+    },
+    "../flutter/packages/flutter_tools/lib/src/build_runner/build_script_generator.dart": {
+      "userLines": 35,
+      "total": 36
+    },
+    "../flutter/packages/flutter_tools/lib/src/bundle.dart": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../flutter/packages/flutter_tools/lib/src/cache.dart": {
+      "userLines": 28,
+      "total": 85
+    },
+    "../flutter/packages/flutter_tools/lib/src/codegen.dart": {
+      "userLines": 51,
+      "total": 51
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/analyze.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/analyze_continuously.dart": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/analyze_once.dart": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/attach.dart": {
+      "userLines": 3,
+      "total": 58
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/build.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/build_aot.dart": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/build_apk.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/build_bundle.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/build_ios.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/build_web.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/channel.dart": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/clean.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/config.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/create.dart": {
+      "userLines": 0,
+      "total": 57
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/daemon.dart": {
+      "userLines": 5,
+      "total": 62
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/drive.dart": {
+      "userLines": 0,
+      "total": 40
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/generate.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/ide_config.dart": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/install.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/precache.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/run.dart": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/screenshot.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/test.dart": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/trace.dart": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/train.dart": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/update_packages.dart": {
+      "userLines": 53,
+      "total": 396
+    },
+    "../flutter/packages/flutter_tools/lib/src/commands/upgrade.dart": {
+      "userLines": 26,
+      "total": 33
+    },
+    "../flutter/packages/flutter_tools/lib/src/compile.dart": {
+      "userLines": 12,
+      "total": 55
+    },
+    "../flutter/packages/flutter_tools/lib/src/context_runner.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/lib/src/convert.dart": {
+      "userLines": 10,
+      "total": 10
+    },
+    "../flutter/packages/flutter_tools/lib/src/dart/analysis.dart": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../flutter/packages/flutter_tools/lib/src/dart/package_map.dart": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/packages/flutter_tools/lib/src/dart/pub.dart": {
+      "userLines": 0,
+      "total": 44
+    },
+    "../flutter/packages/flutter_tools/lib/src/desktop.dart": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../flutter/packages/flutter_tools/lib/src/devfs.dart": {
+      "userLines": 5,
+      "total": 43
+    },
+    "../flutter/packages/flutter_tools/lib/src/device.dart": {
+      "userLines": 12,
+      "total": 71
+    },
+    "../flutter/packages/flutter_tools/lib/src/doctor.dart": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../flutter/packages/flutter_tools/lib/src/fuchsia/fuchsia_device.dart": {
+      "userLines": 28,
+      "total": 34
+    },
+    "../flutter/packages/flutter_tools/lib/src/fuchsia/fuchsia_sdk.dart": {
+      "userLines": 21,
+      "total": 21
+    },
+    "../flutter/packages/flutter_tools/lib/src/fuchsia/fuchsia_workflow.dart": {
+      "userLines": 8,
+      "total": 8
+    },
+    "../flutter/packages/flutter_tools/lib/src/intellij/intellij.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/packages/flutter_tools/lib/src/ios/cocoapods.dart": {
+      "userLines": 0,
+      "total": 37
+    },
+    "../flutter/packages/flutter_tools/lib/src/ios/code_signing.dart": {
+      "userLines": 0,
+      "total": 37
+    },
+    "../flutter/packages/flutter_tools/lib/src/ios/devices.dart": {
+      "userLines": 0,
+      "total": 67
+    },
+    "../flutter/packages/flutter_tools/lib/src/ios/ios_workflow.dart": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../flutter/packages/flutter_tools/lib/src/ios/mac.dart": {
+      "userLines": 4,
+      "total": 74
+    },
+    "../flutter/packages/flutter_tools/lib/src/ios/plist_utils.dart": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../flutter/packages/flutter_tools/lib/src/ios/simulators.dart": {
+      "userLines": 0,
+      "total": 83
+    },
+    "../flutter/packages/flutter_tools/lib/src/linux/linux_device.dart": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../flutter/packages/flutter_tools/lib/src/linux/linux_workflow.dart": {
+      "userLines": 8,
+      "total": 8
+    },
+    "../flutter/packages/flutter_tools/lib/src/macos/application_package.dart": {
+      "userLines": 3,
+      "total": 11
+    },
+    "../flutter/packages/flutter_tools/lib/src/macos/macos_device.dart": {
+      "userLines": 15,
+      "total": 15
+    },
+    "../flutter/packages/flutter_tools/lib/src/macos/macos_workflow.dart": {
+      "userLines": 8,
+      "total": 8
+    },
+    "../flutter/packages/flutter_tools/lib/src/project.dart": {
+      "userLines": 8,
+      "total": 99
+    },
+    "../flutter/packages/flutter_tools/lib/src/resident_runner.dart": {
+      "userLines": 6,
+      "total": 63
+    },
+    "../flutter/packages/flutter_tools/lib/src/run_cold.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/packages/flutter_tools/lib/src/run_hot.dart": {
+      "userLines": 3,
+      "total": 71
+    },
+    "../flutter/packages/flutter_tools/lib/src/runner/flutter_command.dart": {
+      "userLines": 5,
+      "total": 71
+    },
+    "../flutter/packages/flutter_tools/lib/src/runner/flutter_command_runner.dart": {
+      "userLines": 0,
+      "total": 47
+    },
+    "../flutter/packages/flutter_tools/lib/src/services.dart": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../flutter/packages/flutter_tools/lib/src/test/coverage_collector.dart": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../flutter/packages/flutter_tools/lib/src/test/event_printer.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/packages/flutter_tools/lib/src/test/flutter_platform.dart": {
+      "userLines": 27,
+      "total": 159
+    },
+    "../flutter/packages/flutter_tools/lib/src/test/runner.dart": {
+      "userLines": 1,
+      "total": 11
+    },
+    "../flutter/packages/flutter_tools/lib/src/tester/flutter_tester.dart": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../flutter/packages/flutter_tools/lib/src/tracing.dart": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../flutter/packages/flutter_tools/lib/src/version.dart": {
+      "userLines": 0,
+      "total": 120
+    },
+    "../flutter/packages/flutter_tools/lib/src/vmservice.dart": {
+      "userLines": 0,
+      "total": 171
+    },
+    "../flutter/packages/flutter_tools/lib/src/vmservice_record_replay.dart": {
+      "userLines": 0,
+      "total": 29
+    },
+    "../flutter/packages/flutter_tools/lib/src/vscode/vscode.dart": {
+      "userLines": 0,
+      "total": 35
+    },
+    "../flutter/packages/flutter_tools/lib/src/web/compile.dart": {
+      "userLines": 10,
+      "total": 10
+    },
+    "../flutter/packages/flutter_tools/lib/src/web/web_device.dart": {
+      "userLines": 11,
+      "total": 11
+    },
+    "../flutter/packages/flutter_tools/lib/src/windows/windows_device.dart": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../flutter/packages/flutter_tools/lib/src/windows/windows_workflow.dart": {
+      "userLines": 8,
+      "total": 8
+    },
+    "../flutter/packages/flutter_tools/pubspec.yaml": {
+      "userLines": 32,
+      "total": 58
+    },
+    "../flutter/packages/flutter_tools/templates/app/android.tmpl/app/src/main/AndroidManifest.xml.tmpl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_tools/templates/app/pubspec.yaml.tmpl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_tools/templates/driver/main_test.dart.tmpl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_tools/templates/module/android/host_app_common/app.tmpl/src/main/AndroidManifest.xml.tmpl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_tools/templates/web/index.html.tmpl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_tools/test/analytics_test.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/packages/flutter_tools/test/android/android_device_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/asset_bundle_test.dart": {
+      "userLines": 27,
+      "total": 30
+    },
+    "../flutter/packages/flutter_tools/test/asset_test.dart": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../flutter/packages/flutter_tools/test/base/logger_test.dart": {
+      "userLines": 0,
+      "total": 43
+    },
+    "../flutter/packages/flutter_tools/test/cache_test.dart": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../flutter/packages/flutter_tools/test/channel_test.dart": {
+      "userLines": 2,
+      "total": 12
+    },
+    "../flutter/packages/flutter_tools/test/commands/attach_test.dart": {
+      "userLines": 0,
+      "total": 34
+    },
+    "../flutter/packages/flutter_tools/test/commands/clean_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/commands/create_test.dart": {
+      "userLines": 2,
+      "total": 17
+    },
+    "../flutter/packages/flutter_tools/test/commands/daemon_test.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/packages/flutter_tools/test/commands/drive_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/commands/upgrade_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/compile_test.dart": {
+      "userLines": 5,
+      "total": 26
+    },
+    "../flutter/packages/flutter_tools/test/data/asset_test/main/pubspec.yaml": {
+      "userLines": 0,
+      "total": 2
+    },
+    "../flutter/packages/flutter_tools/test/data/fuchsia_test/main/.packages": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../flutter/packages/flutter_tools/test/forbidden_imports_test.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/fuchsia/fuchsa_device_test.dart": {
+      "userLines": 10,
+      "total": 11
+    },
+    "../flutter/packages/flutter_tools/test/fuchsia/fuchsia_workflow_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/hot_test.dart": {
+      "userLines": 12,
+      "total": 15
+    },
+    "../flutter/packages/flutter_tools/test/ios/ios_workflow_test.dart": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../flutter/packages/flutter_tools/test/ios/simulators_test.dart": {
+      "userLines": 1,
+      "total": 12
+    },
+    "../flutter/packages/flutter_tools/test/linux/linux_device_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/linux/linux_workflow_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/macos/macos_device_test.dart": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../flutter/packages/flutter_tools/test/macos/macos_workflow_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/project_file_invalidator_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/protocol_discovery_test.dart": {
+      "userLines": 0,
+      "total": 48
+    },
+    "../flutter/packages/flutter_tools/test/resident_runner_test.dart": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../flutter/packages/flutter_tools/test/runner/flutter_command_test.dart": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../flutter/packages/flutter_tools/test/runner/utils.dart": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/src/common.dart": {
+      "userLines": 1,
+      "total": 26
+    },
+    "../flutter/packages/flutter_tools/test/src/context.dart": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../flutter/packages/flutter_tools/test/tester/flutter_tester_test.dart": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../flutter/packages/flutter_tools/test/time_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/version_test.dart": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../flutter/packages/flutter_tools/test/web/compile_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/web/devices_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/windows/windows_device_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/test/windows/windows_workflow_test.dart": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../flutter/packages/flutter_tools/tool/daemon_client.dart": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../flutter/packages/fuchsia_remote_debug_protocol/pubspec.yaml": {
+      "userLines": 9,
+      "total": 26
+    },
+    "../flutter/packages/fuchsia_remote_debug_protocol/test/common.dart": {
+      "userLines": 0,
+      "total": 6
+    }
+  }
+}

@@ -1,0 +1,1614 @@
+{
+  "mdFiles": {
+    "../swift/CHANGELOG.md": {
+      "userLines": 313,
+      "total": 7537
+    }
+  },
+  "otherFiles": {
+    "../swift/lib/AST/ASTContext.cpp": {
+      "userLines": 16,
+      "total": 539
+    },
+    "../swift/lib/AST/ASTDemangler.cpp": {
+      "userLines": 71,
+      "total": 73
+    },
+    "../swift/lib/AST/ASTDumper.cpp": {
+      "userLines": 0,
+      "total": 90
+    },
+    "../swift/lib/AST/ASTMangler.cpp": {
+      "userLines": 14,
+      "total": 243
+    },
+    "../swift/lib/AST/ASTPrinter.cpp": {
+      "userLines": 21,
+      "total": 301
+    },
+    "../swift/lib/AST/ASTScope.cpp": {
+      "userLines": 4,
+      "total": 263
+    },
+    "../swift/lib/AST/ASTVerifier.cpp": {
+      "userLines": 22,
+      "total": 305
+    },
+    "../swift/lib/AST/ASTWalker.cpp": {
+      "userLines": 2,
+      "total": 143
+    },
+    "../swift/lib/AST/AccessRequests.cpp": {
+      "userLines": 5,
+      "total": 88
+    },
+    "../swift/lib/AST/AccessScopeChecker.cpp": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../swift/lib/AST/Attr.cpp": {
+      "userLines": 0,
+      "total": 90
+    },
+    "../swift/lib/AST/Availability.cpp": {
+      "userLines": 0,
+      "total": 51
+    },
+    "../swift/lib/AST/Builtins.cpp": {
+      "userLines": 12,
+      "total": 150
+    },
+    "../swift/lib/AST/CaptureInfo.cpp": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../swift/lib/AST/ConcreteDeclRef.cpp": {
+      "userLines": 1,
+      "total": 17
+    },
+    "../swift/lib/AST/ConformanceLookupTable.cpp": {
+      "userLines": 9,
+      "total": 197
+    },
+    "../swift/lib/AST/Decl.cpp": {
+      "userLines": 206,
+      "total": 806
+    },
+    "../swift/lib/AST/DeclContext.cpp": {
+      "userLines": 26,
+      "total": 87
+    },
+    "../swift/lib/AST/DiagnosticEngine.cpp": {
+      "userLines": 1,
+      "total": 134
+    },
+    "../swift/lib/AST/DocComment.cpp": {
+      "userLines": 0,
+      "total": 31
+    },
+    "../swift/lib/AST/Expr.cpp": {
+      "userLines": 22,
+      "total": 169
+    },
+    "../swift/lib/AST/GenericEnvironment.cpp": {
+      "userLines": 12,
+      "total": 33
+    },
+    "../swift/lib/AST/GenericSignature.cpp": {
+      "userLines": 16,
+      "total": 180
+    },
+    "../swift/lib/AST/GenericSignatureBuilder.cpp": {
+      "userLines": 18,
+      "total": 1093
+    },
+    "../swift/lib/AST/Identifier.cpp": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../swift/lib/AST/LayoutConstraint.cpp": {
+      "userLines": 0,
+      "total": 101
+    },
+    "../swift/lib/AST/Module.cpp": {
+      "userLines": 9,
+      "total": 202
+    },
+    "../swift/lib/AST/ModuleNameLookup.cpp": {
+      "userLines": 0,
+      "total": 39
+    },
+    "../swift/lib/AST/NameLookup.cpp": {
+      "userLines": 18,
+      "total": 415
+    },
+    "../swift/lib/AST/NameLookupRequests.cpp": {
+      "userLines": 3,
+      "total": 39
+    },
+    "../swift/lib/AST/Parameter.cpp": {
+      "userLines": 0,
+      "total": 34
+    },
+    "../swift/lib/AST/Pattern.cpp": {
+      "userLines": 1,
+      "total": 63
+    },
+    "../swift/lib/AST/PrettyStackTrace.cpp": {
+      "userLines": 0,
+      "total": 20
+    },
+    "../swift/lib/AST/ProtocolConformance.cpp": {
+      "userLines": 26,
+      "total": 155
+    },
+    "../swift/lib/AST/RawComment.cpp": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../swift/lib/AST/RequirementEnvironment.cpp": {
+      "userLines": 0,
+      "total": 64
+    },
+    "../swift/lib/AST/SILLayout.cpp": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../swift/lib/AST/SubstitutionMap.cpp": {
+      "userLines": 35,
+      "total": 86
+    },
+    "../swift/lib/AST/SwiftNameTranslation.cpp": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../swift/lib/AST/Type.cpp": {
+      "userLines": 69,
+      "total": 403
+    },
+    "../swift/lib/AST/TypeCheckRequests.cpp": {
+      "userLines": 3,
+      "total": 62
+    },
+    "../swift/lib/AST/TypeJoinMeet.cpp": {
+      "userLines": 0,
+      "total": 77
+    },
+    "../swift/lib/AST/TypeRepr.cpp": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../swift/lib/AST/TypeWalker.cpp": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../swift/lib/AST/USRGeneration.cpp": {
+      "userLines": 3,
+      "total": 55
+    },
+    "../swift/lib/Basic/Mangler.cpp": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../swift/lib/Basic/Version.cpp": {
+      "userLines": 1,
+      "total": 56
+    },
+    "../swift/lib/ClangImporter/ClangAdapter.cpp": {
+      "userLines": 0,
+      "total": 102
+    },
+    "../swift/lib/ClangImporter/ClangImporter.cpp": {
+      "userLines": 2,
+      "total": 510
+    },
+    "../swift/lib/ClangImporter/IAMInference.cpp": {
+      "userLines": 6,
+      "total": 109
+    },
+    "../swift/lib/ClangImporter/ImportDecl.cpp": {
+      "userLines": 185,
+      "total": 1597
+    },
+    "../swift/lib/ClangImporter/ImportMacro.cpp": {
+      "userLines": 0,
+      "total": 117
+    },
+    "../swift/lib/ClangImporter/ImportName.cpp": {
+      "userLines": 0,
+      "total": 349
+    },
+    "../swift/lib/ClangImporter/ImportType.cpp": {
+      "userLines": 12,
+      "total": 391
+    },
+    "../swift/lib/ClangImporter/ImporterImpl.h": {
+      "userLines": 18,
+      "total": 576
+    },
+    "../swift/lib/ClangImporter/MappedTypes.def": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../swift/lib/ClangImporter/SwiftLookupTable.cpp": {
+      "userLines": 0,
+      "total": 300
+    },
+    "../swift/lib/ClangImporter/SwiftLookupTable.h": {
+      "userLines": 0,
+      "total": 167
+    },
+    "../swift/lib/Demangling/Demangler.cpp": {
+      "userLines": 1,
+      "total": 115
+    },
+    "../swift/lib/Demangling/NodePrinter.cpp": {
+      "userLines": 0,
+      "total": 103
+    },
+    "../swift/lib/Demangling/OldDemangler.cpp": {
+      "userLines": 13,
+      "total": 185
+    },
+    "../swift/lib/Demangling/OldRemangler.cpp": {
+      "userLines": 1,
+      "total": 148
+    },
+    "../swift/lib/Demangling/Remangler.cpp": {
+      "userLines": 1,
+      "total": 94
+    },
+    "../swift/lib/Driver/Driver.cpp": {
+      "userLines": 0,
+      "total": 283
+    },
+    "../swift/lib/Driver/ToolChains.cpp": {
+      "userLines": 3,
+      "total": 73
+    },
+    "../swift/lib/Frontend/ArgsToFrontendInputsConverter.h": {
+      "userLines": 0,
+      "total": 44
+    },
+    "../swift/lib/Frontend/ArgsToFrontendOptionsConverter.cpp": {
+      "userLines": 1,
+      "total": 45
+    },
+    "../swift/lib/Frontend/CompilerInvocation.cpp": {
+      "userLines": 0,
+      "total": 113
+    },
+    "../swift/lib/Frontend/Frontend.cpp": {
+      "userLines": 8,
+      "total": 108
+    },
+    "../swift/lib/Frontend/FrontendOptions.cpp": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../swift/lib/Frontend/ParseableInterfaceSupport.cpp": {
+      "userLines": 0,
+      "total": 94
+    },
+    "../swift/lib/FrontendTool/FrontendTool.cpp": {
+      "userLines": 0,
+      "total": 259
+    },
+    "../swift/lib/FrontendTool/ReferenceDependencies.cpp": {
+      "userLines": 2,
+      "total": 63
+    },
+    "../swift/lib/IDE/CodeCompletion.cpp": {
+      "userLines": 21,
+      "total": 384
+    },
+    "../swift/lib/IDE/CodeCompletionCache.cpp": {
+      "userLines": 1,
+      "total": 97
+    },
+    "../swift/lib/IDE/ExprContextAnalysis.cpp": {
+      "userLines": 2,
+      "total": 64
+    },
+    "../swift/lib/IDE/Formatting.cpp": {
+      "userLines": 0,
+      "total": 162
+    },
+    "../swift/lib/IDE/IDETypeChecking.cpp": {
+      "userLines": 2,
+      "total": 71
+    },
+    "../swift/lib/IDE/ModuleInterfacePrinting.cpp": {
+      "userLines": 0,
+      "total": 82
+    },
+    "../swift/lib/IDE/Refactoring.cpp": {
+      "userLines": 0,
+      "total": 269
+    },
+    "../swift/lib/IDE/SourceEntityWalker.cpp": {
+      "userLines": 6,
+      "total": 47
+    },
+    "../swift/lib/IDE/SwiftSourceDocInfo.cpp": {
+      "userLines": 0,
+      "total": 130
+    },
+    "../swift/lib/IDE/SyntaxModel.cpp": {
+      "userLines": 0,
+      "total": 79
+    },
+    "../swift/lib/IRGen/AllocStackHoisting.cpp": {
+      "userLines": 0,
+      "total": 132
+    },
+    "../swift/lib/IRGen/ClassLayout.cpp": {
+      "userLines": 15,
+      "total": 18
+    },
+    "../swift/lib/IRGen/ClassLayout.h": {
+      "userLines": 98,
+      "total": 103
+    },
+    "../swift/lib/IRGen/ClassMetadataVisitor.h": {
+      "userLines": 18,
+      "total": 72
+    },
+    "../swift/lib/IRGen/ConformanceDescription.h": {
+      "userLines": 0,
+      "total": 31
+    },
+    "../swift/lib/IRGen/ConstantBuilder.h": {
+      "userLines": 3,
+      "total": 24
+    },
+    "../swift/lib/IRGen/DebugTypeInfo.cpp": {
+      "userLines": 2,
+      "total": 24
+    },
+    "../swift/lib/IRGen/DebugTypeInfo.h": {
+      "userLines": 1,
+      "total": 31
+    },
+    "../swift/lib/IRGen/EnumMetadataVisitor.h": {
+      "userLines": 0,
+      "total": 32
+    },
+    "../swift/lib/IRGen/EnumPayload.cpp": {
+      "userLines": 2,
+      "total": 95
+    },
+    "../swift/lib/IRGen/EnumPayload.h": {
+      "userLines": 1,
+      "total": 45
+    },
+    "../swift/lib/IRGen/FixedTypeInfo.h": {
+      "userLines": 0,
+      "total": 78
+    },
+    "../swift/lib/IRGen/ForeignClassMetadataVisitor.h": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../swift/lib/IRGen/Fulfillment.cpp": {
+      "userLines": 1,
+      "total": 69
+    },
+    "../swift/lib/IRGen/Fulfillment.h": {
+      "userLines": 1,
+      "total": 47
+    },
+    "../swift/lib/IRGen/GenArchetype.cpp": {
+      "userLines": 3,
+      "total": 72
+    },
+    "../swift/lib/IRGen/GenCall.cpp": {
+      "userLines": 3,
+      "total": 445
+    },
+    "../swift/lib/IRGen/GenCall.h": {
+      "userLines": 0,
+      "total": 31
+    },
+    "../swift/lib/IRGen/GenCast.cpp": {
+      "userLines": 32,
+      "total": 182
+    },
+    "../swift/lib/IRGen/GenClangType.cpp": {
+      "userLines": 3,
+      "total": 109
+    },
+    "../swift/lib/IRGen/GenClass.cpp": {
+      "userLines": 172,
+      "total": 472
+    },
+    "../swift/lib/IRGen/GenClass.h": {
+      "userLines": 27,
+      "total": 71
+    },
+    "../swift/lib/IRGen/GenDecl.cpp": {
+      "userLines": 50,
+      "total": 693
+    },
+    "../swift/lib/IRGen/GenDecl.h": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../swift/lib/IRGen/GenEnum.cpp": {
+      "userLines": 232,
+      "total": 867
+    },
+    "../swift/lib/IRGen/GenEnum.h": {
+      "userLines": 16,
+      "total": 111
+    },
+    "../swift/lib/IRGen/GenExistential.cpp": {
+      "userLines": 8,
+      "total": 321
+    },
+    "../swift/lib/IRGen/GenFunc.cpp": {
+      "userLines": 9,
+      "total": 309
+    },
+    "../swift/lib/IRGen/GenHeap.cpp": {
+      "userLines": 3,
+      "total": 196
+    },
+    "../swift/lib/IRGen/GenHeap.h": {
+      "userLines": 3,
+      "total": 52
+    },
+    "../swift/lib/IRGen/GenInit.cpp": {
+      "userLines": 2,
+      "total": 23
+    },
+    "../swift/lib/IRGen/GenKeyPath.cpp": {
+      "userLines": 6,
+      "total": 200
+    },
+    "../swift/lib/IRGen/GenMeta.cpp": {
+      "userLines": 143,
+      "total": 551
+    },
+    "../swift/lib/IRGen/GenMeta.h": {
+      "userLines": 0,
+      "total": 54
+    },
+    "../swift/lib/IRGen/GenObjC.cpp": {
+      "userLines": 1,
+      "total": 221
+    },
+    "../swift/lib/IRGen/GenOpaque.cpp": {
+      "userLines": 6,
+      "total": 170
+    },
+    "../swift/lib/IRGen/GenOpaque.h": {
+      "userLines": 5,
+      "total": 64
+    },
+    "../swift/lib/IRGen/GenPoly.cpp": {
+      "userLines": 0,
+      "total": 24
+    },
+    "../swift/lib/IRGen/GenProto.cpp": {
+      "userLines": 29,
+      "total": 461
+    },
+    "../swift/lib/IRGen/GenProto.h": {
+      "userLines": 3,
+      "total": 66
+    },
+    "../swift/lib/IRGen/GenRecord.h": {
+      "userLines": 7,
+      "total": 111
+    },
+    "../swift/lib/IRGen/GenReflection.cpp": {
+      "userLines": 41,
+      "total": 97
+    },
+    "../swift/lib/IRGen/GenStruct.cpp": {
+      "userLines": 5,
+      "total": 98
+    },
+    "../swift/lib/IRGen/GenThunk.cpp": {
+      "userLines": 33,
+      "total": 33
+    },
+    "../swift/lib/IRGen/GenTuple.cpp": {
+      "userLines": 1,
+      "total": 57
+    },
+    "../swift/lib/IRGen/GenType.cpp": {
+      "userLines": 52,
+      "total": 301
+    },
+    "../swift/lib/IRGen/GenType.h": {
+      "userLines": 14,
+      "total": 51
+    },
+    "../swift/lib/IRGen/GenValueWitness.cpp": {
+      "userLines": 3,
+      "total": 162
+    },
+    "../swift/lib/IRGen/GenericRequirement.h": {
+      "userLines": 0,
+      "total": 40
+    },
+    "../swift/lib/IRGen/HeapTypeInfo.h": {
+      "userLines": 1,
+      "total": 40
+    },
+    "../swift/lib/IRGen/IRGen.cpp": {
+      "userLines": 1,
+      "total": 149
+    },
+    "../swift/lib/IRGen/IRGen.h": {
+      "userLines": 1,
+      "total": 88
+    },
+    "../swift/lib/IRGen/IRGenDebugInfo.cpp": {
+      "userLines": 5,
+      "total": 310
+    },
+    "../swift/lib/IRGen/IRGenDebugInfo.h": {
+      "userLines": 0,
+      "total": 74
+    },
+    "../swift/lib/IRGen/IRGenFunction.cpp": {
+      "userLines": 0,
+      "total": 61
+    },
+    "../swift/lib/IRGen/IRGenFunction.h": {
+      "userLines": 0,
+      "total": 146
+    },
+    "../swift/lib/IRGen/IRGenMangler.cpp": {
+      "userLines": 4,
+      "total": 30
+    },
+    "../swift/lib/IRGen/IRGenMangler.h": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../swift/lib/IRGen/IRGenModule.cpp": {
+      "userLines": 12,
+      "total": 180
+    },
+    "../swift/lib/IRGen/IRGenModule.h": {
+      "userLines": 26,
+      "total": 274
+    },
+    "../swift/lib/IRGen/IRGenSIL.cpp": {
+      "userLines": 47,
+      "total": 686
+    },
+    "../swift/lib/IRGen/LegacyLayoutFormat.h": {
+      "userLines": 52,
+      "total": 52
+    },
+    "../swift/lib/IRGen/Linking.cpp": {
+      "userLines": 44,
+      "total": 81
+    },
+    "../swift/lib/IRGen/LoadableByAddress.cpp": {
+      "userLines": 0,
+      "total": 201
+    },
+    "../swift/lib/IRGen/LoadableTypeInfo.h": {
+      "userLines": 0,
+      "total": 52
+    },
+    "../swift/lib/IRGen/LocalTypeData.cpp": {
+      "userLines": 1,
+      "total": 95
+    },
+    "../swift/lib/IRGen/MetadataLayout.cpp": {
+      "userLines": 4,
+      "total": 44
+    },
+    "../swift/lib/IRGen/MetadataLayout.h": {
+      "userLines": 24,
+      "total": 73
+    },
+    "../swift/lib/IRGen/MetadataRequest.cpp": {
+      "userLines": 0,
+      "total": 433
+    },
+    "../swift/lib/IRGen/MetadataRequest.h": {
+      "userLines": 1,
+      "total": 292
+    },
+    "../swift/lib/IRGen/NecessaryBindings.h": {
+      "userLines": 0,
+      "total": 35
+    },
+    "../swift/lib/IRGen/NominalMetadataVisitor.h": {
+      "userLines": 0,
+      "total": 27
+    },
+    "../swift/lib/IRGen/Outlining.cpp": {
+      "userLines": 0,
+      "total": 29
+    },
+    "../swift/lib/IRGen/ProtocolInfo.h": {
+      "userLines": 0,
+      "total": 50
+    },
+    "../swift/lib/IRGen/ResilientTypeInfo.h": {
+      "userLines": 29,
+      "total": 32
+    },
+    "../swift/lib/IRGen/ScalarTypeInfo.h": {
+      "userLines": 0,
+      "total": 43
+    },
+    "../swift/lib/IRGen/StructLayout.cpp": {
+      "userLines": 2,
+      "total": 68
+    },
+    "../swift/lib/IRGen/StructLayout.h": {
+      "userLines": 3,
+      "total": 114
+    },
+    "../swift/lib/IRGen/StructMetadataVisitor.h": {
+      "userLines": 0,
+      "total": 32
+    },
+    "../swift/lib/IRGen/TypeInfo.h": {
+      "userLines": 7,
+      "total": 194
+    },
+    "../swift/lib/IRGen/TypeLayoutDumper.cpp": {
+      "userLines": 23,
+      "total": 23
+    },
+    "../swift/lib/IRGen/TypeLayoutDumper.h": {
+      "userLines": 18,
+      "total": 18
+    },
+    "../swift/lib/IRGen/TypeLayoutVerifier.cpp": {
+      "userLines": 6,
+      "total": 44
+    },
+    "../swift/lib/Immediate/Immediate.cpp": {
+      "userLines": 0,
+      "total": 48
+    },
+    "../swift/lib/Immediate/REPL.cpp": {
+      "userLines": 0,
+      "total": 128
+    },
+    "../swift/lib/Index/Index.cpp": {
+      "userLines": 0,
+      "total": 125
+    },
+    "../swift/lib/Index/IndexSymbol.cpp": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../swift/lib/Migrator/APIDiffMigratorPass.cpp": {
+      "userLines": 0,
+      "total": 111
+    },
+    "../swift/lib/Parse/ParseDecl.cpp": {
+      "userLines": 38,
+      "total": 1122
+    },
+    "../swift/lib/Parse/ParseExpr.cpp": {
+      "userLines": 9,
+      "total": 821
+    },
+    "../swift/lib/Parse/ParseGeneric.cpp": {
+      "userLines": 1,
+      "total": 86
+    },
+    "../swift/lib/Parse/ParsePattern.cpp": {
+      "userLines": 3,
+      "total": 206
+    },
+    "../swift/lib/Parse/ParseStmt.cpp": {
+      "userLines": 4,
+      "total": 462
+    },
+    "../swift/lib/Parse/ParseType.cpp": {
+      "userLines": 0,
+      "total": 225
+    },
+    "../swift/lib/Parse/Parser.cpp": {
+      "userLines": 9,
+      "total": 137
+    },
+    "../swift/lib/Parse/SyntaxParsingContext.cpp": {
+      "userLines": 0,
+      "total": 35
+    },
+    "../swift/lib/ParseSIL/ParseSIL.cpp": {
+      "userLines": 46,
+      "total": 594
+    },
+    "../swift/lib/PrintAsObjC/PrintAsObjC.cpp": {
+      "userLines": 8,
+      "total": 215
+    },
+    "../swift/lib/RemoteAST/RemoteAST.cpp": {
+      "userLines": 12,
+      "total": 78
+    },
+    "../swift/lib/SIL/AbstractionPattern.cpp": {
+      "userLines": 9,
+      "total": 52
+    },
+    "../swift/lib/SIL/Bridging.cpp": {
+      "userLines": 0,
+      "total": 35
+    },
+    "../swift/lib/SIL/DynamicCasts.cpp": {
+      "userLines": 7,
+      "total": 285
+    },
+    "../swift/lib/SIL/InstructionUtils.cpp": {
+      "userLines": 0,
+      "total": 99
+    },
+    "../swift/lib/SIL/Linker.cpp": {
+      "userLines": 66,
+      "total": 140
+    },
+    "../swift/lib/SIL/Linker.h": {
+      "userLines": 6,
+      "total": 35
+    },
+    "../swift/lib/SIL/OperandOwnership.cpp": {
+      "userLines": 0,
+      "total": 144
+    },
+    "../swift/lib/SIL/OptimizationRemark.cpp": {
+      "userLines": 0,
+      "total": 26
+    },
+    "../swift/lib/SIL/OwnershipUtils.cpp": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../swift/lib/SIL/Projection.cpp": {
+      "userLines": 0,
+      "total": 275
+    },
+    "../swift/lib/SIL/SIL.cpp": {
+      "userLines": 4,
+      "total": 71
+    },
+    "../swift/lib/SIL/SILBasicBlock.cpp": {
+      "userLines": 1,
+      "total": 60
+    },
+    "../swift/lib/SIL/SILBuilder.cpp": {
+      "userLines": 0,
+      "total": 139
+    },
+    "../swift/lib/SIL/SILDeclRef.cpp": {
+      "userLines": 86,
+      "total": 167
+    },
+    "../swift/lib/SIL/SILDefaultWitnessTable.cpp": {
+      "userLines": 22,
+      "total": 26
+    },
+    "../swift/lib/SIL/SILFunction.cpp": {
+      "userLines": 17,
+      "total": 67
+    },
+    "../swift/lib/SIL/SILFunctionBuilder.cpp": {
+      "userLines": 1,
+      "total": 20
+    },
+    "../swift/lib/SIL/SILFunctionType.cpp": {
+      "userLines": 47,
+      "total": 458
+    },
+    "../swift/lib/SIL/SILGlobalVariable.cpp": {
+      "userLines": 3,
+      "total": 46
+    },
+    "../swift/lib/SIL/SILInstruction.cpp": {
+      "userLines": 0,
+      "total": 178
+    },
+    "../swift/lib/SIL/SILInstructions.cpp": {
+      "userLines": 0,
+      "total": 165
+    },
+    "../swift/lib/SIL/SILLocation.cpp": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../swift/lib/SIL/SILModule.cpp": {
+      "userLines": 30,
+      "total": 130
+    },
+    "../swift/lib/SIL/SILOpenedArchetypesTracker.cpp": {
+      "userLines": 0,
+      "total": 50
+    },
+    "../swift/lib/SIL/SILOwnershipVerifier.cpp": {
+      "userLines": 0,
+      "total": 161
+    },
+    "../swift/lib/SIL/SILPrinter.cpp": {
+      "userLines": 15,
+      "total": 527
+    },
+    "../swift/lib/SIL/SILProfiler.cpp": {
+      "userLines": 0,
+      "total": 118
+    },
+    "../swift/lib/SIL/SILType.cpp": {
+      "userLines": 4,
+      "total": 71
+    },
+    "../swift/lib/SIL/SILUndef.cpp": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../swift/lib/SIL/SILVTable.cpp": {
+      "userLines": 0,
+      "total": 24
+    },
+    "../swift/lib/SIL/SILValue.cpp": {
+      "userLines": 0,
+      "total": 43
+    },
+    "../swift/lib/SIL/SILVerifier.cpp": {
+      "userLines": 27,
+      "total": 450
+    },
+    "../swift/lib/SIL/SILWitnessTable.cpp": {
+      "userLines": 5,
+      "total": 30
+    },
+    "../swift/lib/SIL/TypeLowering.cpp": {
+      "userLines": 86,
+      "total": 334
+    },
+    "../swift/lib/SIL/ValueOwnership.cpp": {
+      "userLines": 0,
+      "total": 88
+    },
+    "../swift/lib/SIL/ValueUtils.cpp": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../swift/lib/SILGen/ASTVisitor.h": {
+      "userLines": 0,
+      "total": 20
+    },
+    "../swift/lib/SILGen/ArgumentSource.cpp": {
+      "userLines": 1,
+      "total": 33
+    },
+    "../swift/lib/SILGen/ArgumentSource.h": {
+      "userLines": 4,
+      "total": 76
+    },
+    "../swift/lib/SILGen/Cleanup.cpp": {
+      "userLines": 0,
+      "total": 57
+    },
+    "../swift/lib/SILGen/Cleanup.h": {
+      "userLines": 0,
+      "total": 89
+    },
+    "../swift/lib/SILGen/JumpDest.h": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../swift/lib/SILGen/LValue.h": {
+      "userLines": 2,
+      "total": 169
+    },
+    "../swift/lib/SILGen/ManagedValue.cpp": {
+      "userLines": 0,
+      "total": 41
+    },
+    "../swift/lib/SILGen/RValue.cpp": {
+      "userLines": 1,
+      "total": 104
+    },
+    "../swift/lib/SILGen/RValue.h": {
+      "userLines": 4,
+      "total": 162
+    },
+    "../swift/lib/SILGen/SILGen.cpp": {
+      "userLines": 18,
+      "total": 230
+    },
+    "../swift/lib/SILGen/SILGen.h": {
+      "userLines": 8,
+      "total": 134
+    },
+    "../swift/lib/SILGen/SILGenApply.cpp": {
+      "userLines": 98,
+      "total": 898
+    },
+    "../swift/lib/SILGen/SILGenBridging.cpp": {
+      "userLines": 44,
+      "total": 277
+    },
+    "../swift/lib/SILGen/SILGenBuilder.cpp": {
+      "userLines": 0,
+      "total": 71
+    },
+    "../swift/lib/SILGen/SILGenBuilder.h": {
+      "userLines": 0,
+      "total": 69
+    },
+    "../swift/lib/SILGen/SILGenBuiltin.cpp": {
+      "userLines": 0,
+      "total": 181
+    },
+    "../swift/lib/SILGen/SILGenConstructor.cpp": {
+      "userLines": 19,
+      "total": 182
+    },
+    "../swift/lib/SILGen/SILGenConvert.cpp": {
+      "userLines": 48,
+      "total": 216
+    },
+    "../swift/lib/SILGen/SILGenDecl.cpp": {
+      "userLines": 5,
+      "total": 261
+    },
+    "../swift/lib/SILGen/SILGenDestructor.cpp": {
+      "userLines": 0,
+      "total": 48
+    },
+    "../swift/lib/SILGen/SILGenDynamicCast.cpp": {
+      "userLines": 0,
+      "total": 84
+    },
+    "../swift/lib/SILGen/SILGenExpr.cpp": {
+      "userLines": 62,
+      "total": 738
+    },
+    "../swift/lib/SILGen/SILGenForeignError.cpp": {
+      "userLines": 1,
+      "total": 90
+    },
+    "../swift/lib/SILGen/SILGenFunction.cpp": {
+      "userLines": 17,
+      "total": 116
+    },
+    "../swift/lib/SILGen/SILGenFunction.h": {
+      "userLines": 92,
+      "total": 647
+    },
+    "../swift/lib/SILGen/SILGenGlobalVariable.cpp": {
+      "userLines": 1,
+      "total": 55
+    },
+    "../swift/lib/SILGen/SILGenLValue.cpp": {
+      "userLines": 12,
+      "total": 535
+    },
+    "../swift/lib/SILGen/SILGenPattern.cpp": {
+      "userLines": 7,
+      "total": 650
+    },
+    "../swift/lib/SILGen/SILGenPoly.cpp": {
+      "userLines": 192,
+      "total": 611
+    },
+    "../swift/lib/SILGen/SILGenProlog.cpp": {
+      "userLines": 13,
+      "total": 88
+    },
+    "../swift/lib/SILGen/SILGenStmt.cpp": {
+      "userLines": 13,
+      "total": 267
+    },
+    "../swift/lib/SILGen/SILGenThunk.cpp": {
+      "userLines": 45,
+      "total": 52
+    },
+    "../swift/lib/SILGen/SILGenType.cpp": {
+      "userLines": 120,
+      "total": 207
+    },
+    "../swift/lib/SILGen/Scope.cpp": {
+      "userLines": 0,
+      "total": 46
+    },
+    "../swift/lib/SILGen/SpecializedEmitter.h": {
+      "userLines": 1,
+      "total": 35
+    },
+    "../swift/lib/SILGen/Varargs.h": {
+      "userLines": 0,
+      "total": 26
+    },
+    "../swift/lib/SILOptimizer/Analysis/ARCAnalysis.cpp": {
+      "userLines": 0,
+      "total": 329
+    },
+    "../swift/lib/SILOptimizer/Analysis/AliasAnalysis.cpp": {
+      "userLines": 1,
+      "total": 235
+    },
+    "../swift/lib/SILOptimizer/Analysis/ArraySemantic.cpp": {
+      "userLines": 0,
+      "total": 77
+    },
+    "../swift/lib/SILOptimizer/Analysis/BasicCalleeAnalysis.cpp": {
+      "userLines": 0,
+      "total": 46
+    },
+    "../swift/lib/SILOptimizer/Analysis/CFG.cpp": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../swift/lib/SILOptimizer/Analysis/DestructorAnalysis.cpp": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../swift/lib/SILOptimizer/Analysis/EscapeAnalysis.cpp": {
+      "userLines": 0,
+      "total": 291
+    },
+    "../swift/lib/SILOptimizer/FunctionSignatureTransforms/ExistentialTransform.cpp": {
+      "userLines": 0,
+      "total": 94
+    },
+    "../swift/lib/SILOptimizer/FunctionSignatureTransforms/FunctionSignatureOpts.cpp": {
+      "userLines": 0,
+      "total": 209
+    },
+    "../swift/lib/SILOptimizer/FunctionSignatureTransforms/FunctionSignatureOpts.h": {
+      "userLines": 0,
+      "total": 115
+    },
+    "../swift/lib/SILOptimizer/IPO/CapturePromotion.cpp": {
+      "userLines": 1,
+      "total": 314
+    },
+    "../swift/lib/SILOptimizer/IPO/CapturePropagation.cpp": {
+      "userLines": 0,
+      "total": 91
+    },
+    "../swift/lib/SILOptimizer/IPO/ClosureSpecializer.cpp": {
+      "userLines": 10,
+      "total": 324
+    },
+    "../swift/lib/SILOptimizer/IPO/DeadFunctionElimination.cpp": {
+      "userLines": 4,
+      "total": 140
+    },
+    "../swift/lib/SILOptimizer/IPO/EagerSpecializer.cpp": {
+      "userLines": 5,
+      "total": 179
+    },
+    "../swift/lib/SILOptimizer/IPO/GlobalOpt.cpp": {
+      "userLines": 9,
+      "total": 187
+    },
+    "../swift/lib/SILOptimizer/IPO/LetPropertiesOpts.cpp": {
+      "userLines": 1,
+      "total": 142
+    },
+    "../swift/lib/SILOptimizer/IPO/UsePrespecialized.cpp": {
+      "userLines": 1,
+      "total": 35
+    },
+    "../swift/lib/SILOptimizer/LoopTransforms/COWArrayOpt.cpp": {
+      "userLines": 0,
+      "total": 506
+    },
+    "../swift/lib/SILOptimizer/LoopTransforms/LoopRotate.cpp": {
+      "userLines": 0,
+      "total": 83
+    },
+    "../swift/lib/SILOptimizer/LoopTransforms/LoopUnroll.cpp": {
+      "userLines": 1,
+      "total": 91
+    },
+    "../swift/lib/SILOptimizer/Mandatory/AddressLowering.cpp": {
+      "userLines": 0,
+      "total": 356
+    },
+    "../swift/lib/SILOptimizer/Mandatory/DIMemoryUseCollector.cpp": {
+      "userLines": 48,
+      "total": 460
+    },
+    "../swift/lib/SILOptimizer/Mandatory/DIMemoryUseCollector.h": {
+      "userLines": 3,
+      "total": 100
+    },
+    "../swift/lib/SILOptimizer/Mandatory/DataflowDiagnostics.cpp": {
+      "userLines": 0,
+      "total": 32
+    },
+    "../swift/lib/SILOptimizer/Mandatory/DefiniteInitialization.cpp": {
+      "userLines": 162,
+      "total": 666
+    },
+    "../swift/lib/SILOptimizer/Mandatory/DiagnoseInfiniteRecursion.cpp": {
+      "userLines": 0,
+      "total": 51
+    },
+    "../swift/lib/SILOptimizer/Mandatory/DiagnoseStaticExclusivity.cpp": {
+      "userLines": 0,
+      "total": 298
+    },
+    "../swift/lib/SILOptimizer/Mandatory/DiagnoseUnreachable.cpp": {
+      "userLines": 3,
+      "total": 226
+    },
+    "../swift/lib/SILOptimizer/Mandatory/GuaranteedARCOpts.cpp": {
+      "userLines": 0,
+      "total": 44
+    },
+    "../swift/lib/SILOptimizer/Mandatory/MandatoryInlining.cpp": {
+      "userLines": 4,
+      "total": 263
+    },
+    "../swift/lib/SILOptimizer/Mandatory/PMOMemoryUseCollector.cpp": {
+      "userLines": 1,
+      "total": 134
+    },
+    "../swift/lib/SILOptimizer/Mandatory/PMOMemoryUseCollector.h": {
+      "userLines": 7,
+      "total": 79
+    },
+    "../swift/lib/SILOptimizer/Mandatory/PredictableMemOpt.cpp": {
+      "userLines": 0,
+      "total": 473
+    },
+    "../swift/lib/SILOptimizer/Mandatory/RawSILInstLowering.cpp": {
+      "userLines": 0,
+      "total": 60
+    },
+    "../swift/lib/SILOptimizer/PassManager/PassPipeline.cpp": {
+      "userLines": 0,
+      "total": 210
+    },
+    "../swift/lib/SILOptimizer/SILCombiner/SILCombinerApplyVisitors.cpp": {
+      "userLines": 4,
+      "total": 401
+    },
+    "../swift/lib/SILOptimizer/SILCombiner/SILCombinerBuiltinVisitors.cpp": {
+      "userLines": 1,
+      "total": 110
+    },
+    "../swift/lib/SILOptimizer/SILCombiner/SILCombinerCastVisitors.cpp": {
+      "userLines": 0,
+      "total": 117
+    },
+    "../swift/lib/SILOptimizer/SILCombiner/SILCombinerMiscVisitors.cpp": {
+      "userLines": 0,
+      "total": 414
+    },
+    "../swift/lib/SILOptimizer/Transforms/AllocBoxToStack.cpp": {
+      "userLines": 0,
+      "total": 183
+    },
+    "../swift/lib/SILOptimizer/Transforms/CSE.cpp": {
+      "userLines": 0,
+      "total": 195
+    },
+    "../swift/lib/SILOptimizer/Transforms/ConditionForwarding.cpp": {
+      "userLines": 1,
+      "total": 126
+    },
+    "../swift/lib/SILOptimizer/Transforms/CopyForwarding.cpp": {
+      "userLines": 0,
+      "total": 601
+    },
+    "../swift/lib/SILOptimizer/Transforms/DeadCodeElimination.cpp": {
+      "userLines": 0,
+      "total": 140
+    },
+    "../swift/lib/SILOptimizer/Transforms/DeadObjectElimination.cpp": {
+      "userLines": 0,
+      "total": 209
+    },
+    "../swift/lib/SILOptimizer/Transforms/DeadStoreElimination.cpp": {
+      "userLines": 0,
+      "total": 454
+    },
+    "../swift/lib/SILOptimizer/Transforms/Devirtualizer.cpp": {
+      "userLines": 3,
+      "total": 33
+    },
+    "../swift/lib/SILOptimizer/Transforms/MarkUninitializedFixup.cpp": {
+      "userLines": 0,
+      "total": 43
+    },
+    "../swift/lib/SILOptimizer/Transforms/ObjectOutliner.cpp": {
+      "userLines": 2,
+      "total": 91
+    },
+    "../swift/lib/SILOptimizer/Transforms/Outliner.cpp": {
+      "userLines": 3,
+      "total": 255
+    },
+    "../swift/lib/SILOptimizer/Transforms/PerformanceInliner.cpp": {
+      "userLines": 0,
+      "total": 205
+    },
+    "../swift/lib/SILOptimizer/Transforms/RedundantLoadElimination.cpp": {
+      "userLines": 0,
+      "total": 503
+    },
+    "../swift/lib/SILOptimizer/Transforms/ReleaseDevirtualizer.cpp": {
+      "userLines": 0,
+      "total": 48
+    },
+    "../swift/lib/SILOptimizer/Transforms/SILCodeMotion.cpp": {
+      "userLines": 0,
+      "total": 450
+    },
+    "../swift/lib/SILOptimizer/Transforms/SILLowerAggregateInstrs.cpp": {
+      "userLines": 0,
+      "total": 86
+    },
+    "../swift/lib/SILOptimizer/Transforms/SILMem2Reg.cpp": {
+      "userLines": 0,
+      "total": 212
+    },
+    "../swift/lib/SILOptimizer/Transforms/SimplifyCFG.cpp": {
+      "userLines": 0,
+      "total": 776
+    },
+    "../swift/lib/SILOptimizer/Transforms/SpeculativeDevirtualizer.cpp": {
+      "userLines": 3,
+      "total": 173
+    },
+    "../swift/lib/SILOptimizer/UtilityPasses/BugReducerTester.cpp": {
+      "userLines": 0,
+      "total": 40
+    },
+    "../swift/lib/SILOptimizer/UtilityPasses/InstCount.cpp": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../swift/lib/SILOptimizer/UtilityPasses/Link.cpp": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../swift/lib/SILOptimizer/UtilityPasses/SerializeSILPass.cpp": {
+      "userLines": 0,
+      "total": 26
+    },
+    "../swift/lib/SILOptimizer/Utils/CastOptimizer.cpp": {
+      "userLines": 0,
+      "total": 352
+    },
+    "../swift/lib/SILOptimizer/Utils/Devirtualize.cpp": {
+      "userLines": 78,
+      "total": 297
+    },
+    "../swift/lib/SILOptimizer/Utils/Existential.cpp": {
+      "userLines": 0,
+      "total": 119
+    },
+    "../swift/lib/SILOptimizer/Utils/GenericCloner.cpp": {
+      "userLines": 0,
+      "total": 28
+    },
+    "../swift/lib/SILOptimizer/Utils/Generics.cpp": {
+      "userLines": 19,
+      "total": 484
+    },
+    "../swift/lib/SILOptimizer/Utils/Local.cpp": {
+      "userLines": 14,
+      "total": 420
+    },
+    "../swift/lib/SILOptimizer/Utils/OptimizerStatsUtils.cpp": {
+      "userLines": 0,
+      "total": 235
+    },
+    "../swift/lib/SILOptimizer/Utils/PerformanceInlinerUtils.cpp": {
+      "userLines": 1,
+      "total": 132
+    },
+    "../swift/lib/SILOptimizer/Utils/SILInliner.cpp": {
+      "userLines": 0,
+      "total": 148
+    },
+    "../swift/lib/SILOptimizer/Utils/SILSSAUpdater.cpp": {
+      "userLines": 0,
+      "total": 90
+    },
+    "../swift/lib/SILOptimizer/Utils/SpecializationMangler.cpp": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../swift/lib/Sema/CSApply.cpp": {
+      "userLines": 198,
+      "total": 1400
+    },
+    "../swift/lib/Sema/CSBindings.cpp": {
+      "userLines": 0,
+      "total": 215
+    },
+    "../swift/lib/Sema/CSDiag.cpp": {
+      "userLines": 64,
+      "total": 1519
+    },
+    "../swift/lib/Sema/CSDiagnostics.cpp": {
+      "userLines": 0,
+      "total": 242
+    },
+    "../swift/lib/Sema/CSGen.cpp": {
+      "userLines": 37,
+      "total": 622
+    },
+    "../swift/lib/Sema/CSRanking.cpp": {
+      "userLines": 9,
+      "total": 299
+    },
+    "../swift/lib/Sema/CSSimplify.cpp": {
+      "userLines": 103,
+      "total": 1203
+    },
+    "../swift/lib/Sema/CSSolver.cpp": {
+      "userLines": 2,
+      "total": 401
+    },
+    "../swift/lib/Sema/CalleeCandidateInfo.cpp": {
+      "userLines": 11,
+      "total": 213
+    },
+    "../swift/lib/Sema/CodeSynthesis.cpp": {
+      "userLines": 102,
+      "total": 485
+    },
+    "../swift/lib/Sema/CodeSynthesis.h": {
+      "userLines": 2,
+      "total": 54
+    },
+    "../swift/lib/Sema/Constraint.cpp": {
+      "userLines": 2,
+      "total": 51
+    },
+    "../swift/lib/Sema/Constraint.h": {
+      "userLines": 5,
+      "total": 216
+    },
+    "../swift/lib/Sema/ConstraintGraph.cpp": {
+      "userLines": 0,
+      "total": 167
+    },
+    "../swift/lib/Sema/ConstraintLocator.cpp": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../swift/lib/Sema/ConstraintLocator.h": {
+      "userLines": 2,
+      "total": 174
+    },
+    "../swift/lib/Sema/ConstraintSystem.cpp": {
+      "userLines": 114,
+      "total": 540
+    },
+    "../swift/lib/Sema/ConstraintSystem.h": {
+      "userLines": 56,
+      "total": 1382
+    },
+    "../swift/lib/Sema/DerivedConformanceCaseIterable.cpp": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../swift/lib/Sema/DerivedConformanceCodable.cpp": {
+      "userLines": 7,
+      "total": 467
+    },
+    "../swift/lib/Sema/DerivedConformanceCodingKey.cpp": {
+      "userLines": 0,
+      "total": 187
+    },
+    "../swift/lib/Sema/DerivedConformanceEquatableHashable.cpp": {
+      "userLines": 4,
+      "total": 357
+    },
+    "../swift/lib/Sema/DerivedConformanceError.cpp": {
+      "userLines": 0,
+      "total": 45
+    },
+    "../swift/lib/Sema/DerivedConformanceRawRepresentable.cpp": {
+      "userLines": 8,
+      "total": 130
+    },
+    "../swift/lib/Sema/DerivedConformances.cpp": {
+      "userLines": 11,
+      "total": 84
+    },
+    "../swift/lib/Sema/InstrumenterSupport.h": {
+      "userLines": 0,
+      "total": 20
+    },
+    "../swift/lib/Sema/LookupVisibleDecls.cpp": {
+      "userLines": 19,
+      "total": 155
+    },
+    "../swift/lib/Sema/MiscDiagnostics.cpp": {
+      "userLines": 29,
+      "total": 673
+    },
+    "../swift/lib/Sema/MiscDiagnostics.h": {
+      "userLines": 0,
+      "total": 39
+    },
+    "../swift/lib/Sema/OverloadChoice.h": {
+      "userLines": 0,
+      "total": 90
+    },
+    "../swift/lib/Sema/PCMacro.cpp": {
+      "userLines": 1,
+      "total": 70
+    },
+    "../swift/lib/Sema/PlaygroundTransform.cpp": {
+      "userLines": 0,
+      "total": 73
+    },
+    "../swift/lib/Sema/ResilienceDiagnostics.cpp": {
+      "userLines": 39,
+      "total": 60
+    },
+    "../swift/lib/Sema/SourceLoader.cpp": {
+      "userLines": 0,
+      "total": 29
+    },
+    "../swift/lib/Sema/TypeCheckAccess.cpp": {
+      "userLines": 62,
+      "total": 167
+    },
+    "../swift/lib/Sema/TypeCheckAccess.h": {
+      "userLines": 17,
+      "total": 23
+    },
+    "../swift/lib/Sema/TypeCheckAttr.cpp": {
+      "userLines": 15,
+      "total": 344
+    },
+    "../swift/lib/Sema/TypeCheckAvailability.cpp": {
+      "userLines": 481,
+      "total": 569
+    },
+    "../swift/lib/Sema/TypeCheckAvailability.h": {
+      "userLines": 17,
+      "total": 30
+    },
+    "../swift/lib/Sema/TypeCheckCaptures.cpp": {
+      "userLines": 137,
+      "total": 169
+    },
+    "../swift/lib/Sema/TypeCheckConstraints.cpp": {
+      "userLines": 88,
+      "total": 686
+    },
+    "../swift/lib/Sema/TypeCheckDecl.cpp": {
+      "userLines": 308,
+      "total": 959
+    },
+    "../swift/lib/Sema/TypeCheckDeclObjC.cpp": {
+      "userLines": 3,
+      "total": 250
+    },
+    "../swift/lib/Sema/TypeCheckDeclOverride.cpp": {
+      "userLines": 6,
+      "total": 334
+    },
+    "../swift/lib/Sema/TypeCheckError.cpp": {
+      "userLines": 5,
+      "total": 257
+    },
+    "../swift/lib/Sema/TypeCheckExpr.cpp": {
+      "userLines": 0,
+      "total": 140
+    },
+    "../swift/lib/Sema/TypeCheckExprObjC.cpp": {
+      "userLines": 1,
+      "total": 90
+    },
+    "../swift/lib/Sema/TypeCheckGeneric.cpp": {
+      "userLines": 64,
+      "total": 207
+    },
+    "../swift/lib/Sema/TypeCheckNameLookup.cpp": {
+      "userLines": 56,
+      "total": 177
+    },
+    "../swift/lib/Sema/TypeCheckPattern.cpp": {
+      "userLines": 14,
+      "total": 270
+    },
+    "../swift/lib/Sema/TypeCheckProtocol.cpp": {
+      "userLines": 174,
+      "total": 901
+    },
+    "../swift/lib/Sema/TypeCheckProtocol.h": {
+      "userLines": 3,
+      "total": 301
+    },
+    "../swift/lib/Sema/TypeCheckProtocolInference.cpp": {
+      "userLines": 4,
+      "total": 324
+    },
+    "../swift/lib/Sema/TypeCheckREPL.cpp": {
+      "userLines": 3,
+      "total": 96
+    },
+    "../swift/lib/Sema/TypeCheckRequestFunctions.cpp": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../swift/lib/Sema/TypeCheckStmt.cpp": {
+      "userLines": 16,
+      "total": 357
+    },
+    "../swift/lib/Sema/TypeCheckType.cpp": {
+      "userLines": 146,
+      "total": 459
+    },
+    "../swift/lib/Sema/TypeCheckType.h": {
+      "userLines": 4,
+      "total": 130
+    },
+    "../swift/lib/Sema/TypeChecker.cpp": {
+      "userLines": 18,
+      "total": 120
+    },
+    "../swift/lib/Sema/TypeChecker.h": {
+      "userLines": 81,
+      "total": 1098
+    },
+    "../swift/lib/Serialization/Deserialization.cpp": {
+      "userLines": 7,
+      "total": 335
+    },
+    "../swift/lib/Serialization/DeserializeSIL.cpp": {
+      "userLines": 36,
+      "total": 272
+    },
+    "../swift/lib/Serialization/DeserializeSIL.h": {
+      "userLines": 5,
+      "total": 42
+    },
+    "../swift/lib/Serialization/ModuleFile.cpp": {
+      "userLines": 0,
+      "total": 133
+    },
+    "../swift/lib/Serialization/SILFormat.h": {
+      "userLines": 7,
+      "total": 137
+    },
+    "../swift/lib/Serialization/Serialization.cpp": {
+      "userLines": 16,
+      "total": 255
+    },
+    "../swift/lib/Serialization/Serialization.h": {
+      "userLines": 3,
+      "total": 249
+    },
+    "../swift/lib/Serialization/SerializeSIL.cpp": {
+      "userLines": 38,
+      "total": 234
+    },
+    "../swift/lib/Serialization/SerializedModuleLoader.cpp": {
+      "userLines": 0,
+      "total": 91
+    },
+    "../swift/lib/Serialization/SerializedSILLoader.cpp": {
+      "userLines": 1,
+      "total": 26
+    },
+    "../swift/lib/TBDGen/TBDGen.cpp": {
+      "userLines": 10,
+      "total": 77
+    },
+    "../swift/lib/TBDGen/TBDGenVisitor.h": {
+      "userLines": 0,
+      "total": 21
+    }
+  }
+}

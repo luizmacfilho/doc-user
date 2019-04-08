@@ -1,0 +1,53 @@
+{
+  "mdFiles": {},
+  "otherFiles": {
+    "../linux/kernel/bpf/btf.c": {
+      "userLines": 0,
+      "total": 326
+    },
+    "../linux/kernel/bpf/devmap.c": {
+      "userLines": 0,
+      "total": 110
+    },
+    "../linux/kernel/bpf/offload.c": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../linux/kernel/bpf/verifier.c": {
+      "userLines": 0,
+      "total": 1443
+    },
+    "../linux/kernel/events/core.c": {
+      "userLines": 0,
+      "total": 2228
+    },
+    "../linux/kernel/locking/test-ww_mutex.c": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../linux/kernel/padata.c": {
+      "userLines": 0,
+      "total": 186
+    },
+    "../linux/kernel/seccomp.c": {
+      "userLines": 0,
+      "total": 339
+    },
+    "../linux/kernel/trace/trace.c": {
+      "userLines": 0,
+      "total": 1112
+    },
+    "../linux/kernel/trace/trace_events_hist.c": {
+      "userLines": 0,
+      "total": 251
+    },
+    "../linux/kernel/trace/trace_syscalls.c": {
+      "userLines": 0,
+      "total": 37
+    },
+    "../linux/kernel/watchdog_hld.c": {
+      "userLines": 0,
+      "total": 87
+    }
+  }
+}

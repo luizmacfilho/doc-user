@@ -1,0 +1,174 @@
+{
+  "mdFiles": {
+    "../serverless/CHANGELOG.md": {
+      "userLines": 253,
+      "total": 1009
+    },
+    "../serverless/README.md": {
+      "userLines": 1,
+      "total": 480
+    },
+    "../serverless/RELEASE_CHECKLIST.md": {
+      "userLines": 1,
+      "total": 48
+    }
+  },
+  "otherFiles": {
+    "../serverless/lib/classes/Service.js": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../serverless/lib/classes/Variables.js": {
+      "userLines": 0,
+      "total": 236
+    },
+    "../serverless/lib/plugins/aws/deploy/lib/checkForChanges.js": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../serverless/lib/plugins/aws/deploy/lib/uploadArtifacts.js": {
+      "userLines": 0,
+      "total": 2
+    },
+    "../serverless/lib/plugins/aws/info/display.js": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../serverless/lib/plugins/aws/info/getStackInfo.js": {
+      "userLines": 1,
+      "total": 7
+    },
+    "../serverless/lib/plugins/aws/info/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/lib/plugins/aws/invokeLocal/fixture/asyncHandlerWithSuccess.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../serverless/lib/plugins/aws/invokeLocal/fixture/handlerWithSuccess.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/lib/plugins/aws/invokeLocal/index.js": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../serverless/lib/plugins/aws/invokeLocal/invoke.py": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../serverless/lib/plugins/aws/invokeLocal/invoke.rb": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/lib/plugins/aws/invokeLocal/java/pom.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/lib/plugins/aws/lib/naming.js": {
+      "userLines": 0,
+      "total": 43
+    },
+    "../serverless/lib/plugins/aws/lib/normalizeFiles.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/lib/plugins/aws/logs/index.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../serverless/lib/plugins/aws/package/compile/functions/index.js": {
+      "userLines": 0,
+      "total": 27
+    },
+    "../serverless/lib/plugins/aws/package/compile/layers/index.js": {
+      "userLines": 1,
+      "total": 2
+    },
+    "../serverless/lib/plugins/aws/package/index.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../serverless/lib/plugins/aws/package/lib/generateArtifactDirectoryName.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../serverless/lib/plugins/aws/provider/awsProvider.js": {
+      "userLines": 1,
+      "total": 92
+    },
+    "../serverless/lib/plugins/create/create.js": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../serverless/lib/plugins/create/templates/aws-java-maven/pom.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/lib/plugins/create/templates/aws-kotlin-jvm-maven/pom.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/lib/plugins/create/templates/aws-provided/bootstrap": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/lib/plugins/create/templates/aws-provided/gitignore": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/lib/plugins/create/templates/aws-provided/handler.sh": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/lib/plugins/create/templates/aws-provided/serverless.yml": {
+      "userLines": 87,
+      "total": 88
+    },
+    "../serverless/lib/plugins/create/templates/aws-python3/gitignore": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/lib/plugins/create/templates/aws-python3/handler.py": {
+      "userLines": 0,
+      "total": 2
+    },
+    "../serverless/lib/plugins/create/templates/aws-python3/serverless.yml": {
+      "userLines": 82,
+      "total": 88
+    },
+    "../serverless/lib/plugins/invoke/invoke.js": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../serverless/lib/plugins/package/lib/zipService.js": {
+      "userLines": 8,
+      "total": 29
+    },
+    "../serverless/lib/plugins/package/package.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../serverless/lib/plugins/plugin/install/install.js": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../serverless/lib/plugins/plugin/lib/utils.js": {
+      "userLines": 1,
+      "total": 4
+    },
+    "../serverless/lib/plugins/print/print.js": {
+      "userLines": 0,
+      "total": 24
+    },
+    "../serverless/lib/utils/autocomplete.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../serverless/lib/utils/downloadTemplateFromRepo.js": {
+      "userLines": 1,
+      "total": 50
+    }
+  }
+}

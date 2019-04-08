@@ -1,0 +1,337 @@
+{
+  "mdFiles": {},
+  "otherFiles": {
+    "../go/src/syscall/asm_darwin_386.s": {
+      "userLines": 1,
+      "total": 19
+    },
+    "../go/src/syscall/asm_darwin_amd64.s": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../go/src/syscall/asm_linux_386.s": {
+      "userLines": 3,
+      "total": 37
+    },
+    "../go/src/syscall/asm_linux_amd64.s": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../go/src/syscall/asm_linux_arm.s": {
+      "userLines": 2,
+      "total": 24
+    },
+    "../go/src/syscall/asm_plan9_386.s": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../go/src/syscall/asm_plan9_amd64.s": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../go/src/syscall/asm_unix_386.s": {
+      "userLines": 1,
+      "total": 50
+    },
+    "../go/src/syscall/dll_windows.go": {
+      "userLines": 2,
+      "total": 73
+    },
+    "../go/src/syscall/exec_bsd.go": {
+      "userLines": 1,
+      "total": 58
+    },
+    "../go/src/syscall/exec_libc.go": {
+      "userLines": 1,
+      "total": 63
+    },
+    "../go/src/syscall/exec_linux.go": {
+      "userLines": 6,
+      "total": 137
+    },
+    "../go/src/syscall/exec_linux_test.go": {
+      "userLines": 3,
+      "total": 75
+    },
+    "../go/src/syscall/exec_plan9.go": {
+      "userLines": 1,
+      "total": 90
+    },
+    "../go/src/syscall/mkall.sh": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../go/src/syscall/mkerrors.sh": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../go/src/syscall/mksyscall.pl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../go/src/syscall/mksysnum_linux.pl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../go/src/syscall/msan.go": {
+      "userLines": 3,
+      "total": 4
+    },
+    "../go/src/syscall/msan0.go": {
+      "userLines": 3,
+      "total": 4
+    },
+    "../go/src/syscall/net.go": {
+      "userLines": 1,
+      "total": 20
+    },
+    "../go/src/syscall/netlink_linux.go": {
+      "userLines": 5,
+      "total": 23
+    },
+    "../go/src/syscall/syscall.go": {
+      "userLines": 1,
+      "total": 51
+    },
+    "../go/src/syscall/syscall_darwin.go": {
+      "userLines": 10,
+      "total": 161
+    },
+    "../go/src/syscall/syscall_darwin_386.go": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../go/src/syscall/syscall_darwin_amd64.go": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../go/src/syscall/syscall_darwin_arm.go": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../go/src/syscall/syscall_dragonfly.go": {
+      "userLines": 2,
+      "total": 112
+    },
+    "../go/src/syscall/syscall_dragonfly_amd64.go": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../go/src/syscall/syscall_freebsd.go": {
+      "userLines": 9,
+      "total": 141
+    },
+    "../go/src/syscall/syscall_freebsd_386.go": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../go/src/syscall/syscall_freebsd_amd64.go": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../go/src/syscall/syscall_freebsd_arm.go": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../go/src/syscall/syscall_linux.go": {
+      "userLines": 16,
+      "total": 168
+    },
+    "../go/src/syscall/syscall_linux_386.go": {
+      "userLines": 7,
+      "total": 52
+    },
+    "../go/src/syscall/syscall_linux_amd64.go": {
+      "userLines": 6,
+      "total": 57
+    },
+    "../go/src/syscall/syscall_linux_arm.go": {
+      "userLines": 6,
+      "total": 57
+    },
+    "../go/src/syscall/syscall_linux_arm64.go": {
+      "userLines": 1,
+      "total": 56
+    },
+    "../go/src/syscall/syscall_linux_mips64x.go": {
+      "userLines": 1,
+      "total": 59
+    },
+    "../go/src/syscall/syscall_linux_mipsx.go": {
+      "userLines": 2,
+      "total": 59
+    },
+    "../go/src/syscall/syscall_linux_ppc64x.go": {
+      "userLines": 2,
+      "total": 63
+    },
+    "../go/src/syscall/syscall_linux_s390x.go": {
+      "userLines": 1,
+      "total": 47
+    },
+    "../go/src/syscall/syscall_linux_test.go": {
+      "userLines": 4,
+      "total": 23
+    },
+    "../go/src/syscall/syscall_nacl_386.go": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../go/src/syscall/syscall_nacl_amd64p32.go": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../go/src/syscall/syscall_nacl_arm.go": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../go/src/syscall/syscall_netbsd.go": {
+      "userLines": 2,
+      "total": 103
+    },
+    "../go/src/syscall/syscall_netbsd_386.go": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../go/src/syscall/syscall_netbsd_amd64.go": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../go/src/syscall/syscall_netbsd_arm.go": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../go/src/syscall/syscall_openbsd.go": {
+      "userLines": 2,
+      "total": 102
+    },
+    "../go/src/syscall/syscall_openbsd_386.go": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../go/src/syscall/syscall_openbsd_amd64.go": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../go/src/syscall/syscall_openbsd_arm.go": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../go/src/syscall/syscall_plan9.go": {
+      "userLines": 0,
+      "total": 47
+    },
+    "../go/src/syscall/syscall_solaris_amd64.go": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../go/src/syscall/syscall_unix.go": {
+      "userLines": 1,
+      "total": 29
+    },
+    "../go/src/syscall/syscall_windows.go": {
+      "userLines": 1,
+      "total": 228
+    },
+    "../go/src/syscall/timestruct.go": {
+      "userLines": 12,
+      "total": 13
+    },
+    "../go/src/syscall/zerrors_linux_ppc64le.go": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../go/src/syscall/zsyscall_darwin_arm.go": {
+      "userLines": 5,
+      "total": 365
+    },
+    "../go/src/syscall/zsyscall_dragonfly_amd64.go": {
+      "userLines": 0,
+      "total": 112
+    },
+    "../go/src/syscall/zsyscall_freebsd_386.go": {
+      "userLines": 0,
+      "total": 119
+    },
+    "../go/src/syscall/zsyscall_freebsd_amd64.go": {
+      "userLines": 0,
+      "total": 119
+    },
+    "../go/src/syscall/zsyscall_freebsd_arm.go": {
+      "userLines": 0,
+      "total": 119
+    },
+    "../go/src/syscall/zsyscall_linux_386.go": {
+      "userLines": 2,
+      "total": 123
+    },
+    "../go/src/syscall/zsyscall_linux_amd64.go": {
+      "userLines": 2,
+      "total": 140
+    },
+    "../go/src/syscall/zsyscall_linux_arm.go": {
+      "userLines": 4,
+      "total": 136
+    },
+    "../go/src/syscall/zsyscall_linux_arm64.go": {
+      "userLines": 1,
+      "total": 138
+    },
+    "../go/src/syscall/zsyscall_linux_mips.go": {
+      "userLines": 1,
+      "total": 142
+    },
+    "../go/src/syscall/zsyscall_linux_mips64.go": {
+      "userLines": 1,
+      "total": 141
+    },
+    "../go/src/syscall/zsyscall_linux_mips64le.go": {
+      "userLines": 1,
+      "total": 141
+    },
+    "../go/src/syscall/zsyscall_linux_mipsle.go": {
+      "userLines": 1,
+      "total": 142
+    },
+    "../go/src/syscall/zsyscall_linux_ppc64.go": {
+      "userLines": 1,
+      "total": 144
+    },
+    "../go/src/syscall/zsyscall_linux_ppc64le.go": {
+      "userLines": 1,
+      "total": 144
+    },
+    "../go/src/syscall/zsyscall_linux_s390x.go": {
+      "userLines": 1,
+      "total": 124
+    },
+    "../go/src/syscall/zsyscall_netbsd_386.go": {
+      "userLines": 0,
+      "total": 107
+    },
+    "../go/src/syscall/zsyscall_netbsd_amd64.go": {
+      "userLines": 0,
+      "total": 107
+    },
+    "../go/src/syscall/zsyscall_netbsd_arm.go": {
+      "userLines": 0,
+      "total": 107
+    },
+    "../go/src/syscall/zsyscall_openbsd_386.go": {
+      "userLines": 0,
+      "total": 110
+    },
+    "../go/src/syscall/zsyscall_openbsd_amd64.go": {
+      "userLines": 0,
+      "total": 110
+    },
+    "../go/src/syscall/zsyscall_openbsd_arm.go": {
+      "userLines": 0,
+      "total": 110
+    },
+    "../go/src/syscall/ztypes_linux_ppc64le.go": {
+      "userLines": 0,
+      "total": 13
+    }
+  }
+}

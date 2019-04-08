@@ -1,0 +1,5423 @@
+{
+  "mdFiles": {
+    "../electron/CODE_OF_CONDUCT.md": [],
+    "../electron/CONTRIBUTING.md": [],
+    "../electron/README.md": [],
+    "../electron/SECURITY.md": []
+  },
+  "otherFiles": {
+    "../electron/lib/browser/api/app.ts": [],
+    "../electron/lib/browser/api/auto-updater/auto-updater-native.js": [],
+    "../electron/lib/browser/api/auto-updater/auto-updater-win.js": [],
+    "../electron/lib/browser/api/auto-updater/squirrel-update-win.js": [],
+    "../electron/lib/browser/api/auto-updater.js": [],
+    "../electron/lib/browser/api/browser-view.js": [],
+    "../electron/lib/browser/api/browser-window.js": [],
+    "../electron/lib/browser/api/content-tracing.js": [],
+    "../electron/lib/browser/api/crash-reporter.js": [],
+    "../electron/lib/browser/api/dialog.js": [],
+    "../electron/lib/browser/api/exports/electron.js": [],
+    "../electron/lib/browser/api/global-shortcut.js": [],
+    "../electron/lib/browser/api/in-app-purchase.js": [],
+    "../electron/lib/browser/api/ipc-main.ts": [],
+    "../electron/lib/browser/api/menu-item-roles.js": [],
+    "../electron/lib/browser/api/menu-item.js": [],
+    "../electron/lib/browser/api/menu-utils.js": [],
+    "../electron/lib/browser/api/menu.js": [],
+    "../electron/lib/browser/api/module-list.js": [],
+    "../electron/lib/browser/api/net-log.js": [],
+    "../electron/lib/browser/api/net.js": [],
+    "../electron/lib/browser/api/notification.js": [],
+    "../electron/lib/browser/api/power-monitor.js": [],
+    "../electron/lib/browser/api/power-save-blocker.js": [],
+    "../electron/lib/browser/api/protocol.ts": [],
+    "../electron/lib/browser/api/screen.js": [],
+    "../electron/lib/browser/api/session.js": [],
+    "../electron/lib/browser/api/system-preferences.js": [],
+    "../electron/lib/browser/api/top-level-window.js": [],
+    "../electron/lib/browser/api/touch-bar.js": [],
+    "../electron/lib/browser/api/tray.js": [],
+    "../electron/lib/browser/api/view.js": [],
+    "../electron/lib/browser/api/views/box-layout.js": [],
+    "../electron/lib/browser/api/views/button.js": [],
+    "../electron/lib/browser/api/views/label-button.js": [],
+    "../electron/lib/browser/api/views/layout-manager.js": [],
+    "../electron/lib/browser/api/views/md-text-button.js": [],
+    "../electron/lib/browser/api/views/resize-area.js": [],
+    "../electron/lib/browser/api/views/text-field.js": [],
+    "../electron/lib/browser/api/web-contents-view.js": [],
+    "../electron/lib/browser/api/web-contents.js": [
+      {
+        "start": 231,
+        "end": 231
+      }
+    ],
+    "../electron/lib/browser/chrome-devtools.js": [],
+    "../electron/lib/browser/chrome-extension.js": [],
+    "../electron/lib/browser/crash-reporter-init.js": [],
+    "../electron/lib/browser/default-menu.ts": [],
+    "../electron/lib/browser/desktop-capturer.js": [],
+    "../electron/lib/browser/guest-view-manager.js": [],
+    "../electron/lib/browser/guest-window-manager.js": [
+      {
+        "start": 109,
+        "end": 109
+      },
+      {
+        "start": 128,
+        "end": 130
+      },
+      {
+        "start": 235,
+        "end": 235
+      },
+      {
+        "start": 245,
+        "end": 245
+      },
+      {
+        "start": 259,
+        "end": 259
+      }
+    ],
+    "../electron/lib/browser/init.ts": [],
+    "../electron/lib/browser/ipc-main-internal-utils.ts": [],
+    "../electron/lib/browser/ipc-main-internal.ts": [],
+    "../electron/lib/browser/navigation-controller.js": [
+      {
+        "start": 66,
+        "end": 71
+      },
+      {
+        "start": 73,
+        "end": 121
+      },
+      {
+        "start": 124,
+        "end": 125
+      }
+    ],
+    "../electron/lib/browser/objects-registry.js": [],
+    "../electron/lib/browser/rpc-server.js": [
+      {
+        "start": 544,
+        "end": 545
+      }
+    ],
+    "../electron/lib/common/api/clipboard.js": [],
+    "../electron/lib/common/api/deprecate.ts": [],
+    "../electron/lib/common/api/deprecations.js": [],
+    "../electron/lib/common/api/exports/electron.js": [],
+    "../electron/lib/common/api/is-promise.js": [],
+    "../electron/lib/common/api/module-list.js": [],
+    "../electron/lib/common/api/native-image.js": [],
+    "../electron/lib/common/api/shell.js": [],
+    "../electron/lib/common/asar.js": [],
+    "../electron/lib/common/asar_init.js": [],
+    "../electron/lib/common/atom-binding-setup.ts": [],
+    "../electron/lib/common/buffer-utils.js": [],
+    "../electron/lib/common/clipboard-utils.js": [],
+    "../electron/lib/common/crash-reporter.js": [],
+    "../electron/lib/common/error-utils.js": [],
+    "../electron/lib/common/init.ts": [],
+    "../electron/lib/common/parse-features-string.js": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 12,
+        "end": 12
+      }
+    ],
+    "../electron/lib/common/path-utils.ts": [],
+    "../electron/lib/common/reset-search-paths.ts": [],
+    "../electron/lib/common/web-view-methods.js": [],
+    "../electron/lib/content_script/init.js": [],
+    "../electron/lib/isolated_renderer/init.js": [],
+    "../electron/lib/renderer/api/crash-reporter.js": [],
+    "../electron/lib/renderer/api/desktop-capturer.js": [],
+    "../electron/lib/renderer/api/exports/electron.js": [],
+    "../electron/lib/renderer/api/ipc-renderer.js": [
+      {
+        "start": 3,
+        "end": 3
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 27,
+        "end": 27
+      }
+    ],
+    "../electron/lib/renderer/api/module-list.js": [],
+    "../electron/lib/renderer/api/remote.js": [],
+    "../electron/lib/renderer/api/web-frame.ts": [],
+    "../electron/lib/renderer/callbacks-registry.js": [],
+    "../electron/lib/renderer/chrome-api.ts": [],
+    "../electron/lib/renderer/content-scripts-injector.ts": [],
+    "../electron/lib/renderer/extensions/event.js": [],
+    "../electron/lib/renderer/extensions/i18n.js": [],
+    "../electron/lib/renderer/extensions/storage.js": [],
+    "../electron/lib/renderer/extensions/web-navigation.js": [],
+    "../electron/lib/renderer/init.ts": [
+      {
+        "start": 26,
+        "end": 36
+      }
+    ],
+    "../electron/lib/renderer/inspector.ts": [],
+    "../electron/lib/renderer/ipc-renderer-internal-utils.ts": [],
+    "../electron/lib/renderer/ipc-renderer-internal.ts": [
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 13,
+        "end": 13
+      }
+    ],
+    "../electron/lib/renderer/security-warnings.ts": [],
+    "../electron/lib/renderer/web-frame-init.ts": [],
+    "../electron/lib/renderer/web-view/guest-view-internal.ts": [],
+    "../electron/lib/renderer/web-view/web-view-attributes.ts": [],
+    "../electron/lib/renderer/web-view/web-view-constants.ts": [],
+    "../electron/lib/renderer/web-view/web-view-element.ts": [],
+    "../electron/lib/renderer/web-view/web-view-impl.ts": [],
+    "../electron/lib/renderer/web-view/web-view-init.ts": [],
+    "../electron/lib/renderer/window-setup.ts": [],
+    "../electron/lib/sandboxed_renderer/api/exports/electron.js": [],
+    "../electron/lib/sandboxed_renderer/api/module-list.js": [],
+    "../electron/lib/sandboxed_renderer/init.js": [
+      {
+        "start": 48,
+        "end": 53
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 57,
+        "end": 58
+      },
+      {
+        "start": 62,
+        "end": 71
+      },
+      {
+        "start": 75,
+        "end": 75
+      }
+    ],
+    "../electron/lib/worker/init.js": [],
+    "../electron/atom/app/atom_content_client.cc": [
+      {
+        "start": 42,
+        "end": 44
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 72,
+        "end": 74
+      },
+      {
+        "start": 75,
+        "end": 75
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 77,
+        "end": 80
+      },
+      {
+        "start": 167,
+        "end": 167
+      },
+      {
+        "start": 245,
+        "end": 245
+      },
+      {
+        "start": 246,
+        "end": 247
+      },
+      {
+        "start": 248,
+        "end": 248
+      },
+      {
+        "start": 249,
+        "end": 249
+      },
+      {
+        "start": 259,
+        "end": 262
+      },
+      {
+        "start": 265,
+        "end": 265
+      }
+    ],
+    "../electron/atom/app/atom_content_client.h": [
+      {
+        "start": 19,
+        "end": 19
+      }
+    ],
+    "../electron/atom/app/atom_library_main.h": [],
+    "../electron/atom/app/atom_library_main.mm": [],
+    "../electron/atom/app/atom_login_helper.mm": [],
+    "../electron/atom/app/atom_main.cc": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 34,
+        "end": 34
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 102,
+        "end": 102
+      },
+      {
+        "start": 217,
+        "end": 242
+      },
+      {
+        "start": 244,
+        "end": 244
+      }
+    ],
+    "../electron/atom/app/atom_main.h": [],
+    "../electron/atom/app/atom_main_delegate.cc": [
+      {
+        "start": 11,
+        "end": 14
+      },
+      {
+        "start": 46,
+        "end": 49
+      },
+      {
+        "start": 128,
+        "end": 128
+      },
+      {
+        "start": 162,
+        "end": 164
+      },
+      {
+        "start": 167,
+        "end": 169
+      },
+      {
+        "start": 223,
+        "end": 223
+      },
+      {
+        "start": 250,
+        "end": 254
+      },
+      {
+        "start": 265,
+        "end": 265
+      },
+      {
+        "start": 299,
+        "end": 302
+      }
+    ],
+    "../electron/atom/app/atom_main_delegate.h": [
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 39,
+        "end": 39
+      }
+    ],
+    "../electron/atom/app/atom_main_delegate_mac.h": [
+      {
+        "start": 1,
+        "end": 15
+      }
+    ],
+    "../electron/atom/app/atom_main_delegate_mac.mm": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 50,
+        "end": 50
+      },
+      {
+        "start": 64,
+        "end": 68
+      }
+    ],
+    "../electron/atom/app/command_line_args.cc": [
+      {
+        "start": 13,
+        "end": 13
+      }
+    ],
+    "../electron/atom/app/command_line_args.h": [],
+    "../electron/atom/app/manifests.cc": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 29,
+        "end": 32
+      }
+    ],
+    "../electron/atom/app/manifests.h": [],
+    "../electron/atom/app/node_main.cc": [
+      {
+        "start": 92,
+        "end": 92
+      },
+      {
+        "start": 106,
+        "end": 106
+      }
+    ],
+    "../electron/atom/app/node_main.h": [],
+    "../electron/atom/app/resources/mac/loginhelper-Info.plist": [],
+    "../electron/atom/app/uv_task_runner.cc": [],
+    "../electron/atom/app/uv_task_runner.h": [
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 32,
+        "end": 32
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_app.cc": [
+      {
+        "start": 34,
+        "end": 34
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 355,
+        "end": 355
+      },
+      {
+        "start": 358,
+        "end": 364
+      },
+      {
+        "start": 484,
+        "end": 484
+      },
+      {
+        "start": 777,
+        "end": 777
+      },
+      {
+        "start": 782,
+        "end": 782
+      },
+      {
+        "start": 785,
+        "end": 787
+      },
+      {
+        "start": 788,
+        "end": 788
+      },
+      {
+        "start": 791,
+        "end": 793
+      },
+      {
+        "start": 794,
+        "end": 794
+      },
+      {
+        "start": 798,
+        "end": 799
+      },
+      {
+        "start": 838,
+        "end": 838
+      },
+      {
+        "start": 855,
+        "end": 856
+      },
+      {
+        "start": 976,
+        "end": 976
+      },
+      {
+        "start": 1009,
+        "end": 1009
+      },
+      {
+        "start": 1021,
+        "end": 1021
+      },
+      {
+        "start": 1224,
+        "end": 1224
+      },
+      {
+        "start": 1409,
+        "end": 1409
+      },
+      {
+        "start": 1424,
+        "end": 1426
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_app.h": [
+      {
+        "start": 58,
+        "end": 59
+      },
+      {
+        "start": 166,
+        "end": 171
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_app_mas.mm": [],
+    "../electron/atom/browser/api/atom_api_auto_updater.cc": [
+      {
+        "start": 150,
+        "end": 152
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_auto_updater.h": [
+      {
+        "start": 37,
+        "end": 37
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_browser_view.cc": [
+      {
+        "start": 170,
+        "end": 172
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_browser_view.h": [],
+    "../electron/atom/browser/api/atom_api_browser_window.cc": [
+      {
+        "start": 142,
+        "end": 142
+      },
+      {
+        "start": 368,
+        "end": 368
+      },
+      {
+        "start": 455,
+        "end": 455
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_browser_window.h": [],
+    "../electron/atom/browser/api/atom_api_browser_window_mac.mm": [
+      {
+        "start": 62,
+        "end": 64
+      },
+      {
+        "start": 84,
+        "end": 84
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_browser_window_views.cc": [],
+    "../electron/atom/browser/api/atom_api_content_tracing.cc": [],
+    "../electron/atom/browser/api/atom_api_cookies.cc": [
+      {
+        "start": 333,
+        "end": 333
+      },
+      {
+        "start": 347,
+        "end": 347
+      },
+      {
+        "start": 362,
+        "end": 362
+      },
+      {
+        "start": 375,
+        "end": 375
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_cookies.h": [],
+    "../electron/atom/browser/api/atom_api_debugger.cc": [
+      {
+        "start": 201,
+        "end": 203
+      },
+      {
+        "start": 208,
+        "end": 208
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_debugger.h": [],
+    "../electron/atom/browser/api/atom_api_desktop_capturer.cc": [
+      {
+        "start": 234,
+        "end": 234
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_desktop_capturer.h": [],
+    "../electron/atom/browser/api/atom_api_dialog.cc": [],
+    "../electron/atom/browser/api/atom_api_download_item.cc": [
+      {
+        "start": 222,
+        "end": 222
+      },
+      {
+        "start": 246,
+        "end": 248
+      },
+      {
+        "start": 253,
+        "end": 253
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_download_item.h": [
+      {
+        "start": 56,
+        "end": 56
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_event.cc": [
+      {
+        "start": 13,
+        "end": 13
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_global_shortcut.cc": [],
+    "../electron/atom/browser/api/atom_api_global_shortcut.h": [],
+    "../electron/atom/browser/api/atom_api_in_app_purchase.cc": [
+      {
+        "start": 158,
+        "end": 160
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_in_app_purchase.h": [],
+    "../electron/atom/browser/api/atom_api_menu.cc": [
+      {
+        "start": 247,
+        "end": 249
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_menu.h": [],
+    "../electron/atom/browser/api/atom_api_menu_mac.h": [
+      {
+        "start": 24,
+        "end": 24
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_menu_mac.mm": [
+      {
+        "start": 33,
+        "end": 34
+      },
+      {
+        "start": 58,
+        "end": 58
+      },
+      {
+        "start": 101,
+        "end": 101
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_menu_views.cc": [
+      {
+        "start": 22,
+        "end": 23
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_menu_views.h": [
+      {
+        "start": 23,
+        "end": 23
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_net.cc": [
+      {
+        "start": 34,
+        "end": 36
+      },
+      {
+        "start": 58,
+        "end": 59
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_net.h": [],
+    "../electron/atom/browser/api/atom_api_net_log.cc": [],
+    "../electron/atom/browser/api/atom_api_net_log.h": [],
+    "../electron/atom/browser/api/atom_api_notification.cc": [
+      {
+        "start": 264,
+        "end": 266
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_notification.h": [],
+    "../electron/atom/browser/api/atom_api_power_monitor.cc": [
+      {
+        "start": 143,
+        "end": 145
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_power_monitor.h": [],
+    "../electron/atom/browser/api/atom_api_power_monitor_mac.mm": [
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 53,
+        "end": 53
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_power_monitor_win.cc": [],
+    "../electron/atom/browser/api/atom_api_power_save_blocker.cc": [
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 14,
+        "end": 16
+      },
+      {
+        "start": 45,
+        "end": 46
+      },
+      {
+        "start": 53,
+        "end": 57
+      },
+      {
+        "start": 67,
+        "end": 67
+      },
+      {
+        "start": 69,
+        "end": 69
+      },
+      {
+        "start": 71,
+        "end": 71
+      },
+      {
+        "start": 76,
+        "end": 98
+      },
+      {
+        "start": 100,
+        "end": 100
+      },
+      {
+        "start": 105,
+        "end": 105
+      },
+      {
+        "start": 111,
+        "end": 111
+      },
+      {
+        "start": 117,
+        "end": 117
+      },
+      {
+        "start": 153,
+        "end": 153
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_power_save_blocker.h": [
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 42,
+        "end": 46
+      },
+      {
+        "start": 50,
+        "end": 52
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_protocol.cc": [],
+    "../electron/atom/browser/api/atom_api_protocol.h": [
+      {
+        "start": 55,
+        "end": 55
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_render_process_preferences.cc": [],
+    "../electron/atom/browser/api/atom_api_render_process_preferences.h": [],
+    "../electron/atom/browser/api/atom_api_screen.cc": [
+      {
+        "start": 166,
+        "end": 168
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_screen.h": [],
+    "../electron/atom/browser/api/atom_api_session.cc": [
+      {
+        "start": 258,
+        "end": 258
+      },
+      {
+        "start": 260,
+        "end": 260
+      },
+      {
+        "start": 270,
+        "end": 270
+      },
+      {
+        "start": 282,
+        "end": 282
+      },
+      {
+        "start": 290,
+        "end": 291
+      },
+      {
+        "start": 305,
+        "end": 306
+      },
+      {
+        "start": 310,
+        "end": 310
+      },
+      {
+        "start": 316,
+        "end": 316
+      },
+      {
+        "start": 319,
+        "end": 319
+      },
+      {
+        "start": 332,
+        "end": 333
+      },
+      {
+        "start": 335,
+        "end": 335
+      },
+      {
+        "start": 382,
+        "end": 382
+      },
+      {
+        "start": 462,
+        "end": 462
+      },
+      {
+        "start": 479,
+        "end": 479
+      },
+      {
+        "start": 531,
+        "end": 538
+      },
+      {
+        "start": 541,
+        "end": 545
+      },
+      {
+        "start": 549,
+        "end": 553
+      },
+      {
+        "start": 556,
+        "end": 562
+      },
+      {
+        "start": 565,
+        "end": 567
+      },
+      {
+        "start": 577,
+        "end": 577
+      },
+      {
+        "start": 587,
+        "end": 587
+      },
+      {
+        "start": 588,
+        "end": 588
+      },
+      {
+        "start": 600,
+        "end": 600
+      },
+      {
+        "start": 699,
+        "end": 699
+      },
+      {
+        "start": 754,
+        "end": 754
+      },
+      {
+        "start": 852,
+        "end": 857
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_session.h": [
+      {
+        "start": 97,
+        "end": 97
+      },
+      {
+        "start": 110,
+        "end": 111
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_system_preferences.cc": [
+      {
+        "start": 142,
+        "end": 144
+      },
+      {
+        "start": 149,
+        "end": 149
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_system_preferences.h": [],
+    "../electron/atom/browser/api/atom_api_system_preferences_mac.mm": [],
+    "../electron/atom/browser/api/atom_api_system_preferences_win.cc": [],
+    "../electron/atom/browser/api/atom_api_top_level_window.cc": [
+      {
+        "start": 615,
+        "end": 618
+      },
+      {
+        "start": 916,
+        "end": 916
+      },
+      {
+        "start": 1103,
+        "end": 1103
+      },
+      {
+        "start": 1194,
+        "end": 1196
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_top_level_window.h": [
+      {
+        "start": 159,
+        "end": 159
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_tray.cc": [
+      {
+        "start": 268,
+        "end": 270
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_tray.h": [],
+    "../electron/atom/browser/api/atom_api_url_request.cc": [
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 155,
+        "end": 155
+      },
+      {
+        "start": 174,
+        "end": 175
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_url_request.h": [],
+    "../electron/atom/browser/api/atom_api_view.cc": [
+      {
+        "start": 78,
+        "end": 80
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_view.h": [],
+    "../electron/atom/browser/api/atom_api_web_contents.cc": [
+      {
+        "start": 81,
+        "end": 82
+      },
+      {
+        "start": 87,
+        "end": 87
+      },
+      {
+        "start": 104,
+        "end": 104
+      },
+      {
+        "start": 276,
+        "end": 277
+      },
+      {
+        "start": 278,
+        "end": 279
+      },
+      {
+        "start": 333,
+        "end": 333
+      },
+      {
+        "start": 427,
+        "end": 428
+      },
+      {
+        "start": 429,
+        "end": 430
+      },
+      {
+        "start": 431,
+        "end": 431
+      },
+      {
+        "start": 439,
+        "end": 439
+      },
+      {
+        "start": 442,
+        "end": 442
+      },
+      {
+        "start": 504,
+        "end": 504
+      },
+      {
+        "start": 510,
+        "end": 511
+      },
+      {
+        "start": 528,
+        "end": 534
+      },
+      {
+        "start": 582,
+        "end": 583
+      },
+      {
+        "start": 607,
+        "end": 607
+      },
+      {
+        "start": 612,
+        "end": 612
+      },
+      {
+        "start": 615,
+        "end": 615
+      },
+      {
+        "start": 633,
+        "end": 636
+      },
+      {
+        "start": 640,
+        "end": 640
+      },
+      {
+        "start": 644,
+        "end": 648
+      },
+      {
+        "start": 651,
+        "end": 651
+      },
+      {
+        "start": 662,
+        "end": 663
+      },
+      {
+        "start": 727,
+        "end": 727
+      },
+      {
+        "start": 728,
+        "end": 728
+      },
+      {
+        "start": 730,
+        "end": 730
+      },
+      {
+        "start": 736,
+        "end": 736
+      },
+      {
+        "start": 755,
+        "end": 755
+      },
+      {
+        "start": 766,
+        "end": 766
+      },
+      {
+        "start": 805,
+        "end": 805
+      },
+      {
+        "start": 830,
+        "end": 836
+      },
+      {
+        "start": 848,
+        "end": 848
+      },
+      {
+        "start": 862,
+        "end": 863
+      },
+      {
+        "start": 880,
+        "end": 880
+      },
+      {
+        "start": 882,
+        "end": 882
+      },
+      {
+        "start": 900,
+        "end": 906
+      },
+      {
+        "start": 907,
+        "end": 912
+      },
+      {
+        "start": 913,
+        "end": 931
+      },
+      {
+        "start": 932,
+        "end": 953
+      },
+      {
+        "start": 954,
+        "end": 968
+      },
+      {
+        "start": 985,
+        "end": 985
+      },
+      {
+        "start": 995,
+        "end": 996
+      },
+      {
+        "start": 998,
+        "end": 999
+      },
+      {
+        "start": 1006,
+        "end": 1007
+      },
+      {
+        "start": 1018,
+        "end": 1019
+      },
+      {
+        "start": 1023,
+        "end": 1024
+      },
+      {
+        "start": 1191,
+        "end": 1191
+      },
+      {
+        "start": 1224,
+        "end": 1224
+      },
+      {
+        "start": 1225,
+        "end": 1225
+      },
+      {
+        "start": 1247,
+        "end": 1249
+      },
+      {
+        "start": 1250,
+        "end": 1252
+      },
+      {
+        "start": 1253,
+        "end": 1253
+      },
+      {
+        "start": 1286,
+        "end": 1286
+      },
+      {
+        "start": 1300,
+        "end": 1301
+      },
+      {
+        "start": 1438,
+        "end": 1438
+      },
+      {
+        "start": 1440,
+        "end": 1440
+      },
+      {
+        "start": 1453,
+        "end": 1453
+      },
+      {
+        "start": 1455,
+        "end": 1455
+      },
+      {
+        "start": 1679,
+        "end": 1679
+      },
+      {
+        "start": 1686,
+        "end": 1686
+      },
+      {
+        "start": 1697,
+        "end": 1697
+      },
+      {
+        "start": 1702,
+        "end": 1702
+      },
+      {
+        "start": 1738,
+        "end": 1741
+      },
+      {
+        "start": 1743,
+        "end": 1743
+      },
+      {
+        "start": 1759,
+        "end": 1765
+      },
+      {
+        "start": 1864,
+        "end": 1864
+      },
+      {
+        "start": 1879,
+        "end": 1879
+      },
+      {
+        "start": 1980,
+        "end": 1980
+      },
+      {
+        "start": 1988,
+        "end": 1988
+      },
+      {
+        "start": 1990,
+        "end": 1991
+      },
+      {
+        "start": 2092,
+        "end": 2092
+      },
+      {
+        "start": 2094,
+        "end": 2094
+      },
+      {
+        "start": 2139,
+        "end": 2139
+      },
+      {
+        "start": 2144,
+        "end": 2145
+      },
+      {
+        "start": 2150,
+        "end": 2153
+      },
+      {
+        "start": 2156,
+        "end": 2159
+      },
+      {
+        "start": 2161,
+        "end": 2173
+      },
+      {
+        "start": 2342,
+        "end": 2344
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_web_contents.h": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 80,
+        "end": 81
+      },
+      {
+        "start": 270,
+        "end": 270
+      },
+      {
+        "start": 297,
+        "end": 298
+      },
+      {
+        "start": 330,
+        "end": 330
+      },
+      {
+        "start": 351,
+        "end": 351
+      },
+      {
+        "start": 362,
+        "end": 363
+      },
+      {
+        "start": 367,
+        "end": 367
+      },
+      {
+        "start": 373,
+        "end": 376
+      },
+      {
+        "start": 380,
+        "end": 381
+      },
+      {
+        "start": 400,
+        "end": 400
+      },
+      {
+        "start": 409,
+        "end": 409
+      },
+      {
+        "start": 419,
+        "end": 419
+      },
+      {
+        "start": 454,
+        "end": 457
+      },
+      {
+        "start": 478,
+        "end": 481
+      },
+      {
+        "start": 482,
+        "end": 482
+      },
+      {
+        "start": 483,
+        "end": 483
+      },
+      {
+        "start": 491,
+        "end": 498
+      },
+      {
+        "start": 499,
+        "end": 504
+      },
+      {
+        "start": 505,
+        "end": 505
+      },
+      {
+        "start": 556,
+        "end": 560
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_web_contents_impl.cc": [],
+    "../electron/atom/browser/api/atom_api_web_contents_mac.mm": [
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 20,
+        "end": 20
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_web_contents_view.cc": [],
+    "../electron/atom/browser/api/atom_api_web_contents_view.h": [],
+    "../electron/atom/browser/api/atom_api_web_request.cc": [
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 56,
+        "end": 56
+      }
+    ],
+    "../electron/atom/browser/api/atom_api_web_request.h": [],
+    "../electron/atom/browser/api/atom_api_web_view_manager.cc": [
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 39,
+        "end": 39
+      }
+    ],
+    "../electron/atom/browser/api/event.cc": [
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 25,
+        "end": 25
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 59,
+        "end": 59
+      },
+      {
+        "start": 62,
+        "end": 64
+      }
+    ],
+    "../electron/atom/browser/api/event.h": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 51,
+        "end": 51
+      }
+    ],
+    "../electron/atom/browser/api/event_emitter.cc": [
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 39,
+        "end": 40
+      },
+      {
+        "start": 47,
+        "end": 52
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 58,
+        "end": 58
+      }
+    ],
+    "../electron/atom/browser/api/event_emitter.h": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 25,
+        "end": 29
+      },
+      {
+        "start": 72,
+        "end": 72
+      },
+      {
+        "start": 77,
+        "end": 82
+      },
+      {
+        "start": 89,
+        "end": 90
+      },
+      {
+        "start": 103,
+        "end": 103
+      }
+    ],
+    "../electron/atom/browser/api/frame_subscriber.cc": [],
+    "../electron/atom/browser/api/frame_subscriber.h": [
+      {
+        "start": 36,
+        "end": 36
+      }
+    ],
+    "../electron/atom/browser/api/gpu_info_enumerator.cc": [
+      {
+        "start": 111,
+        "end": 122
+      }
+    ],
+    "../electron/atom/browser/api/gpu_info_enumerator.h": [
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 50,
+        "end": 51
+      }
+    ],
+    "../electron/atom/browser/api/gpuinfo_manager.cc": [
+      {
+        "start": 31,
+        "end": 31
+      }
+    ],
+    "../electron/atom/browser/api/gpuinfo_manager.h": [],
+    "../electron/atom/browser/api/save_page_handler.cc": [
+      {
+        "start": 34,
+        "end": 34
+      }
+    ],
+    "../electron/atom/browser/api/save_page_handler.h": [
+      {
+        "start": 34,
+        "end": 34
+      }
+    ],
+    "../electron/atom/browser/api/stream_subscriber.cc": [],
+    "../electron/atom/browser/api/stream_subscriber.h": [],
+    "../electron/atom/browser/api/trackable_object.cc": [],
+    "../electron/atom/browser/api/trackable_object.h": [],
+    "../electron/atom/browser/api/views/atom_api_box_layout.cc": [],
+    "../electron/atom/browser/api/views/atom_api_box_layout.h": [],
+    "../electron/atom/browser/api/views/atom_api_button.cc": [],
+    "../electron/atom/browser/api/views/atom_api_button.h": [],
+    "../electron/atom/browser/api/views/atom_api_label_button.cc": [],
+    "../electron/atom/browser/api/views/atom_api_label_button.h": [],
+    "../electron/atom/browser/api/views/atom_api_layout_manager.cc": [],
+    "../electron/atom/browser/api/views/atom_api_layout_manager.h": [],
+    "../electron/atom/browser/api/views/atom_api_md_text_button.cc": [],
+    "../electron/atom/browser/api/views/atom_api_md_text_button.h": [],
+    "../electron/atom/browser/api/views/atom_api_resize_area.cc": [],
+    "../electron/atom/browser/api/views/atom_api_resize_area.h": [],
+    "../electron/atom/browser/api/views/atom_api_text_field.cc": [],
+    "../electron/atom/browser/api/views/atom_api_text_field.h": [],
+    "../electron/atom/browser/atom_blob_reader.cc": [],
+    "../electron/atom/browser/atom_blob_reader.h": [],
+    "../electron/atom/browser/atom_browser_client.cc": [
+      {
+        "start": 25,
+        "end": 25
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 105,
+        "end": 105
+      },
+      {
+        "start": 366,
+        "end": 373
+      },
+      {
+        "start": 390,
+        "end": 391
+      },
+      {
+        "start": 392,
+        "end": 392
+      },
+      {
+        "start": 394,
+        "end": 395
+      },
+      {
+        "start": 464,
+        "end": 464
+      },
+      {
+        "start": 501,
+        "end": 501
+      },
+      {
+        "start": 503,
+        "end": 503
+      },
+      {
+        "start": 542,
+        "end": 552
+      },
+      {
+        "start": 711,
+        "end": 712
+      },
+      {
+        "start": 756,
+        "end": 756
+      },
+      {
+        "start": 774,
+        "end": 775
+      },
+      {
+        "start": 781,
+        "end": 783
+      },
+      {
+        "start": 831,
+        "end": 832
+      },
+      {
+        "start": 833,
+        "end": 834
+      }
+    ],
+    "../electron/atom/browser/atom_browser_client.h": [
+      {
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 73,
+        "end": 73
+      },
+      {
+        "start": 94,
+        "end": 95
+      },
+      {
+        "start": 163,
+        "end": 165
+      },
+      {
+        "start": 173,
+        "end": 174
+      },
+      {
+        "start": 175,
+        "end": 176
+      }
+    ],
+    "../electron/atom/browser/atom_browser_context.cc": [
+      {
+        "start": 241,
+        "end": 241
+      },
+      {
+        "start": 254,
+        "end": 255
+      }
+    ],
+    "../electron/atom/browser/atom_browser_context.h": [
+      {
+        "start": 85,
+        "end": 86
+      }
+    ],
+    "../electron/atom/browser/atom_browser_main_parts.cc": [
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 287,
+        "end": 287
+      },
+      {
+        "start": 303,
+        "end": 303
+      },
+      {
+        "start": 417,
+        "end": 419
+      },
+      {
+        "start": 457,
+        "end": 458
+      },
+      {
+        "start": 460,
+        "end": 461
+      }
+    ],
+    "../electron/atom/browser/atom_browser_main_parts.h": [
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 83,
+        "end": 83
+      },
+      {
+        "start": 130,
+        "end": 130
+      },
+      {
+        "start": 132,
+        "end": 132
+      }
+    ],
+    "../electron/atom/browser/atom_browser_main_parts_mac.mm": [],
+    "../electron/atom/browser/atom_browser_main_parts_posix.cc": [],
+    "../electron/atom/browser/atom_download_manager_delegate.cc": [
+      {
+        "start": 93,
+        "end": 93
+      },
+      {
+        "start": 100,
+        "end": 100
+      },
+      {
+        "start": 103,
+        "end": 103
+      }
+    ],
+    "../electron/atom/browser/atom_download_manager_delegate.h": [
+      {
+        "start": 26,
+        "end": 26
+      }
+    ],
+    "../electron/atom/browser/atom_javascript_dialog_manager.cc": [
+      {
+        "start": 33,
+        "end": 33
+      },
+      {
+        "start": 91,
+        "end": 91
+      }
+    ],
+    "../electron/atom/browser/atom_javascript_dialog_manager.h": [
+      {
+        "start": 22,
+        "end": 22
+      }
+    ],
+    "../electron/atom/browser/atom_navigation_throttle.cc": [],
+    "../electron/atom/browser/atom_navigation_throttle.h": [],
+    "../electron/atom/browser/atom_paths.h": [],
+    "../electron/atom/browser/atom_permission_manager.cc": [
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 96,
+        "end": 96
+      },
+      {
+        "start": 115,
+        "end": 116
+      },
+      {
+        "start": 155,
+        "end": 155
+      },
+      {
+        "start": 173,
+        "end": 173
+      },
+      {
+        "start": 176,
+        "end": 176
+      },
+      {
+        "start": 201,
+        "end": 201
+      },
+      {
+        "start": 227,
+        "end": 227
+      }
+    ],
+    "../electron/atom/browser/atom_permission_manager.h": [
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 52,
+        "end": 57
+      },
+      {
+        "start": 89,
+        "end": 89
+      }
+    ],
+    "../electron/atom/browser/atom_quota_permission_context.cc": [],
+    "../electron/atom/browser/atom_quota_permission_context.h": [
+      {
+        "start": 25,
+        "end": 26
+      }
+    ],
+    "../electron/atom/browser/atom_resource_dispatcher_host_delegate.cc": [],
+    "../electron/atom/browser/atom_resource_dispatcher_host_delegate.h": [],
+    "../electron/atom/browser/atom_speech_recognition_manager_delegate.cc": [
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 39,
+        "end": 39
+      }
+    ],
+    "../electron/atom/browser/atom_speech_recognition_manager_delegate.h": [
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 34,
+        "end": 34
+      },
+      {
+        "start": 37,
+        "end": 37
+      }
+    ],
+    "../electron/atom/browser/atom_web_ui_controller_factory.cc": [
+      {
+        "start": 66,
+        "end": 66
+      },
+      {
+        "start": 96,
+        "end": 96
+      }
+    ],
+    "../electron/atom/browser/atom_web_ui_controller_factory.h": [
+      {
+        "start": 8,
+        "end": 9
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 31,
+        "end": 31
+      }
+    ],
+    "../electron/atom/browser/auto_updater.cc": [],
+    "../electron/atom/browser/auto_updater.h": [],
+    "../electron/atom/browser/auto_updater_mac.mm": [],
+    "../electron/atom/browser/browser.cc": [
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 28,
+        "end": 29
+      },
+      {
+        "start": 32,
+        "end": 32
+      },
+      {
+        "start": 196,
+        "end": 196
+      },
+      {
+        "start": 201,
+        "end": 202
+      }
+    ],
+    "../electron/atom/browser/browser.h": [
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 105,
+        "end": 108
+      },
+      {
+        "start": 202,
+        "end": 205
+      },
+      {
+        "start": 251,
+        "end": 252
+      },
+      {
+        "start": 254,
+        "end": 254
+      }
+    ],
+    "../electron/atom/browser/browser_linux.cc": [
+      {
+        "start": 64,
+        "end": 64
+      }
+    ],
+    "../electron/atom/browser/browser_mac.mm": [
+      {
+        "start": 327,
+        "end": 327
+      },
+      {
+        "start": 328,
+        "end": 328
+      }
+    ],
+    "../electron/atom/browser/browser_observer.h": [],
+    "../electron/atom/browser/browser_process_impl.cc": [
+      {
+        "start": 264,
+        "end": 264
+      },
+      {
+        "start": 305,
+        "end": 309
+      }
+    ],
+    "../electron/atom/browser/browser_process_impl.h": [
+      {
+        "start": 89,
+        "end": 90
+      },
+      {
+        "start": 101,
+        "end": 102
+      }
+    ],
+    "../electron/atom/browser/browser_win.cc": [
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 88,
+        "end": 91
+      },
+      {
+        "start": 333,
+        "end": 333
+      }
+    ],
+    "../electron/atom/browser/child_web_contents_tracker.cc": [],
+    "../electron/atom/browser/child_web_contents_tracker.h": [],
+    "../electron/atom/browser/common_web_contents_delegate.cc": [
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 85,
+        "end": 85
+      },
+      {
+        "start": 129,
+        "end": 130
+      },
+      {
+        "start": 137,
+        "end": 138
+      },
+      {
+        "start": 145,
+        "end": 145
+      },
+      {
+        "start": 151,
+        "end": 151
+      },
+      {
+        "start": 215,
+        "end": 215
+      },
+      {
+        "start": 219,
+        "end": 220
+      },
+      {
+        "start": 222,
+        "end": 222
+      },
+      {
+        "start": 326,
+        "end": 327
+      },
+      {
+        "start": 332,
+        "end": 332
+      },
+      {
+        "start": 341,
+        "end": 341
+      },
+      {
+        "start": 475,
+        "end": 475
+      },
+      {
+        "start": 492,
+        "end": 492
+      }
+    ],
+    "../electron/atom/browser/common_web_contents_delegate.h": [
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 92,
+        "end": 95
+      },
+      {
+        "start": 103,
+        "end": 103
+      },
+      {
+        "start": 138,
+        "end": 138
+      }
+    ],
+    "../electron/atom/browser/common_web_contents_delegate_mac.mm": [
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 25,
+        "end": 25
+      },
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 31,
+        "end": 31
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 47,
+        "end": 53
+      }
+    ],
+    "../electron/atom/browser/common_web_contents_delegate_views.cc": [
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 33,
+        "end": 33
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 40,
+        "end": 41
+      }
+    ],
+    "../electron/atom/browser/cookie_change_notifier.cc": [],
+    "../electron/atom/browser/cookie_change_notifier.h": [],
+    "../electron/atom/browser/fake_location_provider.cc": [],
+    "../electron/atom/browser/fake_location_provider.h": [
+      {
+        "start": 9,
+        "end": 9
+      }
+    ],
+    "../electron/atom/browser/font_defaults.cc": [
+      {
+        "start": 1,
+        "end": 9
+      },
+      {
+        "start": 11,
+        "end": 106
+      },
+      {
+        "start": 108,
+        "end": 182
+      }
+    ],
+    "../electron/atom/browser/font_defaults.h": [
+      {
+        "start": 1,
+        "end": 18
+      }
+    ],
+    "../electron/atom/browser/io_thread.cc": [],
+    "../electron/atom/browser/io_thread.h": [],
+    "../electron/atom/browser/javascript_environment.cc": [
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 36,
+        "end": 37
+      },
+      {
+        "start": 39,
+        "end": 39
+      },
+      {
+        "start": 52,
+        "end": 53
+      }
+    ],
+    "../electron/atom/browser/javascript_environment.h": [
+      {
+        "start": 26,
+        "end": 26
+      }
+    ],
+    "../electron/atom/browser/lib/bluetooth_chooser.cc": [],
+    "../electron/atom/browser/lib/bluetooth_chooser.h": [],
+    "../electron/atom/browser/lib/power_observer.h": [],
+    "../electron/atom/browser/lib/power_observer_linux.cc": [
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 60,
+        "end": 61
+      }
+    ],
+    "../electron/atom/browser/lib/power_observer_linux.h": [
+      {
+        "start": 22,
+        "end": 22
+      }
+    ],
+    "../electron/atom/browser/loader/layered_resource_handler.cc": [],
+    "../electron/atom/browser/loader/layered_resource_handler.h": [],
+    "../electron/atom/browser/login_handler.cc": [],
+    "../electron/atom/browser/login_handler.h": [
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 27,
+        "end": 27
+      }
+    ],
+    "../electron/atom/browser/mac/atom_application.h": [],
+    "../electron/atom/browser/mac/atom_application.mm": [
+      {
+        "start": 183,
+        "end": 183
+      }
+    ],
+    "../electron/atom/browser/mac/atom_application_delegate.h": [],
+    "../electron/atom/browser/mac/atom_application_delegate.mm": [
+      {
+        "start": 101,
+        "end": 105
+      }
+    ],
+    "../electron/atom/browser/mac/dict_util.h": [],
+    "../electron/atom/browser/mac/dict_util.mm": [],
+    "../electron/atom/browser/mac/in_app_purchase.h": [],
+    "../electron/atom/browser/mac/in_app_purchase.mm": [],
+    "../electron/atom/browser/mac/in_app_purchase_observer.h": [
+      {
+        "start": 37,
+        "end": 40
+      }
+    ],
+    "../electron/atom/browser/mac/in_app_purchase_observer.mm": [
+      {
+        "start": 179,
+        "end": 182
+      }
+    ],
+    "../electron/atom/browser/mac/in_app_purchase_product.h": [
+      {
+        "start": 33,
+        "end": 36
+      }
+    ],
+    "../electron/atom/browser/mac/in_app_purchase_product.mm": [
+      {
+        "start": 164,
+        "end": 167
+      }
+    ],
+    "../electron/atom/browser/media/media_capture_devices_dispatcher.cc": [],
+    "../electron/atom/browser/media/media_capture_devices_dispatcher.h": [
+      {
+        "start": 74,
+        "end": 74
+      }
+    ],
+    "../electron/atom/browser/media/media_device_id_salt.cc": [],
+    "../electron/atom/browser/media/media_device_id_salt.h": [],
+    "../electron/atom/browser/media/media_stream_devices_controller.cc": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 31,
+        "end": 31
+      },
+      {
+        "start": 33,
+        "end": 33
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 150,
+        "end": 150
+      },
+      {
+        "start": 156,
+        "end": 156
+      },
+      {
+        "start": 191,
+        "end": 191
+      },
+      {
+        "start": 194,
+        "end": 194
+      }
+    ],
+    "../electron/atom/browser/media/media_stream_devices_controller.h": [
+      {
+        "start": 16,
+        "end": 16
+      }
+    ],
+    "../electron/atom/browser/microtasks_runner.cc": [],
+    "../electron/atom/browser/microtasks_runner.h": [],
+    "../electron/atom/browser/native_browser_view.cc": [],
+    "../electron/atom/browser/native_browser_view.h": [],
+    "../electron/atom/browser/native_browser_view_mac.h": [],
+    "../electron/atom/browser/native_browser_view_mac.mm": [
+      {
+        "start": 28,
+        "end": 29
+      },
+      {
+        "start": 52,
+        "end": 54
+      },
+      {
+        "start": 163,
+        "end": 164
+      },
+      {
+        "start": 187,
+        "end": 188
+      },
+      {
+        "start": 193,
+        "end": 194
+      },
+      {
+        "start": 203,
+        "end": 204
+      },
+      {
+        "start": 211,
+        "end": 213
+      }
+    ],
+    "../electron/atom/browser/native_browser_view_views.cc": [
+      {
+        "start": 20,
+        "end": 21
+      },
+      {
+        "start": 92,
+        "end": 93
+      }
+    ],
+    "../electron/atom/browser/native_browser_view_views.h": [
+      {
+        "start": 25,
+        "end": 25
+      }
+    ],
+    "../electron/atom/browser/native_window.cc": [
+      {
+        "start": 179,
+        "end": 182
+      },
+      {
+        "start": 580,
+        "end": 584
+      },
+      {
+        "start": 589,
+        "end": 590
+      },
+      {
+        "start": 591,
+        "end": 591
+      },
+      {
+        "start": 592,
+        "end": 592
+      },
+      {
+        "start": 593,
+        "end": 595
+      }
+    ],
+    "../electron/atom/browser/native_window.h": [
+      {
+        "start": 71,
+        "end": 71
+      },
+      {
+        "start": 365,
+        "end": 366
+      },
+      {
+        "start": 368,
+        "end": 370
+      },
+      {
+        "start": 376,
+        "end": 378
+      }
+    ],
+    "../electron/atom/browser/native_window_mac.h": [
+      {
+        "start": 139,
+        "end": 140
+      }
+    ],
+    "../electron/atom/browser/native_window_mac.mm": [
+      {
+        "start": 348,
+        "end": 349
+      },
+      {
+        "start": 389,
+        "end": 389
+      },
+      {
+        "start": 393,
+        "end": 393
+      },
+      {
+        "start": 490,
+        "end": 490
+      },
+      {
+        "start": 538,
+        "end": 541
+      },
+      {
+        "start": 567,
+        "end": 567
+      },
+      {
+        "start": 900,
+        "end": 900
+      },
+      {
+        "start": 1082,
+        "end": 1083
+      },
+      {
+        "start": 1101,
+        "end": 1102
+      },
+      {
+        "start": 1193,
+        "end": 1193
+      },
+      {
+        "start": 1199,
+        "end": 1199
+      },
+      {
+        "start": 1205,
+        "end": 1205
+      },
+      {
+        "start": 1211,
+        "end": 1211
+      },
+      {
+        "start": 1217,
+        "end": 1217
+      },
+      {
+        "start": 1223,
+        "end": 1223
+      },
+      {
+        "start": 1226,
+        "end": 1226
+      },
+      {
+        "start": 1227,
+        "end": 1228
+      },
+      {
+        "start": 1450,
+        "end": 1451
+      },
+      {
+        "start": 1461,
+        "end": 1463
+      }
+    ],
+    "../electron/atom/browser/native_window_observer.h": [],
+    "../electron/atom/browser/native_window_views.cc": [
+      {
+        "start": 113,
+        "end": 113
+      },
+      {
+        "start": 1236,
+        "end": 1243
+      }
+    ],
+    "../electron/atom/browser/native_window_views.h": [
+      {
+        "start": 161,
+        "end": 161
+      }
+    ],
+    "../electron/atom/browser/native_window_views_win.cc": [
+      {
+        "start": 171,
+        "end": 171
+      },
+      {
+        "start": 181,
+        "end": 181
+      },
+      {
+        "start": 370,
+        "end": 371
+      },
+      {
+        "start": 444,
+        "end": 444
+      }
+    ],
+    "../electron/atom/browser/net/about_protocol_handler.cc": [],
+    "../electron/atom/browser/net/about_protocol_handler.h": [],
+    "../electron/atom/browser/net/asar/asar_protocol_handler.cc": [],
+    "../electron/atom/browser/net/asar/asar_protocol_handler.h": [
+      {
+        "start": 21,
+        "end": 21
+      }
+    ],
+    "../electron/atom/browser/net/asar/url_request_asar_job.cc": [
+      {
+        "start": 36,
+        "end": 37
+      },
+      {
+        "start": 145,
+        "end": 146
+      },
+      {
+        "start": 165,
+        "end": 165
+      }
+    ],
+    "../electron/atom/browser/net/asar/url_request_asar_job.h": [
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 58,
+        "end": 60
+      },
+      {
+        "start": 92,
+        "end": 93
+      }
+    ],
+    "../electron/atom/browser/net/atom_cert_verifier.cc": [
+      {
+        "start": 25,
+        "end": 28
+      },
+      {
+        "start": 34,
+        "end": 35
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 134,
+        "end": 135
+      },
+      {
+        "start": 166,
+        "end": 166
+      },
+      {
+        "start": 173,
+        "end": 173
+      },
+      {
+        "start": 185,
+        "end": 185
+      }
+    ],
+    "../electron/atom/browser/net/atom_cert_verifier.h": [
+      {
+        "start": 24,
+        "end": 27
+      },
+      {
+        "start": 33,
+        "end": 33
+      },
+      {
+        "start": 36,
+        "end": 36
+      },
+      {
+        "start": 50,
+        "end": 50
+      }
+    ],
+    "../electron/atom/browser/net/atom_network_delegate.cc": [
+      {
+        "start": 207,
+        "end": 207
+      },
+      {
+        "start": 227,
+        "end": 228
+      },
+      {
+        "start": 231,
+        "end": 235
+      },
+      {
+        "start": 238,
+        "end": 240
+      },
+      {
+        "start": 273,
+        "end": 273
+      },
+      {
+        "start": 287,
+        "end": 288
+      },
+      {
+        "start": 293,
+        "end": 293
+      },
+      {
+        "start": 298,
+        "end": 299
+      },
+      {
+        "start": 313,
+        "end": 313
+      },
+      {
+        "start": 321,
+        "end": 321
+      },
+      {
+        "start": 347,
+        "end": 349
+      },
+      {
+        "start": 356,
+        "end": 356
+      },
+      {
+        "start": 387,
+        "end": 387
+      },
+      {
+        "start": 421,
+        "end": 421
+      },
+      {
+        "start": 456,
+        "end": 457
+      },
+      {
+        "start": 469,
+        "end": 469
+      },
+      {
+        "start": 484,
+        "end": 484
+      },
+      {
+        "start": 530,
+        "end": 530
+      }
+    ],
+    "../electron/atom/browser/net/atom_network_delegate.h": [
+      {
+        "start": 57,
+        "end": 60
+      },
+      {
+        "start": 66,
+        "end": 69
+      },
+      {
+        "start": 85,
+        "end": 85
+      },
+      {
+        "start": 88,
+        "end": 88
+      },
+      {
+        "start": 98,
+        "end": 98
+      },
+      {
+        "start": 109,
+        "end": 111
+      },
+      {
+        "start": 118,
+        "end": 118
+      },
+      {
+        "start": 130,
+        "end": 131
+      },
+      {
+        "start": 146,
+        "end": 146
+      },
+      {
+        "start": 155,
+        "end": 155
+      },
+      {
+        "start": 172,
+        "end": 172
+      }
+    ],
+    "../electron/atom/browser/net/atom_url_request.cc": [
+      {
+        "start": 110,
+        "end": 110
+      },
+      {
+        "start": 243,
+        "end": 243
+      },
+      {
+        "start": 250,
+        "end": 250
+      }
+    ],
+    "../electron/atom/browser/net/atom_url_request.h": [],
+    "../electron/atom/browser/net/atom_url_request_job_factory.cc": [],
+    "../electron/atom/browser/net/atom_url_request_job_factory.h": [
+      {
+        "start": 24,
+        "end": 24
+      }
+    ],
+    "../electron/atom/browser/net/cookie_details.h": [],
+    "../electron/atom/browser/net/http_protocol_handler.cc": [],
+    "../electron/atom/browser/net/http_protocol_handler.h": [],
+    "../electron/atom/browser/net/js_asker.cc": [
+      {
+        "start": 10,
+        "end": 10
+      }
+    ],
+    "../electron/atom/browser/net/js_asker.h": [],
+    "../electron/atom/browser/net/network_context_service.cc": [],
+    "../electron/atom/browser/net/network_context_service.h": [],
+    "../electron/atom/browser/net/network_context_service_factory.cc": [],
+    "../electron/atom/browser/net/network_context_service_factory.h": [],
+    "../electron/atom/browser/net/require_ct_delegate.cc": [],
+    "../electron/atom/browser/net/require_ct_delegate.h": [],
+    "../electron/atom/browser/net/resolve_proxy_helper.cc": [],
+    "../electron/atom/browser/net/resolve_proxy_helper.h": [],
+    "../electron/atom/browser/net/system_network_context_manager.cc": [],
+    "../electron/atom/browser/net/system_network_context_manager.h": [],
+    "../electron/atom/browser/net/url_request_about_job.cc": [],
+    "../electron/atom/browser/net/url_request_about_job.h": [],
+    "../electron/atom/browser/net/url_request_async_asar_job.cc": [],
+    "../electron/atom/browser/net/url_request_async_asar_job.h": [],
+    "../electron/atom/browser/net/url_request_buffer_job.cc": [
+      {
+        "start": 65,
+        "end": 66
+      }
+    ],
+    "../electron/atom/browser/net/url_request_buffer_job.h": [
+      {
+        "start": 21,
+        "end": 21
+      }
+    ],
+    "../electron/atom/browser/net/url_request_context_getter.cc": [
+      {
+        "start": 127,
+        "end": 127
+      },
+      {
+        "start": 224,
+        "end": 224
+      },
+      {
+        "start": 268,
+        "end": 270
+      },
+      {
+        "start": 282,
+        "end": 285
+      }
+    ],
+    "../electron/atom/browser/net/url_request_context_getter.h": [
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 46,
+        "end": 47
+      },
+      {
+        "start": 104,
+        "end": 104
+      }
+    ],
+    "../electron/atom/browser/net/url_request_fetch_job.cc": [],
+    "../electron/atom/browser/net/url_request_fetch_job.h": [
+      {
+        "start": 26,
+        "end": 26
+      }
+    ],
+    "../electron/atom/browser/net/url_request_stream_job.cc": [
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 142,
+        "end": 142
+      },
+      {
+        "start": 177,
+        "end": 177
+      }
+    ],
+    "../electron/atom/browser/net/url_request_stream_job.h": [
+      {
+        "start": 25,
+        "end": 25
+      }
+    ],
+    "../electron/atom/browser/net/url_request_string_job.cc": [
+      {
+        "start": 53,
+        "end": 54
+      }
+    ],
+    "../electron/atom/browser/net/url_request_string_job.h": [
+      {
+        "start": 19,
+        "end": 19
+      }
+    ],
+    "../electron/atom/browser/node_debugger.cc": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 33,
+        "end": 33
+      },
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 37,
+        "end": 38
+      },
+      {
+        "start": 40,
+        "end": 41
+      },
+      {
+        "start": 43,
+        "end": 44
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 61,
+        "end": 61
+      }
+    ],
+    "../electron/atom/browser/node_debugger.h": [],
+    "../electron/atom/browser/notifications/linux/libnotify_notification.cc": [
+      {
+        "start": 31,
+        "end": 32
+      }
+    ],
+    "../electron/atom/browser/notifications/linux/libnotify_notification.h": [
+      {
+        "start": 21,
+        "end": 21
+      }
+    ],
+    "../electron/atom/browser/notifications/linux/notification_presenter_linux.cc": [],
+    "../electron/atom/browser/notifications/linux/notification_presenter_linux.h": [
+      {
+        "start": 16,
+        "end": 16
+      }
+    ],
+    "../electron/atom/browser/notifications/mac/cocoa_notification.h": [
+      {
+        "start": 23,
+        "end": 23
+      }
+    ],
+    "../electron/atom/browser/notifications/mac/cocoa_notification.mm": [],
+    "../electron/atom/browser/notifications/mac/notification_center_delegate.h": [],
+    "../electron/atom/browser/notifications/mac/notification_center_delegate.mm": [
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 53,
+        "end": 53
+      }
+    ],
+    "../electron/atom/browser/notifications/mac/notification_presenter_mac.h": [
+      {
+        "start": 22,
+        "end": 22
+      }
+    ],
+    "../electron/atom/browser/notifications/mac/notification_presenter_mac.mm": [
+      {
+        "start": 20,
+        "end": 20
+      }
+    ],
+    "../electron/atom/browser/notifications/notification.cc": [
+      {
+        "start": 12,
+        "end": 14
+      }
+    ],
+    "../electron/atom/browser/notifications/notification.h": [
+      {
+        "start": 39,
+        "end": 41
+      }
+    ],
+    "../electron/atom/browser/notifications/notification_delegate.h": [],
+    "../electron/atom/browser/notifications/notification_presenter.cc": [],
+    "../electron/atom/browser/notifications/notification_presenter.h": [],
+    "../electron/atom/browser/notifications/platform_notification_service.cc": [
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 58,
+        "end": 58
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 81,
+        "end": 81
+      },
+      {
+        "start": 87,
+        "end": 87
+      },
+      {
+        "start": 95,
+        "end": 98
+      },
+      {
+        "start": 127,
+        "end": 132
+      }
+    ],
+    "../electron/atom/browser/notifications/platform_notification_service.h": [
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 47,
+        "end": 48
+      }
+    ],
+    "../electron/atom/browser/notifications/win/notification_presenter_win.cc": [],
+    "../electron/atom/browser/notifications/win/notification_presenter_win.h": [
+      {
+        "start": 38,
+        "end": 38
+      }
+    ],
+    "../electron/atom/browser/notifications/win/notification_presenter_win7.cc": [
+      {
+        "start": 20,
+        "end": 21
+      },
+      {
+        "start": 31,
+        "end": 32
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 49,
+        "end": 49
+      }
+    ],
+    "../electron/atom/browser/notifications/win/notification_presenter_win7.h": [],
+    "../electron/atom/browser/notifications/win/win32_desktop_notifications/common.h": [
+      {
+        "start": 45,
+        "end": 45
+      }
+    ],
+    "../electron/atom/browser/notifications/win/win32_desktop_notifications/desktop_notification_controller.cc": [
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 102,
+        "end": 102
+      },
+      {
+        "start": 113,
+        "end": 113
+      },
+      {
+        "start": 201,
+        "end": 201
+      },
+      {
+        "start": 207,
+        "end": 207
+      },
+      {
+        "start": 264,
+        "end": 264
+      },
+      {
+        "start": 307,
+        "end": 307
+      },
+      {
+        "start": 309,
+        "end": 309
+      },
+      {
+        "start": 322,
+        "end": 323
+      },
+      {
+        "start": 331,
+        "end": 331
+      },
+      {
+        "start": 345,
+        "end": 345
+      },
+      {
+        "start": 375,
+        "end": 376
+      },
+      {
+        "start": 378,
+        "end": 378
+      },
+      {
+        "start": 385,
+        "end": 386
+      },
+      {
+        "start": 417,
+        "end": 417
+      },
+      {
+        "start": 419,
+        "end": 419
+      },
+      {
+        "start": 429,
+        "end": 429
+      },
+      {
+        "start": 434,
+        "end": 434
+      }
+    ],
+    "../electron/atom/browser/notifications/win/win32_desktop_notifications/desktop_notification_controller.h": [
+      {
+        "start": 85,
+        "end": 85
+      },
+      {
+        "start": 96,
+        "end": 96
+      },
+      {
+        "start": 98,
+        "end": 99
+      }
+    ],
+    "../electron/atom/browser/notifications/win/win32_desktop_notifications/toast.cc": [
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 101,
+        "end": 101
+      },
+      {
+        "start": 135,
+        "end": 135
+      },
+      {
+        "start": 140,
+        "end": 140
+      },
+      {
+        "start": 166,
+        "end": 168
+      },
+      {
+        "start": 199,
+        "end": 201
+      },
+      {
+        "start": 251,
+        "end": 252
+      },
+      {
+        "start": 254,
+        "end": 254
+      },
+      {
+        "start": 280,
+        "end": 280
+      },
+      {
+        "start": 293,
+        "end": 293
+      },
+      {
+        "start": 313,
+        "end": 313
+      },
+      {
+        "start": 327,
+        "end": 327
+      },
+      {
+        "start": 415,
+        "end": 415
+      },
+      {
+        "start": 426,
+        "end": 427
+      },
+      {
+        "start": 578,
+        "end": 578
+      },
+      {
+        "start": 619,
+        "end": 619
+      },
+      {
+        "start": 791,
+        "end": 791
+      },
+      {
+        "start": 798,
+        "end": 798
+      },
+      {
+        "start": 805,
+        "end": 805
+      }
+    ],
+    "../electron/atom/browser/notifications/win/win32_desktop_notifications/toast.h": [
+      {
+        "start": 77,
+        "end": 77
+      }
+    ],
+    "../electron/atom/browser/notifications/win/win32_desktop_notifications/toast_uia.cc": [],
+    "../electron/atom/browser/notifications/win/win32_desktop_notifications/toast_uia.h": [],
+    "../electron/atom/browser/notifications/win/win32_notification.cc": [
+      {
+        "start": 5,
+        "end": 5
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 21,
+        "end": 21
+      }
+    ],
+    "../electron/atom/browser/notifications/win/win32_notification.h": [],
+    "../electron/atom/browser/notifications/win/windows_toast_notification.cc": [
+      {
+        "start": 91,
+        "end": 91
+      }
+    ],
+    "../electron/atom/browser/notifications/win/windows_toast_notification.h": [
+      {
+        "start": 50,
+        "end": 50
+      },
+      {
+        "start": 111,
+        "end": 111
+      }
+    ],
+    "../electron/atom/browser/osr/osr_output_device.cc": [],
+    "../electron/atom/browser/osr/osr_output_device.h": [
+      {
+        "start": 22,
+        "end": 22
+      }
+    ],
+    "../electron/atom/browser/osr/osr_render_widget_host_view.cc": [
+      {
+        "start": 708,
+        "end": 708
+      },
+      {
+        "start": 712,
+        "end": 712
+      },
+      {
+        "start": 966,
+        "end": 966
+      },
+      {
+        "start": 1028,
+        "end": 1028
+      },
+      {
+        "start": 1066,
+        "end": 1066
+      },
+      {
+        "start": 1176,
+        "end": 1176
+      }
+    ],
+    "../electron/atom/browser/osr/osr_render_widget_host_view.h": [
+      {
+        "start": 207,
+        "end": 207
+      },
+      {
+        "start": 211,
+        "end": 211
+      }
+    ],
+    "../electron/atom/browser/osr/osr_render_widget_host_view_mac.mm": [],
+    "../electron/atom/browser/osr/osr_view_proxy.cc": [],
+    "../electron/atom/browser/osr/osr_view_proxy.h": [],
+    "../electron/atom/browser/osr/osr_web_contents_view.cc": [],
+    "../electron/atom/browser/osr/osr_web_contents_view.h": [
+      {
+        "start": 31,
+        "end": 31
+      }
+    ],
+    "../electron/atom/browser/osr/osr_web_contents_view_mac.mm": [],
+    "../electron/atom/browser/pref_store_delegate.cc": [],
+    "../electron/atom/browser/pref_store_delegate.h": [],
+    "../electron/atom/browser/printing/print_preview_message_handler.cc": [],
+    "../electron/atom/browser/printing/print_preview_message_handler.h": [],
+    "../electron/atom/browser/relauncher.cc": [
+      {
+        "start": 45,
+        "end": 45
+      }
+    ],
+    "../electron/atom/browser/relauncher.h": [],
+    "../electron/atom/browser/relauncher_linux.cc": [],
+    "../electron/atom/browser/relauncher_mac.cc": [],
+    "../electron/atom/browser/relauncher_win.cc": [],
+    "../electron/atom/browser/render_process_preferences.cc": [],
+    "../electron/atom/browser/render_process_preferences.h": [
+      {
+        "start": 30,
+        "end": 30
+      }
+    ],
+    "../electron/atom/browser/resources/mac/Info.plist": [],
+    "../electron/atom/browser/resources/mac/electron.icns": [],
+    "../electron/atom/browser/resources/win/atom.ico": [],
+    "../electron/atom/browser/resources/win/atom.rc": [],
+    "../electron/atom/browser/resources/win/disable_window_filtering.manifest": [
+      {
+        "start": 1,
+        "end": 9
+      }
+    ],
+    "../electron/atom/browser/resources/win/dpi_aware.manifest": [
+      {
+        "start": 1,
+        "end": 9
+      }
+    ],
+    "../electron/atom/browser/resources/win/resource.h": [],
+    "../electron/atom/browser/session_preferences.cc": [],
+    "../electron/atom/browser/session_preferences.h": [],
+    "../electron/atom/browser/special_storage_policy.cc": [
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 42,
+        "end": 42
+      }
+    ],
+    "../electron/atom/browser/special_storage_policy.h": [
+      {
+        "start": 23,
+        "end": 23
+      }
+    ],
+    "../electron/atom/browser/ui/accelerator_util.cc": [
+      {
+        "start": 76,
+        "end": 76
+      }
+    ],
+    "../electron/atom/browser/ui/accelerator_util.h": [],
+    "../electron/atom/browser/ui/atom_menu_model.cc": [
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 15,
+        "end": 16
+      }
+    ],
+    "../electron/atom/browser/ui/atom_menu_model.h": [
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 51,
+        "end": 51
+      }
+    ],
+    "../electron/atom/browser/ui/autofill_popup.cc": [],
+    "../electron/atom/browser/ui/autofill_popup.h": [
+      {
+        "start": 24,
+        "end": 24
+      }
+    ],
+    "../electron/atom/browser/ui/certificate_trust.h": [],
+    "../electron/atom/browser/ui/certificate_trust_mac.mm": [
+      {
+        "start": 71,
+        "end": 71
+      },
+      {
+        "start": 92,
+        "end": 92
+      },
+      {
+        "start": 98,
+        "end": 100
+      }
+    ],
+    "../electron/atom/browser/ui/certificate_trust_win.cc": [
+      {
+        "start": 22,
+        "end": 23
+      },
+      {
+        "start": 34,
+        "end": 34
+      }
+    ],
+    "../electron/atom/browser/ui/cocoa/NSColor+Hex.h": [],
+    "../electron/atom/browser/ui/cocoa/NSColor+Hex.mm": [],
+    "../electron/atom/browser/ui/cocoa/NSString+ANSI.h": [],
+    "../electron/atom/browser/ui/cocoa/NSString+ANSI.mm": [],
+    "../electron/atom/browser/ui/cocoa/atom_bundle_mover.h": [],
+    "../electron/atom/browser/ui/cocoa/atom_bundle_mover.mm": [],
+    "../electron/atom/browser/ui/cocoa/atom_inspectable_web_contents_view.h": [],
+    "../electron/atom/browser/ui/cocoa/atom_inspectable_web_contents_view.mm": [
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 82,
+        "end": 82
+      },
+      {
+        "start": 137,
+        "end": 137
+      },
+      {
+        "start": 205,
+        "end": 205
+      },
+      {
+        "start": 206,
+        "end": 206
+      },
+      {
+        "start": 218,
+        "end": 218
+      }
+    ],
+    "../electron/atom/browser/ui/cocoa/atom_menu_controller.h": [],
+    "../electron/atom/browser/ui/cocoa/atom_menu_controller.mm": [
+      {
+        "start": 287,
+        "end": 292
+      }
+    ],
+    "../electron/atom/browser/ui/cocoa/atom_native_widget_mac.h": [
+      {
+        "start": 24,
+        "end": 24
+      }
+    ],
+    "../electron/atom/browser/ui/cocoa/atom_native_widget_mac.mm": [
+      {
+        "start": 22,
+        "end": 22
+      }
+    ],
+    "../electron/atom/browser/ui/cocoa/atom_ns_window.h": [],
+    "../electron/atom/browser/ui/cocoa/atom_ns_window.mm": [],
+    "../electron/atom/browser/ui/cocoa/atom_ns_window_delegate.h": [],
+    "../electron/atom/browser/ui/cocoa/atom_ns_window_delegate.mm": [
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 25,
+        "end": 25
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 31,
+        "end": 31
+      },
+      {
+        "start": 143,
+        "end": 143
+      },
+      {
+        "start": 157,
+        "end": 157
+      },
+      {
+        "start": 246,
+        "end": 246
+      },
+      {
+        "start": 248,
+        "end": 248
+      }
+    ],
+    "../electron/atom/browser/ui/cocoa/atom_preview_item.h": [],
+    "../electron/atom/browser/ui/cocoa/atom_preview_item.mm": [],
+    "../electron/atom/browser/ui/cocoa/atom_touch_bar.h": [
+      {
+        "start": 34,
+        "end": 34
+      },
+      {
+        "start": 57,
+        "end": 58
+      },
+      {
+        "start": 61,
+        "end": 61
+      }
+    ],
+    "../electron/atom/browser/ui/cocoa/atom_touch_bar.mm": [
+      {
+        "start": 65,
+        "end": 80
+      },
+      {
+        "start": 82,
+        "end": 82
+      },
+      {
+        "start": 85,
+        "end": 88
+      },
+      {
+        "start": 91,
+        "end": 91
+      },
+      {
+        "start": 134,
+        "end": 134
+      }
+    ],
+    "../electron/atom/browser/ui/cocoa/delayed_native_view_host.cc": [],
+    "../electron/atom/browser/ui/cocoa/delayed_native_view_host.h": [],
+    "../electron/atom/browser/ui/cocoa/event_dispatching_window.h": [],
+    "../electron/atom/browser/ui/cocoa/event_dispatching_window.mm": [],
+    "../electron/atom/browser/ui/cocoa/root_view_mac.h": [],
+    "../electron/atom/browser/ui/cocoa/root_view_mac.mm": [],
+    "../electron/atom/browser/ui/cocoa/touch_bar_forward_declarations.h": [
+      {
+        "start": 262,
+        "end": 262
+      }
+    ],
+    "../electron/atom/browser/ui/cocoa/views_delegate_mac.h": [],
+    "../electron/atom/browser/ui/cocoa/views_delegate_mac.mm": [],
+    "../electron/atom/browser/ui/devtools_manager_delegate.cc": [],
+    "../electron/atom/browser/ui/devtools_manager_delegate.h": [
+      {
+        "start": 22,
+        "end": 22
+      }
+    ],
+    "../electron/atom/browser/ui/devtools_ui.cc": [],
+    "../electron/atom/browser/ui/devtools_ui.h": [],
+    "../electron/atom/browser/ui/drag_util.h": [],
+    "../electron/atom/browser/ui/drag_util_mac.mm": [
+      {
+        "start": 36,
+        "end": 37
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 50,
+        "end": 56
+      }
+    ],
+    "../electron/atom/browser/ui/drag_util_views.cc": [],
+    "../electron/atom/browser/ui/file_dialog.h": [
+      {
+        "start": 51,
+        "end": 52
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 54,
+        "end": 54
+      }
+    ],
+    "../electron/atom/browser/ui/file_dialog_gtk.cc": [
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 22,
+        "end": 23
+      }
+    ],
+    "../electron/atom/browser/ui/file_dialog_mac.mm": [
+      {
+        "start": 30,
+        "end": 32
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 78,
+        "end": 79
+      },
+      {
+        "start": 213,
+        "end": 214
+      },
+      {
+        "start": 338,
+        "end": 339
+      },
+      {
+        "start": 409,
+        "end": 410
+      }
+    ],
+    "../electron/atom/browser/ui/file_dialog_win.cc": [
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 29,
+        "end": 30
+      }
+    ],
+    "../electron/atom/browser/ui/inspectable_web_contents.cc": [],
+    "../electron/atom/browser/ui/inspectable_web_contents.h": [],
+    "../electron/atom/browser/ui/inspectable_web_contents_delegate.h": [],
+    "../electron/atom/browser/ui/inspectable_web_contents_impl.cc": [
+      {
+        "start": 355,
+        "end": 356
+      },
+      {
+        "start": 808,
+        "end": 808
+      },
+      {
+        "start": 811,
+        "end": 811
+      },
+      {
+        "start": 812,
+        "end": 812
+      },
+      {
+        "start": 824,
+        "end": 824
+      },
+      {
+        "start": 834,
+        "end": 834
+      },
+      {
+        "start": 843,
+        "end": 843
+      }
+    ],
+    "../electron/atom/browser/ui/inspectable_web_contents_impl.h": [
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 185,
+        "end": 185
+      }
+    ],
+    "../electron/atom/browser/ui/inspectable_web_contents_view.h": [
+      {
+        "start": 35,
+        "end": 35
+      }
+    ],
+    "../electron/atom/browser/ui/inspectable_web_contents_view_delegate.cc": [],
+    "../electron/atom/browser/ui/inspectable_web_contents_view_delegate.h": [],
+    "../electron/atom/browser/ui/inspectable_web_contents_view_mac.h": [
+      {
+        "start": 23,
+        "end": 23
+      }
+    ],
+    "../electron/atom/browser/ui/inspectable_web_contents_view_mac.mm": [],
+    "../electron/atom/browser/ui/message_box.h": [],
+    "../electron/atom/browser/ui/message_box_gtk.cc": [
+      {
+        "start": 104,
+        "end": 104
+      }
+    ],
+    "../electron/atom/browser/ui/message_box_mac.mm": [
+      {
+        "start": 114,
+        "end": 114
+      },
+      {
+        "start": 148,
+        "end": 150
+      }
+    ],
+    "../electron/atom/browser/ui/message_box_win.cc": [
+      {
+        "start": 132,
+        "end": 133
+      }
+    ],
+    "../electron/atom/browser/ui/tray_icon.cc": [],
+    "../electron/atom/browser/ui/tray_icon.h": [],
+    "../electron/atom/browser/ui/tray_icon_cocoa.h": [
+      {
+        "start": 23,
+        "end": 23
+      }
+    ],
+    "../electron/atom/browser/ui/tray_icon_cocoa.mm": [],
+    "../electron/atom/browser/ui/tray_icon_gtk.cc": [
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 27,
+        "end": 28
+      }
+    ],
+    "../electron/atom/browser/ui/tray_icon_gtk.h": [
+      {
+        "start": 23,
+        "end": 23
+      }
+    ],
+    "../electron/atom/browser/ui/tray_icon_observer.h": [],
+    "../electron/atom/browser/ui/tray_icon_win.cc": [],
+    "../electron/atom/browser/ui/views/atom_views_delegate.cc": [
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 27,
+        "end": 27
+      }
+    ],
+    "../electron/atom/browser/ui/views/atom_views_delegate.h": [
+      {
+        "start": 18,
+        "end": 18
+      }
+    ],
+    "../electron/atom/browser/ui/views/autofill_popup_view.cc": [
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 26,
+        "end": 28
+      },
+      {
+        "start": 39,
+        "end": 39
+      },
+      {
+        "start": 94,
+        "end": 94
+      },
+      {
+        "start": 102,
+        "end": 102
+      },
+      {
+        "start": 133,
+        "end": 135
+      },
+      {
+        "start": 139,
+        "end": 141
+      },
+      {
+        "start": 211,
+        "end": 211
+      }
+    ],
+    "../electron/atom/browser/ui/views/autofill_popup_view.h": [
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 74,
+        "end": 75
+      },
+      {
+        "start": 78,
+        "end": 78
+      }
+    ],
+    "../electron/atom/browser/ui/views/frameless_view.cc": [
+      {
+        "start": 22,
+        "end": 24
+      },
+      {
+        "start": 85,
+        "end": 85
+      }
+    ],
+    "../electron/atom/browser/ui/views/frameless_view.h": [
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 35,
+        "end": 35
+      }
+    ],
+    "../electron/atom/browser/ui/views/global_menu_bar_x11.cc": [
+      {
+        "start": 202,
+        "end": 204
+      }
+    ],
+    "../electron/atom/browser/ui/views/global_menu_bar_x11.h": [],
+    "../electron/atom/browser/ui/views/inspectable_web_contents_view_views.cc": [
+      {
+        "start": 37,
+        "end": 37
+      }
+    ],
+    "../electron/atom/browser/ui/views/inspectable_web_contents_view_views.h": [
+      {
+        "start": 30,
+        "end": 30
+      }
+    ],
+    "../electron/atom/browser/ui/views/menu_bar.cc": [
+      {
+        "start": 36,
+        "end": 37
+      },
+      {
+        "start": 61,
+        "end": 62
+      },
+      {
+        "start": 93,
+        "end": 93
+      },
+      {
+        "start": 317,
+        "end": 317
+      },
+      {
+        "start": 335,
+        "end": 335
+      },
+      {
+        "start": 344,
+        "end": 344
+      }
+    ],
+    "../electron/atom/browser/ui/views/menu_bar.h": [
+      {
+        "start": 42,
+        "end": 43
+      },
+      {
+        "start": 45,
+        "end": 45
+      }
+    ],
+    "../electron/atom/browser/ui/views/menu_delegate.cc": [],
+    "../electron/atom/browser/ui/views/menu_delegate.h": [
+      {
+        "start": 25,
+        "end": 25
+      }
+    ],
+    "../electron/atom/browser/ui/views/menu_model_adapter.cc": [],
+    "../electron/atom/browser/ui/views/menu_model_adapter.h": [
+      {
+        "start": 16,
+        "end": 16
+      }
+    ],
+    "../electron/atom/browser/ui/views/native_frame_view.cc": [
+      {
+        "start": 11,
+        "end": 11
+      }
+    ],
+    "../electron/atom/browser/ui/views/native_frame_view.h": [
+      {
+        "start": 18,
+        "end": 18
+      }
+    ],
+    "../electron/atom/browser/ui/views/root_view.cc": [],
+    "../electron/atom/browser/ui/views/root_view.h": [],
+    "../electron/atom/browser/ui/views/submenu_button.cc": [
+      {
+        "start": 30,
+        "end": 30
+      }
+    ],
+    "../electron/atom/browser/ui/views/submenu_button.h": [
+      {
+        "start": 22,
+        "end": 22
+      }
+    ],
+    "../electron/atom/browser/ui/views/win_frame_view.cc": [
+      {
+        "start": 13,
+        "end": 13
+      }
+    ],
+    "../electron/atom/browser/ui/views/win_frame_view.h": [
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 16,
+        "end": 16
+      }
+    ],
+    "../electron/atom/browser/ui/webui/pdf_viewer_handler.cc": [],
+    "../electron/atom/browser/ui/webui/pdf_viewer_handler.h": [],
+    "../electron/atom/browser/ui/webui/pdf_viewer_ui.cc": [],
+    "../electron/atom/browser/ui/webui/pdf_viewer_ui.h": [],
+    "../electron/atom/browser/ui/win/atom_desktop_native_widget_aura.cc": [],
+    "../electron/atom/browser/ui/win/atom_desktop_native_widget_aura.h": [],
+    "../electron/atom/browser/ui/win/atom_desktop_window_tree_host_win.cc": [],
+    "../electron/atom/browser/ui/win/atom_desktop_window_tree_host_win.h": [],
+    "../electron/atom/browser/ui/win/jump_list.cc": [
+      {
+        "start": 146,
+        "end": 152
+      },
+      {
+        "start": 157,
+        "end": 158
+      },
+      {
+        "start": 277,
+        "end": 277
+      },
+      {
+        "start": 279,
+        "end": 279
+      }
+    ],
+    "../electron/atom/browser/ui/win/jump_list.h": [
+      {
+        "start": 54,
+        "end": 57
+      },
+      {
+        "start": 77,
+        "end": 80
+      },
+      {
+        "start": 91,
+        "end": 91
+      }
+    ],
+    "../electron/atom/browser/ui/win/message_handler_delegate.cc": [],
+    "../electron/atom/browser/ui/win/message_handler_delegate.h": [],
+    "../electron/atom/browser/ui/win/notify_icon.cc": [],
+    "../electron/atom/browser/ui/win/notify_icon.h": [
+      {
+        "start": 38,
+        "end": 38
+      }
+    ],
+    "../electron/atom/browser/ui/win/notify_icon_host.cc": [],
+    "../electron/atom/browser/ui/win/notify_icon_host.h": [],
+    "../electron/atom/browser/ui/win/taskbar_host.cc": [
+      {
+        "start": 53,
+        "end": 57
+      }
+    ],
+    "../electron/atom/browser/ui/win/taskbar_host.h": [
+      {
+        "start": 29,
+        "end": 32
+      }
+    ],
+    "../electron/atom/browser/ui/x/event_disabler.cc": [],
+    "../electron/atom/browser/ui/x/event_disabler.h": [],
+    "../electron/atom/browser/ui/x/window_state_watcher.cc": [],
+    "../electron/atom/browser/ui/x/window_state_watcher.h": [
+      {
+        "start": 17,
+        "end": 17
+      }
+    ],
+    "../electron/atom/browser/ui/x/x_window_utils.cc": [],
+    "../electron/atom/browser/ui/x/x_window_utils.h": [],
+    "../electron/atom/browser/unresponsive_suppressor.cc": [],
+    "../electron/atom/browser/unresponsive_suppressor.h": [],
+    "../electron/atom/browser/web_contents_permission_helper.cc": [
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 72,
+        "end": 73
+      },
+      {
+        "start": 74,
+        "end": 74
+      },
+      {
+        "start": 78,
+        "end": 78
+      },
+      {
+        "start": 86,
+        "end": 86
+      },
+      {
+        "start": 101,
+        "end": 103
+      },
+      {
+        "start": 119,
+        "end": 120
+      }
+    ],
+    "../electron/atom/browser/web_contents_permission_helper.h": [
+      {
+        "start": 29,
+        "end": 30
+      }
+    ],
+    "../electron/atom/browser/web_contents_preferences.cc": [
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 76,
+        "end": 95
+      },
+      {
+        "start": 268,
+        "end": 268
+      },
+      {
+        "start": 270,
+        "end": 270
+      },
+      {
+        "start": 271,
+        "end": 271
+      },
+      {
+        "start": 272,
+        "end": 273
+      },
+      {
+        "start": 360,
+        "end": 360
+      },
+      {
+        "start": 392,
+        "end": 395
+      }
+    ],
+    "../electron/atom/browser/web_contents_preferences.h": [],
+    "../electron/atom/browser/web_contents_zoom_controller.cc": [],
+    "../electron/atom/browser/web_contents_zoom_controller.h": [],
+    "../electron/atom/browser/web_dialog_helper.cc": [
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 94,
+        "end": 94
+      },
+      {
+        "start": 122,
+        "end": 122
+      },
+      {
+        "start": 245,
+        "end": 245
+      },
+      {
+        "start": 282,
+        "end": 282
+      }
+    ],
+    "../electron/atom/browser/web_dialog_helper.h": [],
+    "../electron/atom/browser/web_view_guest_delegate.cc": [
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 111,
+        "end": 114
+      },
+      {
+        "start": 115,
+        "end": 115
+      },
+      {
+        "start": 116,
+        "end": 118
+      },
+      {
+        "start": 120,
+        "end": 120
+      }
+    ],
+    "../electron/atom/browser/web_view_guest_delegate.h": [],
+    "../electron/atom/browser/web_view_manager.cc": [
+      {
+        "start": 77,
+        "end": 77
+      },
+      {
+        "start": 79,
+        "end": 79
+      }
+    ],
+    "../electron/atom/browser/web_view_manager.h": [],
+    "../electron/atom/browser/win/scoped_hstring.cc": [],
+    "../electron/atom/browser/win/scoped_hstring.h": [],
+    "../electron/atom/browser/window_list.cc": [
+      {
+        "start": 87,
+        "end": 87
+      },
+      {
+        "start": 95,
+        "end": 95
+      }
+    ],
+    "../electron/atom/browser/window_list.h": [],
+    "../electron/atom/browser/window_list_observer.h": [],
+    "../electron/atom/browser/zoom_level_delegate.cc": [],
+    "../electron/atom/browser/zoom_level_delegate.h": [],
+    "../electron/atom/common/api/BUILD.gn": [
+      {
+        "start": 1,
+        "end": 11
+      }
+    ],
+    "../electron/atom/common/api/api.mojom": [
+      {
+        "start": 1,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 23
+      },
+      {
+        "start": 24,
+        "end": 26
+      },
+      {
+        "start": 27,
+        "end": 33
+      },
+      {
+        "start": 34,
+        "end": 46
+      },
+      {
+        "start": 47,
+        "end": 47
+      }
+    ],
+    "../electron/atom/common/api/api_messages.h": [],
+    "../electron/atom/common/api/atom_api_asar.cc": [
+      {
+        "start": 41,
+        "end": 41
+      }
+    ],
+    "../electron/atom/common/api/atom_api_clipboard.cc": [
+      {
+        "start": 70,
+        "end": 70
+      },
+      {
+        "start": 72,
+        "end": 72
+      }
+    ],
+    "../electron/atom/common/api/atom_api_clipboard.h": [],
+    "../electron/atom/common/api/atom_api_clipboard_mac.mm": [],
+    "../electron/atom/common/api/atom_api_command_line.cc": [],
+    "../electron/atom/common/api/atom_api_crash_reporter.cc": [],
+    "../electron/atom/common/api/atom_api_key_weak_map.h": [],
+    "../electron/atom/common/api/atom_api_native_image.cc": [
+      {
+        "start": 272,
+        "end": 272
+      },
+      {
+        "start": 279,
+        "end": 279
+      }
+    ],
+    "../electron/atom/common/api/atom_api_native_image.h": [],
+    "../electron/atom/common/api/atom_api_native_image_mac.mm": [
+      {
+        "start": 55,
+        "end": 55
+      }
+    ],
+    "../electron/atom/common/api/atom_api_shell.cc": [],
+    "../electron/atom/common/api/atom_api_v8_util.cc": [],
+    "../electron/atom/common/api/constructor.h": [
+      {
+        "start": 28,
+        "end": 28
+      }
+    ],
+    "../electron/atom/common/api/electron_bindings.cc": [
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 98,
+        "end": 98
+      },
+      {
+        "start": 192,
+        "end": 192
+      }
+    ],
+    "../electron/atom/common/api/electron_bindings.h": [
+      {
+        "start": 18,
+        "end": 18
+      }
+    ],
+    "../electron/atom/common/api/event_emitter_caller.cc": [],
+    "../electron/atom/common/api/event_emitter_caller.h": [],
+    "../electron/atom/common/api/features.cc": [],
+    "../electron/atom/common/api/locker.cc": [],
+    "../electron/atom/common/api/locker.h": [],
+    "../electron/atom/common/api/object_life_monitor.cc": [],
+    "../electron/atom/common/api/object_life_monitor.h": [],
+    "../electron/atom/common/api/remote_callback_freer.cc": [
+      {
+        "start": 11,
+        "end": 12
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 45,
+        "end": 49
+      }
+    ],
+    "../electron/atom/common/api/remote_callback_freer.h": [],
+    "../electron/atom/common/api/remote_object_freer.cc": [
+      {
+        "start": 11,
+        "end": 12
+      },
+      {
+        "start": 65,
+        "end": 69
+      }
+    ],
+    "../electron/atom/common/api/remote_object_freer.h": [],
+    "../electron/atom/common/application_info.cc": [],
+    "../electron/atom/common/application_info.h": [
+      {
+        "start": 10,
+        "end": 10
+      }
+    ],
+    "../electron/atom/common/application_info_linux.cc": [],
+    "../electron/atom/common/application_info_mac.mm": [],
+    "../electron/atom/common/application_info_win.cc": [
+      {
+        "start": 31,
+        "end": 31
+      },
+      {
+        "start": 38,
+        "end": 38
+      }
+    ],
+    "../electron/atom/common/asar/archive.cc": [],
+    "../electron/atom/common/asar/archive.h": [],
+    "../electron/atom/common/asar/asar_util.cc": [],
+    "../electron/atom/common/asar/asar_util.h": [],
+    "../electron/atom/common/asar/scoped_temporary_file.cc": [],
+    "../electron/atom/common/asar/scoped_temporary_file.h": [],
+    "../electron/atom/common/atom_command_line.cc": [
+      {
+        "start": 8,
+        "end": 8
+      }
+    ],
+    "../electron/atom/common/atom_command_line.h": [],
+    "../electron/atom/common/atom_constants.cc": [],
+    "../electron/atom/common/atom_constants.h": [],
+    "../electron/atom/common/atom_version.h": [
+      {
+        "start": 13,
+        "end": 13
+      }
+    ],
+    "../electron/atom/common/color_util.cc": [],
+    "../electron/atom/common/color_util.h": [],
+    "../electron/atom/common/common_message_generator.cc": [
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 31,
+        "end": 31
+      }
+    ],
+    "../electron/atom/common/common_message_generator.h": [],
+    "../electron/atom/common/crash_reporter/crash_reporter.cc": [
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 105,
+        "end": 105
+      }
+    ],
+    "../electron/atom/common/crash_reporter/crash_reporter.h": [],
+    "../electron/atom/common/crash_reporter/crash_reporter_linux.cc": [
+      {
+        "start": 21,
+        "end": 22
+      }
+    ],
+    "../electron/atom/common/crash_reporter/crash_reporter_linux.h": [
+      {
+        "start": 46,
+        "end": 46
+      }
+    ],
+    "../electron/atom/common/crash_reporter/crash_reporter_mac.h": [
+      {
+        "start": 16,
+        "end": 17
+      },
+      {
+        "start": 49,
+        "end": 49
+      }
+    ],
+    "../electron/atom/common/crash_reporter/crash_reporter_mac.mm": [
+      {
+        "start": 17,
+        "end": 19
+      },
+      {
+        "start": 123,
+        "end": 123
+      }
+    ],
+    "../electron/atom/common/crash_reporter/crash_reporter_win.cc": [
+      {
+        "start": 120,
+        "end": 121
+      }
+    ],
+    "../electron/atom/common/crash_reporter/crash_reporter_win.h": [
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 68,
+        "end": 68
+      },
+      {
+        "start": 70,
+        "end": 70
+      }
+    ],
+    "../electron/atom/common/crash_reporter/linux/crash_dump_handler.cc": [
+      {
+        "start": 16,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 18
+      }
+    ],
+    "../electron/atom/common/crash_reporter/linux/crash_dump_handler.h": [
+      {
+        "start": 14,
+        "end": 14
+      }
+    ],
+    "../electron/atom/common/crash_reporter/win/crash_service.cc": [
+      {
+        "start": 21,
+        "end": 23
+      },
+      {
+        "start": 136,
+        "end": 136
+      }
+    ],
+    "../electron/atom/common/crash_reporter/win/crash_service.h": [],
+    "../electron/atom/common/crash_reporter/win/crash_service_main.cc": [],
+    "../electron/atom/common/crash_reporter/win/crash_service_main.h": [],
+    "../electron/atom/common/draggable_region.cc": [],
+    "../electron/atom/common/draggable_region.h": [],
+    "../electron/atom/common/heap_snapshot.cc": [],
+    "../electron/atom/common/heap_snapshot.h": [],
+    "../electron/atom/common/key_weak_map.h": [],
+    "../electron/atom/common/keyboard_util.cc": [
+      {
+        "start": 212,
+        "end": 212
+      },
+      {
+        "start": 217,
+        "end": 217
+      },
+      {
+        "start": 222,
+        "end": 222
+      },
+      {
+        "start": 227,
+        "end": 227
+      },
+      {
+        "start": 232,
+        "end": 232
+      },
+      {
+        "start": 237,
+        "end": 237
+      },
+      {
+        "start": 242,
+        "end": 242
+      },
+      {
+        "start": 247,
+        "end": 247
+      },
+      {
+        "start": 252,
+        "end": 252
+      },
+      {
+        "start": 257,
+        "end": 257
+      },
+      {
+        "start": 263,
+        "end": 263
+      },
+      {
+        "start": 268,
+        "end": 268
+      },
+      {
+        "start": 273,
+        "end": 273
+      },
+      {
+        "start": 278,
+        "end": 278
+      },
+      {
+        "start": 283,
+        "end": 283
+      },
+      {
+        "start": 288,
+        "end": 288
+      },
+      {
+        "start": 293,
+        "end": 293
+      },
+      {
+        "start": 298,
+        "end": 298
+      },
+      {
+        "start": 303,
+        "end": 303
+      },
+      {
+        "start": 308,
+        "end": 308
+      },
+      {
+        "start": 313,
+        "end": 313
+      }
+    ],
+    "../electron/atom/common/keyboard_util.h": [],
+    "../electron/atom/common/mac/main_application_bundle.h": [],
+    "../electron/atom/common/mac/main_application_bundle.mm": [
+      {
+        "start": 29,
+        "end": 29
+      }
+    ],
+    "../electron/atom/common/mouse_util.cc": [],
+    "../electron/atom/common/mouse_util.h": [],
+    "../electron/atom/common/native_mate_converters/accelerator_converter.cc": [],
+    "../electron/atom/common/native_mate_converters/accelerator_converter.h": [],
+    "../electron/atom/common/native_mate_converters/blink_converter.cc": [
+      {
+        "start": 165,
+        "end": 165
+      },
+      {
+        "start": 475,
+        "end": 475
+      },
+      {
+        "start": 476,
+        "end": 476
+      },
+      {
+        "start": 478,
+        "end": 478
+      },
+      {
+        "start": 479,
+        "end": 479
+      },
+      {
+        "start": 480,
+        "end": 480
+      },
+      {
+        "start": 481,
+        "end": 481
+      },
+      {
+        "start": 482,
+        "end": 482
+      },
+      {
+        "start": 483,
+        "end": 483
+      },
+      {
+        "start": 484,
+        "end": 484
+      },
+      {
+        "start": 485,
+        "end": 485
+      },
+      {
+        "start": 486,
+        "end": 486
+      },
+      {
+        "start": 487,
+        "end": 487
+      },
+      {
+        "start": 488,
+        "end": 488
+      },
+      {
+        "start": 489,
+        "end": 489
+      },
+      {
+        "start": 490,
+        "end": 491
+      },
+      {
+        "start": 492,
+        "end": 492
+      },
+      {
+        "start": 493,
+        "end": 493
+      },
+      {
+        "start": 494,
+        "end": 494
+      },
+      {
+        "start": 495,
+        "end": 495
+      },
+      {
+        "start": 496,
+        "end": 502
+      },
+      {
+        "start": 503,
+        "end": 503
+      },
+      {
+        "start": 506,
+        "end": 506
+      },
+      {
+        "start": 508,
+        "end": 508
+      },
+      {
+        "start": 509,
+        "end": 509
+      },
+      {
+        "start": 510,
+        "end": 510
+      },
+      {
+        "start": 511,
+        "end": 511
+      },
+      {
+        "start": 512,
+        "end": 512
+      },
+      {
+        "start": 513,
+        "end": 513
+      },
+      {
+        "start": 514,
+        "end": 514
+      },
+      {
+        "start": 515,
+        "end": 515
+      },
+      {
+        "start": 516,
+        "end": 516
+      },
+      {
+        "start": 517,
+        "end": 517
+      },
+      {
+        "start": 518,
+        "end": 518
+      },
+      {
+        "start": 519,
+        "end": 520
+      },
+      {
+        "start": 521,
+        "end": 521
+      },
+      {
+        "start": 522,
+        "end": 522
+      },
+      {
+        "start": 523,
+        "end": 523
+      },
+      {
+        "start": 524,
+        "end": 524
+      },
+      {
+        "start": 525,
+        "end": 529
+      }
+    ],
+    "../electron/atom/common/native_mate_converters/blink_converter.h": [
+      {
+        "start": 126,
+        "end": 126
+      },
+      {
+        "start": 127,
+        "end": 127
+      },
+      {
+        "start": 128,
+        "end": 128
+      },
+      {
+        "start": 131,
+        "end": 131
+      },
+      {
+        "start": 132,
+        "end": 133
+      }
+    ],
+    "../electron/atom/common/native_mate_converters/callback.cc": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 47,
+        "end": 49
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 58,
+        "end": 59
+      },
+      {
+        "start": 137,
+        "end": 140
+      }
+    ],
+    "../electron/atom/common/native_mate_converters/callback.h": [
+      {
+        "start": 82,
+        "end": 84
+      }
+    ],
+    "../electron/atom/common/native_mate_converters/content_converter.cc": [
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 224,
+        "end": 225
+      },
+      {
+        "start": 228,
+        "end": 234
+      },
+      {
+        "start": 238,
+        "end": 250
+      }
+    ],
+    "../electron/atom/common/native_mate_converters/content_converter.h": [
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 69,
+        "end": 71
+      },
+      {
+        "start": 74,
+        "end": 76
+      }
+    ],
+    "../electron/atom/common/native_mate_converters/file_dialog_converter.cc": [],
+    "../electron/atom/common/native_mate_converters/file_dialog_converter.h": [],
+    "../electron/atom/common/native_mate_converters/file_path_converter.h": [],
+    "../electron/atom/common/native_mate_converters/gfx_converter.cc": [],
+    "../electron/atom/common/native_mate_converters/gfx_converter.h": [],
+    "../electron/atom/common/native_mate_converters/gurl_converter.h": [],
+    "../electron/atom/common/native_mate_converters/image_converter.cc": [],
+    "../electron/atom/common/native_mate_converters/image_converter.h": [],
+    "../electron/atom/common/native_mate_converters/net_converter.cc": [
+      {
+        "start": 92,
+        "end": 92
+      },
+      {
+        "start": 96,
+        "end": 96
+      },
+      {
+        "start": 121,
+        "end": 121
+      },
+      {
+        "start": 123,
+        "end": 123
+      }
+    ],
+    "../electron/atom/common/native_mate_converters/net_converter.h": [],
+    "../electron/atom/common/native_mate_converters/network_converter.cc": [],
+    "../electron/atom/common/native_mate_converters/network_converter.h": [],
+    "../electron/atom/common/native_mate_converters/string16_converter.h": [],
+    "../electron/atom/common/native_mate_converters/ui_base_types_converter.h": [],
+    "../electron/atom/common/native_mate_converters/v8_value_converter.cc": [],
+    "../electron/atom/common/native_mate_converters/v8_value_converter.h": [],
+    "../electron/atom/common/native_mate_converters/value_converter.cc": [],
+    "../electron/atom/common/native_mate_converters/value_converter.h": [],
+    "../electron/atom/common/node_bindings.cc": [
+      {
+        "start": 141,
+        "end": 141
+      },
+      {
+        "start": 143,
+        "end": 143
+      },
+      {
+        "start": 224,
+        "end": 224
+      },
+      {
+        "start": 227,
+        "end": 227
+      },
+      {
+        "start": 283,
+        "end": 283
+      },
+      {
+        "start": 350,
+        "end": 350
+      }
+    ],
+    "../electron/atom/common/node_bindings.h": [
+      {
+        "start": 12,
+        "end": 12
+      }
+    ],
+    "../electron/atom/common/node_bindings_linux.cc": [],
+    "../electron/atom/common/node_bindings_linux.h": [
+      {
+        "start": 16,
+        "end": 16
+      }
+    ],
+    "../electron/atom/common/node_bindings_mac.cc": [],
+    "../electron/atom/common/node_bindings_mac.h": [
+      {
+        "start": 16,
+        "end": 16
+      }
+    ],
+    "../electron/atom/common/node_bindings_win.cc": [],
+    "../electron/atom/common/node_bindings_win.h": [
+      {
+        "start": 16,
+        "end": 16
+      }
+    ],
+    "../electron/atom/common/node_includes.h": [
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 20,
+        "end": 32
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 43,
+        "end": 45
+      },
+      {
+        "start": 48,
+        "end": 52
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 62,
+        "end": 74
+      }
+    ],
+    "../electron/atom/common/options_switches.cc": [],
+    "../electron/atom/common/options_switches.h": [],
+    "../electron/atom/common/platform_util.h": [],
+    "../electron/atom/common/platform_util_linux.cc": [],
+    "../electron/atom/common/platform_util_mac.mm": [],
+    "../electron/atom/common/platform_util_win.cc": [
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 47,
+        "end": 53
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 59,
+        "end": 65
+      },
+      {
+        "start": 69,
+        "end": 76
+      },
+      {
+        "start": 80,
+        "end": 81
+      },
+      {
+        "start": 88,
+        "end": 92
+      },
+      {
+        "start": 234,
+        "end": 235
+      }
+    ],
+    "../electron/atom/common/promise_util.cc": [
+      {
+        "start": 23,
+        "end": 25
+      }
+    ],
+    "../electron/atom/common/promise_util.h": [
+      {
+        "start": 29,
+        "end": 29
+      }
+    ],
+    "../electron/atom/common/resources/mac/Info.plist": [],
+    "../electron/atom/common/resources/mac/MainMenu.xib": [],
+    "../electron/atom/renderer/api/atom_api_renderer_ipc.cc": [
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 17,
+        "end": 20
+      },
+      {
+        "start": 36,
+        "end": 49
+      },
+      {
+        "start": 50,
+        "end": 52
+      },
+      {
+        "start": 53,
+        "end": 64
+      },
+      {
+        "start": 65,
+        "end": 80
+      },
+      {
+        "start": 81,
+        "end": 107
+      },
+      {
+        "start": 109,
+        "end": 138
+      },
+      {
+        "start": 145,
+        "end": 145
+      }
+    ],
+    "../electron/atom/renderer/api/atom_api_spell_check_client.cc": [
+      {
+        "start": 111,
+        "end": 114
+      },
+      {
+        "start": 220,
+        "end": 220
+      },
+      {
+        "start": 222,
+        "end": 222
+      },
+      {
+        "start": 265,
+        "end": 266
+      }
+    ],
+    "../electron/atom/renderer/api/atom_api_spell_check_client.h": [
+      {
+        "start": 36,
+        "end": 36
+      },
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 59,
+        "end": 59
+      }
+    ],
+    "../electron/atom/renderer/api/atom_api_web_frame.cc": [
+      {
+        "start": 124,
+        "end": 124
+      },
+      {
+        "start": 280,
+        "end": 282
+      }
+    ],
+    "../electron/atom/renderer/atom_autofill_agent.cc": [
+      {
+        "start": 57,
+        "end": 58
+      },
+      {
+        "start": 213,
+        "end": 213
+      }
+    ],
+    "../electron/atom/renderer/atom_autofill_agent.h": [
+      {
+        "start": 24,
+        "end": 24
+      }
+    ],
+    "../electron/atom/renderer/atom_render_frame_observer.cc": [
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 122,
+        "end": 122
+      },
+      {
+        "start": 134,
+        "end": 134
+      }
+    ],
+    "../electron/atom/renderer/atom_render_frame_observer.h": [],
+    "../electron/atom/renderer/atom_render_view_observer.cc": [],
+    "../electron/atom/renderer/atom_render_view_observer.h": [
+      {
+        "start": 17,
+        "end": 17
+      }
+    ],
+    "../electron/atom/renderer/atom_renderer_client.cc": [
+      {
+        "start": 129,
+        "end": 130
+      },
+      {
+        "start": 230,
+        "end": 232
+      }
+    ],
+    "../electron/atom/renderer/atom_renderer_client.h": [
+      {
+        "start": 27,
+        "end": 27
+      }
+    ],
+    "../electron/atom/renderer/atom_sandboxed_renderer_client.cc": [
+      {
+        "start": 33,
+        "end": 33
+      },
+      {
+        "start": 94,
+        "end": 113
+      },
+      {
+        "start": 154,
+        "end": 154
+      },
+      {
+        "start": 175,
+        "end": 175
+      },
+      {
+        "start": 190,
+        "end": 190
+      },
+      {
+        "start": 216,
+        "end": 216
+      },
+      {
+        "start": 290,
+        "end": 290
+      },
+      {
+        "start": 293,
+        "end": 293
+      }
+    ],
+    "../electron/atom/renderer/atom_sandboxed_renderer_client.h": [
+      {
+        "start": 20,
+        "end": 20
+      }
+    ],
+    "../electron/atom/renderer/content_settings_observer.cc": [],
+    "../electron/atom/renderer/content_settings_observer.h": [
+      {
+        "start": 23,
+        "end": 23
+      }
+    ],
+    "../electron/atom/renderer/electron_api_service_impl.cc": [
+      {
+        "start": 1,
+        "end": 167
+      }
+    ],
+    "../electron/atom/renderer/electron_api_service_impl.h": [
+      {
+        "start": 1,
+        "end": 55
+      }
+    ],
+    "../electron/atom/renderer/guest_view_container.cc": [],
+    "../electron/atom/renderer/guest_view_container.h": [],
+    "../electron/atom/renderer/preferences_manager.cc": [],
+    "../electron/atom/renderer/preferences_manager.h": [],
+    "../electron/atom/renderer/printing/print_render_frame_helper_delegate.cc": [],
+    "../electron/atom/renderer/printing/print_render_frame_helper_delegate.h": [],
+    "../electron/atom/renderer/renderer_client_base.cc": [
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 220,
+        "end": 231
+      },
+      {
+        "start": 314,
+        "end": 314
+      }
+    ],
+    "../electron/atom/renderer/renderer_client_base.h": [
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 45,
+        "end": 45
+      }
+    ],
+    "../electron/atom/renderer/resources/mac/Info.plist": [],
+    "../electron/atom/renderer/web_worker_observer.cc": [],
+    "../electron/atom/renderer/web_worker_observer.h": [],
+    "../electron/atom/utility/atom_content_utility_client.cc": [
+      {
+        "start": 142,
+        "end": 142
+      },
+      {
+        "start": 144,
+        "end": 147
+      },
+      {
+        "start": 153,
+        "end": 158
+      }
+    ],
+    "../electron/atom/utility/atom_content_utility_client.h": [
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 30,
+        "end": 32
+      }
+    ],
+    "../electron/tools/atom_source_root.js": [],
+    "../electron/tools/dump-version-info.js": [],
+    "../electron/tools/get-endianness.js": [],
+    "../electron/tools/js2c.py": [
+      {
+        "start": 27,
+        "end": 28
+      },
+      {
+        "start": 31,
+        "end": 31
+      }
+    ],
+    "../electron/tools/linux/pkg-config-wrapper": [],
+    "../electron/tools/linux/rewrite_dirs.py": [],
+    "../electron/tools/linux/sysroot_ld_path.sh": [],
+    "../electron/tools/list-browserify-deps.py": [],
+    "../electron/tools/make_locale_paks.py": [],
+    "../electron/tools/run-electron.sh": [],
+    "../electron/tools/run-if-exists.js": [],
+    "../electron/tools/win/generate_breakpad_symbols.py": [],
+    "../electron/tools/xvfb-init.sh": []
+  }
+}

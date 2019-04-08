@@ -1,0 +1,1650 @@
+{
+  "mdFiles": {
+    "../react/CHANGELOG.md": {
+      "userLines": 600,
+      "total": 1866
+    },
+    "../react/CONTRIBUTING.md": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../react/README.md": {
+      "userLines": 25,
+      "total": 76
+    },
+    "../react/.github/ISSUE_TEMPLATE.md": {
+      "userLines": 1,
+      "total": 15
+    },
+    "../react/.github/PULL_REQUEST_TEMPLATE.md": {
+      "userLines": 11,
+      "total": 15
+    },
+    "../react/fixtures/art/README.md": {
+      "userLines": 2,
+      "total": 11
+    },
+    "../react/fixtures/attribute-behavior/AttributeTableSnapshot.md": {
+      "userLines": 13475,
+      "total": 13551
+    },
+    "../react/fixtures/dom/README.md": {
+      "userLines": 7,
+      "total": 18
+    },
+    "../react/fixtures/eslint/README.md": {
+      "userLines": 7,
+      "total": 7
+    },
+    "../react/fixtures/fiber-debugger/README.md": {
+      "userLines": 25,
+      "total": 26
+    },
+    "../react/fixtures/packaging/README.md": {
+      "userLines": 1,
+      "total": 33
+    },
+    "../react/fixtures/ssr/README.md": {
+      "userLines": 9,
+      "total": 31
+    },
+    "../react/fixtures/unstable-async/time-slicing/README.md": {
+      "userLines": 7,
+      "total": 30
+    },
+    "../react/packages/eslint-plugin-react-hooks/README.md": {
+      "userLines": 7,
+      "total": 46
+    },
+    "../react/packages/react/README.md": {
+      "userLines": 4,
+      "total": 14
+    },
+    "../react/packages/react-dom/README.md": {
+      "userLines": 1,
+      "total": 55
+    },
+    "../react/packages/react-noop-renderer/README.md": {
+      "userLines": 4,
+      "total": 5
+    },
+    "../react/packages/react-reconciler/README.md": {
+      "userLines": 29,
+      "total": 65
+    },
+    "../react/packages/scheduler/README.md": {
+      "userLines": 6,
+      "total": 10
+    },
+    "../react/scripts/bench/README.md": {
+      "userLines": 16,
+      "total": 42
+    },
+    "../react/scripts/print-warnings/README.md": {
+      "userLines": 1,
+      "total": 2
+    }
+  },
+  "otherFiles": {
+    "../react/.babelrc": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/.circleci/config.yml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/.eslintignore": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/.eslintrc.js": {
+      "userLines": 2,
+      "total": 22
+    },
+    "../react/appveyor.yml": {
+      "userLines": 1,
+      "total": 4
+    },
+    "../react/dangerfile.js": {
+      "userLines": 3,
+      "total": 53
+    },
+    "../react/fixtures/art/VectorWidget.js": {
+      "userLines": 0,
+      "total": 32
+    },
+    "../react/fixtures/attribute-behavior/src/App.js": {
+      "userLines": 11,
+      "total": 19
+    },
+    "../react/fixtures/attribute-behavior/src/attributes.js": {
+      "userLines": 24,
+      "total": 24
+    },
+    "../react/fixtures/attribute-behavior/src/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/dom/src/components/Header.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/dom/src/components/fixtures/custom-elements/index.js": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../react/fixtures/dom/src/components/fixtures/error-handling/index.js": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../react/fixtures/dom/src/components/fixtures/textareas/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/dom/src/react-loader.js": {
+      "userLines": 1,
+      "total": 18
+    },
+    "../react/fixtures/dom/src/style.css": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../react/fixtures/dom/src/tags.js": {
+      "userLines": 1,
+      "total": 23
+    },
+    "../react/fixtures/eslint/index.js": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../react/fixtures/eslint/proxy/index.js": {
+      "userLines": 7,
+      "total": 7
+    },
+    "../react/fixtures/eslint/watch.sh": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../react/fixtures/fiber-debugger/.env": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/fiber-debugger/public/favicon.ico": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/fiber-debugger/public/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/fiber-debugger/src/App.js": {
+      "userLines": 1,
+      "total": 2
+    },
+    "../react/fixtures/fiber-debugger/src/Editor.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/fiber-debugger/src/Fibers.js": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../react/fixtures/fiber-debugger/src/describeFibers.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/fiber-debugger/src/index.css": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../react/fixtures/fiber-debugger/src/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/browserify/dev/input.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/browserify/prod/input.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/brunch/dev/app/initialize.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/brunch/dev/input.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/brunch/prod/app/initialize.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/brunch/prod/input.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/build-all.js": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../react/fixtures/packaging/globals/dev.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/globals/prod.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/requirejs/dev.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/requirejs/prod.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/rjs/dev/input.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/rjs/prod/input.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/systemjs/dev.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/systemjs/prod.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/systemjs-builder/dev/input.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/systemjs-builder/prod/input.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/webpack/dev/config.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/webpack/dev/input.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/webpack/prod/config.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/webpack/prod/input.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/webpack-alias/dev/config.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/webpack-alias/dev/input.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/webpack-alias/prod/config.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/packaging/webpack-alias/prod/input.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/scheduler/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/ssr/src/components/Chrome.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/ssr/src/components/Page.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/tracing/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/fixtures/tracing/script.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../react/fixtures/unstable-async/time-slicing/src/index.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../react/fixtures/unstable-fire/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/create-subscription/src/createSubscription.js": {
+      "userLines": 0,
+      "total": 26
+    },
+    "../react/packages/eslint-plugin-react-hooks/src/ExhaustiveDeps.js": {
+      "userLines": 227,
+      "total": 235
+    },
+    "../react/packages/eslint-plugin-react-hooks/src/index.js": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../react/packages/events/EventPluginHub.js": {
+      "userLines": 23,
+      "total": 56
+    },
+    "../react/packages/events/EventPluginRegistry.js": {
+      "userLines": 39,
+      "total": 79
+    },
+    "../react/packages/events/EventPluginUtils.js": {
+      "userLines": 0,
+      "total": 40
+    },
+    "../react/packages/events/EventPropagators.js": {
+      "userLines": 9,
+      "total": 45
+    },
+    "../react/packages/events/PluginModuleType.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../react/packages/events/ReactControlledComponent.js": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../react/packages/events/ReactGenericBatching.js": {
+      "userLines": 2,
+      "total": 21
+    },
+    "../react/packages/events/ReactSyntheticEventType.js": {
+      "userLines": 1,
+      "total": 9
+    },
+    "../react/packages/events/ResponderEventPlugin.js": {
+      "userLines": 0,
+      "total": 196
+    },
+    "../react/packages/events/ResponderSyntheticEvent.js": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../react/packages/events/ResponderTouchHistoryStore.js": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../react/packages/events/SyntheticEvent.js": {
+      "userLines": 0,
+      "total": 61
+    },
+    "../react/packages/events/TopLevelEventTypes.js": {
+      "userLines": 3,
+      "total": 11
+    },
+    "../react/packages/events/accumulate.js": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../react/packages/events/accumulateInto.js": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../react/packages/events/forEachAccumulated.js": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../react/packages/react/index.js": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../react/packages/react/npm/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react/src/React.js": {
+      "userLines": 4,
+      "total": 12
+    },
+    "../react/packages/react/src/ReactBaseClasses.js": {
+      "userLines": 5,
+      "total": 62
+    },
+    "../react/packages/react/src/ReactChildren.js": {
+      "userLines": 59,
+      "total": 112
+    },
+    "../react/packages/react/src/ReactContext.js": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../react/packages/react/src/ReactCurrentOwner.js": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../react/packages/react/src/ReactDebugCurrentFrame.js": {
+      "userLines": 3,
+      "total": 11
+    },
+    "../react/packages/react/src/ReactElement.js": {
+      "userLines": 3,
+      "total": 105
+    },
+    "../react/packages/react/src/ReactElementValidator.js": {
+      "userLines": 14,
+      "total": 80
+    },
+    "../react/packages/react/src/ReactHooks.js": {
+      "userLines": 4,
+      "total": 13
+    },
+    "../react/packages/react/src/ReactLazy.js": {
+      "userLines": 3,
+      "total": 10
+    },
+    "../react/packages/react/src/ReactNoopUpdateQueue.js": {
+      "userLines": 0,
+      "total": 56
+    },
+    "../react/packages/react/src/ReactSharedInternals.js": {
+      "userLines": 9,
+      "total": 16
+    },
+    "../react/packages/react/src/forks/ReactCurrentOwner.www.js": {
+      "userLines": 5,
+      "total": 6
+    },
+    "../react/packages/react/src/forwardRef.js": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../react/packages/react/src/memo.js": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../react/packages/react-art/index.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-art/npm/Circle.js": {
+      "userLines": 0,
+      "total": 20
+    },
+    "../react/packages/react-art/npm/Rectangle.js": {
+      "userLines": 0,
+      "total": 33
+    },
+    "../react/packages/react-art/npm/Wedge.js": {
+      "userLines": 3,
+      "total": 80
+    },
+    "../react/packages/react-art/npm/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react-art/src/ReactART.js": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../react/packages/react-art/src/ReactARTHostConfig.js": {
+      "userLines": 20,
+      "total": 23
+    },
+    "../react/packages/react-art/src/ReactARTInternals.js": {
+      "userLines": 5,
+      "total": 6
+    },
+    "../react/packages/react-cache/src/LRU.js": {
+      "userLines": 2,
+      "total": 25
+    },
+    "../react/packages/react-cache/src/ReactCache.js": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../react/packages/react-dom/index.fb.js": {
+      "userLines": 2,
+      "total": 8
+    },
+    "../react/packages/react-dom/index.js": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../react/packages/react-dom/npm/index.js": {
+      "userLines": 13,
+      "total": 13
+    },
+    "../react/packages/react-dom/npm/server.browser.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react-dom/npm/server.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react-dom/npm/server.node.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react-dom/npm/test-utils.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react-dom/npm/unstable-native-dependencies.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react-dom/server.browser.js": {
+      "userLines": 7,
+      "total": 10
+    },
+    "../react/packages/react-dom/server.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-dom/server.node.js": {
+      "userLines": 7,
+      "total": 10
+    },
+    "../react/packages/react-dom/src/__tests__/utils/ReactDOMServerIntegrationTestUtils.js": {
+      "userLines": 70,
+      "total": 77
+    },
+    "../react/packages/react-dom/src/client/DOMPropertyOperations.js": {
+      "userLines": 33,
+      "total": 42
+    },
+    "../react/packages/react-dom/src/client/ReactDOM.js": {
+      "userLines": 11,
+      "total": 64
+    },
+    "../react/packages/react-dom/src/client/ReactDOMClientInjection.js": {
+      "userLines": 10,
+      "total": 13
+    },
+    "../react/packages/react-dom/src/client/ReactDOMComponent.js": {
+      "userLines": 141,
+      "total": 198
+    },
+    "../react/packages/react-dom/src/client/ReactDOMComponentTree.js": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../react/packages/react-dom/src/client/ReactDOMFB.js": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../react/packages/react-dom/src/client/ReactDOMHostConfig.js": {
+      "userLines": 33,
+      "total": 67
+    },
+    "../react/packages/react-dom/src/client/ReactDOMInput.js": {
+      "userLines": 11,
+      "total": 116
+    },
+    "../react/packages/react-dom/src/client/ReactDOMOption.js": {
+      "userLines": 10,
+      "total": 25
+    },
+    "../react/packages/react-dom/src/client/ReactDOMSelect.js": {
+      "userLines": 4,
+      "total": 33
+    },
+    "../react/packages/react-dom/src/client/ReactDOMSelection.js": {
+      "userLines": 2,
+      "total": 53
+    },
+    "../react/packages/react-dom/src/client/ReactDOMTextarea.js": {
+      "userLines": 19,
+      "total": 42
+    },
+    "../react/packages/react-dom/src/client/ReactInputSelection.js": {
+      "userLines": 20,
+      "total": 44
+    },
+    "../react/packages/react-dom/src/client/getActiveElement.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-dom/src/client/getNodeForCharacterOffset.js": {
+      "userLines": 0,
+      "total": 28
+    },
+    "../react/packages/react-dom/src/client/inputValueTracking.js": {
+      "userLines": 3,
+      "total": 19
+    },
+    "../react/packages/react-dom/src/client/setInnerHTML.js": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../react/packages/react-dom/src/client/setTextContent.js": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../react/packages/react-dom/src/client/validateDOMNesting.js": {
+      "userLines": 1,
+      "total": 55
+    },
+    "../react/packages/react-dom/src/events/BeforeInputEventPlugin.js": {
+      "userLines": 1,
+      "total": 159
+    },
+    "../react/packages/react-dom/src/events/ChangeEventPlugin.js": {
+      "userLines": 0,
+      "total": 81
+    },
+    "../react/packages/react-dom/src/events/DOMEventPluginOrder.js": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../react/packages/react-dom/src/events/DOMTopLevelEventTypes.js": {
+      "userLines": 8,
+      "total": 18
+    },
+    "../react/packages/react-dom/src/events/EnterLeaveEventPlugin.js": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../react/packages/react-dom/src/events/EventListener.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-dom/src/events/FallbackCompositionState.js": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../react/packages/react-dom/src/events/ReactBrowserEventEmitter.js": {
+      "userLines": 26,
+      "total": 90
+    },
+    "../react/packages/react-dom/src/events/ReactDOMEventListener.js": {
+      "userLines": 8,
+      "total": 36
+    },
+    "../react/packages/react-dom/src/events/SelectEventPlugin.js": {
+      "userLines": 2,
+      "total": 62
+    },
+    "../react/packages/react-dom/src/events/SimpleEventPlugin.js": {
+      "userLines": 3,
+      "total": 38
+    },
+    "../react/packages/react-dom/src/events/SyntheticAnimationEvent.js": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../react/packages/react-dom/src/events/SyntheticClipboardEvent.js": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../react/packages/react-dom/src/events/SyntheticCompositionEvent.js": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../react/packages/react-dom/src/events/SyntheticDragEvent.js": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../react/packages/react-dom/src/events/SyntheticFocusEvent.js": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../react/packages/react-dom/src/events/SyntheticInputEvent.js": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../react/packages/react-dom/src/events/SyntheticKeyboardEvent.js": {
+      "userLines": 0,
+      "total": 23
+    },
+    "../react/packages/react-dom/src/events/SyntheticMouseEvent.js": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../react/packages/react-dom/src/events/SyntheticTouchEvent.js": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../react/packages/react-dom/src/events/SyntheticTransitionEvent.js": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../react/packages/react-dom/src/events/SyntheticUIEvent.js": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../react/packages/react-dom/src/events/SyntheticWheelEvent.js": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../react/packages/react-dom/src/events/forks/EventListener-www.js": {
+      "userLines": 10,
+      "total": 11
+    },
+    "../react/packages/react-dom/src/events/getEventCharCode.js": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../react/packages/react-dom/src/events/getEventKey.js": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../react/packages/react-dom/src/events/getEventModifierState.js": {
+      "userLines": 0,
+      "total": 15
+    },
+    "../react/packages/react-dom/src/events/getEventTarget.js": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../react/packages/react-dom/src/events/getVendorPrefixedEventName.js": {
+      "userLines": 0,
+      "total": 36
+    },
+    "../react/packages/react-dom/src/events/isEventSupported.js": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../react/packages/react-dom/src/fire/ReactFire.js": {
+      "userLines": 68,
+      "total": 68
+    },
+    "../react/packages/react-dom/src/fire/ReactFireHostConfig.js": {
+      "userLines": 11,
+      "total": 11
+    },
+    "../react/packages/react-dom/src/server/DOMMarkupOperations.js": {
+      "userLines": 28,
+      "total": 31
+    },
+    "../react/packages/react-dom/src/server/ReactDOMNodeStreamRenderer.js": {
+      "userLines": 0,
+      "total": 19
+    },
+    "../react/packages/react-dom/src/server/ReactDOMServerBrowser.js": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../react/packages/react-dom/src/server/ReactDOMServerNode.js": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../react/packages/react-dom/src/server/ReactDOMStringRenderer.js": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../react/packages/react-dom/src/server/ReactPartialRenderer.js": {
+      "userLines": 41,
+      "total": 112
+    },
+    "../react/packages/react-dom/src/server/ReactPartialRendererContext.js": {
+      "userLines": 4,
+      "total": 18
+    },
+    "../react/packages/react-dom/src/server/ReactPartialRendererHooks.js": {
+      "userLines": 2,
+      "total": 61
+    },
+    "../react/packages/react-dom/src/server/quoteAttributeValueForBrowser.js": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../react/packages/react-dom/src/shared/CSSProperty.js": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../react/packages/react-dom/src/shared/CSSPropertyOperations.js": {
+      "userLines": 2,
+      "total": 44
+    },
+    "../react/packages/react-dom/src/shared/DOMNamespaces.js": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../react/packages/react-dom/src/shared/DOMProperty.js": {
+      "userLines": 88,
+      "total": 145
+    },
+    "../react/packages/react-dom/src/shared/HTMLNodeType.js": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../react/packages/react-dom/src/shared/ReactControlledValuePropTypes.js": {
+      "userLines": 4,
+      "total": 10
+    },
+    "../react/packages/react-dom/src/shared/ReactDOMInvalidARIAHook.js": {
+      "userLines": 2,
+      "total": 14
+    },
+    "../react/packages/react-dom/src/shared/ReactDOMNullInputValuePropHook.js": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../react/packages/react-dom/src/shared/ReactDOMUnknownPropertyHook.js": {
+      "userLines": 8,
+      "total": 20
+    },
+    "../react/packages/react-dom/src/shared/assertValidProps.js": {
+      "userLines": 2,
+      "total": 10
+    },
+    "../react/packages/react-dom/src/shared/checkReact.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../react/packages/react-dom/src/shared/createMicrosoftUnsafeLocalFunction.js": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../react/packages/react-dom/src/shared/dangerousStyleValue.js": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../react/packages/react-dom/src/shared/hyphenateStyleName.js": {
+      "userLines": 20,
+      "total": 21
+    },
+    "../react/packages/react-dom/src/shared/isCustomComponent.js": {
+      "userLines": 4,
+      "total": 12
+    },
+    "../react/packages/react-dom/src/shared/omittedCloseTags.js": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../react/packages/react-dom/src/shared/possibleStandardNames.js": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../react/packages/react-dom/src/shared/validAriaProperties.js": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../react/packages/react-dom/src/shared/voidElementTags.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../react/packages/react-dom/src/shared/warnValidStyle.js": {
+      "userLines": 8,
+      "total": 11
+    },
+    "../react/packages/react-dom/src/test-utils/ReactTestUtils.js": {
+      "userLines": 5,
+      "total": 135
+    },
+    "../react/packages/react-dom/src/unstable-native-dependencies/ReactDOMUnstableNativeDependencies.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../react/packages/react-dom/test-utils.js": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../react/packages/react-dom/unstable-fire.js": {
+      "userLines": 10,
+      "total": 10
+    },
+    "../react/packages/react-dom/unstable-native-dependencies.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-native-renderer/index.js": {
+      "userLines": 4,
+      "total": 10
+    },
+    "../react/packages/react-native-renderer/src/NativeMethodsMixin.js": {
+      "userLines": 1,
+      "total": 100
+    },
+    "../react/packages/react-native-renderer/src/NativeMethodsMixinUtils.js": {
+      "userLines": 13,
+      "total": 25
+    },
+    "../react/packages/react-native-renderer/src/ReactFabric.js": {
+      "userLines": 2,
+      "total": 16
+    },
+    "../react/packages/react-native-renderer/src/ReactFabricComponentTree.js": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../react/packages/react-native-renderer/src/ReactFabricHostConfig.js": {
+      "userLines": 44,
+      "total": 53
+    },
+    "../react/packages/react-native-renderer/src/ReactFabricInjection.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../react/packages/react-native-renderer/src/ReactNativeAttributePayload.js": {
+      "userLines": 3,
+      "total": 99
+    },
+    "../react/packages/react-native-renderer/src/ReactNativeBridgeEventPlugin.js": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../react/packages/react-native-renderer/src/ReactNativeComponent.js": {
+      "userLines": 1,
+      "total": 87
+    },
+    "../react/packages/react-native-renderer/src/ReactNativeComponentTree.js": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../react/packages/react-native-renderer/src/ReactNativeEventEmitter.js": {
+      "userLines": 46,
+      "total": 79
+    },
+    "../react/packages/react-native-renderer/src/ReactNativeEventPluginOrder.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../react/packages/react-native-renderer/src/ReactNativeFiberHostComponent.js": {
+      "userLines": 1,
+      "total": 22
+    },
+    "../react/packages/react-native-renderer/src/ReactNativeFiberInspector.js": {
+      "userLines": 1,
+      "total": 12
+    },
+    "../react/packages/react-native-renderer/src/ReactNativeGlobalResponderHandler.js": {
+      "userLines": 1,
+      "total": 9
+    },
+    "../react/packages/react-native-renderer/src/ReactNativeHostConfig.js": {
+      "userLines": 86,
+      "total": 101
+    },
+    "../react/packages/react-native-renderer/src/ReactNativeInjection.js": {
+      "userLines": 4,
+      "total": 12
+    },
+    "../react/packages/react-native-renderer/src/ReactNativeRenderer.js": {
+      "userLines": 2,
+      "total": 17
+    },
+    "../react/packages/react-native-renderer/src/__mocks__/FabricUIManager.js": {
+      "userLines": 2,
+      "total": 11
+    },
+    "../react/packages/react-native-renderer/src/__mocks__/ReactNativeViewConfigRegistry.js": {
+      "userLines": 2,
+      "total": 20
+    },
+    "../react/packages/react-native-renderer/src/__mocks__/UIManager.js": {
+      "userLines": 2,
+      "total": 15
+    },
+    "../react/packages/react-noop-renderer/index.js": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../react/packages/react-noop-renderer/npm/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react-noop-renderer/npm/persistent.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react-noop-renderer/persistent.js": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../react/packages/react-noop-renderer/src/ReactNoop.js": {
+      "userLines": 2,
+      "total": 16
+    },
+    "../react/packages/react-noop-renderer/src/ReactNoopPersistent.js": {
+      "userLines": 15,
+      "total": 16
+    },
+    "../react/packages/react-noop-renderer/src/createReactNoop.js": {
+      "userLines": 34,
+      "total": 66
+    },
+    "../react/packages/react-reconciler/index.js": {
+      "userLines": 18,
+      "total": 19
+    },
+    "../react/packages/react-reconciler/inline-typed.js": {
+      "userLines": 20,
+      "total": 21
+    },
+    "../react/packages/react-reconciler/inline.art.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-reconciler/inline.dom.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-reconciler/inline.fabric.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-reconciler/inline.fire.js": {
+      "userLines": 8,
+      "total": 8
+    },
+    "../react/packages/react-reconciler/inline.native.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-reconciler/npm/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react-reconciler/npm/persistent.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react-reconciler/persistent.js": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../react/packages/react-reconciler/src/ReactCapturedValue.js": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../react/packages/react-reconciler/src/ReactChildFiber.js": {
+      "userLines": 38,
+      "total": 162
+    },
+    "../react/packages/react-reconciler/src/ReactCurrentFiber.js": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../react/packages/react-reconciler/src/ReactDebugFiberPerf.js": {
+      "userLines": 41,
+      "total": 44
+    },
+    "../react/packages/react-reconciler/src/ReactFiber.js": {
+      "userLines": 12,
+      "total": 146
+    },
+    "../react/packages/react-reconciler/src/ReactFiberBeginWork.js": {
+      "userLines": 85,
+      "total": 342
+    },
+    "../react/packages/react-reconciler/src/ReactFiberClassComponent.js": {
+      "userLines": 48,
+      "total": 67
+    },
+    "../react/packages/react-reconciler/src/ReactFiberCommitWork.js": {
+      "userLines": 88,
+      "total": 123
+    },
+    "../react/packages/react-reconciler/src/ReactFiberCompleteWork.js": {
+      "userLines": 62,
+      "total": 122
+    },
+    "../react/packages/react-reconciler/src/ReactFiberContext.js": {
+      "userLines": 39,
+      "total": 42
+    },
+    "../react/packages/react-reconciler/src/ReactFiberDevToolsHook.js": {
+      "userLines": 14,
+      "total": 17
+    },
+    "../react/packages/react-reconciler/src/ReactFiberErrorDialog.js": {
+      "userLines": 10,
+      "total": 11
+    },
+    "../react/packages/react-reconciler/src/ReactFiberErrorLogger.js": {
+      "userLines": 13,
+      "total": 31
+    },
+    "../react/packages/react-reconciler/src/ReactFiberExpirationTime.js": {
+      "userLines": 0,
+      "total": 25
+    },
+    "../react/packages/react-reconciler/src/ReactFiberHooks.js": {
+      "userLines": 3,
+      "total": 142
+    },
+    "../react/packages/react-reconciler/src/ReactFiberHostConfig.js": {
+      "userLines": 14,
+      "total": 15
+    },
+    "../react/packages/react-reconciler/src/ReactFiberHostContext.js": {
+      "userLines": 20,
+      "total": 29
+    },
+    "../react/packages/react-reconciler/src/ReactFiberHydrationContext.js": {
+      "userLines": 30,
+      "total": 40
+    },
+    "../react/packages/react-reconciler/src/ReactFiberInstrumentation.js": {
+      "userLines": 9,
+      "total": 12
+    },
+    "../react/packages/react-reconciler/src/ReactFiberLazyComponent.js": {
+      "userLines": 2,
+      "total": 10
+    },
+    "../react/packages/react-reconciler/src/ReactFiberNewContext.js": {
+      "userLines": 3,
+      "total": 52
+    },
+    "../react/packages/react-reconciler/src/ReactFiberReconciler.js": {
+      "userLines": 11,
+      "total": 31
+    },
+    "../react/packages/react-reconciler/src/ReactFiberRoot.js": {
+      "userLines": 0,
+      "total": 47
+    },
+    "../react/packages/react-reconciler/src/ReactFiberScheduler.old.js": {
+      "userLines": 192,
+      "total": 437
+    },
+    "../react/packages/react-reconciler/src/ReactFiberStack.js": {
+      "userLines": 1,
+      "total": 9
+    },
+    "../react/packages/react-reconciler/src/ReactFiberTreeReflection.js": {
+      "userLines": 1,
+      "total": 51
+    },
+    "../react/packages/react-reconciler/src/ReactFiberUnwindWork.js": {
+      "userLines": 16,
+      "total": 89
+    },
+    "../react/packages/react-reconciler/src/ReactProfilerTimer.js": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../react/packages/react-reconciler/src/ReactStrictModeWarnings.js": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../react/packages/react-reconciler/src/ReactUpdateQueue.js": {
+      "userLines": 0,
+      "total": 162
+    },
+    "../react/packages/react-reconciler/src/forks/ReactFiberErrorDialog.native.js": {
+      "userLines": 1,
+      "total": 18
+    },
+    "../react/packages/react-reconciler/src/forks/ReactFiberErrorDialog.www.js": {
+      "userLines": 8,
+      "total": 9
+    },
+    "../react/packages/react-reconciler/src/forks/ReactFiberHostConfig.art.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-reconciler/src/forks/ReactFiberHostConfig.custom.js": {
+      "userLines": 44,
+      "total": 48
+    },
+    "../react/packages/react-reconciler/src/forks/ReactFiberHostConfig.dom.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-reconciler/src/forks/ReactFiberHostConfig.fabric.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-reconciler/src/forks/ReactFiberHostConfig.fire.js": {
+      "userLines": 8,
+      "total": 8
+    },
+    "../react/packages/react-reconciler/src/forks/ReactFiberHostConfig.native.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/react-test-renderer/index.js": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../react/packages/react-test-renderer/npm/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react-test-renderer/npm/shallow.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/react-test-renderer/shallow.js": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../react/packages/react-test-renderer/src/ReactShallowRenderer.js": {
+      "userLines": 12,
+      "total": 51
+    },
+    "../react/packages/react-test-renderer/src/ReactTestHostConfig.js": {
+      "userLines": 15,
+      "total": 21
+    },
+    "../react/packages/react-test-renderer/src/ReactTestRenderer.js": {
+      "userLines": 6,
+      "total": 33
+    },
+    "../react/packages/scheduler/index.js": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../react/packages/scheduler/npm/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/scheduler/npm/tracing-profiling.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/scheduler/npm/tracing.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/packages/scheduler/npm/umd/scheduler-tracing.development.js": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../react/packages/scheduler/npm/umd/scheduler.development.js": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../react/packages/scheduler/src/Scheduler.js": {
+      "userLines": 0,
+      "total": 65
+    },
+    "../react/packages/shared/ExecutionEnvironment.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/shared/HostConfigWithNoHydration.js": {
+      "userLines": 10,
+      "total": 11
+    },
+    "../react/packages/shared/HostConfigWithNoMutation.js": {
+      "userLines": 10,
+      "total": 11
+    },
+    "../react/packages/shared/HostConfigWithNoPersistence.js": {
+      "userLines": 10,
+      "total": 11
+    },
+    "../react/packages/shared/ReactErrorUtils.js": {
+      "userLines": 29,
+      "total": 37
+    },
+    "../react/packages/shared/ReactFeatureFlags.js": {
+      "userLines": 1,
+      "total": 34
+    },
+    "../react/packages/shared/ReactInstanceMap.js": {
+      "userLines": 4,
+      "total": 20
+    },
+    "../react/packages/shared/ReactPortal.js": {
+      "userLines": 7,
+      "total": 10
+    },
+    "../react/packages/shared/ReactSharedInternals.js": {
+      "userLines": 5,
+      "total": 9
+    },
+    "../react/packages/shared/ReactSideEffectTags.js": {
+      "userLines": 1,
+      "total": 28
+    },
+    "../react/packages/shared/ReactSymbols.js": {
+      "userLines": 9,
+      "total": 11
+    },
+    "../react/packages/shared/ReactTreeTraversal.js": {
+      "userLines": 5,
+      "total": 34
+    },
+    "../react/packages/shared/ReactTypes.js": {
+      "userLines": 0,
+      "total": 10
+    },
+    "../react/packages/shared/ReactVersion.js": {
+      "userLines": 1,
+      "total": 7
+    },
+    "../react/packages/shared/ReactWorkTags.js": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../react/packages/shared/describeComponentFrame.js": {
+      "userLines": 2,
+      "total": 10
+    },
+    "../react/packages/shared/enqueueTask.js": {
+      "userLines": 3,
+      "total": 16
+    },
+    "../react/packages/shared/forks/ReactFeatureFlags.native-fb.js": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../react/packages/shared/forks/ReactFeatureFlags.native-oss.js": {
+      "userLines": 4,
+      "total": 12
+    },
+    "../react/packages/shared/forks/ReactFeatureFlags.persistent.js": {
+      "userLines": 11,
+      "total": 12
+    },
+    "../react/packages/shared/forks/ReactFeatureFlags.readonly.js": {
+      "userLines": 9,
+      "total": 9
+    },
+    "../react/packages/shared/forks/ReactFeatureFlags.www.js": {
+      "userLines": 21,
+      "total": 25
+    },
+    "../react/packages/shared/forks/Scheduler.umd.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../react/packages/shared/forks/SchedulerTracing.umd.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../react/packages/shared/forks/invokeGuardedCallbackImpl.www.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/shared/forks/lowPriorityWarning.www.js": {
+      "userLines": 5,
+      "total": 6
+    },
+    "../react/packages/shared/forks/object-assign.umd.js": {
+      "userLines": 7,
+      "total": 8
+    },
+    "../react/packages/shared/forks/warningWithoutStack.www.js": {
+      "userLines": 5,
+      "total": 6
+    },
+    "../react/packages/shared/getComponentName.js": {
+      "userLines": 5,
+      "total": 9
+    },
+    "../react/packages/shared/invariant.js": {
+      "userLines": 16,
+      "total": 17
+    },
+    "../react/packages/shared/invokeGuardedCallbackImpl.js": {
+      "userLines": 66,
+      "total": 77
+    },
+    "../react/packages/shared/isTextInputElement.js": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../react/packages/shared/isValidElementType.js": {
+      "userLines": 0,
+      "total": 9
+    },
+    "../react/packages/shared/lowPriorityWarning.js": {
+      "userLines": 0,
+      "total": 22
+    },
+    "../react/packages/shared/shallowEqual.js": {
+      "userLines": 13,
+      "total": 14
+    },
+    "../react/packages/shared/warning.js": {
+      "userLines": 12,
+      "total": 13
+    },
+    "../react/packages/shared/warningWithoutStack.js": {
+      "userLines": 14,
+      "total": 18
+    },
+    "../react/scripts/babel/transform-object-assign-require.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../react/scripts/babel/transform-prevent-infinite-loops.js": {
+      "userLines": 16,
+      "total": 18
+    },
+    "../react/scripts/babel/wrap-warning-with-env-check.js": {
+      "userLines": 5,
+      "total": 21
+    },
+    "../react/scripts/bench/build.js": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../react/scripts/bench/runner.js": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../react/scripts/circleci/build.sh": {
+      "userLines": 9,
+      "total": 11
+    },
+    "../react/scripts/circleci/check_modules.sh": {
+      "userLines": 2,
+      "total": 3
+    },
+    "../react/scripts/circleci/test_coverage.sh": {
+      "userLines": 2,
+      "total": 3
+    },
+    "../react/scripts/circleci/test_entry_point.sh": {
+      "userLines": 1,
+      "total": 3
+    },
+    "../react/scripts/circleci/test_print_warnings.sh": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../react/scripts/circleci/upload_build.sh": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../react/scripts/error-codes/extract-errors.js": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../react/scripts/error-codes/invertObject.js": {
+      "userLines": 1,
+      "total": 17
+    },
+    "../react/scripts/eslint-rules/no-primitive-constructors.js": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../react/scripts/eslint-rules/warning-and-invariant-args.js": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../react/scripts/flow/config/flowconfig": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/scripts/flow/createFlowConfigs.js": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../react/scripts/flow/environment.js": {
+      "userLines": 3,
+      "total": 13
+    },
+    "../react/scripts/flow/react-native-host-hooks.js": {
+      "userLines": 8,
+      "total": 9
+    },
+    "../react/scripts/flow/runFlow.js": {
+      "userLines": 8,
+      "total": 9
+    },
+    "../react/scripts/jest/config.base.js": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../react/scripts/jest/config.build.js": {
+      "userLines": 13,
+      "total": 13
+    },
+    "../react/scripts/jest/config.source-fire.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/scripts/jest/config.source.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/scripts/jest/matchers/toWarnDev.js": {
+      "userLines": 13,
+      "total": 31
+    },
+    "../react/scripts/jest/noHaste.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../react/scripts/jest/preprocessor.js": {
+      "userLines": 2,
+      "total": 10
+    },
+    "../react/scripts/jest/setupEnvironment.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../react/scripts/jest/setupFire.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/scripts/jest/setupHostConfigs.js": {
+      "userLines": 12,
+      "total": 16
+    },
+    "../react/scripts/jest/setupTests.js": {
+      "userLines": 9,
+      "total": 22
+    },
+    "../react/scripts/jest/shouldIgnoreConsoleError.js": {
+      "userLines": 7,
+      "total": 7
+    },
+    "../react/scripts/jest/spec-equivalence-reporter/setupTests.js": {
+      "userLines": 0,
+      "total": 11
+    },
+    "../react/scripts/print-warnings/print-warnings.js": {
+      "userLines": 3,
+      "total": 15
+    },
+    "../react/scripts/rollup/build.js": {
+      "userLines": 44,
+      "total": 55
+    },
+    "../react/scripts/rollup/bundles.js": {
+      "userLines": 13,
+      "total": 42
+    },
+    "../react/scripts/rollup/forks.js": {
+      "userLines": 27,
+      "total": 40
+    },
+    "../react/scripts/rollup/modules.js": {
+      "userLines": 9,
+      "total": 11
+    },
+    "../react/scripts/rollup/packaging.js": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../react/scripts/rollup/plugins/closure-plugin.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/scripts/rollup/plugins/sizes-plugin.js": {
+      "userLines": 5,
+      "total": 6
+    },
+    "../react/scripts/rollup/plugins/use-forks-plugin.js": {
+      "userLines": 17,
+      "total": 18
+    },
+    "../react/scripts/rollup/shims/react-native/ReactNativeViewConfigRegistry.js": {
+      "userLines": 2,
+      "total": 21
+    },
+    "../react/scripts/rollup/stats.js": {
+      "userLines": 1,
+      "total": 5
+    },
+    "../react/scripts/rollup/sync.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/scripts/rollup/utils.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../react/scripts/rollup/validate/eslintignore": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../react/scripts/rollup/validate/eslintrc.cjs.js": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../react/scripts/rollup/validate/eslintrc.fb.js": {
+      "userLines": 3,
+      "total": 4
+    },
+    "../react/scripts/rollup/validate/eslintrc.rn.js": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../react/scripts/rollup/validate/eslintrc.umd.js": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../react/scripts/rollup/validate/index.js": {
+      "userLines": 8,
+      "total": 10
+    },
+    "../react/scripts/rollup/wrappers.js": {
+      "userLines": 66,
+      "total": 121
+    },
+    "../react/scripts/shared/inlinedHostConfigs.js": {
+      "userLines": 6,
+      "total": 7
+    },
+    "../react/scripts/tasks/flow-ci.js": {
+      "userLines": 6,
+      "total": 7
+    },
+    "../react/scripts/tasks/flow.js": {
+      "userLines": 2,
+      "total": 8
+    },
+    "../react/scripts/tasks/version-check.js": {
+      "userLines": 0,
+      "total": 6
+    }
+  }
+}

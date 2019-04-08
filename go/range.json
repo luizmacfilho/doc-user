@@ -1,0 +1,2364 @@
+{
+  "mdFiles": {
+    "../go/CONTRIBUTING.md": [],
+    "../go/README.md": []
+  },
+  "otherFiles": {
+    "../go/src/syscall/asm9_unix1_amd64.s": [],
+    "../go/src/syscall/asm9_unix2_amd64.s": [],
+    "../go/src/syscall/asm_aix_ppc64.s": [],
+    "../go/src/syscall/asm_darwin_386.s": [
+      {
+        "start": 117,
+        "end": 117
+      },
+      {
+        "start": 120,
+        "end": 120
+      },
+      {
+        "start": 123,
+        "end": 131
+      },
+      {
+        "start": 135,
+        "end": 136
+      },
+      {
+        "start": 140,
+        "end": 140
+      }
+    ],
+    "../go/src/syscall/asm_darwin_amd64.s": [
+      {
+        "start": 119,
+        "end": 119
+      },
+      {
+        "start": 129,
+        "end": 131
+      },
+      {
+        "start": 135,
+        "end": 136
+      },
+      {
+        "start": 140,
+        "end": 140
+      }
+    ],
+    "../go/src/syscall/asm_darwin_arm.s": [],
+    "../go/src/syscall/asm_darwin_arm64.s": [],
+    "../go/src/syscall/asm_freebsd_arm.s": [],
+    "../go/src/syscall/asm_linux_386.s": [
+      {
+        "start": 90,
+        "end": 90
+      },
+      {
+        "start": 100,
+        "end": 101
+      },
+      {
+        "start": 104,
+        "end": 104
+      },
+      {
+        "start": 106,
+        "end": 107
+      },
+      {
+        "start": 111,
+        "end": 112
+      },
+      {
+        "start": 153,
+        "end": 153
+      },
+      {
+        "start": 155,
+        "end": 155
+      },
+      {
+        "start": 158,
+        "end": 159
+      },
+      {
+        "start": 162,
+        "end": 163
+      },
+      {
+        "start": 165,
+        "end": 165
+      },
+      {
+        "start": 167,
+        "end": 168
+      },
+      {
+        "start": 171,
+        "end": 172
+      }
+    ],
+    "../go/src/syscall/asm_linux_amd64.s": [
+      {
+        "start": 90,
+        "end": 90
+      },
+      {
+        "start": 100,
+        "end": 102
+      },
+      {
+        "start": 105,
+        "end": 105
+      },
+      {
+        "start": 107,
+        "end": 108
+      },
+      {
+        "start": 112,
+        "end": 113
+      },
+      {
+        "start": 154,
+        "end": 154
+      },
+      {
+        "start": 155,
+        "end": 155
+      },
+      {
+        "start": 156,
+        "end": 160
+      },
+      {
+        "start": 162,
+        "end": 163
+      },
+      {
+        "start": 165,
+        "end": 165
+      }
+    ],
+    "../go/src/syscall/asm_linux_arm.s": [
+      {
+        "start": 73,
+        "end": 74
+      },
+      {
+        "start": 84,
+        "end": 84
+      },
+      {
+        "start": 87,
+        "end": 87
+      },
+      {
+        "start": 89,
+        "end": 89
+      },
+      {
+        "start": 93,
+        "end": 94
+      },
+      {
+        "start": 97,
+        "end": 97
+      },
+      {
+        "start": 99,
+        "end": 100
+      }
+    ],
+    "../go/src/syscall/asm_linux_arm64.s": [],
+    "../go/src/syscall/asm_linux_mips64x.s": [],
+    "../go/src/syscall/asm_linux_mipsx.s": [],
+    "../go/src/syscall/asm_linux_ppc64x.s": [],
+    "../go/src/syscall/asm_linux_s390x.s": [],
+    "../go/src/syscall/asm_nacl_386.s": [],
+    "../go/src/syscall/asm_nacl_amd64p32.s": [],
+    "../go/src/syscall/asm_nacl_arm.s": [],
+    "../go/src/syscall/asm_netbsd_arm.s": [],
+    "../go/src/syscall/asm_openbsd_arm.s": [],
+    "../go/src/syscall/asm_plan9_386.s": [
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 96,
+        "end": 96
+      },
+      {
+        "start": 170,
+        "end": 170
+      }
+    ],
+    "../go/src/syscall/asm_plan9_amd64.s": [
+      {
+        "start": 50,
+        "end": 50
+      },
+      {
+        "start": 95,
+        "end": 95
+      },
+      {
+        "start": 168,
+        "end": 168
+      }
+    ],
+    "../go/src/syscall/asm_plan9_arm.s": [],
+    "../go/src/syscall/asm_solaris_amd64.s": [],
+    "../go/src/syscall/asm_unix_386.s": [
+      {
+        "start": 119,
+        "end": 119
+      },
+      {
+        "start": 122,
+        "end": 133
+      },
+      {
+        "start": 137,
+        "end": 138
+      },
+      {
+        "start": 142,
+        "end": 142
+      }
+    ],
+    "../go/src/syscall/asm_unix_amd64.s": [],
+    "../go/src/syscall/asm_windows.s": [],
+    "../go/src/syscall/bpf_bsd.go": [],
+    "../go/src/syscall/bpf_darwin.go": [],
+    "../go/src/syscall/const_plan9.go": [],
+    "../go/src/syscall/creds_test.go": [],
+    "../go/src/syscall/dir_plan9.go": [],
+    "../go/src/syscall/dirent.go": [],
+    "../go/src/syscall/dirent_bsd_test.go": [],
+    "../go/src/syscall/dll_windows.go": [
+      {
+        "start": 157,
+        "end": 158
+      },
+      {
+        "start": 322,
+        "end": 323
+      }
+    ],
+    "../go/src/syscall/endian_big.go": [],
+    "../go/src/syscall/endian_little.go": [],
+    "../go/src/syscall/env_plan9.go": [],
+    "../go/src/syscall/env_unix.go": [],
+    "../go/src/syscall/env_windows.go": [],
+    "../go/src/syscall/errors_plan9.go": [],
+    "../go/src/syscall/exec_aix_test.go": [],
+    "../go/src/syscall/exec_bsd.go": [
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 81,
+        "end": 82
+      }
+    ],
+    "../go/src/syscall/exec_darwin.go": [],
+    "../go/src/syscall/exec_libc.go": [
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 66,
+        "end": 66
+      },
+      {
+        "start": 107,
+        "end": 108
+      }
+    ],
+    "../go/src/syscall/exec_linux.go": [
+      {
+        "start": 23,
+        "end": 28
+      },
+      {
+        "start": 57,
+        "end": 57
+      },
+      {
+        "start": 68,
+        "end": 68
+      },
+      {
+        "start": 223,
+        "end": 224
+      }
+    ],
+    "../go/src/syscall/exec_linux_test.go": [
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 115,
+        "end": 115
+      },
+      {
+        "start": 122,
+        "end": 123
+      },
+      {
+        "start": 139,
+        "end": 139
+      },
+      {
+        "start": 153,
+        "end": 153
+      },
+      {
+        "start": 160,
+        "end": 160
+      },
+      {
+        "start": 165,
+        "end": 165
+      },
+      {
+        "start": 261,
+        "end": 262
+      },
+      {
+        "start": 264,
+        "end": 265
+      },
+      {
+        "start": 294,
+        "end": 299
+      },
+      {
+        "start": 300,
+        "end": 300
+      },
+      {
+        "start": 302,
+        "end": 306
+      },
+      {
+        "start": 308,
+        "end": 308
+      }
+    ],
+    "../go/src/syscall/exec_plan9.go": [
+      {
+        "start": 121,
+        "end": 121
+      }
+    ],
+    "../go/src/syscall/exec_solaris_test.go": [],
+    "../go/src/syscall/exec_unix.go": [],
+    "../go/src/syscall/exec_unix_test.go": [],
+    "../go/src/syscall/exec_windows.go": [],
+    "../go/src/syscall/export_freebsd_test.go": [],
+    "../go/src/syscall/export_linux_test.go": [],
+    "../go/src/syscall/export_test.go": [],
+    "../go/src/syscall/export_unix_test.go": [],
+    "../go/src/syscall/fd_nacl.go": [],
+    "../go/src/syscall/flock.go": [],
+    "../go/src/syscall/flock_aix.go": [],
+    "../go/src/syscall/flock_darwin.go": [],
+    "../go/src/syscall/flock_linux_32bit.go": [],
+    "../go/src/syscall/forkpipe.go": [],
+    "../go/src/syscall/forkpipe2.go": [],
+    "../go/src/syscall/fs_js.go": [],
+    "../go/src/syscall/fs_nacl.go": [],
+    "../go/src/syscall/getdirentries_test.go": [],
+    "../go/src/syscall/js/func.go": [],
+    "../go/src/syscall/js/js.go": [],
+    "../go/src/syscall/js/js_js.s": [],
+    "../go/src/syscall/js/js_test.go": [],
+    "../go/src/syscall/js/typedarray.go": [],
+    "../go/src/syscall/lsf_linux.go": [],
+    "../go/src/syscall/mkall.sh": [
+      {
+        "start": 196,
+        "end": 196
+      }
+    ],
+    "../go/src/syscall/mkasm_darwin.go": [],
+    "../go/src/syscall/mkerrors.sh": [
+      {
+        "start": 105,
+        "end": 105
+      },
+      {
+        "start": 107,
+        "end": 107
+      }
+    ],
+    "../go/src/syscall/mkpost.go": [],
+    "../go/src/syscall/mksyscall.pl": [
+      {
+        "start": 16,
+        "end": 21
+      },
+      {
+        "start": 111,
+        "end": 112
+      },
+      {
+        "start": 122,
+        "end": 122
+      },
+      {
+        "start": 215,
+        "end": 215
+      },
+      {
+        "start": 221,
+        "end": 221
+      },
+      {
+        "start": 232,
+        "end": 232
+      }
+    ],
+    "../go/src/syscall/mksyscall_libc.pl": [],
+    "../go/src/syscall/mksyscall_windows.go": [],
+    "../go/src/syscall/mksysctl_openbsd.pl": [],
+    "../go/src/syscall/mksysnum_darwin.pl": [],
+    "../go/src/syscall/mksysnum_dragonfly.pl": [],
+    "../go/src/syscall/mksysnum_freebsd.pl": [],
+    "../go/src/syscall/mksysnum_linux.pl": [
+      {
+        "start": 34,
+        "end": 35
+      }
+    ],
+    "../go/src/syscall/mksysnum_netbsd.pl": [],
+    "../go/src/syscall/mksysnum_openbsd.pl": [],
+    "../go/src/syscall/mksysnum_plan9.sh": [],
+    "../go/src/syscall/mmap_unix_test.go": [],
+    "../go/src/syscall/msan.go": [
+      {
+        "start": 2,
+        "end": 22
+      }
+    ],
+    "../go/src/syscall/msan0.go": [
+      {
+        "start": 2,
+        "end": 19
+      }
+    ],
+    "../go/src/syscall/net.go": [
+      {
+        "start": 29,
+        "end": 29
+      }
+    ],
+    "../go/src/syscall/net_js.go": [],
+    "../go/src/syscall/net_nacl.go": [],
+    "../go/src/syscall/netlink_linux.go": [
+      {
+        "start": 31,
+        "end": 35
+      },
+      {
+        "start": 42,
+        "end": 42
+      }
+    ],
+    "../go/src/syscall/pwd_plan9.go": [],
+    "../go/src/syscall/route_bsd.go": [],
+    "../go/src/syscall/route_darwin.go": [],
+    "../go/src/syscall/route_dragonfly.go": [],
+    "../go/src/syscall/route_freebsd.go": [],
+    "../go/src/syscall/route_freebsd_32bit.go": [],
+    "../go/src/syscall/route_freebsd_64bit.go": [],
+    "../go/src/syscall/route_netbsd.go": [],
+    "../go/src/syscall/route_openbsd.go": [],
+    "../go/src/syscall/security_windows.go": [],
+    "../go/src/syscall/setuidgid_32_linux.go": [],
+    "../go/src/syscall/setuidgid_linux.go": [],
+    "../go/src/syscall/sockcmsg_linux.go": [],
+    "../go/src/syscall/sockcmsg_unix.go": [],
+    "../go/src/syscall/str.go": [],
+    "../go/src/syscall/syscall.go": [
+      {
+        "start": 77,
+        "end": 77
+      }
+    ],
+    "../go/src/syscall/syscall_aix.go": [],
+    "../go/src/syscall/syscall_aix_ppc64.go": [],
+    "../go/src/syscall/syscall_bsd.go": [],
+    "../go/src/syscall/syscall_bsd_test.go": [],
+    "../go/src/syscall/syscall_darwin.go": [
+      {
+        "start": 262,
+        "end": 263
+      },
+      {
+        "start": 275,
+        "end": 277
+      },
+      {
+        "start": 279,
+        "end": 281
+      },
+      {
+        "start": 286,
+        "end": 287
+      }
+    ],
+    "../go/src/syscall/syscall_darwin_386.go": [
+      {
+        "start": 9,
+        "end": 10
+      },
+      {
+        "start": 13,
+        "end": 14
+      }
+    ],
+    "../go/src/syscall/syscall_darwin_amd64.go": [
+      {
+        "start": 9,
+        "end": 10
+      },
+      {
+        "start": 13,
+        "end": 14
+      }
+    ],
+    "../go/src/syscall/syscall_darwin_arm.go": [
+      {
+        "start": 9,
+        "end": 10
+      },
+      {
+        "start": 13,
+        "end": 14
+      }
+    ],
+    "../go/src/syscall/syscall_darwin_arm64.go": [],
+    "../go/src/syscall/syscall_dragonfly.go": [
+      {
+        "start": 144,
+        "end": 145
+      }
+    ],
+    "../go/src/syscall/syscall_dragonfly_amd64.go": [
+      {
+        "start": 9,
+        "end": 10
+      },
+      {
+        "start": 13,
+        "end": 14
+      }
+    ],
+    "../go/src/syscall/syscall_freebsd.go": [
+      {
+        "start": 410,
+        "end": 411
+      },
+      {
+        "start": 429,
+        "end": 431
+      },
+      {
+        "start": 433,
+        "end": 435
+      },
+      {
+        "start": 441,
+        "end": 441
+      }
+    ],
+    "../go/src/syscall/syscall_freebsd_386.go": [
+      {
+        "start": 9,
+        "end": 10
+      },
+      {
+        "start": 13,
+        "end": 14
+      }
+    ],
+    "../go/src/syscall/syscall_freebsd_amd64.go": [
+      {
+        "start": 9,
+        "end": 10
+      },
+      {
+        "start": 13,
+        "end": 14
+      }
+    ],
+    "../go/src/syscall/syscall_freebsd_arm.go": [
+      {
+        "start": 9,
+        "end": 10
+      },
+      {
+        "start": 13,
+        "end": 14
+      }
+    ],
+    "../go/src/syscall/syscall_freebsd_test.go": [],
+    "../go/src/syscall/syscall_getwd_bsd.go": [],
+    "../go/src/syscall/syscall_js.go": [],
+    "../go/src/syscall/syscall_linux.go": [
+      {
+        "start": 44,
+        "end": 106
+      },
+      {
+        "start": 394,
+        "end": 394
+      },
+      {
+        "start": 401,
+        "end": 402
+      },
+      {
+        "start": 538,
+        "end": 544
+      },
+      {
+        "start": 548,
+        "end": 555
+      },
+      {
+        "start": 909,
+        "end": 910
+      },
+      {
+        "start": 912,
+        "end": 912
+      },
+      {
+        "start": 930,
+        "end": 931
+      },
+      {
+        "start": 934,
+        "end": 934
+      },
+      {
+        "start": 977,
+        "end": 977
+      }
+    ],
+    "../go/src/syscall/syscall_linux_386.go": [
+      {
+        "start": 17,
+        "end": 18
+      },
+      {
+        "start": 21,
+        "end": 22
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 56,
+        "end": 56
+      },
+      {
+        "start": 58,
+        "end": 61
+      },
+      {
+        "start": 179,
+        "end": 179
+      },
+      {
+        "start": 182,
+        "end": 182
+      },
+      {
+        "start": 209,
+        "end": 211
+      },
+      {
+        "start": 225,
+        "end": 232
+      },
+      {
+        "start": 351,
+        "end": 352
+      },
+      {
+        "start": 359,
+        "end": 360
+      },
+      {
+        "start": 371,
+        "end": 372
+      }
+    ],
+    "../go/src/syscall/syscall_linux_amd64.go": [
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 17,
+        "end": 19
+      },
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 97,
+        "end": 97
+      },
+      {
+        "start": 98,
+        "end": 99
+      },
+      {
+        "start": 102,
+        "end": 103
+      }
+    ],
+    "../go/src/syscall/syscall_linux_arm.go": [
+      {
+        "start": 14,
+        "end": 15
+      },
+      {
+        "start": 18,
+        "end": 19
+      },
+      {
+        "start": 22,
+        "end": 23
+      },
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 31,
+        "end": 33
+      },
+      {
+        "start": 65,
+        "end": 65
+      },
+      {
+        "start": 83,
+        "end": 83
+      },
+      {
+        "start": 86,
+        "end": 86
+      },
+      {
+        "start": 104,
+        "end": 104
+      },
+      {
+        "start": 107,
+        "end": 107
+      }
+    ],
+    "../go/src/syscall/syscall_linux_arm64.go": [
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 89,
+        "end": 90
+      },
+      {
+        "start": 93,
+        "end": 94
+      }
+    ],
+    "../go/src/syscall/syscall_linux_mips64x.go": [
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 91,
+        "end": 92
+      },
+      {
+        "start": 95,
+        "end": 96
+      }
+    ],
+    "../go/src/syscall/syscall_linux_mipsx.go": [
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 41,
+        "end": 41
+      }
+    ],
+    "../go/src/syscall/syscall_linux_ppc64x.go": [
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 71,
+        "end": 72
+      },
+      {
+        "start": 75,
+        "end": 76
+      }
+    ],
+    "../go/src/syscall/syscall_linux_s390x.go": [
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 63,
+        "end": 64
+      },
+      {
+        "start": 67,
+        "end": 68
+      }
+    ],
+    "../go/src/syscall/syscall_linux_test.go": [
+      {
+        "start": 61,
+        "end": 62
+      },
+      {
+        "start": 69,
+        "end": 69
+      },
+      {
+        "start": 74,
+        "end": 74
+      },
+      {
+        "start": 79,
+        "end": 81
+      },
+      {
+        "start": 89,
+        "end": 113
+      }
+    ],
+    "../go/src/syscall/syscall_nacl.go": [],
+    "../go/src/syscall/syscall_nacl_386.go": [
+      {
+        "start": 17,
+        "end": 18
+      },
+      {
+        "start": 21,
+        "end": 22
+      }
+    ],
+    "../go/src/syscall/syscall_nacl_amd64p32.go": [
+      {
+        "start": 17,
+        "end": 18
+      },
+      {
+        "start": 21,
+        "end": 22
+      }
+    ],
+    "../go/src/syscall/syscall_nacl_arm.go": [
+      {
+        "start": 17,
+        "end": 18
+      },
+      {
+        "start": 21,
+        "end": 22
+      }
+    ],
+    "../go/src/syscall/syscall_netbsd.go": [
+      {
+        "start": 165,
+        "end": 166
+      }
+    ],
+    "../go/src/syscall/syscall_netbsd_386.go": [
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 11,
+        "end": 12
+      }
+    ],
+    "../go/src/syscall/syscall_netbsd_amd64.go": [
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 11,
+        "end": 12
+      }
+    ],
+    "../go/src/syscall/syscall_netbsd_arm.go": [
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 11,
+        "end": 12
+      }
+    ],
+    "../go/src/syscall/syscall_openbsd.go": [
+      {
+        "start": 140,
+        "end": 141
+      }
+    ],
+    "../go/src/syscall/syscall_openbsd_386.go": [
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 11,
+        "end": 12
+      }
+    ],
+    "../go/src/syscall/syscall_openbsd_amd64.go": [
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 11,
+        "end": 12
+      }
+    ],
+    "../go/src/syscall/syscall_openbsd_arm.go": [
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 11,
+        "end": 12
+      }
+    ],
+    "../go/src/syscall/syscall_plan9.go": [
+      {
+        "start": 77,
+        "end": 78
+      }
+    ],
+    "../go/src/syscall/syscall_plan9_test.go": [],
+    "../go/src/syscall/syscall_solaris.go": [],
+    "../go/src/syscall/syscall_solaris_amd64.go": [
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 11,
+        "end": 12
+      }
+    ],
+    "../go/src/syscall/syscall_test.go": [],
+    "../go/src/syscall/syscall_unix.go": [
+      {
+        "start": 72,
+        "end": 72
+      },
+      {
+        "start": 141,
+        "end": 141
+      },
+      {
+        "start": 198,
+        "end": 200
+      },
+      {
+        "start": 212,
+        "end": 214
+      }
+    ],
+    "../go/src/syscall/syscall_unix_test.go": [],
+    "../go/src/syscall/syscall_windows.go": [
+      {
+        "start": 137,
+        "end": 137
+      },
+      {
+        "start": 144,
+        "end": 144
+      },
+      {
+        "start": 333,
+        "end": 335
+      },
+      {
+        "start": 351,
+        "end": 353
+      }
+    ],
+    "../go/src/syscall/syscall_windows_386.go": [],
+    "../go/src/syscall/syscall_windows_amd64.go": [],
+    "../go/src/syscall/syscall_windows_test.go": [],
+    "../go/src/syscall/tables_nacljs.go": [],
+    "../go/src/syscall/time_nacl_386.s": [],
+    "../go/src/syscall/time_nacl_amd64p32.s": [],
+    "../go/src/syscall/time_nacl_arm.s": [],
+    "../go/src/syscall/timestruct.go": [
+      {
+        "start": 1,
+        "end": 4
+      },
+      {
+        "start": 6,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 10
+      },
+      {
+        "start": 11,
+        "end": 12
+      },
+      {
+        "start": 13,
+        "end": 26
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 28,
+        "end": 40
+      }
+    ],
+    "../go/src/syscall/types_aix.go": [],
+    "../go/src/syscall/types_darwin.go": [],
+    "../go/src/syscall/types_dragonfly.go": [],
+    "../go/src/syscall/types_freebsd.go": [],
+    "../go/src/syscall/types_linux.go": [],
+    "../go/src/syscall/types_netbsd.go": [],
+    "../go/src/syscall/types_openbsd.go": [],
+    "../go/src/syscall/types_solaris.go": [],
+    "../go/src/syscall/types_windows.go": [],
+    "../go/src/syscall/types_windows_386.go": [],
+    "../go/src/syscall/types_windows_amd64.go": [],
+    "../go/src/syscall/types_windows_arm.go": [],
+    "../go/src/syscall/unzip_nacl.go": [],
+    "../go/src/syscall/zerrors_aix_ppc64.go": [],
+    "../go/src/syscall/zerrors_darwin_386.go": [],
+    "../go/src/syscall/zerrors_darwin_amd64.go": [],
+    "../go/src/syscall/zerrors_darwin_arm.go": [],
+    "../go/src/syscall/zerrors_darwin_arm64.go": [],
+    "../go/src/syscall/zerrors_dragonfly_amd64.go": [],
+    "../go/src/syscall/zerrors_freebsd_386.go": [],
+    "../go/src/syscall/zerrors_freebsd_amd64.go": [],
+    "../go/src/syscall/zerrors_freebsd_arm.go": [],
+    "../go/src/syscall/zerrors_linux_386.go": [],
+    "../go/src/syscall/zerrors_linux_amd64.go": [],
+    "../go/src/syscall/zerrors_linux_arm.go": [],
+    "../go/src/syscall/zerrors_linux_arm64.go": [],
+    "../go/src/syscall/zerrors_linux_mips.go": [],
+    "../go/src/syscall/zerrors_linux_mips64.go": [],
+    "../go/src/syscall/zerrors_linux_mips64le.go": [],
+    "../go/src/syscall/zerrors_linux_mipsle.go": [],
+    "../go/src/syscall/zerrors_linux_ppc64.go": [],
+    "../go/src/syscall/zerrors_linux_ppc64le.go": [
+      {
+        "start": 371,
+        "end": 371
+      },
+      {
+        "start": 373,
+        "end": 373
+      }
+    ],
+    "../go/src/syscall/zerrors_linux_s390x.go": [],
+    "../go/src/syscall/zerrors_netbsd_386.go": [],
+    "../go/src/syscall/zerrors_netbsd_amd64.go": [],
+    "../go/src/syscall/zerrors_netbsd_arm.go": [],
+    "../go/src/syscall/zerrors_openbsd_386.go": [],
+    "../go/src/syscall/zerrors_openbsd_amd64.go": [],
+    "../go/src/syscall/zerrors_openbsd_arm.go": [],
+    "../go/src/syscall/zerrors_solaris_amd64.go": [],
+    "../go/src/syscall/zerrors_windows.go": [],
+    "../go/src/syscall/zerrors_windows_386.go": [],
+    "../go/src/syscall/zerrors_windows_amd64.go": [],
+    "../go/src/syscall/zsyscall_aix_ppc64.go": [],
+    "../go/src/syscall/zsyscall_darwin_386.go": [],
+    "../go/src/syscall/zsyscall_darwin_386.s": [],
+    "../go/src/syscall/zsyscall_darwin_amd64.go": [],
+    "../go/src/syscall/zsyscall_darwin_amd64.s": [],
+    "../go/src/syscall/zsyscall_darwin_arm.go": [
+      {
+        "start": 634,
+        "end": 634
+      },
+      {
+        "start": 1058,
+        "end": 1058
+      },
+      {
+        "start": 1060,
+        "end": 1063
+      },
+      {
+        "start": 1069,
+        "end": 1077
+      },
+      {
+        "start": 1079,
+        "end": 1079
+      },
+      {
+        "start": 1081,
+        "end": 1084
+      },
+      {
+        "start": 1090,
+        "end": 1092
+      },
+      {
+        "start": 1094,
+        "end": 1094
+      },
+      {
+        "start": 1096,
+        "end": 1099
+      },
+      {
+        "start": 1105,
+        "end": 1113
+      },
+      {
+        "start": 1115,
+        "end": 1115
+      },
+      {
+        "start": 1117,
+        "end": 1120
+      },
+      {
+        "start": 1126,
+        "end": 1134
+      },
+      {
+        "start": 1136,
+        "end": 1136
+      },
+      {
+        "start": 1138,
+        "end": 1141
+      },
+      {
+        "start": 1147,
+        "end": 1149
+      }
+    ],
+    "../go/src/syscall/zsyscall_darwin_arm.s": [],
+    "../go/src/syscall/zsyscall_darwin_arm64.go": [],
+    "../go/src/syscall/zsyscall_darwin_arm64.s": [],
+    "../go/src/syscall/zsyscall_dragonfly_amd64.go": [
+      {
+        "start": 421,
+        "end": 421
+      },
+      {
+        "start": 432,
+        "end": 432
+      }
+    ],
+    "../go/src/syscall/zsyscall_freebsd_386.go": [
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 107,
+        "end": 107
+      },
+      {
+        "start": 117,
+        "end": 117
+      },
+      {
+        "start": 137,
+        "end": 137
+      },
+      {
+        "start": 385,
+        "end": 385
+      },
+      {
+        "start": 396,
+        "end": 396
+      },
+      {
+        "start": 599,
+        "end": 599
+      },
+      {
+        "start": 607,
+        "end": 607
+      },
+      {
+        "start": 615,
+        "end": 615
+      },
+      {
+        "start": 623,
+        "end": 623
+      },
+      {
+        "start": 634,
+        "end": 634
+      },
+      {
+        "start": 642,
+        "end": 642
+      },
+      {
+        "start": 650,
+        "end": 650
+      },
+      {
+        "start": 669,
+        "end": 669
+      },
+      {
+        "start": 679,
+        "end": 679
+      },
+      {
+        "start": 689,
+        "end": 689
+      },
+      {
+        "start": 700,
+        "end": 700
+      },
+      {
+        "start": 710,
+        "end": 710
+      },
+      {
+        "start": 1053,
+        "end": 1053
+      },
+      {
+        "start": 1063,
+        "end": 1063
+      },
+      {
+        "start": 1073,
+        "end": 1073
+      },
+      {
+        "start": 1098,
+        "end": 1098
+      },
+      {
+        "start": 1118,
+        "end": 1118
+      },
+      {
+        "start": 1128,
+        "end": 1128
+      },
+      {
+        "start": 1138,
+        "end": 1138
+      },
+      {
+        "start": 1148,
+        "end": 1148
+      },
+      {
+        "start": 1159,
+        "end": 1159
+      },
+      {
+        "start": 1169,
+        "end": 1169
+      }
+    ],
+    "../go/src/syscall/zsyscall_freebsd_amd64.go": [
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 107,
+        "end": 107
+      },
+      {
+        "start": 117,
+        "end": 117
+      },
+      {
+        "start": 137,
+        "end": 137
+      },
+      {
+        "start": 385,
+        "end": 385
+      },
+      {
+        "start": 396,
+        "end": 396
+      },
+      {
+        "start": 599,
+        "end": 599
+      },
+      {
+        "start": 607,
+        "end": 607
+      },
+      {
+        "start": 615,
+        "end": 615
+      },
+      {
+        "start": 623,
+        "end": 623
+      },
+      {
+        "start": 634,
+        "end": 634
+      },
+      {
+        "start": 642,
+        "end": 642
+      },
+      {
+        "start": 650,
+        "end": 650
+      },
+      {
+        "start": 669,
+        "end": 669
+      },
+      {
+        "start": 679,
+        "end": 679
+      },
+      {
+        "start": 689,
+        "end": 689
+      },
+      {
+        "start": 700,
+        "end": 700
+      },
+      {
+        "start": 710,
+        "end": 710
+      },
+      {
+        "start": 1053,
+        "end": 1053
+      },
+      {
+        "start": 1063,
+        "end": 1063
+      },
+      {
+        "start": 1073,
+        "end": 1073
+      },
+      {
+        "start": 1098,
+        "end": 1098
+      },
+      {
+        "start": 1118,
+        "end": 1118
+      },
+      {
+        "start": 1128,
+        "end": 1128
+      },
+      {
+        "start": 1138,
+        "end": 1138
+      },
+      {
+        "start": 1148,
+        "end": 1148
+      },
+      {
+        "start": 1159,
+        "end": 1159
+      },
+      {
+        "start": 1169,
+        "end": 1169
+      }
+    ],
+    "../go/src/syscall/zsyscall_freebsd_arm.go": [
+      {
+        "start": 385,
+        "end": 385
+      },
+      {
+        "start": 396,
+        "end": 396
+      }
+    ],
+    "../go/src/syscall/zsyscall_linux_386.go": [
+      {
+        "start": 176,
+        "end": 176
+      },
+      {
+        "start": 178,
+        "end": 178
+      },
+      {
+        "start": 182,
+        "end": 182
+      },
+      {
+        "start": 320,
+        "end": 320
+      },
+      {
+        "start": 331,
+        "end": 331
+      },
+      {
+        "start": 341,
+        "end": 341
+      },
+      {
+        "start": 351,
+        "end": 354
+      },
+      {
+        "start": 356,
+        "end": 361
+      },
+      {
+        "start": 363,
+        "end": 363
+      },
+      {
+        "start": 459,
+        "end": 459
+      },
+      {
+        "start": 461,
+        "end": 461
+      },
+      {
+        "start": 476,
+        "end": 476
+      },
+      {
+        "start": 514,
+        "end": 514
+      },
+      {
+        "start": 575,
+        "end": 575
+      },
+      {
+        "start": 586,
+        "end": 586
+      },
+      {
+        "start": 597,
+        "end": 597
+      },
+      {
+        "start": 607,
+        "end": 607
+      },
+      {
+        "start": 609,
+        "end": 609
+      },
+      {
+        "start": 613,
+        "end": 613
+      },
+      {
+        "start": 726,
+        "end": 726
+      },
+      {
+        "start": 728,
+        "end": 728
+      },
+      {
+        "start": 732,
+        "end": 732
+      },
+      {
+        "start": 783,
+        "end": 783
+      },
+      {
+        "start": 785,
+        "end": 785
+      },
+      {
+        "start": 789,
+        "end": 789
+      },
+      {
+        "start": 799,
+        "end": 799
+      },
+      {
+        "start": 801,
+        "end": 801
+      },
+      {
+        "start": 805,
+        "end": 805
+      },
+      {
+        "start": 815,
+        "end": 815
+      },
+      {
+        "start": 825,
+        "end": 825
+      },
+      {
+        "start": 836,
+        "end": 836
+      },
+      {
+        "start": 889,
+        "end": 889
+      },
+      {
+        "start": 910,
+        "end": 910
+      },
+      {
+        "start": 920,
+        "end": 920
+      },
+      {
+        "start": 939,
+        "end": 939
+      },
+      {
+        "start": 999,
+        "end": 999
+      },
+      {
+        "start": 1001,
+        "end": 1001
+      },
+      {
+        "start": 1005,
+        "end": 1005
+      },
+      {
+        "start": 1162,
+        "end": 1162
+      },
+      {
+        "start": 1191,
+        "end": 1205
+      },
+      {
+        "start": 1345,
+        "end": 1345
+      },
+      {
+        "start": 1355,
+        "end": 1355
+      },
+      {
+        "start": 1365,
+        "end": 1365
+      },
+      {
+        "start": 1375,
+        "end": 1375
+      },
+      {
+        "start": 1421,
+        "end": 1421
+      },
+      {
+        "start": 1432,
+        "end": 1432
+      },
+      {
+        "start": 1449,
+        "end": 1449
+      },
+      {
+        "start": 1501,
+        "end": 1501
+      },
+      {
+        "start": 1505,
+        "end": 1507
+      },
+      {
+        "start": 1511,
+        "end": 1511
+      },
+      {
+        "start": 1512,
+        "end": 1512
+      },
+      {
+        "start": 1516,
+        "end": 1517
+      }
+    ],
+    "../go/src/syscall/zsyscall_linux_amd64.go": [
+      {
+        "start": 176,
+        "end": 176
+      },
+      {
+        "start": 178,
+        "end": 178
+      },
+      {
+        "start": 182,
+        "end": 182
+      },
+      {
+        "start": 320,
+        "end": 320
+      },
+      {
+        "start": 331,
+        "end": 331
+      },
+      {
+        "start": 341,
+        "end": 341
+      },
+      {
+        "start": 351,
+        "end": 354
+      },
+      {
+        "start": 356,
+        "end": 361
+      },
+      {
+        "start": 363,
+        "end": 363
+      },
+      {
+        "start": 459,
+        "end": 459
+      },
+      {
+        "start": 461,
+        "end": 461
+      },
+      {
+        "start": 476,
+        "end": 476
+      },
+      {
+        "start": 514,
+        "end": 514
+      },
+      {
+        "start": 575,
+        "end": 575
+      },
+      {
+        "start": 586,
+        "end": 586
+      },
+      {
+        "start": 597,
+        "end": 597
+      },
+      {
+        "start": 607,
+        "end": 607
+      },
+      {
+        "start": 609,
+        "end": 609
+      },
+      {
+        "start": 613,
+        "end": 613
+      },
+      {
+        "start": 726,
+        "end": 726
+      },
+      {
+        "start": 728,
+        "end": 728
+      },
+      {
+        "start": 732,
+        "end": 732
+      },
+      {
+        "start": 783,
+        "end": 783
+      },
+      {
+        "start": 785,
+        "end": 785
+      },
+      {
+        "start": 789,
+        "end": 789
+      },
+      {
+        "start": 799,
+        "end": 799
+      },
+      {
+        "start": 801,
+        "end": 801
+      },
+      {
+        "start": 805,
+        "end": 805
+      },
+      {
+        "start": 815,
+        "end": 815
+      },
+      {
+        "start": 825,
+        "end": 825
+      },
+      {
+        "start": 836,
+        "end": 836
+      },
+      {
+        "start": 889,
+        "end": 889
+      },
+      {
+        "start": 910,
+        "end": 910
+      },
+      {
+        "start": 920,
+        "end": 920
+      },
+      {
+        "start": 939,
+        "end": 939
+      },
+      {
+        "start": 999,
+        "end": 999
+      },
+      {
+        "start": 1001,
+        "end": 1001
+      },
+      {
+        "start": 1005,
+        "end": 1005
+      },
+      {
+        "start": 1142,
+        "end": 1142
+      },
+      {
+        "start": 1362,
+        "end": 1362
+      },
+      {
+        "start": 1372,
+        "end": 1372
+      },
+      {
+        "start": 1382,
+        "end": 1382
+      },
+      {
+        "start": 1402,
+        "end": 1402
+      },
+      {
+        "start": 1483,
+        "end": 1486
+      },
+      {
+        "start": 1488,
+        "end": 1493
+      },
+      {
+        "start": 1530,
+        "end": 1530
+      },
+      {
+        "start": 1541,
+        "end": 1541
+      },
+      {
+        "start": 1571,
+        "end": 1571
+      },
+      {
+        "start": 1582,
+        "end": 1582
+      },
+      {
+        "start": 1592,
+        "end": 1592
+      },
+      {
+        "start": 1602,
+        "end": 1602
+      },
+      {
+        "start": 1612,
+        "end": 1612
+      },
+      {
+        "start": 1614,
+        "end": 1614
+      },
+      {
+        "start": 1618,
+        "end": 1618
+      },
+      {
+        "start": 1629,
+        "end": 1629
+      },
+      {
+        "start": 1631,
+        "end": 1631
+      },
+      {
+        "start": 1635,
+        "end": 1635
+      }
+    ],
+    "../go/src/syscall/zsyscall_linux_arm.go": [
+      {
+        "start": 176,
+        "end": 176
+      },
+      {
+        "start": 178,
+        "end": 178
+      },
+      {
+        "start": 182,
+        "end": 182
+      },
+      {
+        "start": 320,
+        "end": 320
+      },
+      {
+        "start": 331,
+        "end": 331
+      },
+      {
+        "start": 341,
+        "end": 341
+      },
+      {
+        "start": 351,
+        "end": 354
+      },
+      {
+        "start": 356,
+        "end": 361
+      },
+      {
+        "start": 363,
+        "end": 363
+      },
+      {
+        "start": 459,
+        "end": 459
+      },
+      {
+        "start": 461,
+        "end": 461
+      },
+      {
+        "start": 476,
+        "end": 476
+      },
+      {
+        "start": 514,
+        "end": 514
+      },
+      {
+        "start": 575,
+        "end": 575
+      },
+      {
+        "start": 586,
+        "end": 586
+      },
+      {
+        "start": 597,
+        "end": 597
+      },
+      {
+        "start": 607,
+        "end": 607
+      },
+      {
+        "start": 609,
+        "end": 609
+      },
+      {
+        "start": 613,
+        "end": 613
+      },
+      {
+        "start": 726,
+        "end": 726
+      },
+      {
+        "start": 728,
+        "end": 728
+      },
+      {
+        "start": 732,
+        "end": 732
+      },
+      {
+        "start": 783,
+        "end": 783
+      },
+      {
+        "start": 785,
+        "end": 785
+      },
+      {
+        "start": 789,
+        "end": 789
+      },
+      {
+        "start": 799,
+        "end": 799
+      },
+      {
+        "start": 801,
+        "end": 801
+      },
+      {
+        "start": 805,
+        "end": 805
+      },
+      {
+        "start": 815,
+        "end": 815
+      },
+      {
+        "start": 825,
+        "end": 825
+      },
+      {
+        "start": 836,
+        "end": 836
+      },
+      {
+        "start": 889,
+        "end": 889
+      },
+      {
+        "start": 910,
+        "end": 910
+      },
+      {
+        "start": 920,
+        "end": 920
+      },
+      {
+        "start": 939,
+        "end": 939
+      },
+      {
+        "start": 999,
+        "end": 999
+      },
+      {
+        "start": 1001,
+        "end": 1001
+      },
+      {
+        "start": 1005,
+        "end": 1005
+      },
+      {
+        "start": 1141,
+        "end": 1150
+      },
+      {
+        "start": 1172,
+        "end": 1175
+      },
+      {
+        "start": 1177,
+        "end": 1182
+      },
+      {
+        "start": 1204,
+        "end": 1204
+      },
+      {
+        "start": 1215,
+        "end": 1215
+      },
+      {
+        "start": 1245,
+        "end": 1245
+      },
+      {
+        "start": 1256,
+        "end": 1256
+      },
+      {
+        "start": 1266,
+        "end": 1266
+      },
+      {
+        "start": 1276,
+        "end": 1276
+      },
+      {
+        "start": 1278,
+        "end": 1278
+      },
+      {
+        "start": 1282,
+        "end": 1282
+      },
+      {
+        "start": 1293,
+        "end": 1293
+      },
+      {
+        "start": 1295,
+        "end": 1295
+      },
+      {
+        "start": 1299,
+        "end": 1299
+      },
+      {
+        "start": 1309,
+        "end": 1309
+      },
+      {
+        "start": 1341,
+        "end": 1341
+      },
+      {
+        "start": 1369,
+        "end": 1383
+      },
+      {
+        "start": 1542,
+        "end": 1542
+      },
+      {
+        "start": 1546,
+        "end": 1548
+      },
+      {
+        "start": 1552,
+        "end": 1552
+      },
+      {
+        "start": 1553,
+        "end": 1553
+      },
+      {
+        "start": 1557,
+        "end": 1558
+      }
+    ],
+    "../go/src/syscall/zsyscall_linux_arm64.go": [
+      {
+        "start": 320,
+        "end": 320
+      },
+      {
+        "start": 331,
+        "end": 331
+      },
+      {
+        "start": 1193,
+        "end": 1207
+      }
+    ],
+    "../go/src/syscall/zsyscall_linux_mips.go": [
+      {
+        "start": 1161,
+        "end": 1175
+      },
+      {
+        "start": 1369,
+        "end": 1371
+      }
+    ],
+    "../go/src/syscall/zsyscall_linux_mips64.go": [
+      {
+        "start": 1171,
+        "end": 1185
+      }
+    ],
+    "../go/src/syscall/zsyscall_linux_mips64le.go": [
+      {
+        "start": 1171,
+        "end": 1185
+      }
+    ],
+    "../go/src/syscall/zsyscall_linux_mipsle.go": [
+      {
+        "start": 1161,
+        "end": 1175
+      },
+      {
+        "start": 1369,
+        "end": 1371
+      }
+    ],
+    "../go/src/syscall/zsyscall_linux_ppc64.go": [
+      {
+        "start": 320,
+        "end": 320
+      },
+      {
+        "start": 331,
+        "end": 331
+      },
+      {
+        "start": 1142,
+        "end": 1142
+      },
+      {
+        "start": 1171,
+        "end": 1185
+      }
+    ],
+    "../go/src/syscall/zsyscall_linux_ppc64le.go": [
+      {
+        "start": 320,
+        "end": 320
+      },
+      {
+        "start": 331,
+        "end": 331
+      },
+      {
+        "start": 1142,
+        "end": 1142
+      },
+      {
+        "start": 1171,
+        "end": 1185
+      }
+    ],
+    "../go/src/syscall/zsyscall_linux_s390x.go": [
+      {
+        "start": 1171,
+        "end": 1185
+      }
+    ],
+    "../go/src/syscall/zsyscall_nacl_386.go": [],
+    "../go/src/syscall/zsyscall_nacl_amd64p32.go": [],
+    "../go/src/syscall/zsyscall_nacl_arm.go": [],
+    "../go/src/syscall/zsyscall_netbsd_386.go": [
+      {
+        "start": 413,
+        "end": 413
+      },
+      {
+        "start": 424,
+        "end": 424
+      }
+    ],
+    "../go/src/syscall/zsyscall_netbsd_amd64.go": [
+      {
+        "start": 413,
+        "end": 413
+      },
+      {
+        "start": 424,
+        "end": 424
+      }
+    ],
+    "../go/src/syscall/zsyscall_netbsd_arm.go": [
+      {
+        "start": 413,
+        "end": 413
+      },
+      {
+        "start": 424,
+        "end": 424
+      }
+    ],
+    "../go/src/syscall/zsyscall_openbsd_386.go": [
+      {
+        "start": 413,
+        "end": 413
+      },
+      {
+        "start": 424,
+        "end": 424
+      }
+    ],
+    "../go/src/syscall/zsyscall_openbsd_amd64.go": [
+      {
+        "start": 413,
+        "end": 413
+      },
+      {
+        "start": 424,
+        "end": 424
+      }
+    ],
+    "../go/src/syscall/zsyscall_openbsd_arm.go": [
+      {
+        "start": 413,
+        "end": 413
+      },
+      {
+        "start": 424,
+        "end": 424
+      }
+    ],
+    "../go/src/syscall/zsyscall_plan9_386.go": [],
+    "../go/src/syscall/zsyscall_plan9_amd64.go": [],
+    "../go/src/syscall/zsyscall_plan9_arm.go": [],
+    "../go/src/syscall/zsyscall_solaris_amd64.go": [],
+    "../go/src/syscall/zsyscall_windows.go": [],
+    "../go/src/syscall/zsysctl_openbsd.go": [],
+    "../go/src/syscall/zsysnum_darwin_386.go": [],
+    "../go/src/syscall/zsysnum_darwin_amd64.go": [],
+    "../go/src/syscall/zsysnum_darwin_arm.go": [],
+    "../go/src/syscall/zsysnum_darwin_arm64.go": [],
+    "../go/src/syscall/zsysnum_dragonfly_amd64.go": [],
+    "../go/src/syscall/zsysnum_freebsd_386.go": [],
+    "../go/src/syscall/zsysnum_freebsd_amd64.go": [],
+    "../go/src/syscall/zsysnum_freebsd_arm.go": [],
+    "../go/src/syscall/zsysnum_linux_386.go": [],
+    "../go/src/syscall/zsysnum_linux_amd64.go": [],
+    "../go/src/syscall/zsysnum_linux_arm.go": [],
+    "../go/src/syscall/zsysnum_linux_arm64.go": [],
+    "../go/src/syscall/zsysnum_linux_mips.go": [],
+    "../go/src/syscall/zsysnum_linux_mips64.go": [],
+    "../go/src/syscall/zsysnum_linux_mips64le.go": [],
+    "../go/src/syscall/zsysnum_linux_mipsle.go": [],
+    "../go/src/syscall/zsysnum_linux_ppc64.go": [],
+    "../go/src/syscall/zsysnum_linux_ppc64le.go": [],
+    "../go/src/syscall/zsysnum_linux_s390x.go": [],
+    "../go/src/syscall/zsysnum_netbsd_386.go": [],
+    "../go/src/syscall/zsysnum_netbsd_amd64.go": [],
+    "../go/src/syscall/zsysnum_netbsd_arm.go": [],
+    "../go/src/syscall/zsysnum_openbsd_386.go": [],
+    "../go/src/syscall/zsysnum_openbsd_amd64.go": [],
+    "../go/src/syscall/zsysnum_openbsd_arm.go": [],
+    "../go/src/syscall/zsysnum_plan9.go": [],
+    "../go/src/syscall/zsysnum_solaris_amd64.go": [],
+    "../go/src/syscall/zsysnum_windows_386.go": [],
+    "../go/src/syscall/zsysnum_windows_amd64.go": [],
+    "../go/src/syscall/ztypes_aix_ppc64.go": [],
+    "../go/src/syscall/ztypes_darwin_386.go": [],
+    "../go/src/syscall/ztypes_darwin_amd64.go": [],
+    "../go/src/syscall/ztypes_darwin_arm.go": [],
+    "../go/src/syscall/ztypes_darwin_arm64.go": [],
+    "../go/src/syscall/ztypes_dragonfly_amd64.go": [],
+    "../go/src/syscall/ztypes_freebsd_386.go": [],
+    "../go/src/syscall/ztypes_freebsd_amd64.go": [],
+    "../go/src/syscall/ztypes_freebsd_arm.go": [],
+    "../go/src/syscall/ztypes_linux_386.go": [],
+    "../go/src/syscall/ztypes_linux_amd64.go": [],
+    "../go/src/syscall/ztypes_linux_arm.go": [],
+    "../go/src/syscall/ztypes_linux_arm64.go": [],
+    "../go/src/syscall/ztypes_linux_mips.go": [],
+    "../go/src/syscall/ztypes_linux_mips64.go": [],
+    "../go/src/syscall/ztypes_linux_mips64le.go": [],
+    "../go/src/syscall/ztypes_linux_mipsle.go": [],
+    "../go/src/syscall/ztypes_linux_ppc64.go": [],
+    "../go/src/syscall/ztypes_linux_ppc64le.go": [
+      {
+        "start": 553,
+        "end": 553
+      }
+    ],
+    "../go/src/syscall/ztypes_linux_s390x.go": [],
+    "../go/src/syscall/ztypes_netbsd_386.go": [],
+    "../go/src/syscall/ztypes_netbsd_amd64.go": [],
+    "../go/src/syscall/ztypes_netbsd_arm.go": [],
+    "../go/src/syscall/ztypes_openbsd_386.go": [],
+    "../go/src/syscall/ztypes_openbsd_amd64.go": [],
+    "../go/src/syscall/ztypes_openbsd_arm.go": [],
+    "../go/src/syscall/ztypes_solaris_amd64.go": []
+  }
+}

@@ -1,0 +1,998 @@
+{
+  "mdFiles": {
+    "../bitcoin/CONTRIBUTING.md": {
+      "userLines": 9,
+      "total": 317
+    },
+    "../bitcoin/README.md": {
+      "userLines": 4,
+      "total": 78
+    },
+    "../bitcoin/.github/PULL_REQUEST_TEMPLATE.md": {
+      "userLines": 31,
+      "total": 32
+    },
+    "../bitcoin/contrib/README.md": {
+      "userLines": 8,
+      "total": 49
+    },
+    "../bitcoin/contrib/devtools/README.md": {
+      "userLines": 44,
+      "total": 205
+    },
+    "../bitcoin/contrib/gitian-keys/README.md": {
+      "userLines": 23,
+      "total": 28
+    },
+    "../bitcoin/contrib/linearize/README.md": {
+      "userLines": 1,
+      "total": 55
+    },
+    "../bitcoin/contrib/seeds/README.md": {
+      "userLines": 1,
+      "total": 22
+    },
+    "../bitcoin/contrib/verifybinaries/README.md": {
+      "userLines": 29,
+      "total": 42
+    },
+    "../bitcoin/depends/README.md": {
+      "userLines": 19,
+      "total": 94
+    },
+    "../bitcoin/doc/JSON-RPC-interface.md": {
+      "userLines": 38,
+      "total": 118
+    },
+    "../bitcoin/doc/README.md": {
+      "userLines": 7,
+      "total": 89
+    },
+    "../bitcoin/doc/REST-interface.md": {
+      "userLines": 6,
+      "total": 118
+    },
+    "../bitcoin/doc/assets-attribution.md": {
+      "userLines": 1,
+      "total": 2
+    },
+    "../bitcoin/doc/build-osx.md": {
+      "userLines": 2,
+      "total": 208
+    },
+    "../bitcoin/doc/build-unix.md": {
+      "userLines": 11,
+      "total": 283
+    },
+    "../bitcoin/doc/build-windows.md": {
+      "userLines": 1,
+      "total": 156
+    },
+    "../bitcoin/doc/dependencies.md": {
+      "userLines": 1,
+      "total": 47
+    },
+    "../bitcoin/doc/developer-notes.md": {
+      "userLines": 23,
+      "total": 989
+    },
+    "../bitcoin/doc/fuzzing.md": {
+      "userLines": 58,
+      "total": 98
+    },
+    "../bitcoin/doc/gitian-building.md": {
+      "userLines": 1,
+      "total": 5
+    },
+    "../bitcoin/doc/init.md": {
+      "userLines": 1,
+      "total": 146
+    },
+    "../bitcoin/doc/release-notes/release-notes-0.12.0.md": {
+      "userLines": 4,
+      "total": 895
+    },
+    "../bitcoin/doc/release-notes/release-notes-0.13.0.md": {
+      "userLines": 1,
+      "total": 869
+    },
+    "../bitcoin/doc/release-notes/release-notes-0.14.2.md": {
+      "userLines": 102,
+      "total": 103
+    },
+    "../bitcoin/doc/release-notes-15620.md": {
+      "userLines": 13,
+      "total": 14
+    },
+    "../bitcoin/doc/release-notes.md": {
+      "userLines": 15,
+      "total": 98
+    },
+    "../bitcoin/doc/release-process.md": {
+      "userLines": 45,
+      "total": 339
+    },
+    "../bitcoin/doc/tor.md": {
+      "userLines": 7,
+      "total": 127
+    },
+    "../bitcoin/doc/travis-ci.md": {
+      "userLines": 6,
+      "total": 43
+    },
+    "../bitcoin/doc/zmq.md": {
+      "userLines": 1,
+      "total": 120
+    },
+    "../bitcoin/test/README.md": {
+      "userLines": 26,
+      "total": 231
+    },
+    "../bitcoin/test/functional/README.md": {
+      "userLines": 4,
+      "total": 159
+    },
+    "../bitcoin/test/lint/README.md": {
+      "userLines": 29,
+      "total": 30
+    }
+  },
+  "otherFiles": {
+    "../bitcoin/.appveyor.yml": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../bitcoin/.cirrus.yml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/.python-version": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/.style.yapf": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/.travis/lint_04_install.sh": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../bitcoin/.travis/lint_06_script.sh": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../bitcoin/.travis/test_04_install.sh": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../bitcoin/.travis/test_06_script_a.sh": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../bitcoin/.travis/test_06_script_b.sh": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../bitcoin/.travis.yml": {
+      "userLines": 1,
+      "total": 3
+    },
+    "../bitcoin/COPYING": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/build_msvc/bench_bitcoin/bench_bitcoin.vcxproj": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/build_msvc/test_bitcoin/test_bitcoin.vcxproj": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/configure.ac": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/contrib/bitcoin-qt.pro": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/contrib/debian/copyright": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/contrib/devtools/clang-format-diff.py": {
+      "userLines": 57,
+      "total": 58
+    },
+    "../bitcoin/contrib/devtools/gen-manpages.sh": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../bitcoin/contrib/devtools/github-merge.py": {
+      "userLines": 0,
+      "total": 51
+    },
+    "../bitcoin/contrib/devtools/optimize-pngs.py": {
+      "userLines": 1,
+      "total": 7
+    },
+    "../bitcoin/contrib/devtools/symbol-check.py": {
+      "userLines": 0,
+      "total": 49
+    },
+    "../bitcoin/contrib/gitian-build.py": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../bitcoin/contrib/gitian-descriptors/gitian-linux.yml": {
+      "userLines": 2,
+      "total": 15
+    },
+    "../bitcoin/contrib/gitian-descriptors/gitian-osx-signer.yml": {
+      "userLines": 0,
+      "total": 2
+    },
+    "../bitcoin/contrib/gitian-descriptors/gitian-osx.yml": {
+      "userLines": 2,
+      "total": 11
+    },
+    "../bitcoin/contrib/gitian-descriptors/gitian-win-signer.yml": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../bitcoin/contrib/gitian-descriptors/gitian-win.yml": {
+      "userLines": 2,
+      "total": 15
+    },
+    "../bitcoin/contrib/linearize/linearize-data.py": {
+      "userLines": 0,
+      "total": 31
+    },
+    "../bitcoin/contrib/verifybinaries/verify.sh": {
+      "userLines": 0,
+      "total": 30
+    },
+    "../bitcoin/depends/builders/linux.mk": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/depends/config.guess": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/depends/config.site.in": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/depends/packages/native_biplist.mk": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/depends/packages/native_ds_store.mk": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/depends/packages/native_mac_alias.mk": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/doc/Doxyfile.in": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/doc/man/bitcoin-cli.1": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/doc/man/bitcoin-qt.1": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/doc/man/bitcoin-tx.1": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/doc/man/bitcoin-wallet.1": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/doc/man/bitcoind.1": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/share/examples/bitcoin.conf": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/share/setup.nsi.in": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/src/addrman.h": {
+      "userLines": 0,
+      "total": 149
+    },
+    "../bitcoin/src/amount.h": {
+      "userLines": 1,
+      "total": 15
+    },
+    "../bitcoin/src/bitcoin-cli.cpp": {
+      "userLines": 0,
+      "total": 57
+    },
+    "../bitcoin/src/bitcoin-tx.cpp": {
+      "userLines": 0,
+      "total": 70
+    },
+    "../bitcoin/src/bitcoin-wallet.cpp": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../bitcoin/src/bitcoind.cpp": {
+      "userLines": 3,
+      "total": 42
+    },
+    "../bitcoin/src/chain.h": {
+      "userLines": 12,
+      "total": 100
+    },
+    "../bitcoin/src/chainparams.cpp": {
+      "userLines": 10,
+      "total": 100
+    },
+    "../bitcoin/src/chainparams.h": {
+      "userLines": 3,
+      "total": 42
+    },
+    "../bitcoin/src/core_io.h": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../bitcoin/src/core_read.cpp": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../bitcoin/src/httprpc.cpp": {
+      "userLines": 2,
+      "total": 26
+    },
+    "../bitcoin/src/httpserver.cpp": {
+      "userLines": 0,
+      "total": 78
+    },
+    "../bitcoin/src/init.cpp": {
+      "userLines": 11,
+      "total": 278
+    },
+    "../bitcoin/src/interfaces/node.cpp": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../bitcoin/src/interfaces/wallet.cpp": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../bitcoin/src/interfaces/wallet.h": {
+      "userLines": 3,
+      "total": 88
+    },
+    "../bitcoin/src/logging.cpp": {
+      "userLines": 2,
+      "total": 33
+    },
+    "../bitcoin/src/logging.h": {
+      "userLines": 1,
+      "total": 22
+    },
+    "../bitcoin/src/miner.cpp": {
+      "userLines": 6,
+      "total": 89
+    },
+    "../bitcoin/src/miner.h": {
+      "userLines": 1,
+      "total": 45
+    },
+    "../bitcoin/src/net.cpp": {
+      "userLines": 1,
+      "total": 255
+    },
+    "../bitcoin/src/net.h": {
+      "userLines": 14,
+      "total": 142
+    },
+    "../bitcoin/src/net_processing.cpp": {
+      "userLines": 1,
+      "total": 908
+    },
+    "../bitcoin/src/net_processing.h": {
+      "userLines": 1,
+      "total": 40
+    },
+    "../bitcoin/src/netbase.cpp": {
+      "userLines": 13,
+      "total": 78
+    },
+    "../bitcoin/src/netbase.h": {
+      "userLines": 2,
+      "total": 13
+    },
+    "../bitcoin/src/noui.cpp": {
+      "userLines": 1,
+      "total": 7
+    },
+    "../bitcoin/src/noui.h": {
+      "userLines": 5,
+      "total": 9
+    },
+    "../bitcoin/src/prevector.h": {
+      "userLines": 2,
+      "total": 29
+    },
+    "../bitcoin/src/primitives/transaction.cpp": {
+      "userLines": 0,
+      "total": 5
+    },
+    "../bitcoin/src/primitives/transaction.h": {
+      "userLines": 1,
+      "total": 86
+    },
+    "../bitcoin/src/psbt.cpp": {
+      "userLines": 0,
+      "total": 36
+    },
+    "../bitcoin/src/psbt.h": {
+      "userLines": 2,
+      "total": 130
+    },
+    "../bitcoin/src/random.cpp": {
+      "userLines": 0,
+      "total": 157
+    },
+    "../bitcoin/src/rest.cpp": {
+      "userLines": 0,
+      "total": 26
+    },
+    "../bitcoin/src/sync.cpp": {
+      "userLines": 0,
+      "total": 24
+    },
+    "../bitcoin/src/sync.h": {
+      "userLines": 0,
+      "total": 36
+    },
+    "../bitcoin/src/torcontrol.cpp": {
+      "userLines": 2,
+      "total": 176
+    },
+    "../bitcoin/src/txmempool.cpp": {
+      "userLines": 0,
+      "total": 134
+    },
+    "../bitcoin/src/txmempool.h": {
+      "userLines": 61,
+      "total": 344
+    },
+    "../bitcoin/src/ui_interface.cpp": {
+      "userLines": 2,
+      "total": 3
+    },
+    "../bitcoin/src/ui_interface.h": {
+      "userLines": 3,
+      "total": 52
+    },
+    "../bitcoin/src/validation.cpp": {
+      "userLines": 18,
+      "total": 1129
+    },
+    "../bitcoin/src/validation.h": {
+      "userLines": 15,
+      "total": 208
+    },
+    "../bitcoin/test/config.ini.in": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../bitcoin/test/functional/combine_logs.py": {
+      "userLines": 0,
+      "total": 17
+    },
+    "../bitcoin/test/functional/create_cache.py": {
+      "userLines": 3,
+      "total": 5
+    },
+    "../bitcoin/test/functional/example_test.py": {
+      "userLines": 3,
+      "total": 55
+    },
+    "../bitcoin/test/functional/feature_assumevalid.py": {
+      "userLines": 1,
+      "total": 20
+    },
+    "../bitcoin/test/functional/feature_bip68_sequence.py": {
+      "userLines": 2,
+      "total": 93
+    },
+    "../bitcoin/test/functional/feature_block.py": {
+      "userLines": 17,
+      "total": 371
+    },
+    "../bitcoin/test/functional/feature_blocksdir.py": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../bitcoin/test/functional/feature_cltv.py": {
+      "userLines": 6,
+      "total": 10
+    },
+    "../bitcoin/test/functional/feature_config_args.py": {
+      "userLines": 11,
+      "total": 27
+    },
+    "../bitcoin/test/functional/feature_csv_activation.py": {
+      "userLines": 3,
+      "total": 79
+    },
+    "../bitcoin/test/functional/feature_dbcrash.py": {
+      "userLines": 2,
+      "total": 62
+    },
+    "../bitcoin/test/functional/feature_dersig.py": {
+      "userLines": 6,
+      "total": 11
+    },
+    "../bitcoin/test/functional/feature_fee_estimation.py": {
+      "userLines": 1,
+      "total": 43
+    },
+    "../bitcoin/test/functional/feature_help.py": {
+      "userLines": 1,
+      "total": 10
+    },
+    "../bitcoin/test/functional/feature_includeconf.py": {
+      "userLines": 1,
+      "total": 12
+    },
+    "../bitcoin/test/functional/feature_logging.py": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../bitcoin/test/functional/feature_maxuploadtarget.py": {
+      "userLines": 3,
+      "total": 33
+    },
+    "../bitcoin/test/functional/feature_notifications.py": {
+      "userLines": 6,
+      "total": 12
+    },
+    "../bitcoin/test/functional/feature_nulldummy.py": {
+      "userLines": 1,
+      "total": 8
+    },
+    "../bitcoin/test/functional/feature_proxy.py": {
+      "userLines": 3,
+      "total": 23
+    },
+    "../bitcoin/test/functional/feature_pruning.py": {
+      "userLines": 6,
+      "total": 151
+    },
+    "../bitcoin/test/functional/feature_rbf.py": {
+      "userLines": 2,
+      "total": 71
+    },
+    "../bitcoin/test/functional/feature_reindex.py": {
+      "userLines": 1,
+      "total": 4
+    },
+    "../bitcoin/test/functional/feature_segwit.py": {
+      "userLines": 6,
+      "total": 97
+    },
+    "../bitcoin/test/functional/feature_uacomment.py": {
+      "userLines": 0,
+      "total": 4
+    },
+    "../bitcoin/test/functional/feature_versionbits_warning.py": {
+      "userLines": 3,
+      "total": 19
+    },
+    "../bitcoin/test/functional/interface_bitcoin_cli.py": {
+      "userLines": 2,
+      "total": 5
+    },
+    "../bitcoin/test/functional/interface_http.py": {
+      "userLines": 10,
+      "total": 22
+    },
+    "../bitcoin/test/functional/interface_rest.py": {
+      "userLines": 2,
+      "total": 46
+    },
+    "../bitcoin/test/functional/interface_zmq.py": {
+      "userLines": 4,
+      "total": 20
+    },
+    "../bitcoin/test/functional/mempool_accept.py": {
+      "userLines": 33,
+      "total": 33
+    },
+    "../bitcoin/test/functional/mempool_limit.py": {
+      "userLines": 3,
+      "total": 8
+    },
+    "../bitcoin/test/functional/mempool_packages.py": {
+      "userLines": 4,
+      "total": 59
+    },
+    "../bitcoin/test/functional/mempool_persist.py": {
+      "userLines": 5,
+      "total": 13
+    },
+    "../bitcoin/test/functional/mempool_reorg.py": {
+      "userLines": 1,
+      "total": 28
+    },
+    "../bitcoin/test/functional/mempool_resurrect.py": {
+      "userLines": 2,
+      "total": 18
+    },
+    "../bitcoin/test/functional/mempool_spend_coinbase.py": {
+      "userLines": 1,
+      "total": 11
+    },
+    "../bitcoin/test/functional/mining_basic.py": {
+      "userLines": 12,
+      "total": 20
+    },
+    "../bitcoin/test/functional/mining_getblocktemplate_longpoll.py": {
+      "userLines": 2,
+      "total": 22
+    },
+    "../bitcoin/test/functional/mining_prioritisetransaction.py": {
+      "userLines": 3,
+      "total": 34
+    },
+    "../bitcoin/test/functional/p2p_compactblocks.py": {
+      "userLines": 2,
+      "total": 141
+    },
+    "../bitcoin/test/functional/p2p_disconnect_ban.py": {
+      "userLines": 1,
+      "total": 13
+    },
+    "../bitcoin/test/functional/p2p_feefilter.py": {
+      "userLines": 3,
+      "total": 19
+    },
+    "../bitcoin/test/functional/p2p_invalid_block.py": {
+      "userLines": 3,
+      "total": 16
+    },
+    "../bitcoin/test/functional/p2p_invalid_locator.py": {
+      "userLines": 4,
+      "total": 6
+    },
+    "../bitcoin/test/functional/p2p_invalid_messages.py": {
+      "userLines": 10,
+      "total": 48
+    },
+    "../bitcoin/test/functional/p2p_invalid_tx.py": {
+      "userLines": 23,
+      "total": 30
+    },
+    "../bitcoin/test/functional/p2p_leak.py": {
+      "userLines": 2,
+      "total": 19
+    },
+    "../bitcoin/test/functional/p2p_leak_tx.py": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../bitcoin/test/functional/p2p_mempool.py": {
+      "userLines": 0,
+      "total": 7
+    },
+    "../bitcoin/test/functional/p2p_segwit.py": {
+      "userLines": 23,
+      "total": 356
+    },
+    "../bitcoin/test/functional/p2p_sendheaders.py": {
+      "userLines": 3,
+      "total": 82
+    },
+    "../bitcoin/test/functional/p2p_timeouts.py": {
+      "userLines": 5,
+      "total": 11
+    },
+    "../bitcoin/test/functional/p2p_unrequested_blocks.py": {
+      "userLines": 4,
+      "total": 55
+    },
+    "../bitcoin/test/functional/rpc_bind.py": {
+      "userLines": 3,
+      "total": 16
+    },
+    "../bitcoin/test/functional/rpc_blockchain.py": {
+      "userLines": 5,
+      "total": 32
+    },
+    "../bitcoin/test/functional/rpc_createmultisig.py": {
+      "userLines": 0,
+      "total": 8
+    },
+    "../bitcoin/test/functional/rpc_decodescript.py": {
+      "userLines": 2,
+      "total": 88
+    },
+    "../bitcoin/test/functional/rpc_deprecated.py": {
+      "userLines": 1,
+      "total": 15
+    },
+    "../bitcoin/test/functional/rpc_deriveaddresses.py": {
+      "userLines": 1,
+      "total": 7
+    },
+    "../bitcoin/test/functional/rpc_fundrawtransaction.py": {
+      "userLines": 16,
+      "total": 154
+    },
+    "../bitcoin/test/functional/rpc_getblockstats.py": {
+      "userLines": 2,
+      "total": 18
+    },
+    "../bitcoin/test/functional/rpc_getchaintips.py": {
+      "userLines": 1,
+      "total": 7
+    },
+    "../bitcoin/test/functional/rpc_help.py": {
+      "userLines": 1,
+      "total": 9
+    },
+    "../bitcoin/test/functional/rpc_invalidateblock.py": {
+      "userLines": 7,
+      "total": 10
+    },
+    "../bitcoin/test/functional/rpc_named_arguments.py": {
+      "userLines": 1,
+      "total": 4
+    },
+    "../bitcoin/test/functional/rpc_net.py": {
+      "userLines": 3,
+      "total": 24
+    },
+    "../bitcoin/test/functional/rpc_preciousblock.py": {
+      "userLines": 2,
+      "total": 7
+    },
+    "../bitcoin/test/functional/rpc_psbt.py": {
+      "userLines": 1,
+      "total": 62
+    },
+    "../bitcoin/test/functional/rpc_rawtransaction.py": {
+      "userLines": 7,
+      "total": 80
+    },
+    "../bitcoin/test/functional/rpc_scantxoutset.py": {
+      "userLines": 1,
+      "total": 23
+    },
+    "../bitcoin/test/functional/rpc_signmessage.py": {
+      "userLines": 2,
+      "total": 4
+    },
+    "../bitcoin/test/functional/rpc_signrawtransaction.py": {
+      "userLines": 2,
+      "total": 29
+    },
+    "../bitcoin/test/functional/rpc_txoutproof.py": {
+      "userLines": 1,
+      "total": 21
+    },
+    "../bitcoin/test/functional/rpc_uptime.py": {
+      "userLines": 1,
+      "total": 4
+    },
+    "../bitcoin/test/functional/rpc_users.py": {
+      "userLines": 1,
+      "total": 24
+    },
+    "../bitcoin/test/functional/test_framework/address.py": {
+      "userLines": 1,
+      "total": 7
+    },
+    "../bitcoin/test/functional/test_framework/bignum.py": {
+      "userLines": 2,
+      "total": 8
+    },
+    "../bitcoin/test/functional/test_framework/blocktools.py": {
+      "userLines": 4,
+      "total": 15
+    },
+    "../bitcoin/test/functional/test_framework/coverage.py": {
+      "userLines": 3,
+      "total": 6
+    },
+    "../bitcoin/test/functional/test_framework/messages.py": {
+      "userLines": 3,
+      "total": 59
+    },
+    "../bitcoin/test/functional/test_framework/mininode.py": {
+      "userLines": 16,
+      "total": 46
+    },
+    "../bitcoin/test/functional/test_framework/netutil.py": {
+      "userLines": 3,
+      "total": 29
+    },
+    "../bitcoin/test/functional/test_framework/script.py": {
+      "userLines": 4,
+      "total": 34
+    },
+    "../bitcoin/test/functional/test_framework/socks5.py": {
+      "userLines": 3,
+      "total": 27
+    },
+    "../bitcoin/test/functional/test_framework/test_framework.py": {
+      "userLines": 12,
+      "total": 36
+    },
+    "../bitcoin/test/functional/test_framework/test_node.py": {
+      "userLines": 7,
+      "total": 42
+    },
+    "../bitcoin/test/functional/test_framework/util.py": {
+      "userLines": 16,
+      "total": 50
+    },
+    "../bitcoin/test/functional/test_runner.py": {
+      "userLines": 10,
+      "total": 50
+    },
+    "../bitcoin/test/functional/wallet_abandonconflict.py": {
+      "userLines": 6,
+      "total": 39
+    },
+    "../bitcoin/test/functional/wallet_address_types.py": {
+      "userLines": 1,
+      "total": 42
+    },
+    "../bitcoin/test/functional/wallet_backup.py": {
+      "userLines": 2,
+      "total": 19
+    },
+    "../bitcoin/test/functional/wallet_basic.py": {
+      "userLines": 8,
+      "total": 98
+    },
+    "../bitcoin/test/functional/wallet_bumpfee.py": {
+      "userLines": 6,
+      "total": 44
+    },
+    "../bitcoin/test/functional/wallet_create_tx.py": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../bitcoin/test/functional/wallet_createwallet.py": {
+      "userLines": 1,
+      "total": 11
+    },
+    "../bitcoin/test/functional/wallet_disable.py": {
+      "userLines": 3,
+      "total": 7
+    },
+    "../bitcoin/test/functional/wallet_dump.py": {
+      "userLines": 17,
+      "total": 44
+    },
+    "../bitcoin/test/functional/wallet_encryption.py": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../bitcoin/test/functional/wallet_fallbackfee.py": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../bitcoin/test/functional/wallet_groups.py": {
+      "userLines": 0,
+      "total": 21
+    },
+    "../bitcoin/test/functional/wallet_hd.py": {
+      "userLines": 10,
+      "total": 29
+    },
+    "../bitcoin/test/functional/wallet_import_rescan.py": {
+      "userLines": 1,
+      "total": 28
+    },
+    "../bitcoin/test/functional/wallet_importmulti.py": {
+      "userLines": 1,
+      "total": 62
+    },
+    "../bitcoin/test/functional/wallet_importprunedfunds.py": {
+      "userLines": 1,
+      "total": 17
+    },
+    "../bitcoin/test/functional/wallet_keypool.py": {
+      "userLines": 7,
+      "total": 14
+    },
+    "../bitcoin/test/functional/wallet_keypool_topup.py": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../bitcoin/test/functional/wallet_labels.py": {
+      "userLines": 0,
+      "total": 32
+    },
+    "../bitcoin/test/functional/wallet_listreceivedby.py": {
+      "userLines": 1,
+      "total": 37
+    },
+    "../bitcoin/test/functional/wallet_listsinceblock.py": {
+      "userLines": 0,
+      "total": 27
+    },
+    "../bitcoin/test/functional/wallet_listtransactions.py": {
+      "userLines": 2,
+      "total": 24
+    },
+    "../bitcoin/test/functional/wallet_multiwallet.py": {
+      "userLines": 1,
+      "total": 48
+    },
+    "../bitcoin/test/functional/wallet_resendwallettransactions.py": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../bitcoin/test/functional/wallet_txn_clone.py": {
+      "userLines": 2,
+      "total": 24
+    },
+    "../bitcoin/test/functional/wallet_txn_doublespend.py": {
+      "userLines": 6,
+      "total": 30
+    },
+    "../bitcoin/test/functional/wallet_zapwallettxes.py": {
+      "userLines": 2,
+      "total": 15
+    },
+    "../bitcoin/test/fuzz/test_runner.py": {
+      "userLines": 8,
+      "total": 8
+    },
+    "../bitcoin/test/lint/check-doc.py": {
+      "userLines": 4,
+      "total": 5
+    },
+    "../bitcoin/test/lint/check-rpc-mappings.py": {
+      "userLines": 0,
+      "total": 18
+    },
+    "../bitcoin/test/lint/git-subtree-check.sh": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../bitcoin/test/lint/lint-format-strings.py": {
+      "userLines": 1,
+      "total": 13
+    },
+    "../bitcoin/test/lint/lint-logs.sh": {
+      "userLines": 0,
+      "total": 13
+    },
+    "../bitcoin/test/lint/lint-rpc-help.sh": {
+      "userLines": 10,
+      "total": 10
+    },
+    "../bitcoin/test/lint/lint-whitespace.sh": {
+      "userLines": 0,
+      "total": 14
+    },
+    "../bitcoin/test/sanitizer_suppressions/tsan": {
+      "userLines": 0,
+      "total": 0
+    }
+  }
+}

@@ -1,0 +1,8047 @@
+{
+  "mdFiles": {
+    "../vscode/CODE_OF_CONDUCT.md": [],
+    "../vscode/CONTRIBUTING.md": [
+      {
+        "start": 87,
+        "end": 88
+      },
+      {
+        "start": 90,
+        "end": 91
+      },
+      {
+        "start": 94,
+        "end": 94
+      }
+    ],
+    "../vscode/README.md": []
+  },
+  "otherFiles": {
+    "../vscode/src/vs/platform/accessibility/common/accessibility.ts": [],
+    "../vscode/src/vs/platform/accessibility/common/accessibilityService.ts": [],
+    "../vscode/src/vs/platform/actions/common/actions.ts": [
+      {
+        "start": 109,
+        "end": 109
+      },
+      {
+        "start": 110,
+        "end": 110
+      },
+      {
+        "start": 127,
+        "end": 127
+      },
+      {
+        "start": 128,
+        "end": 128
+      },
+      {
+        "start": 186,
+        "end": 186
+      },
+      {
+        "start": 197,
+        "end": 197
+      },
+      {
+        "start": 221,
+        "end": 221
+      },
+      {
+        "start": 285,
+        "end": 285
+      },
+      {
+        "start": 291,
+        "end": 291
+      },
+      {
+        "start": 309,
+        "end": 309
+      }
+    ],
+    "../vscode/src/vs/platform/actions/browser/menuItemActionItem.ts": [
+      {
+        "start": 79,
+        "end": 79
+      },
+      {
+        "start": 86,
+        "end": 86
+      },
+      {
+        "start": 116,
+        "end": 116
+      },
+      {
+        "start": 120,
+        "end": 120
+      },
+      {
+        "start": 130,
+        "end": 130
+      },
+      {
+        "start": 135,
+        "end": 135
+      },
+      {
+        "start": 215,
+        "end": 217
+      },
+      {
+        "start": 234,
+        "end": 234
+      }
+    ],
+    "../vscode/src/vs/platform/backup/common/backup.ts": [],
+    "../vscode/src/vs/platform/actions/common/menuService.ts": [
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 32,
+        "end": 32
+      },
+      {
+        "start": 59,
+        "end": 59
+      },
+      {
+        "start": 103,
+        "end": 103
+      },
+      {
+        "start": 113,
+        "end": 113
+      }
+    ],
+    "../vscode/src/vs/platform/browser/contextScopedHistoryWidget.ts": [
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 57,
+        "end": 57
+      },
+      {
+        "start": 73,
+        "end": 77
+      },
+      {
+        "start": 88,
+        "end": 92
+      }
+    ],
+    "../vscode/src/vs/platform/backup/electron-main/backupMainService.ts": [
+      {
+        "start": 36,
+        "end": 37
+      },
+      {
+        "start": 222,
+        "end": 222
+      },
+      {
+        "start": 231,
+        "end": 231
+      },
+      {
+        "start": 356,
+        "end": 356
+      },
+      {
+        "start": 377,
+        "end": 377
+      },
+      {
+        "start": 398,
+        "end": 398
+      }
+    ],
+    "../vscode/src/vs/platform/clipboard/common/clipboardService.ts": [],
+    "../vscode/src/vs/platform/clipboard/electron-browser/clipboardService.ts": [],
+    "../vscode/src/vs/platform/commands/common/commands.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 99,
+        "end": 99
+      },
+      {
+        "start": 100,
+        "end": 101
+      },
+      {
+        "start": 102,
+        "end": 102
+      },
+      {
+        "start": 104,
+        "end": 104
+      }
+    ],
+    "../vscode/src/vs/platform/configuration/common/configuration.ts": [
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 97,
+        "end": 98
+      },
+      {
+        "start": 234,
+        "end": 234
+      },
+      {
+        "start": 238,
+        "end": 238
+      }
+    ],
+    "../vscode/src/vs/platform/configuration/common/configurationModels.ts": [
+      {
+        "start": 197,
+        "end": 197
+      },
+      {
+        "start": 220,
+        "end": 220
+      },
+      {
+        "start": 285,
+        "end": 285
+      },
+      {
+        "start": 305,
+        "end": 305
+      },
+      {
+        "start": 332,
+        "end": 333
+      },
+      {
+        "start": 358,
+        "end": 358
+      },
+      {
+        "start": 488,
+        "end": 488
+      },
+      {
+        "start": 512,
+        "end": 512
+      },
+      {
+        "start": 588,
+        "end": 588
+      }
+    ],
+    "../vscode/src/vs/platform/configuration/common/configurationRegistry.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 135,
+        "end": 135
+      }
+    ],
+    "../vscode/src/vs/platform/configuration/node/configuration.ts": [
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 17,
+        "end": 17
+      }
+    ],
+    "../vscode/src/vs/platform/configuration/node/configurationService.ts": [
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 72,
+        "end": 73
+      }
+    ],
+    "../vscode/src/vs/platform/configuration/test/common/testConfigurationService.ts": [
+      {
+        "start": 61,
+        "end": 62
+      },
+      {
+        "start": 71,
+        "end": 72
+      }
+    ],
+    "../vscode/src/vs/platform/contextkey/browser/contextKeyService.ts": [
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 268,
+        "end": 268
+      },
+      {
+        "start": 309,
+        "end": 309
+      },
+      {
+        "start": 328,
+        "end": 328
+      },
+      {
+        "start": 338,
+        "end": 338
+      },
+      {
+        "start": 397,
+        "end": 397
+      }
+    ],
+    "../vscode/src/vs/platform/contextkey/common/contextkeys.ts": [],
+    "../vscode/src/vs/platform/contextkey/common/contextkey.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 146,
+        "end": 146
+      },
+      {
+        "start": 461,
+        "end": 461
+      },
+      {
+        "start": 481,
+        "end": 481
+      },
+      {
+        "start": 493,
+        "end": 493
+      },
+      {
+        "start": 522,
+        "end": 522
+      },
+      {
+        "start": 524,
+        "end": 524
+      },
+      {
+        "start": 628,
+        "end": 628
+      },
+      {
+        "start": 632,
+        "end": 632
+      }
+    ],
+    "../vscode/src/vs/platform/contextview/browser/contextMenuHandler.css": [],
+    "../vscode/src/vs/platform/contextview/browser/contextMenuHandler.ts": [
+      {
+        "start": 91,
+        "end": 93
+      },
+      {
+        "start": 98,
+        "end": 98
+      }
+    ],
+    "../vscode/src/vs/platform/contextview/browser/contextView.ts": [
+      {
+        "start": 7,
+        "end": 7
+      }
+    ],
+    "../vscode/src/vs/platform/contextview/browser/contextMenuService.ts": [
+      {
+        "start": 9,
+        "end": 9
+      }
+    ],
+    "../vscode/src/vs/platform/diagnostics/common/diagnosticsService.ts": [],
+    "../vscode/src/vs/platform/contextview/browser/contextViewService.ts": [],
+    "../vscode/src/vs/platform/diagnostics/node/diagnosticsService.ts": [],
+    "../vscode/src/vs/platform/diagnostics/electron-main/diagnosticsService.ts": [],
+    "../vscode/src/vs/platform/dialogs/browser/dialogService.ts": [],
+    "../vscode/src/vs/platform/dialogs/common/dialogs.ts": [
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 207,
+        "end": 207
+      }
+    ],
+    "../vscode/src/vs/platform/download/common/download.ts": [],
+    "../vscode/src/vs/platform/dialogs/node/dialogIpc.ts": [
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 19,
+        "end": 19
+      }
+    ],
+    "../vscode/src/vs/platform/download/node/downloadService.ts": [
+      {
+        "start": 22,
+        "end": 22
+      }
+    ],
+    "../vscode/src/vs/platform/download/node/downloadIpc.ts": [
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 32,
+        "end": 32
+      },
+      {
+        "start": 40,
+        "end": 40
+      }
+    ],
+    "../vscode/src/vs/platform/driver/electron-main/driver.ts": [
+      {
+        "start": 36,
+        "end": 36
+      },
+      {
+        "start": 60,
+        "end": 62
+      },
+      {
+        "start": 72,
+        "end": 74
+      },
+      {
+        "start": 99,
+        "end": 101
+      },
+      {
+        "start": 107,
+        "end": 107
+      }
+    ],
+    "../vscode/src/vs/platform/driver/electron-browser/driver.ts": [
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 22,
+        "end": 24
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 31,
+        "end": 34
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 58,
+        "end": 59
+      },
+      {
+        "start": 66,
+        "end": 66
+      },
+      {
+        "start": 77,
+        "end": 79
+      },
+      {
+        "start": 91,
+        "end": 92
+      },
+      {
+        "start": 124,
+        "end": 124
+      },
+      {
+        "start": 130,
+        "end": 130
+      }
+    ],
+    "../vscode/src/vs/platform/driver/node/driver.ts": [
+      {
+        "start": 52,
+        "end": 52
+      },
+      {
+        "start": 56,
+        "end": 56
+      },
+      {
+        "start": 74,
+        "end": 74
+      },
+      {
+        "start": 154,
+        "end": 154
+      },
+      {
+        "start": 158,
+        "end": 158
+      },
+      {
+        "start": 164,
+        "end": 164
+      },
+      {
+        "start": 199,
+        "end": 199
+      },
+      {
+        "start": 203,
+        "end": 203
+      },
+      {
+        "start": 216,
+        "end": 216
+      }
+    ],
+    "../vscode/src/vs/platform/editor/common/editor.ts": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 64,
+        "end": 64
+      },
+      {
+        "start": 73,
+        "end": 73
+      },
+      {
+        "start": 87,
+        "end": 87
+      },
+      {
+        "start": 94,
+        "end": 94
+      },
+      {
+        "start": 105,
+        "end": 105
+      },
+      {
+        "start": 111,
+        "end": 111
+      },
+      {
+        "start": 121,
+        "end": 124
+      }
+    ],
+    "../vscode/src/vs/platform/environment/common/environment.ts": [
+      {
+        "start": 68,
+        "end": 68
+      },
+      {
+        "start": 78,
+        "end": 78
+      },
+      {
+        "start": 83,
+        "end": 83
+      },
+      {
+        "start": 99,
+        "end": 99
+      },
+      {
+        "start": 104,
+        "end": 105
+      },
+      {
+        "start": 132,
+        "end": 132
+      },
+      {
+        "start": 144,
+        "end": 144
+      },
+      {
+        "start": 150,
+        "end": 150
+      }
+    ],
+    "../vscode/src/vs/platform/environment/node/argv.ts": [],
+    "../vscode/src/vs/platform/environment/node/argvHelper.ts": [],
+    "../vscode/src/vs/platform/environment/node/environmentService.ts": [
+      {
+        "start": 95,
+        "end": 97
+      },
+      {
+        "start": 105,
+        "end": 105
+      },
+      {
+        "start": 120,
+        "end": 120
+      },
+      {
+        "start": 123,
+        "end": 123
+      },
+      {
+        "start": 160,
+        "end": 171
+      },
+      {
+        "start": 209,
+        "end": 209
+      },
+      {
+        "start": 221,
+        "end": 221
+      },
+      {
+        "start": 223,
+        "end": 223
+      },
+      {
+        "start": 225,
+        "end": 225
+      },
+      {
+        "start": 234,
+        "end": 235
+      },
+      {
+        "start": 237,
+        "end": 237
+      },
+      {
+        "start": 239,
+        "end": 239
+      },
+      {
+        "start": 241,
+        "end": 241
+      },
+      {
+        "start": 250,
+        "end": 250
+      },
+      {
+        "start": 255,
+        "end": 256
+      },
+      {
+        "start": 264,
+        "end": 264
+      },
+      {
+        "start": 276,
+        "end": 276
+      },
+      {
+        "start": 283,
+        "end": 283
+      },
+      {
+        "start": 285,
+        "end": 285
+      }
+    ],
+    "../vscode/src/vs/platform/extensionManagement/common/extensionManagement.ts": [
+      {
+        "start": 7,
+        "end": 7
+      }
+    ],
+    "../vscode/src/vs/platform/extensionManagement/common/extensionManagementUtil.ts": [
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 83,
+        "end": 83
+      }
+    ],
+    "../vscode/src/vs/platform/extensionManagement/common/extensionNls.ts": [
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 24,
+        "end": 24
+      }
+    ],
+    "../vscode/src/vs/platform/extensionManagement/node/extensionGalleryService.ts": [
+      {
+        "start": 334,
+        "end": 337
+      },
+      {
+        "start": 645,
+        "end": 646
+      }
+    ],
+    "../vscode/src/vs/platform/extensionManagement/node/extensionManagementIpc.ts": [
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 59,
+        "end": 59
+      }
+    ],
+    "../vscode/src/vs/platform/extensionManagement/node/extensionLifecycle.ts": [
+      {
+        "start": 57,
+        "end": 57
+      }
+    ],
+    "../vscode/src/vs/platform/extensionManagement/node/extensionManagementUtil.ts": [],
+    "../vscode/src/vs/platform/extensionManagement/node/extensionManagementService.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 133,
+        "end": 133
+      },
+      {
+        "start": 135,
+        "end": 136
+      },
+      {
+        "start": 138,
+        "end": 138
+      },
+      {
+        "start": 170,
+        "end": 170
+      },
+      {
+        "start": 197,
+        "end": 201
+      },
+      {
+        "start": 204,
+        "end": 206
+      },
+      {
+        "start": 235,
+        "end": 236
+      },
+      {
+        "start": 272,
+        "end": 272
+      },
+      {
+        "start": 367,
+        "end": 367
+      },
+      {
+        "start": 400,
+        "end": 400
+      },
+      {
+        "start": 407,
+        "end": 410
+      },
+      {
+        "start": 412,
+        "end": 414
+      },
+      {
+        "start": 416,
+        "end": 416
+      },
+      {
+        "start": 418,
+        "end": 418
+      },
+      {
+        "start": 476,
+        "end": 476
+      },
+      {
+        "start": 600,
+        "end": 600
+      },
+      {
+        "start": 620,
+        "end": 620
+      },
+      {
+        "start": 623,
+        "end": 623
+      },
+      {
+        "start": 675,
+        "end": 675
+      },
+      {
+        "start": 678,
+        "end": 678
+      },
+      {
+        "start": 843,
+        "end": 843
+      },
+      {
+        "start": 853,
+        "end": 853
+      },
+      {
+        "start": 868,
+        "end": 868
+      }
+    ],
+    "../vscode/src/vs/platform/extensionManagement/node/extensionsManifestCache.ts": [],
+    "../vscode/src/vs/platform/extensionManagement/node/media/defaultIcon.png": [],
+    "../vscode/src/vs/platform/extensions/node/extensionValidator.ts": [],
+    "../vscode/src/vs/platform/extensions/common/extensions.ts": [],
+    "../vscode/src/vs/platform/extensions/node/extensionsUtil.ts": [],
+    "../vscode/src/vs/platform/files/common/files.ts": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 558,
+        "end": 558
+      }
+    ],
+    "../vscode/src/vs/platform/files/node/fileConstants.ts": [],
+    "../vscode/src/vs/platform/history/common/history.ts": [
+      {
+        "start": 6,
+        "end": 6
+      }
+    ],
+    "../vscode/src/vs/platform/history/electron-main/historyStorage.ts": [],
+    "../vscode/src/vs/platform/history/electron-main/historyMainService.ts": [
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 32,
+        "end": 32
+      },
+      {
+        "start": 42,
+        "end": 45
+      },
+      {
+        "start": 290,
+        "end": 290
+      }
+    ],
+    "../vscode/src/vs/platform/instantiation/common/descriptors.ts": [],
+    "../vscode/src/vs/platform/instantiation/common/extensions.ts": [],
+    "../vscode/src/vs/platform/instantiation/common/graph.ts": [],
+    "../vscode/src/vs/platform/instantiation/common/instantiation.ts": [
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 34,
+        "end": 34
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 50,
+        "end": 50
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 58,
+        "end": 58
+      },
+      {
+        "start": 98,
+        "end": 98
+      },
+      {
+        "start": 131,
+        "end": 131
+      }
+    ],
+    "../vscode/src/vs/platform/instantiation/common/serviceCollection.ts": [],
+    "../vscode/src/vs/platform/instantiation/common/instantiationService.ts": [
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 60,
+        "end": 60
+      },
+      {
+        "start": 155,
+        "end": 155
+      },
+      {
+        "start": 207,
+        "end": 207
+      },
+      {
+        "start": 209,
+        "end": 210
+      },
+      {
+        "start": 265,
+        "end": 265
+      },
+      {
+        "start": 284,
+        "end": 284
+      }
+    ],
+    "../vscode/src/vs/platform/ipc/electron-browser/mainProcessService.ts": [],
+    "../vscode/src/vs/platform/instantiation/test/common/instantiationServiceMock.ts": [
+      {
+        "start": 38,
+        "end": 43
+      },
+      {
+        "start": 72,
+        "end": 72
+      },
+      {
+        "start": 86,
+        "end": 86
+      }
+    ],
+    "../vscode/src/vs/platform/ipc/electron-browser/sharedProcessService.ts": [],
+    "../vscode/src/vs/platform/issue/common/issue.ts": [
+      {
+        "start": 13,
+        "end": 14
+      },
+      {
+        "start": 29,
+        "end": 41
+      },
+      {
+        "start": 78,
+        "end": 80
+      }
+    ],
+    "../vscode/src/vs/platform/issue/electron-browser/issueService.ts": [],
+    "../vscode/src/vs/platform/issue/electron-main/issueService.ts": [
+      {
+        "start": 33,
+        "end": 37
+      },
+      {
+        "start": 65,
+        "end": 65
+      },
+      {
+        "start": 87,
+        "end": 87
+      },
+      {
+        "start": 107,
+        "end": 107
+      }
+    ],
+    "../vscode/src/vs/platform/issue/node/issueIpc.ts": [
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 18,
+        "end": 18
+      }
+    ],
+    "../vscode/src/vs/platform/jsonschemas/common/jsonContributionRegistry.ts": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 55,
+        "end": 55
+      }
+    ],
+    "../vscode/src/vs/platform/keybinding/common/baseResolvedKeybinding.ts": [],
+    "../vscode/src/vs/platform/keybinding/common/abstractKeybindingService.ts": [
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 98,
+        "end": 98
+      },
+      {
+        "start": 101,
+        "end": 101
+      },
+      {
+        "start": 103,
+        "end": 103
+      }
+    ],
+    "../vscode/src/vs/platform/keybinding/common/keybinding.ts": [
+      {
+        "start": 79,
+        "end": 79
+      }
+    ],
+    "../vscode/src/vs/platform/keybinding/common/keybindingResolver.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 83,
+        "end": 83
+      },
+      {
+        "start": 175,
+        "end": 175
+      },
+      {
+        "start": 187,
+        "end": 187
+      },
+      {
+        "start": 241,
+        "end": 241
+      },
+      {
+        "start": 307,
+        "end": 307
+      }
+    ],
+    "../vscode/src/vs/platform/keybinding/common/resolvedKeybindingItem.ts": [
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 21,
+        "end": 21
+      }
+    ],
+    "../vscode/src/vs/platform/keybinding/common/keybindingsRegistry.ts": [
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 52,
+        "end": 52
+      }
+    ],
+    "../vscode/src/vs/platform/keybinding/common/usLayoutResolvedKeybinding.ts": [],
+    "../vscode/src/vs/platform/keybinding/test/common/mockKeybindingService.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 58,
+        "end": 60
+      },
+      {
+        "start": 113,
+        "end": 114
+      }
+    ],
+    "../vscode/src/vs/platform/label/common/label.ts": [],
+    "../vscode/src/vs/platform/launch/electron-main/launchService.ts": [
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 62,
+        "end": 62
+      },
+      {
+        "start": 81,
+        "end": 81
+      },
+      {
+        "start": 85,
+        "end": 85
+      },
+      {
+        "start": 96,
+        "end": 98
+      },
+      {
+        "start": 104,
+        "end": 104
+      },
+      {
+        "start": 125,
+        "end": 125
+      },
+      {
+        "start": 127,
+        "end": 128
+      },
+      {
+        "start": 140,
+        "end": 143
+      },
+      {
+        "start": 179,
+        "end": 179
+      },
+      {
+        "start": 288,
+        "end": 288
+      },
+      {
+        "start": 291,
+        "end": 292
+      },
+      {
+        "start": 340,
+        "end": 344
+      },
+      {
+        "start": 347,
+        "end": 347
+      }
+    ],
+    "../vscode/src/vs/platform/layout/browser/layoutService.ts": [],
+    "../vscode/src/vs/platform/lifecycle/common/lifecycle.ts": [
+      {
+        "start": 6,
+        "end": 6
+      }
+    ],
+    "../vscode/src/vs/platform/lifecycle/common/lifecycleService.ts": [],
+    "../vscode/src/vs/platform/lifecycle/electron-browser/lifecycleService.ts": [
+      {
+        "start": 25,
+        "end": 26
+      },
+      {
+        "start": 59,
+        "end": 59
+      },
+      {
+        "start": 78,
+        "end": 78
+      }
+    ],
+    "../vscode/src/vs/platform/list/browser/listService.ts": [
+      {
+        "start": 65,
+        "end": 65
+      },
+      {
+        "start": 540,
+        "end": 540
+      },
+      {
+        "start": 584,
+        "end": 584
+      },
+      {
+        "start": 685,
+        "end": 685
+      },
+      {
+        "start": 688,
+        "end": 688
+      },
+      {
+        "start": 713,
+        "end": 713
+      },
+      {
+        "start": 715,
+        "end": 715
+      }
+    ],
+    "../vscode/src/vs/platform/lifecycle/electron-main/lifecycleMain.ts": [
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 103,
+        "end": 103
+      },
+      {
+        "start": 133,
+        "end": 134
+      },
+      {
+        "start": 279,
+        "end": 279
+      },
+      {
+        "start": 453,
+        "end": 456
+      }
+    ],
+    "../vscode/src/vs/platform/localizations/common/localizations.ts": [
+      {
+        "start": 7,
+        "end": 7
+      }
+    ],
+    "../vscode/src/vs/platform/localizations/electron-browser/localizationsService.ts": [],
+    "../vscode/src/vs/platform/localizations/node/localizationsIpc.ts": [
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 26,
+        "end": 26
+      }
+    ],
+    "../vscode/src/vs/platform/localizations/node/localizations.ts": [
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 67,
+        "end": 67
+      },
+      {
+        "start": 100,
+        "end": 100
+      },
+      {
+        "start": 118,
+        "end": 118
+      },
+      {
+        "start": 134,
+        "end": 135
+      },
+      {
+        "start": 167,
+        "end": 167
+      }
+    ],
+    "../vscode/src/vs/platform/log/common/bufferLog.ts": [],
+    "../vscode/src/vs/platform/log/common/log.ts": [
+      {
+        "start": 9,
+        "end": 9
+      }
+    ],
+    "../vscode/src/vs/platform/log/node/logIpc.ts": [
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 28,
+        "end": 28
+      }
+    ],
+    "../vscode/src/vs/platform/log/node/spdlogService.ts": [],
+    "../vscode/src/vs/platform/markers/common/markers.ts": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 41,
+        "end": 43
+      },
+      {
+        "start": 89,
+        "end": 89
+      },
+      {
+        "start": 109,
+        "end": 109
+      }
+    ],
+    "../vscode/src/vs/platform/markers/common/markerService.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 68,
+        "end": 71
+      },
+      {
+        "start": 149,
+        "end": 150
+      },
+      {
+        "start": 182,
+        "end": 182
+      },
+      {
+        "start": 187,
+        "end": 187
+      },
+      {
+        "start": 188,
+        "end": 188
+      },
+      {
+        "start": 192,
+        "end": 192
+      },
+      {
+        "start": 204,
+        "end": 204
+      },
+      {
+        "start": 212,
+        "end": 212
+      },
+      {
+        "start": 213,
+        "end": 213
+      },
+      {
+        "start": 225,
+        "end": 233
+      },
+      {
+        "start": 239,
+        "end": 239
+      },
+      {
+        "start": 315,
+        "end": 315
+      },
+      {
+        "start": 317,
+        "end": 317
+      }
+    ],
+    "../vscode/src/vs/platform/menubar/common/menubar.ts": [
+      {
+        "start": 28,
+        "end": 28
+      }
+    ],
+    "../vscode/src/vs/platform/menubar/electron-browser/menubarService.ts": [],
+    "../vscode/src/vs/platform/menubar/electron-main/menubarService.ts": [
+      {
+        "start": 17,
+        "end": 18
+      }
+    ],
+    "../vscode/src/vs/platform/menubar/electron-main/menubar.ts": [
+      {
+        "start": 63,
+        "end": 63
+      },
+      {
+        "start": 65,
+        "end": 71
+      },
+      {
+        "start": 313,
+        "end": 313
+      },
+      {
+        "start": 362,
+        "end": 362
+      },
+      {
+        "start": 490,
+        "end": 490
+      },
+      {
+        "start": 641,
+        "end": 641
+      },
+      {
+        "start": 707,
+        "end": 707
+      },
+      {
+        "start": 731,
+        "end": 731
+      },
+      {
+        "start": 744,
+        "end": 744
+      }
+    ],
+    "../vscode/src/vs/platform/menubar/node/menubarIpc.ts": [
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 18,
+        "end": 18
+      }
+    ],
+    "../vscode/src/vs/platform/notification/common/notification.ts": [
+      {
+        "start": 9,
+        "end": 9
+      }
+    ],
+    "../vscode/src/vs/platform/notification/test/common/testNotificationService.ts": [],
+    "../vscode/src/vs/platform/opener/common/opener.ts": [],
+    "../vscode/src/vs/platform/product/common/product.ts": [],
+    "../vscode/src/vs/platform/product/node/package.ts": [],
+    "../vscode/src/vs/platform/product/node/productService.ts": [],
+    "../vscode/src/vs/platform/product/node/product.ts": [
+      {
+        "start": 81,
+        "end": 81
+      }
+    ],
+    "../vscode/src/vs/platform/progress/common/progress.ts": [
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 110,
+        "end": 110
+      }
+    ],
+    "../vscode/src/vs/platform/quickOpen/common/quickOpen.ts": [
+      {
+        "start": 6,
+        "end": 6
+      }
+    ],
+    "../vscode/src/vs/platform/registry/common/platform.ts": [
+      {
+        "start": 6,
+        "end": 7
+      }
+    ],
+    "../vscode/src/vs/platform/quickinput/common/quickInput.ts": [
+      {
+        "start": 127,
+        "end": 127
+      }
+    ],
+    "../vscode/src/vs/platform/remote/browser/remoteAuthorityResolverService.ts": [],
+    "../vscode/src/vs/platform/remote/common/remoteAgentConnection.ts": [],
+    "../vscode/src/vs/platform/remote/common/remoteAgentEnvironment.ts": [],
+    "../vscode/src/vs/platform/remote/common/remoteAgentFileSystemChannel.ts": [],
+    "../vscode/src/vs/platform/remote/common/remoteHosts.ts": [],
+    "../vscode/src/vs/platform/remote/common/remoteAuthorityResolver.ts": [],
+    "../vscode/src/vs/platform/remote/node/nodeWebSocketFactory.ts": [],
+    "../vscode/src/vs/platform/remote/electron-browser/remoteAuthorityResolverService.ts": [],
+    "../vscode/src/vs/platform/request/electron-main/requestService.ts": [],
+    "../vscode/src/vs/platform/request/electron-browser/requestService.ts": [
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 69,
+        "end": 70
+      }
+    ],
+    "../vscode/src/vs/platform/request/node/requestService.ts": [
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 25,
+        "end": 25
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 46,
+        "end": 46
+      }
+    ],
+    "../vscode/src/vs/platform/request/node/request.ts": [],
+    "../vscode/src/vs/platform/state/common/state.ts": [
+      {
+        "start": 13,
+        "end": 14
+      }
+    ],
+    "../vscode/src/vs/platform/state/node/stateService.ts": [
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 60,
+        "end": 60
+      },
+      {
+        "start": 61,
+        "end": 61
+      },
+      {
+        "start": 62,
+        "end": 62
+      },
+      {
+        "start": 132,
+        "end": 132
+      },
+      {
+        "start": 133,
+        "end": 133
+      },
+      {
+        "start": 134,
+        "end": 134
+      }
+    ],
+    "../vscode/src/vs/platform/statusbar/common/statusbar.ts": [
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 32,
+        "end": 32
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 52,
+        "end": 52
+      },
+      {
+        "start": 62,
+        "end": 62
+      }
+    ],
+    "../vscode/src/vs/platform/storage/common/storage.ts": [
+      {
+        "start": 112,
+        "end": 112
+      }
+    ],
+    "../vscode/src/vs/platform/storage/node/storageMainService.ts": [
+      {
+        "start": 78,
+        "end": 78
+      },
+      {
+        "start": 81,
+        "end": 81
+      },
+      {
+        "start": 91,
+        "end": 91
+      }
+    ],
+    "../vscode/src/vs/platform/storage/node/storageIpc.ts": [
+      {
+        "start": 34,
+        "end": 34
+      },
+      {
+        "start": 107,
+        "end": 107
+      },
+      {
+        "start": 115,
+        "end": 115
+      },
+      {
+        "start": 149,
+        "end": 149
+      }
+    ],
+    "../vscode/src/vs/platform/storage/node/storageService.ts": [
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 43,
+        "end": 44
+      },
+      {
+        "start": 126,
+        "end": 126
+      },
+      {
+        "start": 241,
+        "end": 241
+      },
+      {
+        "start": 251,
+        "end": 251
+      },
+      {
+        "start": 293,
+        "end": 294
+      }
+    ],
+    "../vscode/src/vs/platform/telemetry/browser/errorTelemetry.ts": [
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 56,
+        "end": 56
+      },
+      {
+        "start": 149,
+        "end": 152
+      }
+    ],
+    "../vscode/src/vs/platform/telemetry/common/telemetry.ts": [],
+    "../vscode/src/vs/platform/telemetry/common/telemetryService.ts": [
+      {
+        "start": 117,
+        "end": 117
+      }
+    ],
+    "../vscode/src/vs/platform/telemetry/common/telemetryUtils.ts": [
+      {
+        "start": 12,
+        "end": 13
+      },
+      {
+        "start": 16,
+        "end": 17
+      }
+    ],
+    "../vscode/src/vs/platform/telemetry/node/appInsightsAppender.ts": [
+      {
+        "start": 48,
+        "end": 48
+      },
+      {
+        "start": 52,
+        "end": 52
+      },
+      {
+        "start": 146,
+        "end": 146
+      },
+      {
+        "start": 149,
+        "end": 149
+      },
+      {
+        "start": 158,
+        "end": 158
+      }
+    ],
+    "../vscode/src/vs/platform/telemetry/node/telemetryIpc.ts": [
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 23,
+        "end": 23
+      }
+    ],
+    "../vscode/src/vs/platform/telemetry/node/commonProperties.ts": [
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 17,
+        "end": 18
+      }
+    ],
+    "../vscode/src/vs/platform/telemetry/node/telemetryNodeUtils.ts": [],
+    "../vscode/src/vs/platform/telemetry/node/workbenchCommonProperties.ts": [
+      {
+        "start": 27,
+        "end": 27
+      }
+    ],
+    "../vscode/src/vs/platform/theme/common/colorRegistry.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 74,
+        "end": 74
+      },
+      {
+        "start": 134,
+        "end": 134
+      },
+      {
+        "start": 135,
+        "end": 135
+      },
+      {
+        "start": 137,
+        "end": 137
+      },
+      {
+        "start": 140,
+        "end": 140
+      },
+      {
+        "start": 345,
+        "end": 345
+      },
+      {
+        "start": 347,
+        "end": 348
+      },
+      {
+        "start": 389,
+        "end": 389
+      },
+      {
+        "start": 399,
+        "end": 399
+      },
+      {
+        "start": 409,
+        "end": 409
+      },
+      {
+        "start": 421,
+        "end": 421
+      },
+      {
+        "start": 438,
+        "end": 438
+      },
+      {
+        "start": 447,
+        "end": 447
+      },
+      {
+        "start": 449,
+        "end": 449
+      },
+      {
+        "start": 460,
+        "end": 460
+      }
+    ],
+    "../vscode/src/vs/platform/theme/common/styler.ts": [
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 329,
+        "end": 329
+      }
+    ],
+    "../vscode/src/vs/platform/theme/test/common/testThemeService.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 20,
+        "end": 20
+      }
+    ],
+    "../vscode/src/vs/platform/theme/common/themeService.ts": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 110,
+        "end": 110
+      },
+      {
+        "start": 120,
+        "end": 123
+      }
+    ],
+    "../vscode/src/vs/platform/update/electron-browser/updateService.ts": [],
+    "../vscode/src/vs/platform/update/common/update.ts": [],
+    "../vscode/src/vs/platform/update/electron-main/updateService.darwin.ts": [
+      {
+        "start": 33,
+        "end": 33
+      }
+    ],
+    "../vscode/src/vs/platform/update/electron-main/abstractUpdateService.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 81,
+        "end": 81
+      }
+    ],
+    "../vscode/src/vs/platform/update/electron-main/updateService.linux.ts": [
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 82,
+        "end": 82
+      }
+    ],
+    "../vscode/src/vs/platform/update/electron-main/updateService.win32.ts": [
+      {
+        "start": 64,
+        "end": 64
+      },
+      {
+        "start": 183,
+        "end": 185
+      },
+      {
+        "start": 248,
+        "end": 248
+      }
+    ],
+    "../vscode/src/vs/platform/update/node/updateIpc.ts": [
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 22,
+        "end": 22
+      }
+    ],
+    "../vscode/src/vs/platform/url/common/url.ts": [],
+    "../vscode/src/vs/platform/url/common/urlService.ts": [],
+    "../vscode/src/vs/platform/url/electron-browser/urlService.ts": [],
+    "../vscode/src/vs/platform/url/node/urlIpc.ts": [
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 48,
+        "end": 48
+      },
+      {
+        "start": 52,
+        "end": 52
+      }
+    ],
+    "../vscode/src/vs/platform/url/electron-main/electronUrlListener.ts": [
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 39,
+        "end": 39
+      },
+      {
+        "start": 40,
+        "end": 44
+      }
+    ],
+    "../vscode/src/vs/platform/windows/electron-browser/windowsService.ts": [],
+    "../vscode/src/vs/platform/windows/common/windows.ts": [
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 408,
+        "end": 408
+      }
+    ],
+    "../vscode/src/vs/platform/windows/electron-main/windowsService.ts": [
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 48,
+        "end": 49
+      },
+      {
+        "start": 51,
+        "end": 52
+      }
+    ],
+    "../vscode/src/vs/platform/windows/electron-main/windows.ts": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 32,
+        "end": 34
+      },
+      {
+        "start": 36,
+        "end": 38
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 42,
+        "end": 43
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 82,
+        "end": 83
+      },
+      {
+        "start": 90,
+        "end": 92
+      },
+      {
+        "start": 97,
+        "end": 97
+      },
+      {
+        "start": 109,
+        "end": 109
+      },
+      {
+        "start": 115,
+        "end": 116
+      },
+      {
+        "start": 123,
+        "end": 126
+      },
+      {
+        "start": 129,
+        "end": 134
+      },
+      {
+        "start": 136,
+        "end": 136
+      }
+    ],
+    "../vscode/src/vs/platform/windows/node/windowsIpc.ts": [
+      {
+        "start": 31,
+        "end": 31
+      },
+      {
+        "start": 44,
+        "end": 44
+      }
+    ],
+    "../vscode/src/vs/platform/workspace/common/workspace.ts": [
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 186,
+        "end": 186
+      },
+      {
+        "start": 191,
+        "end": 191
+      },
+      {
+        "start": 234,
+        "end": 234
+      }
+    ],
+    "../vscode/src/vs/platform/workspace/test/common/testWorkspace.ts": [],
+    "../vscode/src/vs/platform/workspaces/common/workspaces.ts": [
+      {
+        "start": 8,
+        "end": 8
+      }
+    ],
+    "../vscode/src/vs/platform/workspaces/electron-browser/workspacesService.ts": [],
+    "../vscode/src/vs/platform/workspaces/electron-main/workspacesMainService.ts": [
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 37,
+        "end": 38
+      }
+    ],
+    "../vscode/src/vs/platform/workspaces/node/workspacesIpc.ts": [
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 19,
+        "end": 19
+      }
+    ],
+    "../vscode/src/vs/base/browser/browser.ts": [
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 60,
+        "end": 60
+      },
+      {
+        "start": 62,
+        "end": 62
+      }
+    ],
+    "../vscode/src/vs/base/browser/contextmenu.ts": [
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 30,
+        "end": 30
+      }
+    ],
+    "../vscode/src/vs/base/browser/dnd.ts": [
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 81,
+        "end": 83
+      },
+      {
+        "start": 85,
+        "end": 87
+      }
+    ],
+    "../vscode/src/vs/base/browser/event.ts": [],
+    "../vscode/src/vs/base/browser/dom.ts": [
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 229,
+        "end": 229
+      },
+      {
+        "start": 230,
+        "end": 231
+      },
+      {
+        "start": 284,
+        "end": 284
+      },
+      {
+        "start": 287,
+        "end": 287
+      },
+      {
+        "start": 359,
+        "end": 359
+      },
+      {
+        "start": 418,
+        "end": 418
+      },
+      {
+        "start": 434,
+        "end": 434
+      },
+      {
+        "start": 437,
+        "end": 437
+      },
+      {
+        "start": 463,
+        "end": 463
+      },
+      {
+        "start": 572,
+        "end": 572
+      },
+      {
+        "start": 618,
+        "end": 618
+      },
+      {
+        "start": 662,
+        "end": 663
+      },
+      {
+        "start": 666,
+        "end": 666
+      },
+      {
+        "start": 783,
+        "end": 783
+      },
+      {
+        "start": 839,
+        "end": 849
+      },
+      {
+        "start": 851,
+        "end": 853
+      },
+      {
+        "start": 855,
+        "end": 860
+      },
+      {
+        "start": 862,
+        "end": 870
+      },
+      {
+        "start": 872,
+        "end": 872
+      },
+      {
+        "start": 874,
+        "end": 880
+      },
+      {
+        "start": 998,
+        "end": 998
+      },
+      {
+        "start": 1029,
+        "end": 1029
+      },
+      {
+        "start": 1155,
+        "end": 1155
+      }
+    ],
+    "../vscode/src/vs/base/browser/globalMouseMoveMonitor.ts": [
+      {
+        "start": 95,
+        "end": 96
+      },
+      {
+        "start": 100,
+        "end": 100
+      }
+    ],
+    "../vscode/src/vs/base/browser/fastDomNode.ts": [],
+    "../vscode/src/vs/base/browser/hash.ts": [],
+    "../vscode/src/vs/base/browser/history.ts": [],
+    "../vscode/src/vs/base/browser/iframe.ts": [
+      {
+        "start": 114,
+        "end": 114
+      }
+    ],
+    "../vscode/src/vs/base/browser/htmlContentRenderer.ts": [
+      {
+        "start": 24,
+        "end": 25
+      },
+      {
+        "start": 31,
+        "end": 39
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 41,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 56,
+        "end": 57
+      },
+      {
+        "start": 93,
+        "end": 94
+      },
+      {
+        "start": 95,
+        "end": 95
+      },
+      {
+        "start": 97,
+        "end": 99
+      },
+      {
+        "start": 101,
+        "end": 108
+      },
+      {
+        "start": 109,
+        "end": 110
+      },
+      {
+        "start": 111,
+        "end": 117
+      },
+      {
+        "start": 120,
+        "end": 140
+      },
+      {
+        "start": 142,
+        "end": 143
+      },
+      {
+        "start": 151,
+        "end": 151
+      },
+      {
+        "start": 161,
+        "end": 165
+      },
+      {
+        "start": 167,
+        "end": 168
+      },
+      {
+        "start": 169,
+        "end": 169
+      },
+      {
+        "start": 170,
+        "end": 177
+      },
+      {
+        "start": 179,
+        "end": 181
+      },
+      {
+        "start": 183,
+        "end": 184
+      },
+      {
+        "start": 185,
+        "end": 185
+      },
+      {
+        "start": 187,
+        "end": 187
+      },
+      {
+        "start": 188,
+        "end": 189
+      },
+      {
+        "start": 193,
+        "end": 193
+      },
+      {
+        "start": 199,
+        "end": 199
+      },
+      {
+        "start": 203,
+        "end": 203
+      },
+      {
+        "start": 219,
+        "end": 219
+      },
+      {
+        "start": 220,
+        "end": 220
+      },
+      {
+        "start": 273,
+        "end": 273
+      },
+      {
+        "start": 276,
+        "end": 276
+      },
+      {
+        "start": 300,
+        "end": 300
+      },
+      {
+        "start": 304,
+        "end": 304
+      },
+      {
+        "start": 306,
+        "end": 306
+      },
+      {
+        "start": 335,
+        "end": 335
+      },
+      {
+        "start": 340,
+        "end": 340
+      },
+      {
+        "start": 352,
+        "end": 352
+      },
+      {
+        "start": 358,
+        "end": 358
+      },
+      {
+        "start": 361,
+        "end": 361
+      },
+      {
+        "start": 371,
+        "end": 371
+      },
+      {
+        "start": 382,
+        "end": 382
+      }
+    ],
+    "../vscode/src/vs/base/browser/mouseEvent.ts": [],
+    "../vscode/src/vs/base/browser/keyboardEvent.ts": [],
+    "../vscode/src/vs/base/browser/ui/actionbar/actionbar.css": [
+      {
+        "start": 40,
+        "end": 40
+      }
+    ],
+    "../vscode/src/vs/base/browser/touch.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 68,
+        "end": 68
+      },
+      {
+        "start": 84,
+        "end": 86
+      },
+      {
+        "start": 102,
+        "end": 102
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/aria/aria.css": [],
+    "../vscode/src/vs/base/browser/ui/actionbar/actionbar.ts": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 12,
+        "end": 13
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 122,
+        "end": 122
+      },
+      {
+        "start": 149,
+        "end": 149
+      },
+      {
+        "start": 151,
+        "end": 151
+      },
+      {
+        "start": 210,
+        "end": 210
+      },
+      {
+        "start": 240,
+        "end": 240
+      },
+      {
+        "start": 254,
+        "end": 256
+      },
+      {
+        "start": 267,
+        "end": 267
+      },
+      {
+        "start": 291,
+        "end": 291
+      },
+      {
+        "start": 330,
+        "end": 332
+      },
+      {
+        "start": 337,
+        "end": 339
+      },
+      {
+        "start": 367,
+        "end": 367
+      },
+      {
+        "start": 397,
+        "end": 397
+      },
+      {
+        "start": 402,
+        "end": 402
+      },
+      {
+        "start": 431,
+        "end": 433
+      },
+      {
+        "start": 506,
+        "end": 506
+      },
+      {
+        "start": 581,
+        "end": 581
+      },
+      {
+        "start": 585,
+        "end": 585
+      },
+      {
+        "start": 597,
+        "end": 597
+      },
+      {
+        "start": 612,
+        "end": 612
+      },
+      {
+        "start": 639,
+        "end": 642
+      },
+      {
+        "start": 650,
+        "end": 653
+      },
+      {
+        "start": 797,
+        "end": 797
+      },
+      {
+        "start": 801,
+        "end": 802
+      },
+      {
+        "start": 816,
+        "end": 816
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/breadcrumbs/breadcrumbsWidget.css": [],
+    "../vscode/src/vs/base/browser/ui/aria/aria.ts": [
+      {
+        "start": 7,
+        "end": 7
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/breadcrumbs/collapsed.svg": [],
+    "../vscode/src/vs/base/browser/ui/breadcrumbs/breadcrumbsWidget.ts": [
+      {
+        "start": 121,
+        "end": 121
+      },
+      {
+        "start": 203,
+        "end": 204
+      },
+      {
+        "start": 259,
+        "end": 260
+      },
+      {
+        "start": 282,
+        "end": 283
+      },
+      {
+        "start": 307,
+        "end": 310
+      },
+      {
+        "start": 317,
+        "end": 321
+      },
+      {
+        "start": 336,
+        "end": 336
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/breadcrumbs/collpased-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/button/button.css": [],
+    "../vscode/src/vs/base/browser/ui/centered/centeredViewLayout.ts": [
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 58,
+        "end": 58
+      },
+      {
+        "start": 87,
+        "end": 89
+      },
+      {
+        "start": 100,
+        "end": 100
+      },
+      {
+        "start": 121,
+        "end": 124
+      },
+      {
+        "start": 138,
+        "end": 140
+      },
+      {
+        "start": 142,
+        "end": 144
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/button/button.ts": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 38,
+        "end": 41
+      },
+      {
+        "start": 80,
+        "end": 80
+      },
+      {
+        "start": 204,
+        "end": 204
+      },
+      {
+        "start": 208,
+        "end": 208
+      },
+      {
+        "start": 217,
+        "end": 217
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/checkbox/checkbox.css": [],
+    "../vscode/src/vs/base/browser/ui/checkbox/checkbox.ts": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 19,
+        "end": 20
+      },
+      {
+        "start": 81,
+        "end": 81
+      },
+      {
+        "start": 95,
+        "end": 95
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/contextview/contextview.css": [],
+    "../vscode/src/vs/base/browser/ui/contextview/contextview.ts": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 100,
+        "end": 101
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/countBadge/countBadge.css": [],
+    "../vscode/src/vs/base/browser/ui/countBadge/countBadge.ts": [
+      {
+        "start": 36,
+        "end": 38
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/dialog/close-inverse.svg": [],
+    "../vscode/src/vs/base/browser/ui/dialog/close.svg": [],
+    "../vscode/src/vs/base/browser/ui/dialog/dialog.css": [],
+    "../vscode/src/vs/base/browser/ui/dialog/dialog.ts": [],
+    "../vscode/src/vs/base/browser/ui/dialog/error.svg": [],
+    "../vscode/src/vs/base/browser/ui/dialog/error-inverse.svg": [],
+    "../vscode/src/vs/base/browser/ui/dialog/info.svg": [],
+    "../vscode/src/vs/base/browser/ui/dialog/info-inverse.svg": [],
+    "../vscode/src/vs/base/browser/ui/dialog/warning-inverse.svg": [],
+    "../vscode/src/vs/base/browser/ui/dialog/warning.svg": [],
+    "../vscode/src/vs/base/browser/ui/dropdown/dropdown.ts": [
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 29,
+        "end": 31
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 50,
+        "end": 50
+      },
+      {
+        "start": 52,
+        "end": 52
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 66,
+        "end": 66
+      },
+      {
+        "start": 69,
+        "end": 69
+      },
+      {
+        "start": 93,
+        "end": 93
+      },
+      {
+        "start": 98,
+        "end": 100
+      },
+      {
+        "start": 121,
+        "end": 121
+      },
+      {
+        "start": 126,
+        "end": 126
+      },
+      {
+        "start": 131,
+        "end": 131
+      },
+      {
+        "start": 185,
+        "end": 185
+      },
+      {
+        "start": 209,
+        "end": 209
+      },
+      {
+        "start": 250,
+        "end": 250
+      },
+      {
+        "start": 251,
+        "end": 251
+      },
+      {
+        "start": 254,
+        "end": 254
+      },
+      {
+        "start": 273,
+        "end": 273
+      },
+      {
+        "start": 274,
+        "end": 274
+      },
+      {
+        "start": 293,
+        "end": 293
+      },
+      {
+        "start": 334,
+        "end": 334
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/dropdown/dropdown.css": [],
+    "../vscode/src/vs/base/browser/ui/findinput/case-sensitive-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/findinput/case-sensitive.svg": [],
+    "../vscode/src/vs/base/browser/ui/findinput/findInput.css": [],
+    "../vscode/src/vs/base/browser/ui/findinput/findInput.ts": [
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 22,
+        "end": 25
+      },
+      {
+        "start": 27,
+        "end": 30
+      },
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 50,
+        "end": 63
+      },
+      {
+        "start": 71,
+        "end": 72
+      },
+      {
+        "start": 74,
+        "end": 75
+      },
+      {
+        "start": 77,
+        "end": 78
+      },
+      {
+        "start": 80,
+        "end": 81
+      },
+      {
+        "start": 83,
+        "end": 84
+      },
+      {
+        "start": 87,
+        "end": 87
+      },
+      {
+        "start": 92,
+        "end": 92
+      },
+      {
+        "start": 114,
+        "end": 114
+      },
+      {
+        "start": 116,
+        "end": 116
+      },
+      {
+        "start": 196,
+        "end": 196
+      },
+      {
+        "start": 276,
+        "end": 276
+      },
+      {
+        "start": 297,
+        "end": 297
+      },
+      {
+        "start": 313,
+        "end": 313
+      },
+      {
+        "start": 326,
+        "end": 326
+      },
+      {
+        "start": 353,
+        "end": 353
+      },
+      {
+        "start": 387,
+        "end": 389
+      },
+      {
+        "start": 393,
+        "end": 395
+      },
+      {
+        "start": 399,
+        "end": 401
+      },
+      {
+        "start": 405,
+        "end": 407
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/findinput/findInputCheckboxes.ts": [
+      {
+        "start": 12,
+        "end": 14
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/findinput/findInputCheckboxes.css": [],
+    "../vscode/src/vs/base/browser/ui/findinput/regex.svg": [],
+    "../vscode/src/vs/base/browser/ui/findinput/regex-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/findinput/whole-word-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/findinput/whole-word.svg": [],
+    "../vscode/src/vs/base/browser/ui/grid/gridview.css": [],
+    "../vscode/src/vs/base/browser/ui/grid/grid.ts": [],
+    "../vscode/src/vs/base/browser/ui/grid/gridview.ts": [
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 311,
+        "end": 311
+      },
+      {
+        "start": 351,
+        "end": 352
+      },
+      {
+        "start": 394,
+        "end": 394
+      },
+      {
+        "start": 403,
+        "end": 403
+      },
+      {
+        "start": 576,
+        "end": 576
+      },
+      {
+        "start": 805,
+        "end": 805
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/highlightedlabel/highlightedLabel.ts": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 34,
+        "end": 34
+      },
+      {
+        "start": 59,
+        "end": 59
+      },
+      {
+        "start": 61,
+        "end": 61
+      },
+      {
+        "start": 96,
+        "end": 96
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/iconLabel/iconLabel.ts": [
+      {
+        "start": 7,
+        "end": 7
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/iconLabel/iconlabel.css": [],
+    "../vscode/src/vs/base/browser/ui/inputbox/inputBox.css": [],
+    "../vscode/src/vs/base/browser/ui/inputbox/inputBox.ts": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 26,
+        "end": 31
+      },
+      {
+        "start": 35,
+        "end": 46
+      },
+      {
+        "start": 50,
+        "end": 50
+      },
+      {
+        "start": 54,
+        "end": 56
+      },
+      {
+        "start": 60,
+        "end": 60
+      },
+      {
+        "start": 86,
+        "end": 86
+      },
+      {
+        "start": 90,
+        "end": 90
+      },
+      {
+        "start": 92,
+        "end": 92
+      },
+      {
+        "start": 95,
+        "end": 98
+      },
+      {
+        "start": 99,
+        "end": 111
+      },
+      {
+        "start": 114,
+        "end": 114
+      },
+      {
+        "start": 117,
+        "end": 117
+      },
+      {
+        "start": 119,
+        "end": 119
+      },
+      {
+        "start": 268,
+        "end": 268
+      },
+      {
+        "start": 350,
+        "end": 350
+      },
+      {
+        "start": 376,
+        "end": 376
+      },
+      {
+        "start": 398,
+        "end": 401
+      },
+      {
+        "start": 405,
+        "end": 405
+      },
+      {
+        "start": 406,
+        "end": 406
+      },
+      {
+        "start": 407,
+        "end": 407
+      },
+      {
+        "start": 410,
+        "end": 410
+      },
+      {
+        "start": 411,
+        "end": 411
+      },
+      {
+        "start": 412,
+        "end": 412
+      },
+      {
+        "start": 444,
+        "end": 444
+      },
+      {
+        "start": 520,
+        "end": 522
+      },
+      {
+        "start": 524,
+        "end": 524
+      },
+      {
+        "start": 526,
+        "end": 526
+      },
+      {
+        "start": 540,
+        "end": 540
+      },
+      {
+        "start": 591,
+        "end": 591
+      },
+      {
+        "start": 600,
+        "end": 600
+      },
+      {
+        "start": 604,
+        "end": 604
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/keybindingLabel/keybindingLabel.css": [],
+    "../vscode/src/vs/base/browser/ui/keybindingLabel/keybindingLabel.ts": [
+      {
+        "start": 69,
+        "end": 69
+      },
+      {
+        "start": 72,
+        "end": 72
+      },
+      {
+        "start": 101,
+        "end": 101
+      },
+      {
+        "start": 103,
+        "end": 103
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/list/list.css": [],
+    "../vscode/src/vs/base/browser/ui/list/list.ts": [],
+    "../vscode/src/vs/base/browser/ui/list/listPaging.ts": [
+      {
+        "start": 20,
+        "end": 21
+      },
+      {
+        "start": 39,
+        "end": 45
+      },
+      {
+        "start": 62,
+        "end": 69
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/list/listView.ts": [
+      {
+        "start": 66,
+        "end": 66
+      },
+      {
+        "start": 588,
+        "end": 590
+      },
+      {
+        "start": 649,
+        "end": 649
+      },
+      {
+        "start": 1090,
+        "end": 1090
+      },
+      {
+        "start": 1096,
+        "end": 1096
+      },
+      {
+        "start": 1142,
+        "end": 1144
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/list/media/close-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/list/listWidget.ts": [
+      {
+        "start": 74,
+        "end": 74
+      },
+      {
+        "start": 119,
+        "end": 120
+      },
+      {
+        "start": 895,
+        "end": 895
+      },
+      {
+        "start": 915,
+        "end": 915
+      },
+      {
+        "start": 943,
+        "end": 943
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/list/media/close-hc.svg": [],
+    "../vscode/src/vs/base/browser/ui/list/media/close.svg": [],
+    "../vscode/src/vs/base/browser/ui/list/media/filter-hc.svg": [],
+    "../vscode/src/vs/base/browser/ui/list/media/filter-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/list/media/no-filter-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/list/media/filter.svg": [],
+    "../vscode/src/vs/base/browser/ui/list/media/no-filter-hc.svg": [],
+    "../vscode/src/vs/base/browser/ui/list/media/no-filter.svg": [],
+    "../vscode/src/vs/base/browser/ui/list/rowCache.ts": [
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 18,
+        "end": 20
+      },
+      {
+        "start": 41,
+        "end": 41
+      },
+      {
+        "start": 62,
+        "end": 65
+      },
+      {
+        "start": 89,
+        "end": 89
+      },
+      {
+        "start": 102,
+        "end": 102
+      },
+      {
+        "start": 104,
+        "end": 111
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/list/rangeMap.ts": [
+      {
+        "start": 63,
+        "end": 63
+      },
+      {
+        "start": 191,
+        "end": 191
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/menu/check.svg": [],
+    "../vscode/src/vs/base/browser/ui/list/splice.ts": [],
+    "../vscode/src/vs/base/browser/ui/menu/ellipsis.svg": [],
+    "../vscode/src/vs/base/browser/ui/menu/menu.css": [],
+    "../vscode/src/vs/base/browser/ui/menu/menubar.ts": [
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 81,
+        "end": 82
+      },
+      {
+        "start": 124,
+        "end": 124
+      },
+      {
+        "start": 162,
+        "end": 163
+      },
+      {
+        "start": 180,
+        "end": 180
+      },
+      {
+        "start": 188,
+        "end": 188
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/menu/menu.ts": [
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 62,
+        "end": 62
+      },
+      {
+        "start": 113,
+        "end": 113
+      },
+      {
+        "start": 153,
+        "end": 153
+      },
+      {
+        "start": 307,
+        "end": 307
+      },
+      {
+        "start": 309,
+        "end": 309
+      },
+      {
+        "start": 337,
+        "end": 337
+      },
+      {
+        "start": 339,
+        "end": 339
+      },
+      {
+        "start": 475,
+        "end": 475
+      },
+      {
+        "start": 611,
+        "end": 611
+      },
+      {
+        "start": 620,
+        "end": 620
+      },
+      {
+        "start": 703,
+        "end": 703
+      },
+      {
+        "start": 720,
+        "end": 720
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/menu/submenu.svg": [],
+    "../vscode/src/vs/base/browser/ui/octiconLabel/octiconLabel.mock.ts": [
+      {
+        "start": 5,
+        "end": 5
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/octiconLabel/octicons/octicons-animations.css": [],
+    "../vscode/src/vs/base/browser/ui/octiconLabel/octiconLabel.ts": [
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 22,
+        "end": 24
+      },
+      {
+        "start": 27,
+        "end": 27
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/octiconLabel/octicons/octicons.css": [],
+    "../vscode/src/vs/base/browser/ui/octiconLabel/octicons/octicons.svg": [],
+    "../vscode/src/vs/base/browser/ui/octiconLabel/octicons/octicons.ttf": [],
+    "../vscode/src/vs/base/browser/ui/progressbar/progressbar.css": [],
+    "../vscode/src/vs/base/browser/ui/sash/sash.css": [],
+    "../vscode/src/vs/base/browser/ui/progressbar/progressbar.ts": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 41,
+        "end": 42
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/scrollbar/abstractScrollbar.ts": [],
+    "../vscode/src/vs/base/browser/ui/sash/sash.ts": [
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 267,
+        "end": 267
+      },
+      {
+        "start": 394,
+        "end": 394
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/scrollbar/media/arrow-down-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/horizontalScrollbar.ts": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/media/arrow-left-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/media/arrow-down.svg": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/media/arrow-right-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/media/arrow-left.svg": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/media/arrow-right.svg": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/media/arrow-up-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/media/arrow-up.svg": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/media/scrollbars.css": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/scrollableElementOptions.ts": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/scrollableElement.ts": [
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 167,
+        "end": 167
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/scrollbar/scrollbarState.ts": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/scrollbarArrow.ts": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/scrollbarVisibilityController.ts": [],
+    "../vscode/src/vs/base/browser/ui/scrollbar/verticalScrollbar.ts": [],
+    "../vscode/src/vs/base/browser/ui/selectBox/selectBox.css": [],
+    "../vscode/src/vs/base/browser/ui/selectBox/selectBox.ts": [
+      {
+        "start": 8,
+        "end": 8
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/selectBox/selectBoxCustom.css": [],
+    "../vscode/src/vs/base/browser/ui/selectBox/selectBoxCustom.ts": [
+      {
+        "start": 94,
+        "end": 94
+      },
+      {
+        "start": 330,
+        "end": 330
+      },
+      {
+        "start": 374,
+        "end": 374
+      },
+      {
+        "start": 392,
+        "end": 392
+      },
+      {
+        "start": 408,
+        "end": 408
+      },
+      {
+        "start": 556,
+        "end": 556
+      },
+      {
+        "start": 754,
+        "end": 754
+      },
+      {
+        "start": 779,
+        "end": 781
+      },
+      {
+        "start": 851,
+        "end": 852
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/splitview/arrow-collapse-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/selectBox/selectBoxNative.ts": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 164,
+        "end": 164
+      },
+      {
+        "start": 167,
+        "end": 167
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/splitview/arrow-collapse.svg": [],
+    "../vscode/src/vs/base/browser/ui/splitview/arrow-expand-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/splitview/panelview.css": [],
+    "../vscode/src/vs/base/browser/ui/splitview/arrow-expand.svg": [],
+    "../vscode/src/vs/base/browser/ui/splitview/splitview.css": [],
+    "../vscode/src/vs/base/browser/ui/splitview/panelview.ts": [
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 82,
+        "end": 82
+      },
+      {
+        "start": 91,
+        "end": 91
+      },
+      {
+        "start": 163,
+        "end": 163
+      },
+      {
+        "start": 251,
+        "end": 251
+      },
+      {
+        "start": 270,
+        "end": 270
+      },
+      {
+        "start": 340,
+        "end": 340
+      },
+      {
+        "start": 377,
+        "end": 377
+      },
+      {
+        "start": 390,
+        "end": 390
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/toolbar/ellipsis-inverse.svg": [],
+    "../vscode/src/vs/base/browser/ui/splitview/splitview.ts": [
+      {
+        "start": 9,
+        "end": 10
+      },
+      {
+        "start": 156,
+        "end": 156
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/toolbar/ellipsis.svg": [],
+    "../vscode/src/vs/base/browser/ui/toolbar/toolbar.css": [],
+    "../vscode/src/vs/base/browser/ui/toolbar/toolbar.ts": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 78,
+        "end": 78
+      },
+      {
+        "start": 81,
+        "end": 81
+      },
+      {
+        "start": 122,
+        "end": 123
+      },
+      {
+        "start": 136,
+        "end": 136
+      },
+      {
+        "start": 139,
+        "end": 139
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/tree/abstractTree.ts": [
+      {
+        "start": 815,
+        "end": 815
+      },
+      {
+        "start": 1045,
+        "end": 1045
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/tree/dataTree.ts": [],
+    "../vscode/src/vs/base/browser/ui/tree/asyncDataTree.ts": [
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 615,
+        "end": 615
+      },
+      {
+        "start": 819,
+        "end": 819
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/tree/indexTree.ts": [],
+    "../vscode/src/vs/base/browser/ui/tree/indexTreeModel.ts": [
+      {
+        "start": 8,
+        "end": 10
+      },
+      {
+        "start": 547,
+        "end": 547
+      }
+    ],
+    "../vscode/src/vs/base/browser/ui/tree/media/collapsed-hc.svg": [],
+    "../vscode/src/vs/base/browser/ui/tree/media/collapsed-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/tree/media/expanded-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/tree/media/collapsed.svg": [],
+    "../vscode/src/vs/base/browser/ui/tree/media/expanded-hc.svg": [],
+    "../vscode/src/vs/base/browser/ui/tree/media/expanded.svg": [],
+    "../vscode/src/vs/base/browser/ui/tree/media/loading-dark.svg": [],
+    "../vscode/src/vs/base/browser/ui/tree/media/loading-hc.svg": [],
+    "../vscode/src/vs/base/browser/ui/tree/media/loading.svg": [],
+    "../vscode/src/vs/base/browser/ui/tree/media/panelviewlet.css": [],
+    "../vscode/src/vs/base/browser/ui/tree/media/tree.css": [],
+    "../vscode/src/vs/base/browser/ui/tree/objectTree.ts": [],
+    "../vscode/src/vs/base/browser/ui/tree/tree.ts": [],
+    "../vscode/src/vs/base/browser/ui/tree/objectTreeModel.ts": [],
+    "../vscode/src/vs/base/browser/ui/widget.ts": [],
+    "../vscode/src/vs/base/common/actions.ts": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 168,
+        "end": 168
+      }
+    ],
+    "../vscode/src/vs/base/common/amd.ts": [],
+    "../vscode/src/vs/base/common/arrays.ts": [
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 54,
+        "end": 55
+      },
+      {
+        "start": 72,
+        "end": 72
+      },
+      {
+        "start": 78,
+        "end": 78
+      },
+      {
+        "start": 125,
+        "end": 125
+      },
+      {
+        "start": 138,
+        "end": 138
+      },
+      {
+        "start": 159,
+        "end": 159
+      },
+      {
+        "start": 215,
+        "end": 215
+      },
+      {
+        "start": 238,
+        "end": 238
+      },
+      {
+        "start": 284,
+        "end": 284
+      },
+      {
+        "start": 296,
+        "end": 296
+      },
+      {
+        "start": 298,
+        "end": 298
+      },
+      {
+        "start": 300,
+        "end": 300
+      },
+      {
+        "start": 302,
+        "end": 307
+      },
+      {
+        "start": 308,
+        "end": 308
+      },
+      {
+        "start": 309,
+        "end": 316
+      },
+      {
+        "start": 319,
+        "end": 319
+      },
+      {
+        "start": 330,
+        "end": 330
+      },
+      {
+        "start": 333,
+        "end": 336
+      },
+      {
+        "start": 337,
+        "end": 337
+      },
+      {
+        "start": 338,
+        "end": 340
+      },
+      {
+        "start": 347,
+        "end": 347
+      },
+      {
+        "start": 406,
+        "end": 406
+      },
+      {
+        "start": 418,
+        "end": 418
+      },
+      {
+        "start": 425,
+        "end": 425
+      },
+      {
+        "start": 474,
+        "end": 476
+      },
+      {
+        "start": 520,
+        "end": 520
+      },
+      {
+        "start": 528,
+        "end": 529
+      },
+      {
+        "start": 575,
+        "end": 578
+      }
+    ],
+    "../vscode/src/vs/base/common/assert.ts": [],
+    "../vscode/src/vs/base/common/async.ts": [
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 178,
+        "end": 178
+      },
+      {
+        "start": 181,
+        "end": 181
+      },
+      {
+        "start": 225,
+        "end": 225
+      },
+      {
+        "start": 285,
+        "end": 285
+      },
+      {
+        "start": 324,
+        "end": 324
+      },
+      {
+        "start": 340,
+        "end": 341
+      },
+      {
+        "start": 344,
+        "end": 344
+      },
+      {
+        "start": 372,
+        "end": 372
+      },
+      {
+        "start": 403,
+        "end": 403
+      },
+      {
+        "start": 495,
+        "end": 495
+      },
+      {
+        "start": 542,
+        "end": 542
+      },
+      {
+        "start": 573,
+        "end": 573
+      },
+      {
+        "start": 678,
+        "end": 678
+      },
+      {
+        "start": 683,
+        "end": 683
+      },
+      {
+        "start": 697,
+        "end": 697
+      },
+      {
+        "start": 721,
+        "end": 722
+      },
+      {
+        "start": 750,
+        "end": 750
+      }
+    ],
+    "../vscode/src/vs/base/common/buffer.ts": [],
+    "../vscode/src/vs/base/common/cache.ts": [
+      {
+        "start": 15,
+        "end": 15
+      }
+    ],
+    "../vscode/src/vs/base/common/charCode.ts": [],
+    "../vscode/src/vs/base/common/cancellation.ts": [
+      {
+        "start": 19,
+        "end": 19
+      }
+    ],
+    "../vscode/src/vs/base/common/collections.ts": [
+      {
+        "start": 32,
+        "end": 32
+      },
+      {
+        "start": 61,
+        "end": 61
+      },
+      {
+        "start": 64,
+        "end": 65
+      }
+    ],
+    "../vscode/src/vs/base/common/color.ts": [
+      {
+        "start": 263,
+        "end": 263
+      },
+      {
+        "start": 272,
+        "end": 272
+      },
+      {
+        "start": 390,
+        "end": 390
+      },
+      {
+        "start": 391,
+        "end": 391
+      },
+      {
+        "start": 419,
+        "end": 419
+      }
+    ],
+    "../vscode/src/vs/base/common/console.ts": [
+      {
+        "start": 32,
+        "end": 32
+      },
+      {
+        "start": 53,
+        "end": 55
+      },
+      {
+        "start": 57,
+        "end": 57
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 89,
+        "end": 89
+      },
+      {
+        "start": 112,
+        "end": 112
+      }
+    ],
+    "../vscode/src/vs/base/common/comparers.ts": [
+      {
+        "start": 100,
+        "end": 100
+      },
+      {
+        "start": 147,
+        "end": 148
+      },
+      {
+        "start": 157,
+        "end": 158
+      },
+      {
+        "start": 164,
+        "end": 164
+      },
+      {
+        "start": 174,
+        "end": 175
+      },
+      {
+        "start": 178,
+        "end": 179
+      }
+    ],
+    "../vscode/src/vs/base/common/date.ts": [],
+    "../vscode/src/vs/base/common/decorators.ts": [
+      {
+        "start": 8,
+        "end": 9
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 28,
+        "end": 29
+      },
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 72,
+        "end": 72
+      }
+    ],
+    "../vscode/src/vs/base/common/diff/diffChange.ts": [],
+    "../vscode/src/vs/base/common/diff/diff.ts": [
+      {
+        "start": 766,
+        "end": 766
+      },
+      {
+        "start": 916,
+        "end": 916
+      }
+    ],
+    "../vscode/src/vs/base/common/errorMessage.ts": [
+      {
+        "start": 6,
+        "end": 8
+      }
+    ],
+    "../vscode/src/vs/base/common/errors.ts": [
+      {
+        "start": 105,
+        "end": 105
+      },
+      {
+        "start": 149,
+        "end": 149
+      }
+    ],
+    "../vscode/src/vs/base/common/errorsWithActions.ts": [],
+    "../vscode/src/vs/base/common/event.ts": [
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 155,
+        "end": 155
+      },
+      {
+        "start": 159,
+        "end": 159
+      },
+      {
+        "start": 193,
+        "end": 193
+      },
+      {
+        "start": 357,
+        "end": 358
+      },
+      {
+        "start": 365,
+        "end": 365
+      },
+      {
+        "start": 367,
+        "end": 367
+      },
+      {
+        "start": 380,
+        "end": 380
+      },
+      {
+        "start": 392,
+        "end": 392
+      },
+      {
+        "start": 431,
+        "end": 432
+      },
+      {
+        "start": 439,
+        "end": 439
+      },
+      {
+        "start": 456,
+        "end": 456
+      },
+      {
+        "start": 485,
+        "end": 485
+      },
+      {
+        "start": 487,
+        "end": 488
+      },
+      {
+        "start": 490,
+        "end": 490
+      },
+      {
+        "start": 492,
+        "end": 492
+      },
+      {
+        "start": 566,
+        "end": 566
+      },
+      {
+        "start": 660,
+        "end": 660
+      },
+      {
+        "start": 675,
+        "end": 675
+      },
+      {
+        "start": 702,
+        "end": 702
+      },
+      {
+        "start": 802,
+        "end": 802
+      }
+    ],
+    "../vscode/src/vs/base/common/extpath.ts": [
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 43,
+        "end": 43
+      },
+      {
+        "start": 124,
+        "end": 124
+      }
+    ],
+    "../vscode/src/vs/base/common/filters.ts": [
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 31,
+        "end": 31
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 66,
+        "end": 66
+      },
+      {
+        "start": 67,
+        "end": 67
+      },
+      {
+        "start": 77,
+        "end": 77
+      },
+      {
+        "start": 81,
+        "end": 81
+      },
+      {
+        "start": 88,
+        "end": 88
+      },
+      {
+        "start": 148,
+        "end": 148
+      },
+      {
+        "start": 156,
+        "end": 156
+      },
+      {
+        "start": 164,
+        "end": 164
+      },
+      {
+        "start": 196,
+        "end": 199
+      },
+      {
+        "start": 234,
+        "end": 234
+      },
+      {
+        "start": 263,
+        "end": 263
+      },
+      {
+        "start": 279,
+        "end": 279
+      },
+      {
+        "start": 284,
+        "end": 284
+      },
+      {
+        "start": 296,
+        "end": 296
+      },
+      {
+        "start": 304,
+        "end": 304
+      },
+      {
+        "start": 319,
+        "end": 319
+      },
+      {
+        "start": 334,
+        "end": 334
+      },
+      {
+        "start": 347,
+        "end": 347
+      },
+      {
+        "start": 361,
+        "end": 361
+      },
+      {
+        "start": 364,
+        "end": 364
+      },
+      {
+        "start": 379,
+        "end": 380
+      },
+      {
+        "start": 382,
+        "end": 383
+      },
+      {
+        "start": 417,
+        "end": 417
+      },
+      {
+        "start": 579,
+        "end": 581
+      },
+      {
+        "start": 648,
+        "end": 649
+      },
+      {
+        "start": 723,
+        "end": 723
+      },
+      {
+        "start": 727,
+        "end": 727
+      },
+      {
+        "start": 731,
+        "end": 732
+      },
+      {
+        "start": 746,
+        "end": 746
+      },
+      {
+        "start": 748,
+        "end": 748
+      },
+      {
+        "start": 750,
+        "end": 750
+      },
+      {
+        "start": 764,
+        "end": 764
+      },
+      {
+        "start": 770,
+        "end": 771
+      }
+    ],
+    "../vscode/src/vs/base/common/functional.ts": [
+      {
+        "start": 6,
+        "end": 6
+      }
+    ],
+    "../vscode/src/vs/base/common/glob.ts": [
+      {
+        "start": 6,
+        "end": 7
+      },
+      {
+        "start": 56,
+        "end": 56
+      },
+      {
+        "start": 62,
+        "end": 62
+      },
+      {
+        "start": 105,
+        "end": 105
+      },
+      {
+        "start": 136,
+        "end": 136
+      },
+      {
+        "start": 182,
+        "end": 182
+      },
+      {
+        "start": 185,
+        "end": 185
+      },
+      {
+        "start": 644,
+        "end": 644
+      }
+    ],
+    "../vscode/src/vs/base/common/history.ts": [
+      {
+        "start": 69,
+        "end": 69
+      }
+    ],
+    "../vscode/src/vs/base/common/hash.ts": [],
+    "../vscode/src/vs/base/common/idGenerator.ts": [],
+    "../vscode/src/vs/base/common/htmlContent.ts": [
+      {
+        "start": 89,
+        "end": 94
+      }
+    ],
+    "../vscode/src/vs/base/common/iterator.ts": [
+      {
+        "start": 107,
+        "end": 107
+      },
+      {
+        "start": 124,
+        "end": 124
+      },
+      {
+        "start": 129,
+        "end": 129
+      },
+      {
+        "start": 134,
+        "end": 134
+      },
+      {
+        "start": 149,
+        "end": 149
+      },
+      {
+        "start": 153,
+        "end": 153
+      },
+      {
+        "start": 158,
+        "end": 158
+      },
+      {
+        "start": 163,
+        "end": 163
+      },
+      {
+        "start": 168,
+        "end": 168
+      },
+      {
+        "start": 175,
+        "end": 175
+      },
+      {
+        "start": 183,
+        "end": 188
+      }
+    ],
+    "../vscode/src/vs/base/common/json.ts": [
+      {
+        "start": 212,
+        "end": 212
+      },
+      {
+        "start": 243,
+        "end": 243
+      },
+      {
+        "start": 334,
+        "end": 334
+      },
+      {
+        "start": 347,
+        "end": 347
+      },
+      {
+        "start": 427,
+        "end": 427
+      },
+      {
+        "start": 447,
+        "end": 447
+      },
+      {
+        "start": 450,
+        "end": 450
+      },
+      {
+        "start": 671,
+        "end": 671
+      },
+      {
+        "start": 723,
+        "end": 724
+      },
+      {
+        "start": 803,
+        "end": 803
+      },
+      {
+        "start": 844,
+        "end": 844
+      },
+      {
+        "start": 846,
+        "end": 846
+      },
+      {
+        "start": 856,
+        "end": 856
+      },
+      {
+        "start": 858,
+        "end": 858
+      },
+      {
+        "start": 871,
+        "end": 871
+      },
+      {
+        "start": 908,
+        "end": 908
+      },
+      {
+        "start": 914,
+        "end": 914
+      },
+      {
+        "start": 948,
+        "end": 948
+      },
+      {
+        "start": 958,
+        "end": 958
+      },
+      {
+        "start": 980,
+        "end": 980
+      },
+      {
+        "start": 997,
+        "end": 997
+      },
+      {
+        "start": 999,
+        "end": 999
+      },
+      {
+        "start": 1002,
+        "end": 1002
+      },
+      {
+        "start": 1018,
+        "end": 1018
+      },
+      {
+        "start": 1020,
+        "end": 1020
+      },
+      {
+        "start": 1046,
+        "end": 1046
+      },
+      {
+        "start": 1049,
+        "end": 1049
+      },
+      {
+        "start": 1067,
+        "end": 1067
+      },
+      {
+        "start": 1076,
+        "end": 1076
+      },
+      {
+        "start": 1086,
+        "end": 1087
+      },
+      {
+        "start": 1090,
+        "end": 1090
+      },
+      {
+        "start": 1151,
+        "end": 1151
+      }
+    ],
+    "../vscode/src/vs/base/common/jsonErrorMessages.ts": [],
+    "../vscode/src/vs/base/common/jsonEdit.ts": [
+      {
+        "start": 15,
+        "end": 17
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 48,
+        "end": 48
+      },
+      {
+        "start": 53,
+        "end": 53
+      },
+      {
+        "start": 59,
+        "end": 59
+      },
+      {
+        "start": 72,
+        "end": 73
+      },
+      {
+        "start": 76,
+        "end": 76
+      },
+      {
+        "start": 86,
+        "end": 86
+      },
+      {
+        "start": 89,
+        "end": 89
+      },
+      {
+        "start": 94,
+        "end": 94
+      },
+      {
+        "start": 101,
+        "end": 102
+      },
+      {
+        "start": 109,
+        "end": 111
+      },
+      {
+        "start": 142,
+        "end": 142
+      },
+      {
+        "start": 146,
+        "end": 146
+      },
+      {
+        "start": 153,
+        "end": 153
+      }
+    ],
+    "../vscode/src/vs/base/common/jsonSchema.ts": [],
+    "../vscode/src/vs/base/common/jsonFormatter.ts": [
+      {
+        "start": 83,
+        "end": 83
+      },
+      {
+        "start": 94,
+        "end": 94
+      },
+      {
+        "start": 110,
+        "end": 110
+      },
+      {
+        "start": 120,
+        "end": 121
+      },
+      {
+        "start": 132,
+        "end": 132
+      },
+      {
+        "start": 198,
+        "end": 198
+      },
+      {
+        "start": 216,
+        "end": 216
+      },
+      {
+        "start": 218,
+        "end": 218
+      },
+      {
+        "start": 233,
+        "end": 233
+      }
+    ],
+    "../vscode/src/vs/base/common/keybindingLabels.ts": [
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 165,
+        "end": 165
+      }
+    ],
+    "../vscode/src/vs/base/common/keyCodes.ts": [
+      {
+        "start": 399,
+        "end": 399
+      },
+      {
+        "start": 410,
+        "end": 410
+      },
+      {
+        "start": 414,
+        "end": 414
+      },
+      {
+        "start": 418,
+        "end": 419
+      },
+      {
+        "start": 469,
+        "end": 472
+      }
+    ],
+    "../vscode/src/vs/base/common/keybindingParser.ts": [
+      {
+        "start": 88,
+        "end": 88
+      },
+      {
+        "start": 115,
+        "end": 115
+      }
+    ],
+    "../vscode/src/vs/base/common/labels.ts": [
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 74,
+        "end": 76
+      },
+      {
+        "start": 286,
+        "end": 286
+      },
+      {
+        "start": 291,
+        "end": 291
+      }
+    ],
+    "../vscode/src/vs/base/common/linkedList.ts": [
+      {
+        "start": 150,
+        "end": 150
+      }
+    ],
+    "../vscode/src/vs/base/common/lifecycle.ts": [
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 52,
+        "end": 53
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 60,
+        "end": 65
+      }
+    ],
+    "../vscode/src/vs/base/common/marked/marked.js": [
+      {
+        "start": 4,
+        "end": 4
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 27,
+        "end": 36
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 44,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 49
+      },
+      {
+        "start": 53,
+        "end": 55
+      },
+      {
+        "start": 57,
+        "end": 61
+      },
+      {
+        "start": 63,
+        "end": 73
+      },
+      {
+        "start": 74,
+        "end": 74
+      },
+      {
+        "start": 76,
+        "end": 79
+      },
+      {
+        "start": 80,
+        "end": 80
+      },
+      {
+        "start": 81,
+        "end": 81
+      },
+      {
+        "start": 83,
+        "end": 85
+      },
+      {
+        "start": 103,
+        "end": 107
+      },
+      {
+        "start": 114,
+        "end": 133
+      },
+      {
+        "start": 146,
+        "end": 148
+      },
+      {
+        "start": 167,
+        "end": 167
+      },
+      {
+        "start": 176,
+        "end": 176
+      },
+      {
+        "start": 190,
+        "end": 190
+      },
+      {
+        "start": 191,
+        "end": 192
+      },
+      {
+        "start": 193,
+        "end": 197
+      },
+      {
+        "start": 201,
+        "end": 207
+      },
+      {
+        "start": 227,
+        "end": 227
+      },
+      {
+        "start": 259,
+        "end": 259
+      },
+      {
+        "start": 261,
+        "end": 261
+      },
+      {
+        "start": 264,
+        "end": 276
+      },
+      {
+        "start": 279,
+        "end": 281
+      },
+      {
+        "start": 283,
+        "end": 283
+      },
+      {
+        "start": 285,
+        "end": 286
+      },
+      {
+        "start": 324,
+        "end": 324
+      },
+      {
+        "start": 328,
+        "end": 328
+      },
+      {
+        "start": 383,
+        "end": 390
+      },
+      {
+        "start": 393,
+        "end": 393
+      },
+      {
+        "start": 442,
+        "end": 442
+      },
+      {
+        "start": 456,
+        "end": 456
+      },
+      {
+        "start": 458,
+        "end": 458
+      },
+      {
+        "start": 461,
+        "end": 473
+      },
+      {
+        "start": 476,
+        "end": 480
+      },
+      {
+        "start": 482,
+        "end": 482
+      },
+      {
+        "start": 484,
+        "end": 485
+      },
+      {
+        "start": 523,
+        "end": 523
+      },
+      {
+        "start": 535,
+        "end": 535
+      },
+      {
+        "start": 538,
+        "end": 546
+      },
+      {
+        "start": 549,
+        "end": 549
+      },
+      {
+        "start": 555,
+        "end": 556
+      },
+      {
+        "start": 559,
+        "end": 561
+      },
+      {
+        "start": 562,
+        "end": 569
+      },
+      {
+        "start": 571,
+        "end": 571
+      },
+      {
+        "start": 573,
+        "end": 573
+      },
+      {
+        "start": 575,
+        "end": 575
+      },
+      {
+        "start": 576,
+        "end": 576
+      },
+      {
+        "start": 577,
+        "end": 577
+      },
+      {
+        "start": 578,
+        "end": 578
+      },
+      {
+        "start": 579,
+        "end": 579
+      },
+      {
+        "start": 581,
+        "end": 581
+      },
+      {
+        "start": 582,
+        "end": 582
+      },
+      {
+        "start": 583,
+        "end": 583
+      },
+      {
+        "start": 597,
+        "end": 603
+      },
+      {
+        "start": 611,
+        "end": 614
+      },
+      {
+        "start": 617,
+        "end": 620
+      },
+      {
+        "start": 628,
+        "end": 629
+      },
+      {
+        "start": 640,
+        "end": 640
+      },
+      {
+        "start": 644,
+        "end": 644
+      },
+      {
+        "start": 647,
+        "end": 649
+      },
+      {
+        "start": 668,
+        "end": 668
+      },
+      {
+        "start": 677,
+        "end": 677
+      },
+      {
+        "start": 678,
+        "end": 678
+      },
+      {
+        "start": 679,
+        "end": 682
+      },
+      {
+        "start": 750,
+        "end": 763
+      },
+      {
+        "start": 765,
+        "end": 766
+      },
+      {
+        "start": 774,
+        "end": 774
+      },
+      {
+        "start": 792,
+        "end": 792
+      },
+      {
+        "start": 799,
+        "end": 799
+      },
+      {
+        "start": 806,
+        "end": 806
+      },
+      {
+        "start": 832,
+        "end": 832
+      },
+      {
+        "start": 839,
+        "end": 839
+      },
+      {
+        "start": 840,
+        "end": 842
+      },
+      {
+        "start": 847,
+        "end": 847
+      },
+      {
+        "start": 848,
+        "end": 848
+      },
+      {
+        "start": 849,
+        "end": 849
+      },
+      {
+        "start": 860,
+        "end": 860
+      },
+      {
+        "start": 883,
+        "end": 883
+      },
+      {
+        "start": 885,
+        "end": 885
+      },
+      {
+        "start": 886,
+        "end": 888
+      },
+      {
+        "start": 906,
+        "end": 906
+      },
+      {
+        "start": 909,
+        "end": 909
+      },
+      {
+        "start": 921,
+        "end": 921
+      },
+      {
+        "start": 929,
+        "end": 929
+      },
+      {
+        "start": 932,
+        "end": 932
+      },
+      {
+        "start": 936,
+        "end": 936
+      },
+      {
+        "start": 940,
+        "end": 940
+      },
+      {
+        "start": 941,
+        "end": 954
+      },
+      {
+        "start": 957,
+        "end": 957
+      },
+      {
+        "start": 961,
+        "end": 961
+      },
+      {
+        "start": 962,
+        "end": 962
+      },
+      {
+        "start": 963,
+        "end": 963
+      },
+      {
+        "start": 964,
+        "end": 964
+      },
+      {
+        "start": 967,
+        "end": 967
+      },
+      {
+        "start": 971,
+        "end": 979
+      },
+      {
+        "start": 983,
+        "end": 983
+      },
+      {
+        "start": 984,
+        "end": 985
+      },
+      {
+        "start": 994,
+        "end": 994
+      },
+      {
+        "start": 998,
+        "end": 998
+      },
+      {
+        "start": 1001,
+        "end": 1001
+      },
+      {
+        "start": 1007,
+        "end": 1007
+      },
+      {
+        "start": 1011,
+        "end": 1011
+      },
+      {
+        "start": 1015,
+        "end": 1015
+      },
+      {
+        "start": 1019,
+        "end": 1019
+      },
+      {
+        "start": 1023,
+        "end": 1023
+      },
+      {
+        "start": 1027,
+        "end": 1027
+      },
+      {
+        "start": 1043,
+        "end": 1048
+      },
+      {
+        "start": 1056,
+        "end": 1056
+      },
+      {
+        "start": 1068,
+        "end": 1068
+      },
+      {
+        "start": 1077,
+        "end": 1077
+      },
+      {
+        "start": 1082,
+        "end": 1087
+      },
+      {
+        "start": 1090,
+        "end": 1092
+      },
+      {
+        "start": 1094,
+        "end": 1094
+      },
+      {
+        "start": 1106,
+        "end": 1106
+      },
+      {
+        "start": 1115,
+        "end": 1115
+      },
+      {
+        "start": 1124,
+        "end": 1124
+      },
+      {
+        "start": 1127,
+        "end": 1128
+      },
+      {
+        "start": 1129,
+        "end": 1129
+      },
+      {
+        "start": 1130,
+        "end": 1130
+      },
+      {
+        "start": 1145,
+        "end": 1145
+      },
+      {
+        "start": 1153,
+        "end": 1153
+      },
+      {
+        "start": 1161,
+        "end": 1161
+      },
+      {
+        "start": 1175,
+        "end": 1175
+      },
+      {
+        "start": 1195,
+        "end": 1195
+      },
+      {
+        "start": 1196,
+        "end": 1200
+      },
+      {
+        "start": 1228,
+        "end": 1228
+      },
+      {
+        "start": 1237,
+        "end": 1238
+      },
+      {
+        "start": 1239,
+        "end": 1239
+      },
+      {
+        "start": 1245,
+        "end": 1245
+      },
+      {
+        "start": 1248,
+        "end": 1248
+      },
+      {
+        "start": 1251,
+        "end": 1254
+      },
+      {
+        "start": 1265,
+        "end": 1265
+      },
+      {
+        "start": 1291,
+        "end": 1291
+      },
+      {
+        "start": 1303,
+        "end": 1303
+      },
+      {
+        "start": 1304,
+        "end": 1304
+      },
+      {
+        "start": 1306,
+        "end": 1306
+      },
+      {
+        "start": 1307,
+        "end": 1307
+      },
+      {
+        "start": 1308,
+        "end": 1312
+      },
+      {
+        "start": 1313,
+        "end": 1313
+      },
+      {
+        "start": 1314,
+        "end": 1315
+      },
+      {
+        "start": 1327,
+        "end": 1327
+      },
+      {
+        "start": 1343,
+        "end": 1343
+      },
+      {
+        "start": 1347,
+        "end": 1347
+      },
+      {
+        "start": 1348,
+        "end": 1349
+      },
+      {
+        "start": 1363,
+        "end": 1363
+      },
+      {
+        "start": 1364,
+        "end": 1380
+      },
+      {
+        "start": 1381,
+        "end": 1388
+      },
+      {
+        "start": 1389,
+        "end": 1390
+      },
+      {
+        "start": 1391,
+        "end": 1394
+      },
+      {
+        "start": 1395,
+        "end": 1420
+      },
+      {
+        "start": 1427,
+        "end": 1427
+      },
+      {
+        "start": 1429,
+        "end": 1433
+      },
+      {
+        "start": 1443,
+        "end": 1443
+      },
+      {
+        "start": 1444,
+        "end": 1446
+      },
+      {
+        "start": 1456,
+        "end": 1456
+      },
+      {
+        "start": 1486,
+        "end": 1486
+      },
+      {
+        "start": 1490,
+        "end": 1490
+      },
+      {
+        "start": 1508,
+        "end": 1508
+      },
+      {
+        "start": 1523,
+        "end": 1526
+      },
+      {
+        "start": 1528,
+        "end": 1535
+      },
+      {
+        "start": 1536,
+        "end": 1536
+      },
+      {
+        "start": 1537,
+        "end": 1547
+      },
+      {
+        "start": 1548,
+        "end": 1548
+      },
+      {
+        "start": 1550,
+        "end": 1551
+      }
+    ],
+    "../vscode/src/vs/base/common/map.ts": [
+      {
+        "start": 103,
+        "end": 104
+      },
+      {
+        "start": 152,
+        "end": 152
+      },
+      {
+        "start": 156,
+        "end": 156
+      },
+      {
+        "start": 213,
+        "end": 213
+      },
+      {
+        "start": 223,
+        "end": 223
+      },
+      {
+        "start": 259,
+        "end": 259
+      },
+      {
+        "start": 262,
+        "end": 262
+      },
+      {
+        "start": 282,
+        "end": 283
+      },
+      {
+        "start": 288,
+        "end": 288
+      },
+      {
+        "start": 322,
+        "end": 322
+      },
+      {
+        "start": 326,
+        "end": 326
+      },
+      {
+        "start": 346,
+        "end": 346
+      },
+      {
+        "start": 349,
+        "end": 349
+      },
+      {
+        "start": 376,
+        "end": 376
+      },
+      {
+        "start": 434,
+        "end": 434
+      },
+      {
+        "start": 613,
+        "end": 613
+      },
+      {
+        "start": 623,
+        "end": 623
+      },
+      {
+        "start": 634,
+        "end": 635
+      },
+      {
+        "start": 641,
+        "end": 641
+      },
+      {
+        "start": 653,
+        "end": 654
+      },
+      {
+        "start": 660,
+        "end": 660
+      }
+    ],
+    "../vscode/src/vs/base/common/marshalling.ts": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 28,
+        "end": 29
+      }
+    ],
+    "../vscode/src/vs/base/common/mime.ts": [
+      {
+        "start": 16,
+        "end": 22
+      },
+      {
+        "start": 26,
+        "end": 29
+      },
+      {
+        "start": 117,
+        "end": 120
+      },
+      {
+        "start": 200,
+        "end": 200
+      },
+      {
+        "start": 206,
+        "end": 206
+      },
+      {
+        "start": 233,
+        "end": 233
+      },
+      {
+        "start": 245,
+        "end": 301
+      },
+      {
+        "start": 303,
+        "end": 303
+      }
+    ],
+    "../vscode/src/vs/base/common/normalization.ts": [],
+    "../vscode/src/vs/base/common/network.ts": [],
+    "../vscode/src/vs/base/common/numbers.ts": [],
+    "../vscode/src/vs/base/common/objects.ts": [
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 17,
+        "end": 17
+      },
+      {
+        "start": 33,
+        "end": 33
+      },
+      {
+        "start": 37,
+        "end": 37
+      },
+      {
+        "start": 65,
+        "end": 66
+      },
+      {
+        "start": 116,
+        "end": 119
+      },
+      {
+        "start": 202,
+        "end": 202
+      }
+    ],
+    "../vscode/src/vs/base/common/octicon.ts": [
+      {
+        "start": 33,
+        "end": 33
+      },
+      {
+        "start": 100,
+        "end": 100
+      },
+      {
+        "start": 118,
+        "end": 121
+      }
+    ],
+    "../vscode/src/vs/base/common/paging.ts": [],
+    "../vscode/src/vs/base/common/path.ts": [
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 57,
+        "end": 57
+      },
+      {
+        "start": 64,
+        "end": 64
+      },
+      {
+        "start": 70,
+        "end": 70
+      },
+      {
+        "start": 74,
+        "end": 74
+      },
+      {
+        "start": 78,
+        "end": 78
+      },
+      {
+        "start": 84,
+        "end": 84
+      },
+      {
+        "start": 157,
+        "end": 157
+      },
+      {
+        "start": 187,
+        "end": 187
+      },
+      {
+        "start": 233,
+        "end": 233
+      },
+      {
+        "start": 503,
+        "end": 503
+      },
+      {
+        "start": 505,
+        "end": 505
+      },
+      {
+        "start": 536,
+        "end": 536
+      },
+      {
+        "start": 584,
+        "end": 585
+      },
+      {
+        "start": 612,
+        "end": 612
+      },
+      {
+        "start": 628,
+        "end": 628
+      },
+      {
+        "start": 631,
+        "end": 631
+      },
+      {
+        "start": 660,
+        "end": 661
+      },
+      {
+        "start": 1017,
+        "end": 1017
+      },
+      {
+        "start": 1022,
+        "end": 1022
+      },
+      {
+        "start": 1270,
+        "end": 1270
+      },
+      {
+        "start": 1309,
+        "end": 1310
+      },
+      {
+        "start": 1319,
+        "end": 1320
+      },
+      {
+        "start": 1323,
+        "end": 1323
+      },
+      {
+        "start": 1351,
+        "end": 1352
+      },
+      {
+        "start": 1570,
+        "end": 1570
+      },
+      {
+        "start": 1574,
+        "end": 1574
+      }
+    ],
+    "../vscode/src/vs/base/common/parsers.ts": [
+      {
+        "start": 83,
+        "end": 83
+      },
+      {
+        "start": 84,
+        "end": 85
+      }
+    ],
+    "../vscode/src/vs/base/common/performance.js": [],
+    "../vscode/src/vs/base/common/platform.ts": [
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 15,
+        "end": 15
+      },
+      {
+        "start": 37,
+        "end": 38
+      },
+      {
+        "start": 44,
+        "end": 45
+      },
+      {
+        "start": 159,
+        "end": 159
+      },
+      {
+        "start": 170,
+        "end": 170
+      }
+    ],
+    "../vscode/src/vs/base/common/process.ts": [
+      {
+        "start": 16,
+        "end": 16
+      }
+    ],
+    "../vscode/src/vs/base/common/processes.ts": [],
+    "../vscode/src/vs/base/common/range.ts": [],
+    "../vscode/src/vs/base/common/resources.ts": [
+      {
+        "start": 20,
+        "end": 20
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 184,
+        "end": 184
+      }
+    ],
+    "../vscode/src/vs/base/common/scanCode.ts": [],
+    "../vscode/src/vs/base/common/scrollable.ts": [
+      {
+        "start": 120,
+        "end": 122
+      },
+      {
+        "start": 124,
+        "end": 126
+      },
+      {
+        "start": 188,
+        "end": 188
+      },
+      {
+        "start": 380,
+        "end": 381
+      }
+    ],
+    "../vscode/src/vs/base/common/sequence.ts": [
+      {
+        "start": 6,
+        "end": 6
+      }
+    ],
+    "../vscode/src/vs/base/common/severity.ts": [
+      {
+        "start": 6,
+        "end": 7
+      }
+    ],
+    "../vscode/src/vs/base/common/stopwatch.ts": [],
+    "../vscode/src/vs/base/common/strings.ts": [
+      {
+        "start": 13,
+        "end": 13
+      },
+      {
+        "start": 24,
+        "end": 25
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 82,
+        "end": 82
+      },
+      {
+        "start": 91,
+        "end": 91
+      },
+      {
+        "start": 96,
+        "end": 96
+      },
+      {
+        "start": 101,
+        "end": 101
+      },
+      {
+        "start": 103,
+        "end": 103
+      },
+      {
+        "start": 114,
+        "end": 114
+      },
+      {
+        "start": 119,
+        "end": 119
+      },
+      {
+        "start": 176,
+        "end": 176
+      },
+      {
+        "start": 191,
+        "end": 191
+      },
+      {
+        "start": 219,
+        "end": 221
+      },
+      {
+        "start": 235,
+        "end": 235
+      },
+      {
+        "start": 236,
+        "end": 236
+      },
+      {
+        "start": 243,
+        "end": 249
+      },
+      {
+        "start": 256,
+        "end": 256
+      },
+      {
+        "start": 270,
+        "end": 270
+      },
+      {
+        "start": 284,
+        "end": 284
+      },
+      {
+        "start": 383,
+        "end": 383
+      },
+      {
+        "start": 434,
+        "end": 435
+      },
+      {
+        "start": 462,
+        "end": 462
+      },
+      {
+        "start": 489,
+        "end": 489
+      },
+      {
+        "start": 491,
+        "end": 491
+      },
+      {
+        "start": 650,
+        "end": 650
+      },
+      {
+        "start": 688,
+        "end": 688
+      }
+    ],
+    "../vscode/src/vs/base/common/types.ts": [
+      {
+        "start": 52,
+        "end": 52
+      },
+      {
+        "start": 131,
+        "end": 131
+      },
+      {
+        "start": 171,
+        "end": 172
+      },
+      {
+        "start": 173,
+        "end": 173
+      },
+      {
+        "start": 174,
+        "end": 174
+      },
+      {
+        "start": 175,
+        "end": 175
+      },
+      {
+        "start": 176,
+        "end": 176
+      },
+      {
+        "start": 177,
+        "end": 183
+      }
+    ],
+    "../vscode/src/vs/base/common/uri.ts": [
+      {
+        "start": 332,
+        "end": 332
+      },
+      {
+        "start": 382,
+        "end": 382
+      },
+      {
+        "start": 408,
+        "end": 409
+      },
+      {
+        "start": 491,
+        "end": 491
+      },
+      {
+        "start": 521,
+        "end": 521
+      },
+      {
+        "start": 548,
+        "end": 548
+      },
+      {
+        "start": 550,
+        "end": 550
+      },
+      {
+        "start": 640,
+        "end": 640
+      },
+      {
+        "start": 645,
+        "end": 645
+      }
+    ],
+    "../vscode/src/vs/base/common/uriIpc.ts": [],
+    "../vscode/src/vs/base/common/uuid.ts": [
+      {
+        "start": 32,
+        "end": 32
+      }
+    ],
+    "../vscode/src/vs/base/node/config.ts": [
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 24,
+        "end": 24
+      },
+      {
+        "start": 32,
+        "end": 32
+      },
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 48,
+        "end": 48
+      },
+      {
+        "start": 50,
+        "end": 50
+      },
+      {
+        "start": 85,
+        "end": 85
+      },
+      {
+        "start": 90,
+        "end": 90
+      },
+      {
+        "start": 98,
+        "end": 98
+      },
+      {
+        "start": 108,
+        "end": 109
+      }
+    ],
+    "../vscode/src/vs/base/common/worker/simpleWorker.ts": [
+      {
+        "start": 238,
+        "end": 239
+      },
+      {
+        "start": 249,
+        "end": 249
+      },
+      {
+        "start": 253,
+        "end": 253
+      }
+    ],
+    "../vscode/src/vs/base/node/cpuUsage.sh": [],
+    "../vscode/src/vs/base/node/crypto.ts": [
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 32,
+        "end": 32
+      }
+    ],
+    "../vscode/src/vs/base/node/decoder.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 27,
+        "end": 28
+      },
+      {
+        "start": 44,
+        "end": 44
+      }
+    ],
+    "../vscode/src/vs/base/node/encoding.ts": [
+      {
+        "start": 6,
+        "end": 7
+      },
+      {
+        "start": 61,
+        "end": 61
+      },
+      {
+        "start": 77,
+        "end": 78
+      },
+      {
+        "start": 128,
+        "end": 128
+      },
+      {
+        "start": 136,
+        "end": 137
+      },
+      {
+        "start": 144,
+        "end": 144
+      },
+      {
+        "start": 180,
+        "end": 180
+      },
+      {
+        "start": 190,
+        "end": 190
+      },
+      {
+        "start": 265,
+        "end": 265
+      },
+      {
+        "start": 279,
+        "end": 279
+      },
+      {
+        "start": 327,
+        "end": 327
+      },
+      {
+        "start": 390,
+        "end": 390
+      }
+    ],
+    "../vscode/src/vs/base/node/extpath.ts": [],
+    "../vscode/src/vs/base/node/id.ts": [
+      {
+        "start": 23,
+        "end": 24
+      },
+      {
+        "start": 48,
+        "end": 48
+      }
+    ],
+    "../vscode/src/vs/base/node/languagePacks.js": [],
+    "../vscode/src/vs/base/node/paths.ts": [],
+    "../vscode/src/vs/base/node/ports.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 12,
+        "end": 13
+      }
+    ],
+    "../vscode/src/vs/base/node/pfs.ts": [],
+    "../vscode/src/vs/base/node/proxy.ts": [
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 40,
+        "end": 40
+      }
+    ],
+    "../vscode/src/vs/base/node/processes.ts": [
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 57,
+        "end": 58
+      },
+      {
+        "start": 81,
+        "end": 81
+      },
+      {
+        "start": 108,
+        "end": 108
+      },
+      {
+        "start": 116,
+        "end": 116
+      },
+      {
+        "start": 127,
+        "end": 127
+      },
+      {
+        "start": 129,
+        "end": 129
+      },
+      {
+        "start": 132,
+        "end": 132
+      },
+      {
+        "start": 140,
+        "end": 140
+      },
+      {
+        "start": 157,
+        "end": 157
+      },
+      {
+        "start": 169,
+        "end": 169
+      },
+      {
+        "start": 180,
+        "end": 180
+      },
+      {
+        "start": 181,
+        "end": 181
+      },
+      {
+        "start": 185,
+        "end": 185
+      },
+      {
+        "start": 194,
+        "end": 194
+      },
+      {
+        "start": 199,
+        "end": 199
+      },
+      {
+        "start": 210,
+        "end": 210
+      },
+      {
+        "start": 244,
+        "end": 244
+      },
+      {
+        "start": 259,
+        "end": 259
+      },
+      {
+        "start": 290,
+        "end": 290
+      },
+      {
+        "start": 305,
+        "end": 305
+      },
+      {
+        "start": 329,
+        "end": 330
+      },
+      {
+        "start": 334,
+        "end": 334
+      },
+      {
+        "start": 346,
+        "end": 346
+      },
+      {
+        "start": 350,
+        "end": 350
+      },
+      {
+        "start": 383,
+        "end": 383
+      },
+      {
+        "start": 415,
+        "end": 415
+      }
+    ],
+    "../vscode/src/vs/base/node/ps.ts": [
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 129,
+        "end": 129
+      },
+      {
+        "start": 135,
+        "end": 136
+      },
+      {
+        "start": 143,
+        "end": 143
+      },
+      {
+        "start": 178,
+        "end": 178
+      },
+      {
+        "start": 187,
+        "end": 187
+      },
+      {
+        "start": 190,
+        "end": 194
+      },
+      {
+        "start": 210,
+        "end": 210
+      }
+    ],
+    "../vscode/src/vs/base/node/request.ts": [
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 30,
+        "end": 30
+      },
+      {
+        "start": 52,
+        "end": 52
+      },
+      {
+        "start": 65,
+        "end": 65
+      },
+      {
+        "start": 67,
+        "end": 67
+      },
+      {
+        "start": 85,
+        "end": 86
+      },
+      {
+        "start": 109,
+        "end": 114
+      },
+      {
+        "start": 128,
+        "end": 128
+      },
+      {
+        "start": 145,
+        "end": 145
+      },
+      {
+        "start": 155,
+        "end": 155
+      },
+      {
+        "start": 162,
+        "end": 162
+      }
+    ],
+    "../vscode/src/vs/base/node/storage.ts": [
+      {
+        "start": 86,
+        "end": 86
+      },
+      {
+        "start": 172,
+        "end": 173
+      },
+      {
+        "start": 184,
+        "end": 185
+      }
+    ],
+    "../vscode/src/vs/base/node/stream.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 74,
+        "end": 75
+      },
+      {
+        "start": 81,
+        "end": 81
+      },
+      {
+        "start": 95,
+        "end": 95
+      }
+    ],
+    "../vscode/src/vs/base/node/terminateProcess.sh": [],
+    "../vscode/src/vs/base/node/test/fixtures/extract.zip": [],
+    "../vscode/src/vs/base/node/watcher.ts": [],
+    "../vscode/src/vs/base/node/zip.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 52,
+        "end": 52
+      },
+      {
+        "start": 96,
+        "end": 96
+      },
+      {
+        "start": 107,
+        "end": 107
+      },
+      {
+        "start": 130,
+        "end": 130
+      },
+      {
+        "start": 197,
+        "end": 203
+      }
+    ],
+    "../vscode/src/vs/base/parts/contextmenu/electron-browser/contextmenu.ts": [
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 14,
+        "end": 15
+      },
+      {
+        "start": 16,
+        "end": 21
+      },
+      {
+        "start": 24,
+        "end": 28
+      },
+      {
+        "start": 36,
+        "end": 36
+      }
+    ],
+    "../vscode/src/vs/base/parts/contextmenu/common/contextmenu.ts": [],
+    "../vscode/src/vs/base/parts/ipc/common/ipc.net.ts": [],
+    "../vscode/src/vs/base/parts/contextmenu/electron-main/contextmenu.ts": [
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 19,
+        "end": 19
+      }
+    ],
+    "../vscode/src/vs/base/parts/ipc/common/ipc.ts": [],
+    "../vscode/src/vs/base/parts/ipc/electron-browser/ipc.electron-browser.ts": [],
+    "../vscode/src/vs/base/parts/ipc/electron-main/ipc.electron-main.ts": [],
+    "../vscode/src/vs/base/parts/ipc/node/ipc.cp.ts": [
+      {
+        "start": 26,
+        "end": 28
+      },
+      {
+        "start": 30,
+        "end": 32
+      },
+      {
+        "start": 91,
+        "end": 92
+      },
+      {
+        "start": 210,
+        "end": 210
+      },
+      {
+        "start": 239,
+        "end": 241
+      },
+      {
+        "start": 263,
+        "end": 266
+      },
+      {
+        "start": 275,
+        "end": 275
+      }
+    ],
+    "../vscode/src/vs/base/parts/ipc/node/ipc.electron.ts": [],
+    "../vscode/src/vs/base/parts/ipc/node/ipc.net.ts": [
+      {
+        "start": 89,
+        "end": 91
+      },
+      {
+        "start": 93,
+        "end": 93
+      },
+      {
+        "start": 98,
+        "end": 101
+      }
+    ],
+    "../vscode/src/vs/base/parts/ipc/test/node/testService.ts": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 44,
+        "end": 44
+      },
+      {
+        "start": 52,
+        "end": 52
+      }
+    ],
+    "../vscode/src/vs/base/parts/ipc/test/node/testApp.ts": [],
+    "../vscode/src/vs/base/parts/quickopen/browser/quickOpenViewer.ts": [
+      {
+        "start": 36,
+        "end": 36
+      }
+    ],
+    "../vscode/src/vs/base/parts/quickopen/browser/quickOpenModel.ts": [
+      {
+        "start": 6,
+        "end": 7
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 38,
+        "end": 38
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 46,
+        "end": 46
+      },
+      {
+        "start": 58,
+        "end": 59
+      },
+      {
+        "start": 78,
+        "end": 78
+      },
+      {
+        "start": 85,
+        "end": 85
+      },
+      {
+        "start": 93,
+        "end": 93
+      },
+      {
+        "start": 100,
+        "end": 100
+      },
+      {
+        "start": 107,
+        "end": 107
+      },
+      {
+        "start": 114,
+        "end": 114
+      },
+      {
+        "start": 121,
+        "end": 121
+      },
+      {
+        "start": 128,
+        "end": 128
+      },
+      {
+        "start": 135,
+        "end": 135
+      },
+      {
+        "start": 143,
+        "end": 143
+      },
+      {
+        "start": 173,
+        "end": 173
+      },
+      {
+        "start": 183,
+        "end": 183
+      },
+      {
+        "start": 198,
+        "end": 200
+      },
+      {
+        "start": 213,
+        "end": 213
+      },
+      {
+        "start": 217,
+        "end": 217
+      },
+      {
+        "start": 225,
+        "end": 225
+      },
+      {
+        "start": 232,
+        "end": 232
+      },
+      {
+        "start": 236,
+        "end": 236
+      },
+      {
+        "start": 244,
+        "end": 244
+      },
+      {
+        "start": 248,
+        "end": 248
+      },
+      {
+        "start": 252,
+        "end": 252
+      },
+      {
+        "start": 256,
+        "end": 256
+      },
+      {
+        "start": 260,
+        "end": 260
+      },
+      {
+        "start": 264,
+        "end": 264
+      },
+      {
+        "start": 280,
+        "end": 280
+      },
+      {
+        "start": 291,
+        "end": 291
+      },
+      {
+        "start": 307,
+        "end": 307
+      },
+      {
+        "start": 316,
+        "end": 316
+      },
+      {
+        "start": 318,
+        "end": 318
+      },
+      {
+        "start": 347,
+        "end": 347
+      },
+      {
+        "start": 370,
+        "end": 370
+      },
+      {
+        "start": 433,
+        "end": 435
+      },
+      {
+        "start": 443,
+        "end": 448
+      },
+      {
+        "start": 462,
+        "end": 463
+      },
+      {
+        "start": 465,
+        "end": 465
+      },
+      {
+        "start": 468,
+        "end": 468
+      },
+      {
+        "start": 471,
+        "end": 471
+      },
+      {
+        "start": 558,
+        "end": 558
+      },
+      {
+        "start": 575,
+        "end": 575
+      },
+      {
+        "start": 599,
+        "end": 600
+      }
+    ],
+    "../vscode/src/vs/base/parts/quickopen/browser/quickopen.css": [],
+    "../vscode/src/vs/base/parts/quickopen/browser/quickOpenWidget.ts": [
+      {
+        "start": 7,
+        "end": 9
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 39,
+        "end": 39
+      },
+      {
+        "start": 98,
+        "end": 98
+      },
+      {
+        "start": 119,
+        "end": 119
+      },
+      {
+        "start": 158,
+        "end": 158
+      },
+      {
+        "start": 164,
+        "end": 164
+      },
+      {
+        "start": 288,
+        "end": 288
+      },
+      {
+        "start": 304,
+        "end": 304
+      },
+      {
+        "start": 642,
+        "end": 642
+      },
+      {
+        "start": 683,
+        "end": 683
+      },
+      {
+        "start": 684,
+        "end": 684
+      },
+      {
+        "start": 780,
+        "end": 780
+      },
+      {
+        "start": 876,
+        "end": 876
+      },
+      {
+        "start": 948,
+        "end": 948
+      }
+    ],
+    "../vscode/src/vs/base/parts/quickopen/common/quickOpen.ts": [
+      {
+        "start": 62,
+        "end": 62
+      }
+    ],
+    "../vscode/src/vs/base/parts/quickopen/common/quickOpenScorer.ts": [
+      {
+        "start": 64,
+        "end": 65
+      },
+      {
+        "start": 134,
+        "end": 134
+      },
+      {
+        "start": 288,
+        "end": 288
+      },
+      {
+        "start": 293,
+        "end": 293
+      },
+      {
+        "start": 298,
+        "end": 298
+      },
+      {
+        "start": 317,
+        "end": 319
+      },
+      {
+        "start": 321,
+        "end": 322
+      },
+      {
+        "start": 326,
+        "end": 326
+      },
+      {
+        "start": 328,
+        "end": 328
+      },
+      {
+        "start": 379,
+        "end": 379
+      },
+      {
+        "start": 382,
+        "end": 382
+      },
+      {
+        "start": 472,
+        "end": 473
+      },
+      {
+        "start": 487,
+        "end": 488
+      },
+      {
+        "start": 535,
+        "end": 535
+      },
+      {
+        "start": 540,
+        "end": 540
+      },
+      {
+        "start": 547,
+        "end": 547
+      },
+      {
+        "start": 549,
+        "end": 549
+      },
+      {
+        "start": 558,
+        "end": 558
+      },
+      {
+        "start": 566,
+        "end": 566
+      },
+      {
+        "start": 595,
+        "end": 596
+      }
+    ],
+    "../vscode/src/vs/base/parts/tree/browser/CollapseAll_inverse.svg": [],
+    "../vscode/src/vs/base/parts/tree/browser/CollapseAll.svg": [],
+    "../vscode/src/vs/base/parts/tree/browser/collapsed-dark.svg": [],
+    "../vscode/src/vs/base/parts/tree/browser/collapsed-hc.svg": [],
+    "../vscode/src/vs/base/parts/tree/browser/collapsed.svg": [],
+    "../vscode/src/vs/base/parts/tree/browser/expanded-dark.svg": [],
+    "../vscode/src/vs/base/parts/tree/browser/expanded-hc.svg": [],
+    "../vscode/src/vs/base/parts/tree/browser/expanded.svg": [],
+    "../vscode/src/vs/base/parts/tree/browser/loading-hc.svg": [],
+    "../vscode/src/vs/base/parts/tree/browser/loading-dark.svg": [],
+    "../vscode/src/vs/base/parts/tree/browser/tree.css": [],
+    "../vscode/src/vs/base/parts/tree/browser/loading.svg": [],
+    "../vscode/src/vs/base/parts/tree/browser/tree.ts": [
+      {
+        "start": 6,
+        "end": 8
+      },
+      {
+        "start": 11,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 311,
+        "end": 311
+      },
+      {
+        "start": 461,
+        "end": 461
+      },
+      {
+        "start": 477,
+        "end": 477
+      },
+      {
+        "start": 576,
+        "end": 576
+      },
+      {
+        "start": 581,
+        "end": 581
+      }
+    ],
+    "../vscode/src/vs/base/parts/tree/browser/treeDefaults.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 8,
+        "end": 12
+      },
+      {
+        "start": 14,
+        "end": 14
+      },
+      {
+        "start": 83,
+        "end": 83
+      },
+      {
+        "start": 231,
+        "end": 231
+      },
+      {
+        "start": 268,
+        "end": 268
+      },
+      {
+        "start": 270,
+        "end": 270
+      },
+      {
+        "start": 364,
+        "end": 364
+      },
+      {
+        "start": 382,
+        "end": 382
+      },
+      {
+        "start": 436,
+        "end": 436
+      },
+      {
+        "start": 469,
+        "end": 469
+      }
+    ],
+    "../vscode/src/vs/base/parts/tree/browser/treeDnd.ts": [
+      {
+        "start": 6,
+        "end": 6
+      }
+    ],
+    "../vscode/src/vs/base/parts/tree/browser/treeImpl.ts": [
+      {
+        "start": 7,
+        "end": 10
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 27,
+        "end": 27
+      },
+      {
+        "start": 29,
+        "end": 29
+      },
+      {
+        "start": 45,
+        "end": 45
+      },
+      {
+        "start": 47,
+        "end": 47
+      },
+      {
+        "start": 70,
+        "end": 79
+      },
+      {
+        "start": 85,
+        "end": 92
+      },
+      {
+        "start": 269,
+        "end": 269
+      },
+      {
+        "start": 273,
+        "end": 273
+      }
+    ],
+    "../vscode/src/vs/base/parts/tree/browser/treeUtils.ts": [],
+    "../vscode/src/vs/base/parts/tree/browser/treeModel.ts": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 20,
+        "end": 21
+      },
+      {
+        "start": 35,
+        "end": 35
+      },
+      {
+        "start": 81,
+        "end": 81
+      },
+      {
+        "start": 91,
+        "end": 91
+      },
+      {
+        "start": 99,
+        "end": 99
+      },
+      {
+        "start": 112,
+        "end": 112
+      },
+      {
+        "start": 113,
+        "end": 113
+      },
+      {
+        "start": 116,
+        "end": 116
+      },
+      {
+        "start": 189,
+        "end": 189
+      },
+      {
+        "start": 195,
+        "end": 195
+      },
+      {
+        "start": 229,
+        "end": 229
+      },
+      {
+        "start": 248,
+        "end": 252
+      },
+      {
+        "start": 309,
+        "end": 309
+      },
+      {
+        "start": 347,
+        "end": 347
+      },
+      {
+        "start": 348,
+        "end": 348
+      },
+      {
+        "start": 357,
+        "end": 357
+      },
+      {
+        "start": 362,
+        "end": 363
+      },
+      {
+        "start": 395,
+        "end": 395
+      },
+      {
+        "start": 408,
+        "end": 408
+      },
+      {
+        "start": 419,
+        "end": 419
+      },
+      {
+        "start": 425,
+        "end": 425
+      },
+      {
+        "start": 435,
+        "end": 436
+      },
+      {
+        "start": 463,
+        "end": 464
+      },
+      {
+        "start": 467,
+        "end": 467
+      },
+      {
+        "start": 486,
+        "end": 486
+      },
+      {
+        "start": 492,
+        "end": 495
+      },
+      {
+        "start": 504,
+        "end": 504
+      },
+      {
+        "start": 560,
+        "end": 561
+      },
+      {
+        "start": 571,
+        "end": 571
+      },
+      {
+        "start": 572,
+        "end": 574
+      },
+      {
+        "start": 580,
+        "end": 582
+      },
+      {
+        "start": 588,
+        "end": 590
+      },
+      {
+        "start": 597,
+        "end": 599
+      },
+      {
+        "start": 601,
+        "end": 603
+      },
+      {
+        "start": 613,
+        "end": 614
+      },
+      {
+        "start": 619,
+        "end": 621
+      },
+      {
+        "start": 625,
+        "end": 627
+      },
+      {
+        "start": 631,
+        "end": 633
+      },
+      {
+        "start": 635,
+        "end": 637
+      },
+      {
+        "start": 642,
+        "end": 642
+      },
+      {
+        "start": 646,
+        "end": 647
+      },
+      {
+        "start": 656,
+        "end": 656
+      },
+      {
+        "start": 664,
+        "end": 665
+      },
+      {
+        "start": 667,
+        "end": 667
+      },
+      {
+        "start": 675,
+        "end": 677
+      },
+      {
+        "start": 682,
+        "end": 684
+      },
+      {
+        "start": 759,
+        "end": 760
+      },
+      {
+        "start": 762,
+        "end": 762
+      },
+      {
+        "start": 782,
+        "end": 782
+      },
+      {
+        "start": 787,
+        "end": 787
+      },
+      {
+        "start": 791,
+        "end": 791
+      },
+      {
+        "start": 813,
+        "end": 813
+      },
+      {
+        "start": 816,
+        "end": 816
+      },
+      {
+        "start": 829,
+        "end": 829
+      },
+      {
+        "start": 831,
+        "end": 831
+      },
+      {
+        "start": 841,
+        "end": 841
+      },
+      {
+        "start": 847,
+        "end": 847
+      },
+      {
+        "start": 853,
+        "end": 853
+      },
+      {
+        "start": 866,
+        "end": 866
+      },
+      {
+        "start": 916,
+        "end": 916
+      },
+      {
+        "start": 951,
+        "end": 951
+      },
+      {
+        "start": 963,
+        "end": 963
+      },
+      {
+        "start": 969,
+        "end": 969
+      },
+      {
+        "start": 977,
+        "end": 977
+      },
+      {
+        "start": 990,
+        "end": 990
+      },
+      {
+        "start": 991,
+        "end": 991
+      },
+      {
+        "start": 1010,
+        "end": 1010
+      },
+      {
+        "start": 1028,
+        "end": 1028
+      },
+      {
+        "start": 1029,
+        "end": 1029
+      },
+      {
+        "start": 1036,
+        "end": 1036
+      },
+      {
+        "start": 1050,
+        "end": 1050
+      },
+      {
+        "start": 1051,
+        "end": 1051
+      },
+      {
+        "start": 1062,
+        "end": 1062
+      },
+      {
+        "start": 1063,
+        "end": 1063
+      },
+      {
+        "start": 1070,
+        "end": 1070
+      },
+      {
+        "start": 1080,
+        "end": 1080
+      },
+      {
+        "start": 1081,
+        "end": 1081
+      },
+      {
+        "start": 1082,
+        "end": 1082
+      },
+      {
+        "start": 1095,
+        "end": 1095
+      },
+      {
+        "start": 1103,
+        "end": 1103
+      },
+      {
+        "start": 1126,
+        "end": 1126
+      },
+      {
+        "start": 1130,
+        "end": 1130
+      },
+      {
+        "start": 1131,
+        "end": 1131
+      },
+      {
+        "start": 1136,
+        "end": 1136
+      },
+      {
+        "start": 1151,
+        "end": 1151
+      },
+      {
+        "start": 1161,
+        "end": 1161
+      },
+      {
+        "start": 1167,
+        "end": 1167
+      },
+      {
+        "start": 1172,
+        "end": 1172
+      },
+      {
+        "start": 1181,
+        "end": 1181
+      },
+      {
+        "start": 1186,
+        "end": 1187
+      },
+      {
+        "start": 1188,
+        "end": 1188
+      },
+      {
+        "start": 1189,
+        "end": 1189
+      },
+      {
+        "start": 1191,
+        "end": 1191
+      },
+      {
+        "start": 1207,
+        "end": 1207
+      },
+      {
+        "start": 1208,
+        "end": 1209
+      },
+      {
+        "start": 1224,
+        "end": 1224
+      },
+      {
+        "start": 1242,
+        "end": 1242
+      },
+      {
+        "start": 1247,
+        "end": 1247
+      },
+      {
+        "start": 1256,
+        "end": 1256
+      },
+      {
+        "start": 1257,
+        "end": 1257
+      },
+      {
+        "start": 1262,
+        "end": 1262
+      },
+      {
+        "start": 1263,
+        "end": 1263
+      },
+      {
+        "start": 1264,
+        "end": 1264
+      },
+      {
+        "start": 1266,
+        "end": 1266
+      },
+      {
+        "start": 1278,
+        "end": 1278
+      },
+      {
+        "start": 1279,
+        "end": 1279
+      },
+      {
+        "start": 1280,
+        "end": 1280
+      },
+      {
+        "start": 1282,
+        "end": 1282
+      },
+      {
+        "start": 1294,
+        "end": 1296
+      },
+      {
+        "start": 1319,
+        "end": 1322
+      },
+      {
+        "start": 1332,
+        "end": 1334
+      },
+      {
+        "start": 1337,
+        "end": 1337
+      },
+      {
+        "start": 1346,
+        "end": 1346
+      },
+      {
+        "start": 1348,
+        "end": 1348
+      },
+      {
+        "start": 1361,
+        "end": 1361
+      },
+      {
+        "start": 1374,
+        "end": 1374
+      },
+      {
+        "start": 1375,
+        "end": 1375
+      },
+      {
+        "start": 1376,
+        "end": 1376
+      },
+      {
+        "start": 1388,
+        "end": 1388
+      },
+      {
+        "start": 1389,
+        "end": 1389
+      },
+      {
+        "start": 1390,
+        "end": 1390
+      },
+      {
+        "start": 1403,
+        "end": 1403
+      },
+      {
+        "start": 1418,
+        "end": 1418
+      },
+      {
+        "start": 1419,
+        "end": 1419
+      },
+      {
+        "start": 1429,
+        "end": 1431
+      },
+      {
+        "start": 1462,
+        "end": 1462
+      },
+      {
+        "start": 1463,
+        "end": 1464
+      },
+      {
+        "start": 1476,
+        "end": 1476
+      }
+    ],
+    "../vscode/src/vs/base/parts/tree/browser/treeViewModel.ts": [
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 28,
+        "end": 31
+      },
+      {
+        "start": 42,
+        "end": 42
+      },
+      {
+        "start": 48,
+        "end": 48
+      },
+      {
+        "start": 50,
+        "end": 50
+      },
+      {
+        "start": 87,
+        "end": 88
+      },
+      {
+        "start": 90,
+        "end": 90
+      },
+      {
+        "start": 129,
+        "end": 129
+      },
+      {
+        "start": 136,
+        "end": 139
+      },
+      {
+        "start": 184,
+        "end": 184
+      },
+      {
+        "start": 190,
+        "end": 193
+      }
+    ],
+    "../vscode/src/vs/base/parts/tree/browser/treeView.ts": [
+      {
+        "start": 6,
+        "end": 16
+      },
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 23,
+        "end": 23
+      },
+      {
+        "start": 51,
+        "end": 51
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 57,
+        "end": 57
+      },
+      {
+        "start": 129,
+        "end": 129
+      },
+      {
+        "start": 197,
+        "end": 197
+      },
+      {
+        "start": 262,
+        "end": 263
+      },
+      {
+        "start": 265,
+        "end": 265
+      },
+      {
+        "start": 359,
+        "end": 359
+      },
+      {
+        "start": 449,
+        "end": 449
+      },
+      {
+        "start": 452,
+        "end": 452
+      },
+      {
+        "start": 455,
+        "end": 455
+      },
+      {
+        "start": 535,
+        "end": 535
+      },
+      {
+        "start": 563,
+        "end": 563
+      },
+      {
+        "start": 662,
+        "end": 663
+      },
+      {
+        "start": 665,
+        "end": 667
+      },
+      {
+        "start": 689,
+        "end": 689
+      },
+      {
+        "start": 761,
+        "end": 761
+      },
+      {
+        "start": 763,
+        "end": 763
+      },
+      {
+        "start": 769,
+        "end": 769
+      },
+      {
+        "start": 783,
+        "end": 783
+      },
+      {
+        "start": 791,
+        "end": 791
+      },
+      {
+        "start": 797,
+        "end": 797
+      },
+      {
+        "start": 861,
+        "end": 861
+      },
+      {
+        "start": 874,
+        "end": 875
+      },
+      {
+        "start": 885,
+        "end": 886
+      },
+      {
+        "start": 898,
+        "end": 899
+      },
+      {
+        "start": 911,
+        "end": 913
+      },
+      {
+        "start": 944,
+        "end": 944
+      },
+      {
+        "start": 957,
+        "end": 957
+      },
+      {
+        "start": 992,
+        "end": 992
+      },
+      {
+        "start": 999,
+        "end": 1000
+      },
+      {
+        "start": 1005,
+        "end": 1005
+      },
+      {
+        "start": 1016,
+        "end": 1017
+      },
+      {
+        "start": 1026,
+        "end": 1028
+      },
+      {
+        "start": 1035,
+        "end": 1035
+      },
+      {
+        "start": 1038,
+        "end": 1039
+      },
+      {
+        "start": 1051,
+        "end": 1053
+      },
+      {
+        "start": 1071,
+        "end": 1073
+      },
+      {
+        "start": 1140,
+        "end": 1141
+      },
+      {
+        "start": 1164,
+        "end": 1165
+      },
+      {
+        "start": 1184,
+        "end": 1184
+      },
+      {
+        "start": 1190,
+        "end": 1190
+      },
+      {
+        "start": 1208,
+        "end": 1208
+      },
+      {
+        "start": 1214,
+        "end": 1214
+      },
+      {
+        "start": 1224,
+        "end": 1224
+      },
+      {
+        "start": 1243,
+        "end": 1244
+      },
+      {
+        "start": 1249,
+        "end": 1249
+      },
+      {
+        "start": 1252,
+        "end": 1252
+      },
+      {
+        "start": 1258,
+        "end": 1259
+      },
+      {
+        "start": 1266,
+        "end": 1267
+      },
+      {
+        "start": 1281,
+        "end": 1281
+      },
+      {
+        "start": 1311,
+        "end": 1311
+      },
+      {
+        "start": 1313,
+        "end": 1313
+      },
+      {
+        "start": 1347,
+        "end": 1347
+      },
+      {
+        "start": 1355,
+        "end": 1357
+      },
+      {
+        "start": 1396,
+        "end": 1396
+      },
+      {
+        "start": 1398,
+        "end": 1398
+      },
+      {
+        "start": 1439,
+        "end": 1439
+      },
+      {
+        "start": 1460,
+        "end": 1460
+      },
+      {
+        "start": 1473,
+        "end": 1473
+      },
+      {
+        "start": 1496,
+        "end": 1496
+      },
+      {
+        "start": 1523,
+        "end": 1523
+      },
+      {
+        "start": 1574,
+        "end": 1574
+      },
+      {
+        "start": 1602,
+        "end": 1603
+      },
+      {
+        "start": 1627,
+        "end": 1627
+      },
+      {
+        "start": 1644,
+        "end": 1644
+      }
+    ],
+    "../vscode/src/vs/base/test/common/filters.perf.data.js": [],
+    "../vscode/src/vs/base/test/browser/ui/grid/util.ts": [
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 16,
+        "end": 16
+      },
+      {
+        "start": 19,
+        "end": 19
+      },
+      {
+        "start": 22,
+        "end": 22
+      },
+      {
+        "start": 25,
+        "end": 25
+      }
+    ],
+    "../vscode/src/vs/base/test/node/encoding/fixtures/some.css.qwoff": [],
+    "../vscode/src/vs/base/test/common/utils.ts": [
+      {
+        "start": 52,
+        "end": 52
+      }
+    ],
+    "../vscode/src/vs/base/test/node/encoding/fixtures/some.xml.png": [],
+    "../vscode/src/vs/base/test/node/encoding/fixtures/some.pdf": [],
+    "../vscode/src/vs/base/test/node/encoding/fixtures/some_ansi.css": [],
+    "../vscode/src/vs/base/test/node/encoding/fixtures/some_utf16be.css": [],
+    "../vscode/src/vs/base/test/node/encoding/fixtures/some_utf16le.css": [],
+    "../vscode/src/vs/base/test/node/encoding/fixtures/some_utf8.css": [],
+    "../vscode/src/vs/base/test/node/pfs/fixtures/examples/conway.jxs": [],
+    "../vscode/src/vs/base/test/node/pfs/fixtures/examples/company.jxs": [],
+    "../vscode/src/vs/base/test/node/pfs/fixtures/examples/small.jxs": [],
+    "../vscode/src/vs/base/test/node/pfs/fixtures/examples/employee.jxs": [],
+    "../vscode/src/vs/base/test/node/pfs/fixtures/site.css": [],
+    "../vscode/src/vs/base/test/node/pfs/fixtures/index.html": [],
+    "../vscode/src/vs/base/test/node/processes/fixtures/fork_large.ts": [
+      {
+        "start": 6,
+        "end": 6
+      }
+    ],
+    "../vscode/src/vs/base/test/node/processes/fixtures/fork.ts": [
+      {
+        "start": 6,
+        "end": 6
+      }
+    ],
+    "../vscode/src/vs/base/test/node/testUtils.ts": [],
+    "../vscode/src/vs/base/test/node/stream/fixtures/file.css": [],
+    "../vscode/src/vs/base/test/node/utils.ts": [],
+    "../vscode/src/vs/base/worker/defaultWorkerFactory.ts": [],
+    "../vscode/src/vs/base/worker/workerMain.ts": []
+  }
+}

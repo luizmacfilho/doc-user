@@ -1,0 +1,594 @@
+{
+  "mdFiles": {
+    "../express/Collaborator-Guide.md": {
+      "userLines": 4,
+      "total": 51
+    },
+    "../express/Contributing.md": {
+      "userLines": 16,
+      "total": 86
+    },
+    "../express/History.md": {
+      "userLines": 2054,
+      "total": 3422
+    },
+    "../express/Readme.md": {
+      "userLines": 33,
+      "total": 154
+    },
+    "../express/Security.md": {
+      "userLines": 3,
+      "total": 44
+    }
+  },
+  "otherFiles": {
+    "../express/.eslintignore": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/.travis.yml": {
+      "userLines": 15,
+      "total": 15
+    },
+    "../express/LICENSE": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/appveyor.yml": {
+      "userLines": 16,
+      "total": 16
+    },
+    "../express/benchmarks/middleware.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../express/examples/auth/index.js": {
+      "userLines": 3,
+      "total": 25
+    },
+    "../express/examples/content-negotiation/db.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/examples/content-negotiation/index.js": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../express/examples/cookie-sessions/index.js": {
+      "userLines": 1,
+      "total": 7
+    },
+    "../express/examples/cookies/index.js": {
+      "userLines": 2,
+      "total": 10
+    },
+    "../express/examples/downloads/index.js": {
+      "userLines": 4,
+      "total": 9
+    },
+    "../express/examples/ejs/index.js": {
+      "userLines": 1,
+      "total": 20
+    },
+    "../express/examples/error/index.js": {
+      "userLines": 1,
+      "total": 19
+    },
+    "../express/examples/error-pages/index.js": {
+      "userLines": 1,
+      "total": 36
+    },
+    "../express/examples/error-pages/views/404.ejs": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/examples/error-pages/views/500.ejs": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/examples/error-pages/views/error_header.ejs": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/examples/error-pages/views/footer.ejs": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/examples/error-pages/views/index.ejs": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/examples/hello-world/index.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../express/examples/markdown/index.js": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../express/examples/multipart/index.js": {
+      "userLines": 5,
+      "total": 8
+    },
+    "../express/examples/mvc/controllers/main/index.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/examples/mvc/controllers/pet/index.js": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../express/examples/mvc/controllers/pet/views/edit.ejs": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/examples/mvc/controllers/pet/views/show.ejs": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/examples/mvc/controllers/user/index.js": {
+      "userLines": 0,
+      "total": 6
+    },
+    "../express/examples/mvc/controllers/user-pet/index.js": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../express/examples/mvc/db.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../express/examples/mvc/index.js": {
+      "userLines": 4,
+      "total": 29
+    },
+    "../express/examples/mvc/lib/boot.js": {
+      "userLines": 3,
+      "total": 12
+    },
+    "../express/examples/online/index.js": {
+      "userLines": 1,
+      "total": 20
+    },
+    "../express/examples/params/index.js": {
+      "userLines": 2,
+      "total": 17
+    },
+    "../express/examples/resource/index.js": {
+      "userLines": 1,
+      "total": 12
+    },
+    "../express/examples/route-map/index.js": {
+      "userLines": 1,
+      "total": 6
+    },
+    "../express/examples/route-middleware/index.js": {
+      "userLines": 1,
+      "total": 22
+    },
+    "../express/examples/route-separation/index.js": {
+      "userLines": 2,
+      "total": 9
+    },
+    "../express/examples/route-separation/site.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/examples/route-separation/user.js": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../express/examples/search/index.js": {
+      "userLines": 2,
+      "total": 20
+    },
+    "../express/examples/search/public/client.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/examples/session/index.js": {
+      "userLines": 3,
+      "total": 9
+    },
+    "../express/examples/session/redis.js": {
+      "userLines": 2,
+      "total": 8
+    },
+    "../express/examples/static-files/public/js/app.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/examples/vhost/index.js": {
+      "userLines": 2,
+      "total": 12
+    },
+    "../express/examples/view-constructor/github-view.js": {
+      "userLines": 0,
+      "total": 16
+    },
+    "../express/examples/view-constructor/index.js": {
+      "userLines": 2,
+      "total": 11
+    },
+    "../express/examples/view-locals/index.js": {
+      "userLines": 1,
+      "total": 42
+    },
+    "../express/examples/web-service/index.js": {
+      "userLines": 2,
+      "total": 40
+    },
+    "../express/index.js": {
+      "userLines": 7,
+      "total": 7
+    },
+    "../express/lib/application.js": {
+      "userLines": 60,
+      "total": 271
+    },
+    "../express/lib/express.js": {
+      "userLines": 9,
+      "total": 34
+    },
+    "../express/lib/middleware/init.js": {
+      "userLines": 11,
+      "total": 20
+    },
+    "../express/lib/middleware/query.js": {
+      "userLines": 8,
+      "total": 16
+    },
+    "../express/lib/request.js": {
+      "userLines": 81,
+      "total": 285
+    },
+    "../express/lib/response.js": {
+      "userLines": 140,
+      "total": 472
+    },
+    "../express/lib/router/index.js": {
+      "userLines": 74,
+      "total": 159
+    },
+    "../express/lib/router/layer.js": {
+      "userLines": 45,
+      "total": 58
+    },
+    "../express/lib/router/route.js": {
+      "userLines": 23,
+      "total": 69
+    },
+    "../express/lib/utils.js": {
+      "userLines": 63,
+      "total": 128
+    },
+    "../express/lib/view.js": {
+      "userLines": 47,
+      "total": 68
+    },
+    "../express/test/Route.js": {
+      "userLines": 1,
+      "total": 1
+    },
+    "../express/test/Router.js": {
+      "userLines": 13,
+      "total": 15
+    },
+    "../express/test/acceptance/auth.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/content-negotiation.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/cookie-sessions.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/cookies.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/downloads.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/ejs.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/error-pages.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/error.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/markdown.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/mvc.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/params.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/resource.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/route-map.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/route-separation.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/vhost.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/acceptance/web-service.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/app.engine.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/app.head.js": {
+      "userLines": 0,
+      "total": 2
+    },
+    "../express/test/app.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/app.options.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/app.param.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../express/test/app.render.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/app.route.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/app.router.js": {
+      "userLines": 4,
+      "total": 12
+    },
+    "../express/test/app.routes.error.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/app.use.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/config.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/exports.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/fixtures/.name": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/fixtures/blog/index.html": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/fixtures/blog/post/index.tmpl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/fixtures/default_layout/name.tmpl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/fixtures/default_layout/user.tmpl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/fixtures/email.tmpl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/fixtures/local_layout/user.tmpl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/fixtures/name.tmpl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/fixtures/user.tmpl": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/middleware.basic.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.acceptsCharset.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.acceptsCharsets.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.acceptsEncoding.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.acceptsEncodings.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.acceptsLanguage.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.acceptsLanguages.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.baseUrl.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.fresh.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.get.js": {
+      "userLines": 0,
+      "total": 2
+    },
+    "../express/test/req.host.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.hostname.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.ip.js": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../express/test/req.ips.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.is.js": {
+      "userLines": 3,
+      "total": 4
+    },
+    "../express/test/req.param.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.protocol.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.query.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.range.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.signedCookies.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.stale.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.subdomains.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/req.xhr.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/res.append.js": {
+      "userLines": 14,
+      "total": 14
+    },
+    "../express/test/res.attachment.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/res.clearCookie.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/res.cookie.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/res.download.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/res.format.js": {
+      "userLines": 0,
+      "total": 3
+    },
+    "../express/test/res.get.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/res.links.js": {
+      "userLines": 7,
+      "total": 7
+    },
+    "../express/test/res.location.js": {
+      "userLines": 5,
+      "total": 6
+    },
+    "../express/test/res.redirect.js": {
+      "userLines": 10,
+      "total": 34
+    },
+    "../express/test/res.render.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/res.send.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/res.sendFile.js": {
+      "userLines": 0,
+      "total": 1
+    },
+    "../express/test/res.set.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/res.vary.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/support/env.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/support/tmpl.js": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../express/test/support/utils.js": {
+      "userLines": 14,
+      "total": 14
+    },
+    "../express/test/utils.js": {
+      "userLines": 0,
+      "total": 0
+    }
+  }
+}

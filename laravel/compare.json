@@ -1,0 +1,274 @@
+{
+  "mdFiles": {
+    "../laravel/readme.md": {
+      "userLines": 48,
+      "total": 73
+    }
+  },
+  "otherFiles": {
+    "../laravel/.env.example": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../laravel/.gitattributes": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../laravel/app/Console/Kernel.php": {
+      "userLines": 17,
+      "total": 19
+    },
+    "../laravel/app/Exceptions/Handler.php": {
+      "userLines": 22,
+      "total": 24
+    },
+    "../laravel/app/Http/Controllers/Auth/ForgotPasswordController.php": {
+      "userLines": 7,
+      "total": 7
+    },
+    "../laravel/app/Http/Controllers/Auth/LoginController.php": {
+      "userLines": 11,
+      "total": 12
+    },
+    "../laravel/app/Http/Controllers/Auth/RegisterController.php": {
+      "userLines": 22,
+      "total": 24
+    },
+    "../laravel/app/Http/Controllers/Auth/ResetPasswordController.php": {
+      "userLines": 7,
+      "total": 12
+    },
+    "../laravel/app/Http/Controllers/Auth/VerificationController.php": {
+      "userLines": 12,
+      "total": 12
+    },
+    "../laravel/app/Http/Controllers/Controller.php": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../laravel/app/Http/Kernel.php": {
+      "userLines": 20,
+      "total": 27
+    },
+    "../laravel/app/Http/Middleware/Authenticate.php": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../laravel/app/Http/Middleware/EncryptCookies.php": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../laravel/app/Http/Middleware/RedirectIfAuthenticated.php": {
+      "userLines": 8,
+      "total": 8
+    },
+    "../laravel/app/Http/Middleware/TrimStrings.php": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../laravel/app/Http/Middleware/TrustProxies.php": {
+      "userLines": 9,
+      "total": 10
+    },
+    "../laravel/app/Http/Middleware/VerifyCsrfToken.php": {
+      "userLines": 11,
+      "total": 11
+    },
+    "../laravel/app/Providers/AppServiceProvider.php": {
+      "userLines": 0,
+      "total": 12
+    },
+    "../laravel/app/Providers/AuthServiceProvider.php": {
+      "userLines": 11,
+      "total": 12
+    },
+    "../laravel/app/Providers/BroadcastServiceProvider.php": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../laravel/app/Providers/EventServiceProvider.php": {
+      "userLines": 11,
+      "total": 11
+    },
+    "../laravel/app/Providers/RouteServiceProvider.php": {
+      "userLines": 33,
+      "total": 33
+    },
+    "../laravel/app/User.php": {
+      "userLines": 9,
+      "total": 15
+    },
+    "../laravel/artisan": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../laravel/bootstrap/app.php": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../laravel/config/app.php": {
+      "userLines": 26,
+      "total": 33
+    },
+    "../laravel/config/auth.php": {
+      "userLines": 12,
+      "total": 12
+    },
+    "../laravel/config/broadcasting.php": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../laravel/config/cache.php": {
+      "userLines": 6,
+      "total": 7
+    },
+    "../laravel/config/database.php": {
+      "userLines": 8,
+      "total": 8
+    },
+    "../laravel/config/filesystems.php": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../laravel/config/hashing.php": {
+      "userLines": 2,
+      "total": 6
+    },
+    "../laravel/config/logging.php": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../laravel/config/mail.php": {
+      "userLines": 14,
+      "total": 18
+    },
+    "../laravel/config/queue.php": {
+      "userLines": 6,
+      "total": 7
+    },
+    "../laravel/config/services.php": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../laravel/config/session.php": {
+      "userLines": 24,
+      "total": 28
+    },
+    "../laravel/config/view.php": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../laravel/database/factories/UserFactory.php": {
+      "userLines": 2,
+      "total": 3
+    },
+    "../laravel/database/migrations/2014_10_12_000000_create_users_table.php": {
+      "userLines": 10,
+      "total": 10
+    },
+    "../laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php": {
+      "userLines": 10,
+      "total": 10
+    },
+    "../laravel/database/seeds/DatabaseSeeder.php": {
+      "userLines": 5,
+      "total": 6
+    },
+    "../laravel/phpunit.xml": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../laravel/public/.htaccess": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../laravel/public/css/app.css": {
+      "userLines": 4,
+      "total": 7
+    },
+    "../laravel/public/index.php": {
+      "userLines": 11,
+      "total": 12
+    },
+    "../laravel/resources/js/app.js": {
+      "userLines": 17,
+      "total": 19
+    },
+    "../laravel/resources/js/bootstrap.js": {
+      "userLines": 27,
+      "total": 29
+    },
+    "../laravel/resources/js/components/ExampleComponent.vue": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../laravel/resources/lang/en/auth.php": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../laravel/resources/lang/en/pagination.php": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../laravel/resources/lang/en/passwords.php": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../laravel/resources/lang/en/validation.php": {
+      "userLines": 6,
+      "total": 6
+    },
+    "../laravel/resources/sass/_variables.scss": {
+      "userLines": 3,
+      "total": 3
+    },
+    "../laravel/resources/sass/app.scss": {
+      "userLines": 4,
+      "total": 4
+    },
+    "../laravel/resources/views/welcome.blade.php": {
+      "userLines": 10,
+      "total": 11
+    },
+    "../laravel/routes/api.php": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../laravel/routes/channels.php": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../laravel/routes/console.php": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../laravel/routes/web.php": {
+      "userLines": 2,
+      "total": 2
+    },
+    "../laravel/server.php": {
+      "userLines": 8,
+      "total": 9
+    },
+    "../laravel/tests/CreatesApplication.php": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../laravel/tests/Feature/ExampleTest.php": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../laravel/tests/TestCase.php": {
+      "userLines": 0,
+      "total": 0
+    },
+    "../laravel/tests/Unit/ExampleTest.php": {
+      "userLines": 5,
+      "total": 5
+    },
+    "../laravel/webpack.mix.js": {
+      "userLines": 2,
+      "total": 2
+    }
+  }
+}
