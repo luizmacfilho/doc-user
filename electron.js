@@ -29,11 +29,13 @@ function compare() {
   const ranges = JSON.parse(fs.readFileSync('./electron/range.json'));
   const result = {};
   result.mdFiles = ownFs.compareMdFiles(content.mdFiles, ranges.mdFiles);
-  result.otherFiles = ownFs.compareOtherFiles(content.otherFiles, ranges.otherFiles);
-  fs.writeFileSync('./electron/compare.json', JSON.stringify(result, null, 2), 'utf8')
-  calc.calc(result, './electron');
+  const compareFiles = ownFs.compareOtherFiles(content.otherFiles, ranges.otherFiles);
+  result.otherFiles = compareFiles.otherFiles;
+  fs.writeFileSync('./electron/quality.json', JSON.stringify(compareFiles.hasQuality, null, 2), 'utf8')
+  // fs.writeFileSync('./electron/compare.json', JSON.stringify(result, null, 2), 'utf8')
+  // calc.calc(result, './electron');
 }
 
-start().then(() => {
+// start().then(() => {
   compare();
-});
+// });

@@ -29,11 +29,13 @@ function compare() {
   const ranges = JSON.parse(fs.readFileSync('./laravel/range.json'));
   const result = {};
   result.mdFiles = ownFs.compareMdFiles(content.mdFiles, ranges.mdFiles);
-  result.otherFiles = ownFs.compareOtherFiles(content.otherFiles, ranges.otherFiles);
-  fs.writeFileSync('./laravel/compare.json', JSON.stringify(result, null, 2), 'utf8')
-  calc.calc(result, './laravel');
+  const compareFiles = ownFs.compareOtherFiles(content.otherFiles, ranges.otherFiles);
+  result.otherFiles = compareFiles.otherFiles;
+  fs.writeFileSync('./laravel/quality.json', JSON.stringify(compareFiles.hasQuality, null, 2), 'utf8')
+  // fs.writeFileSync('./laravel/compare.json', JSON.stringify(result, null, 2), 'utf8')
+  // calc.calc(result, './laravel');
 }
 
-start().then(() => {
+// start().then(() => {
   compare();
-});
+// });

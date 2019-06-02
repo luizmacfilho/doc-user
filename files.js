@@ -158,6 +158,7 @@ function compareMdFiles(files, range) {
 
 function compareOtherFiles(files, ranges) {
   const otherFiles = {};
+  const hasQuality = { yes: 0, no: 0 };
   files.forEach((file) => {
     if (ranges[file].length) {
       const fileContent = fs.readFileSync(file, 'utf8').split('\n');
@@ -172,15 +173,16 @@ function compareOtherFiles(files, ranges) {
         } else {
           lines = fileContent.slice(range.start - 1, range.end);
         }
-        findCommentOnLine(lines, extension, file, otherFiles, 'userLines');
+        findCommentOnLine(lines, extension, file, otherFiles, 'userLines', hasQuality, true);
       });
-      findCommentOnLine(fileContent, extension, file, otherFiles, 'total');
+      findCommentOnLine(fileContent, extension, file, otherFiles, 'total', hasQuality);
     }
   })
-  return otherFiles;
+  console.log(hasQuality);
+  return { otherFiles, hasQuality };
 }
 
-function findCommentOnLine(lines, extension, file, otherFiles, position) {
+function findCommentOnLine(lines, extension, file, otherFiles, position, hasQuality, tryQuality) {
   lines.forEach((line) => {
     if (extensions[extension]) {
       let found = false;
@@ -188,6 +190,9 @@ function findCommentOnLine(lines, extension, file, otherFiles, position) {
         if (line && line.trim().startsWith(extensions[extension].start[i])) {
           otherFiles[file][position] += 1;
           found = true;
+          if (tryQuality) {
+            lineHasQuality(line.split(extensions[extension].start[i])[1], hasQuality);
+          }
           break;
         }
       }
@@ -196,12 +201,23 @@ function findCommentOnLine(lines, extension, file, otherFiles, position) {
           if (line && line.indexOf(extensions[extension].contains[i]) !== -1) {
             otherFiles[file][position] += 1;
             found = true;
+            if (tryQuality) {
+              lineHasQuality(line.split(extensions[extension].contains[i])[1], hasQuality);
+            }
             break;
           }
         }
       }
     }
   })
+}
+
+function lineHasQuality(line, obj) {
+  if (line.split(' ').length >= 5) {
+    obj.yes += 1;
+  } else {
+    obj.no += 1;
+  }
 }
 
 module.exports = {
